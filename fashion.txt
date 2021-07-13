@@ -7,6 +7,7 @@ FashionTV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/_def
 Fashion TV Singapore,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/Singapore.m3u8
 Fashion TV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/Tokyo.m3u8
 Fashion TV New York,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/NewYork.m3u8
+Fashion TV Africa,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_africa_2_s6g_43071_default_1204_hls.smil/Johannesburg.m3u8
 Fashion TV,http://entertainment.as,http9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
 Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
