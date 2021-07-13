@@ -1,195 +1,183 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-http://203.162.235.41:16903
-#EXTINF:-1 ,Unknown_2
-http://203.162.235.41:16904
-#EXTINF:-1 ,Unknown_3
-http://203.162.235.41:16905
-#EXTINF:-1 ,Unknown_4
-http://203.162.235.41:16906
-#EXTINF:-1 ,Unknown_5
-http://203.162.235.41:16907
-#EXTINF:-1 ,Unknown_6
-http://203.162.235.41:16908
-#EXTINF:-1 ,Unknown_7
-http://203.162.235.41:16910
-#EXTINF:-1 ,Unknown_8
-http://203.162.235.41:16911
-#EXTINF:-1 ,Unknown_9
-http://203.162.235.41:16912
-#EXTINF:-1 ,Unknown_10
-http://203.162.235.41:16913
-#EXTINF:-1 ,Unknown_11
-http://203.162.235.41:16914
-#EXTINF:-1 ,Unknown_12
-http://203.162.235.41:16915
-#EXTINF:-1 ,Unknown_13
-http://203.162.235.41:16916
-#EXTINF:-1 ,Unknown_14
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 ,Unknown_15
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 ,Unknown_16
-https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
-#EXTINF:-1 ,Unknown_17
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,Unknown_18
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 ,Unknown_19
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 ,Unknown_20
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 ,Unknown_21
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 ,Unknown_22
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
-#EXTINF:-1 ,Unknown_23
-http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-#EXTINF:-1 ,Unknown_24
-http://39.134.39.37/PLTV/88888888/224/3221226121/index.m3u8
-#EXTINF:-1 ,Unknown_25
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 ,Unknown_26
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 ,Unknown_27
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 ,Unknown_28
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 ,Unknown_29
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 ,Unknown_30
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1 ,Unknown_31
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,Unknown_32
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 ,Unknown_33
-https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-#EXTINF:-1 ,Unknown_34
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 ,Unknown_35
-http://221.157.125.239:1935/live/psike/playlist.m3u8
-#EXTINF:-1 ,Unknown_36
-http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,Unknown_37
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,Unknown_38
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_39
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 ,Unknown_40
-https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 ,Unknown_41
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 ,Unknown_42
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 ,Unknown_43
-http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-#EXTINF:-1 ,Unknown_44
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 ,Unknown_45
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 ,Unknown_46
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 ,Unknown_47
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 ,Unknown_48
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 ,Unknown_49
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 ,Unknown_50
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 ,Unknown_51
-http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-#EXTINF:-1 ,Unknown_52
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 ,Unknown_53
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 ,Unknown_54
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 ,Unknown_55
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,Unknown_56
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,Unknown_57
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 ,Unknown_58
-http://221.157.125.232:1935/live/kbctv/playlist.m3u8
-#EXTINF:-1 ,Unknown_59
-http://221.157.125.232:1935/live/psike/playlist.m3u8
-#EXTINF:-1 ,Unknown_60
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,Unknown_61
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 ,Unknown_62
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1 ,Unknown_63
-http://218.38.152.57:1935/mlive/mp4:ch001/playlist.m3u8
-#EXTINF:-1 ,Unknown_64
-https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
-#EXTINF:-1 ,Unknown_65
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,Unknown_66
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,Unknown_67
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,Unknown_68
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,Unknown_69
-http://203.162.235.41:16901
-#EXTINF:-1 ,Unknown_70
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,Unknown_71
-https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,Unknown_72
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
-#EXTINF:-1 ,Unknown_73
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,Unknown_74
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 ,Unknown_75
-http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
-#EXTINF:-1 ,Unknown_76
-http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-#EXTINF:-1 ,Unknown_77
-http://121.78.242.199:1935/live/stream.sdp/playlist.m3u8
-#EXTINF:-1 ,Unknown_78
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
-#EXTINF:-1 ,Unknown_79
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 ,Unknown_80
-http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-#EXTINF:-1 ,Unknown_81
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 ,Unknown_82
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
-#EXTINF:-1 ,Unknown_83
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 ,Unknown_84
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
-#EXTINF:-1 ,Unknown_85
-http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_86
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
-#EXTINF:-1 ,Unknown_87
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,Unknown_88
-http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
-#EXTINF:-1 ,Unknown_89
-http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
-#EXTINF:-1 ,Unknown_90
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 ,Unknown_91
-http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 ,Unknown_92
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,Unknown_93
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown_94
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 ,Unknown_95
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 ,Unknown_96
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 ,Unknown_97
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+#EXTINF:-1,JSTAR極限台
+p5p://45.92.126.18:9906/6069472f000e3bd815ddf82b31da15c3.ts
+#EXTINF:-1,香草天道
+p5p://45.92.126.18:9906/604ad659000311780038c940119c842a.ts
+#EXTINF:-1,HAPPY
+p5p://45.92.126.18:9906/6069464e000590c215da870b87301a7e.ts
+#EXTINF:-1,驚艷台
+p5p://45.92.126.18:9906/606945750001667515d73652e172393c.ts
+#EXTINF:-1,潘朵拉完美台
+p5p://fccs.ggboxtv.tw:8906/606945140007c49115d5bd0bd6181917.ts
+#EXTINF:-1,潘朵拉粉紅台
+p5p://45.92.126.18:9906/60694470000ba8da15d33d6a30403d05.ts
+#EXTINF:-1,HOT
+p5p://45.92.126.18:9906/606945cf000dd57c15d8991121145d16.ts
+#EXTINF:-1,松視1台
+p5p://45.92.126.18:9906/60694312000ca14f15cde67abcbaadc0.ts
+#EXTINF:-1,松視2台
+p5p://45.92.126.18:9906/606943840001b56215cfa0fe5764c8dc.ts
+#EXTINF:-1,松視3台
+p5p://45.92.126.18:9906/606943ef00074b4415d14464874a7f4a.ts
+#EXTINF:-1,香蕉台
+p5p://45.92.126.18:9906/606946c800011e4e15dc6277aee5ff0b.ts
+#EXTINF:-1,彩虹e台
+mitv://ns2.hellotvvod.com:9906/e953ee1fe74c4995acd52ba72c02b0a1.ts
+#EXTINF:-1,彩虹電影台
+mitv://ns2.hellotvvod.com:9906/856e64d88baf467297993d2cc4ca1be9.ts
+#EXTINF:-1,LOOK TV
+mitv://ns2.hellotvvod.com:9906/778ec35a672f4c898c3ac116d6681b54.ts
+#EXTINF:-1,潘朵啦玩美台
+mitv://ns2.hellotvvod.com:9906/35d7b8f086c74266892d24a59100bc6e.ts
+#EXTINF:-1,驚艷成人電影台
+mitv://ns2.hellotvvod.com:9906/077e6baec1774b88a259f68816b22981.ts
+#EXTINF:-1,松視1台
+mitv://ns2.hellotvvod.com:9906/ba975abd88b441c6b915a94479500e2d.ts
+#EXTINF:-1,松視2台
+mitv://ns2.hellotvvod.com:9906/506a6b29b91045f1950034e6e6a6c70f.ts
+#EXTINF:-1,潘朵啦粉紅台
+mitv://ns2.hellotvvod.com:9906/9e40670a97404564aea1e6e57ef7794b.ts
+#EXTINF:-1,PLAYBOY
+mitv://ns2.hellotvvod.com:9906/e06909c2b1d6474db95240afbfd5c5e7.ts
+#EXTINF:-1,香蕉台
+mitv://ns2.hellotvvod.com:9906/9cb194c4bb4f4e2ea7d0e2ade5b50939.ts
+#EXTINF:-1,HOT
+mitv://ns2.hellotvvod.com:9906/9ae26414b8384065b0245dccb10fca68.ts
+#EXTINF:-1,松視1台1
+tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+#EXTINF:-1,松視1台2
+tvbus://5gUgLBidTirnmiJ4yuWwB3TQFYHRFJurgurE2zVavBD6Ju8PcGCpHJD4BBQVJ
+#EXTINF:-1,松視2台1
+tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+#EXTINF:-1,松視2台2
+tvbus://5pkBbscjs3HQG382dxuhd9vqNvFksoYDp54PsbVoS5Yb8LDPhdv7BUB7gQGRp
+#EXTINF:-1,潘多拉完美1
+tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+#EXTINF:-1,潘多拉完美2
+tvbus://6gDT6RSRhAM87JfZFB6zjJkq3s9jxDADVHq2DGBgAPf7bEFcokN2JEhHGKyhf
+#EXTINF:-1,彩虹電影1
+tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+#EXTINF:-1,彩虹電影2
+tvbus://6Sty6Um7mF5ekcuESGyKzSG2qNSXVkSPC7eER3HYFUXJAsD6sR99QtR1ax1Sm
+#EXTINF:-1,彩虹E台1
+tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+#EXTINF:-1,彩虹E台2
+tvbus://5KSeNsrKY3wGJKpUPSBNW2962K5ddSWEQX525xt56pgG6FEjyTzcDkcUFVxUa
+#EXTINF:-1,驚艷台1
+tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+#EXTINF:-1,驚艷台2
+tvbus://6FL7HuhBxr8Bfhq4WzonUFhifTe8oNKsa1hQnLMzHepn46itxSpzkayaVEBXn
+#EXTINF:-1,極限電影
+tvbus://6Cut46PBMejuFgxUEWoRa9Neyf1qJBg6vkPX78vkVH71dnNZ1cbH4fup3TZ72
+#EXTINF:-1,香蕉台
+tvbus://6J9dyGNgEHuNe5khCxhehTFtte4gxEBAnEEZfnzrpjcMPTcwR2ktikyXWZ72f
+#EXTINF:-1,LOOK
+tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+#EXTINF:-1,Mature
+tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+#EXTINF:-1,Latina
+tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+#EXTINF:-1,HD
+tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+#EXTINF:-1,Hardcore
+tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+#EXTINF:-1,Mature
+tvbus://5LEMrHGaq9xHdH6X7w788ggbUf12huvaPeS5kepsxNED5jcf8XeUn5BQdCBjs
+#EXTINF:-1,Latina
+tvbus://6HdxNYSHg9jwd4o6JZpYt1UjmvngTJ4DG1F25u8t9dRQJQ3JsM68qW3tJ1ggG
+#EXTINF:-1,HD
+tvbus://5sKux8SFKgzeiQimkhPNZfUSfC5GwCgtcfKEB5RTXsUGDRD3aYz6UNhV61vZT
+#EXTINF:-1,Hardcore
+tvbus://6hu2htv7ndBFx99NqxEkYvswHPBo1PFxtGMbc1tiMDbXkLHZvyKsnkCmpXGfk
+#EXTINF:-1,Fetish
+tvbus://5SBVvaU8SPvEPAj9YnD2ZnGHyzZJptZTWZYZU6ohQDtFxjK9Ysx77bx4Yhv8W
+#EXTINF:-1,Erotic
+tvbus://5i6o9iq4vofeNi4BnHCvk7MnzCyaJTxmF51Xe1PGnPGrKTAZw12bfMRBV5Ten
+#EXTINF:-1,Ebony
+tvbus://5U8Jumknpip7e6G4NVLvpUQMbPyMpv1KYDDRBKivDFtjpm6Zt9JEpGzb2AqtT
+#EXTINF:-1,Blowjob
+tvbus://5Q5mYj9gbLRRQj4MxgmXBhmcSFGwPUWFyRiNEgGKviHa4aNnwC1ap8MnC3YRk
+#EXTINF:-1,Asian
+tvbus://5Y7X5S1tXaKWzYGkLCLMpQmCxeqRp6D3ic44sGUycsvPFTjfe8x9TohBHp2m1
+#EXTINF:-1,Anal
+tvbus://5osr7P4ypNDCyezATSCh9obUAS1AHxskSgYhEshis474Chw6yFZDYpjw1Kety
+#EXTINF:-1,Cunnilingus
+tvbus://6AKvjLvuV4HZWWfF4N7e9C8nTf4WXjf3nbxTpVQ48RpxZsoMxtvjQweuNM67y
+#EXTINF:-1,Blonde
+tvbus://6GJvRaJ4c5syceGCPzhUZ94oU1jqcXbgbhnWb7kUEvJCF97BEuMCwh9ZVNTV2
+#EXTINF:-1,Solo_girl
+tvbus://5VR7mqVSakfaWw7P5abGxoo1WwDZoZBMFxrZjm6nSRpmyPps8i7wEkkYeVTQ7
+#EXTINF:-1,Couples
+tvbus://6MG3CU1qZLtY6gXgv8ebX6uWiDphdDV8AnSLz6tQ1RcySy3nLELGPSNhEEsuJ
+#EXTINF:-1,Big_Butt
+tvbus://5fVtuwSoo51rw15dDC1xaUtzzenfWuDdXdPnc1tbP7siLZg2GytWEME7cEfCy
+#EXTINF:-1,Creampie
+tvbus://6ZWm2UXfXWsH5U6ac6U8CnJtDa79BSw8ng6JSWM4zTL9tukeXAZA7uVNEtJBC
+#EXTINF:-1,Interracial
+tvbus://5hLUxSnR7QqBf7CPCpJDpRcn1Eb5jfgfDdZ4BYsdkQ1ArRoETx8XH6ZwmxhwK
+#EXTINF:-1,Masturbation
+tvbus://5NMLj2vzrAm3zsMHKZtYibUZo7GHv4LhLqoU3RDvcaizBBnyGw3hWkJmgQRtb
+#EXTINF:-1,BBW
+tvbus://5s5QKbAEVVydtNeWmWSZSedVg98vCrCdk5CdHyWmU9HEjjXkAwrUrLYgf6cjA
+#EXTINF:-1,Shemale
+tvbus://6L2yGgC63zyHdTBkzsGHEFbnMumDomz4iqKXmy3Hh5srNT25hS4tVtWpDCuuH
+#EXTINF:-1,Young/Old
+tvbus://6ZBgqUqRmWeNyBRK2fzdfkZqSJXTFesZpHMUW2MuzNB1a8AoGHqw97QsXKDMc
+#EXTINF:-1,German
+tvbus://6hVaMUQhgohJ6FiW7cHHTgjrorGrsZ2ea9YgBJN56LdUvZ6Y78oRzvuPohYYp
+#EXTINF:-1,Orgy
+tvbus://5zeoaJcV9kW2RpDstH5vBSV2dzFaZufZRkdkKaBHVHCyE2qRbP5tGqKUx6prk
+#EXTINF:-1,Public
+tvbus://6Nbt5fnEL1jYFsEPawdqxv24Ay8TY23ibs7e5f5Va5YBx3f4Tdq9TnY9qzrym
+#EXTINF:-1,Amateur
+tvbus://5br94endWTsJxEwXFo7vaFme3ZJnmVNEe14hnyqQQ5mh9xMvBrVnc3GStSpsi
+#EXTINF:-1,Big_Tits
+tvbus://6MBhfEuDcTzUjYFhJywnJHTYd7x5ZboxApCw5aBwgqNwQcwqvsLnxurMqatV9
+#EXTINF:-1,Threesome
+tvbus://5XRrqeWsnGsLQxYM4TBrM89k7aSRRtpn1LsdFuWjbXnFsMX4xActMRLZrK78W
+#EXTINF:-1,Teen
+tvbus://5LHxQydQgadc2m2TZ87sqXT82n1VbSNovhZGqXqNVAVYXH9GQiqmtE5MkPdxv
+#EXTINF:-1,Strip
+tvbus://5UBsrhK3nL3Zqwfpi9ew7UfAzdXBVVVR8DVJZ1keQZfpNHESmKx2av4VKStVe
+#EXTINF:-1,Milf
+tvbus://69Z4tXWLnbcvzUbM9PiUojGBdqiqHJvDQknY62R52yvEvkKLQs4ybkCdGi18M
+#EXTINF:-1,Mature
+tvbus://6EPF9Tkxt3pCT2M5HchYQyHzvrk5aaTrPG3pKkWHzqtgU9MbMmCt3M4ZmZwPp
+#EXTINF:-1,Latina
+tvbus://5V5pNtHFDoCoUGnxLe3GGxGVLY6FxQ7Cf2F8bDmfjZAPsJq2YRXcgogKEa6Vx
+#EXTINF:-1,HD
+tvbus://6gVuu4Avpgt7fQgTHNt4bq2tKL7aUZsjvbLLjEPeGfyQfgtPiJ4ReXay4Ueet
+#EXTINF:-1,Hardcore
+tvbus://64czTCkBegyF5VhFtEuGfQrYtvhdML1DNPiRe4Ld8qYrX45LwzngrnHvRSCV2
+#EXTINF:-1,Fetish
+tvbus://6MgSmWSk3GTq5Ysr9PiPsxs2uvqU56ot38qy2iv71Ajeq98e1no2msXxtQbDw
+#EXTINF:-1,Erotic
+tvbus://6Pbj72ZEso5Ngsntpj3NYGMjfayjrrJoG41956HA1UPYRZLAnDVeP4C4eDpMB
+#EXTINF:-1,Ebony
+tvbus://6Siaoo8Jw6U6KHiBdA51fzKMRUG8zn5EtajHydnbNjbxnFpsezeu8bzQk5q5G
+#EXTINF:-1,Blowjob
+tvbus://5THhXFyK87Jo7FBAcP4LJABsBuyxxZSgYQ8Jt7veaQHymeztH7PKDP1kGoTy2
+#EXTINF:-1,Asian
+tvbus://6Wff1BCSxnCV2mKPyiLfW5XmmseNRe5QdvWiZeBW7JEsr4ZaaGX7NJnHbghMY
+#EXTINF:-1,Anal
+tvbus://6harqN7M8mo9R3PS6pz7p1CyWMVRjPKWo8d5iCK5uoWWk61pJxFuMX93srRZP
+#EXTINF:-1,HOTH
+tvbus://5M6U24c7r6sMG4u39wSAjnzZRKKueWuHFVWCKXsZdgacC3MGaJ8skYLr1rnkp
+#EXTINF:-1,MTV_Live
+tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs
+#EXTINF:-1,SURIA
+tvbus://62xGqAyoBJKEHJeCh7mUFAKeai11idKJhk85XHLf17KqdoYXxzKiUS9pRxcH6
+#EXTINF:-1,CCTV15
+tvbus://5m88fDW6wf9NiCqtP5phjWPXR8s7DPas7ckE8ZBxuLXgdyAupwQtutgmiHr5y
+#EXTINF:-1,ミュージック・ジャパンTV
+tvbus://6SFSB9fvS9GLPpKFBuQ9SpFYUfZMLyra7AcgsPrR51J1wC8Dtjo7sBjjdD6f6
+#EXTINF:-1,Mnet
+tvbus://6iEk9fVBmM3vSTcYXbwbFAsWSWa9wYa5VusUasgYLSjhGNNJz5ykEPU6uDq3j
+#EXTINF:-1,SUNMUSIC
+tvbus://6hCmxzxuAVX8BahG7ZaDx55XPZrUcFqMmaikZBG6RkcnetwJVefLhjqywH3QR
+#EXTINF:-1,Sun_Music_HD
+tvbus://5UqR917ijwsCNKJeBhQBS59ni9f5wvY4ezCjMRim5LyMvgtFWCUfJcpdmbCPV
+#EXTINF:-1,sunmusic
+tvbus://62kyEciqNKqv4nm56D9AyTvh9pAFH8HweF4chr8T8P5PP78t4qPiJ4XUTh69t
+#EXTINF:-1,MTV_LIVE_HD
+tvbus://5YS1LUZgi5WvmrEVXGSADZBV6vJsKC23E8MrMuch7DqNRCn4pHkjjEVrdKJfG
