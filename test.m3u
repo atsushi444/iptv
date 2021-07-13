@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://203.162.235.41:16903
+#EXTINF:-1 ,Unknown_2
+http://203.162.235.41:16904
+#EXTINF:-1 ,Unknown_3
+http://203.162.235.41:16905
+#EXTINF:-1 ,Unknown_4
+http://203.162.235.41:16906
+#EXTINF:-1 ,Unknown_5
+http://203.162.235.41:16907
+#EXTINF:-1 ,Unknown_6
+http://203.162.235.41:16908
+#EXTINF:-1 ,Unknown_7
+http://203.162.235.41:16910
+#EXTINF:-1 ,Unknown_8
+http://203.162.235.41:16911
+#EXTINF:-1 ,Unknown_9
+http://203.162.235.41:16912
+#EXTINF:-1 ,Unknown_10
+http://203.162.235.41:16913
+#EXTINF:-1 ,Unknown_11
+http://203.162.235.41:16914
+#EXTINF:-1 ,Unknown_12
+http://203.162.235.41:16915
+#EXTINF:-1 ,Unknown_13
+http://203.162.235.41:16916
+#EXTINF:-1 ,Unknown_14
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 ,Unknown_15
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 ,Unknown_16
+https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+#EXTINF:-1 ,Unknown_17
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,Unknown_18
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 ,Unknown_19
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+#EXTINF:-1 ,Unknown_20
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 ,Unknown_21
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 ,Unknown_22
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 ,Unknown_23
+http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 ,Unknown_24
+http://39.134.39.37/PLTV/88888888/224/3221226121/index.m3u8
+#EXTINF:-1 ,Unknown_25
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 ,Unknown_26
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,Unknown_27
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 ,Unknown_28
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,Unknown_29
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 ,Unknown_30
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1 ,Unknown_31
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 ,Unknown_32
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 ,Unknown_33
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 ,Unknown_34
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 ,Unknown_35
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 ,Unknown_36
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,Unknown_37
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 ,Unknown_38
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_39
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 ,Unknown_40
+https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_41
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,Unknown_42
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 ,Unknown_43
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1 ,Unknown_44
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 ,Unknown_45
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_46
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_47
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 ,Unknown_48
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 ,Unknown_49
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 ,Unknown_50
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 ,Unknown_52
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 ,Unknown_53
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 ,Unknown_54
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 ,Unknown_55
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,Unknown_56
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,Unknown_57
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 ,Unknown_58
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 ,Unknown_59
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+#EXTINF:-1 ,Unknown_60
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,Unknown_61
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 ,Unknown_62
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 ,Unknown_63
+http://218.38.152.57:1935/mlive/mp4:ch001/playlist.m3u8
+#EXTINF:-1 ,Unknown_64
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+#EXTINF:-1 ,Unknown_65
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,Unknown_66
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_67
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_68
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_69
+http://203.162.235.41:16901
+#EXTINF:-1 ,Unknown_70
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,Unknown_71
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,Unknown_72
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
+#EXTINF:-1 ,Unknown_73
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 ,Unknown_74
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 ,Unknown_75
+http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 ,Unknown_76
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+#EXTINF:-1 ,Unknown_77
+http://121.78.242.199:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 ,Unknown_78
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 ,Unknown_79
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 ,Unknown_80
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+#EXTINF:-1 ,Unknown_81
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 ,Unknown_82
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+#EXTINF:-1 ,Unknown_83
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1 ,Unknown_84
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+#EXTINF:-1 ,Unknown_85
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Unknown_86
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
+#EXTINF:-1 ,Unknown_87
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Unknown_88
+http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 ,Unknown_89
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+#EXTINF:-1 ,Unknown_90
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 ,Unknown_91
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 ,Unknown_92
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Unknown_93
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_94
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 ,Unknown_95
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 ,Unknown_96
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,Unknown_97
+http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
