@@ -1,0 +1,46 @@
+A3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+A3BIKINI TV (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+Fashion TV Midnite Secrets,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+Fashion TV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/Midnight.m3u8
+Fashion TV Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+FashionTV Midnite Secrets (1080p),https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+Fashion TV Singapore,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/Singapore.m3u8
+Fashion TV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/Tokyo.m3u8
+Fashion TV New York,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/NewYork.m3u8
+Fashion TV,http://entertainment.as,http9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+Fashion TV (1080p),https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV (England),https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV (Italy),https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV (Spain),https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV L'Original (1080p),https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+Fashion TV Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+Fashion TV Russia (480p)
+like Gecko) Mobile/15E148,http://ott-cdn.ucom.am/s30/index.m3u8
+Fashion TV UHD (2160p),https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FashionBox,https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+FashionTV Czech&Slovak (450p),http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV Czech&Slovak (450p),http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FashionTV Mumbai (720p),https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+FashionTV New York (PG13),https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+FashionTV Paris,https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
+FashionTV PG13,https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+FashionTV PG16,http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+FashionTV Singapore,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+FashionTV Tokyo (PG13),https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+HDFashion & Lifestyle,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+HDFashion & LifeStyle,http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+HDFashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+HDFashion,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+HD Fashion & Lifestyle TV,http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+IDFashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+Adult Swim (1080p) [Not 24/7],https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+Adult Swim (East) (720p) [Geo-blocked] [Not 24/7],https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+Adult Swim (East) (432p) [Geo-blocked] [Not 24/7],https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
+Adult Swim (West) (720p) [Geo-blocked] [Not 24/7],https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+Adult Swim (West) (432p) [Geo-blocked] [Not 24/7],https://tve-live-lln.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
