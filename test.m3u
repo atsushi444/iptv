@@ -1,13 +1,3 @@
 #EXTM3U
 #EXTINF:-1,Lust Pur HD
 http://5.146.116.76:8001/1:0:19:94D8:1AF:270F:FFFF0000:0:0:0
-#EXTINF:-1,J SPORTS 4
-http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
-#EXTINF:-1,J sports4
-vjms://58.215.133.148:8500:3502/live/cid=411&delay=200&httpbuf=200&memory=50
-#EXTINF:-1,J sports4
-vjms://58.215.133.196:8500:3502/live/cid=411&delay=200&httpbuf=200&memory=50
-#EXTINF:-1,J-Sports 4
-vjms://122.155.180.8:8500:5021/live/cid=411
-#EXTINF:-1,J-Sports-4
-vjms://14.102.154.164:8500/live/cid=411&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
