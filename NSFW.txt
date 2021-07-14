@@ -71,6 +71,7 @@ Barely legal TV,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
 Blue Hustler,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Lust Pur,http://5.146.116.76:8001/1:0:1:3B04:8D:270F:FFFF0000:0:0:0
+Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234
 #__#
 JAPAN LUST,http://scrapehost.com:8080/123456/654321/259420
 JAV HUB,http://scrapehost.com:8080/123456/654321/259421
