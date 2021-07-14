@@ -15,6 +15,7 @@ Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
+Hustler hd,http://directtv1.xyz:80/Freddie/Freddie/130758
 Hot,http://185.236.229.21:9981/play/a03p
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 Redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
@@ -48,6 +49,22 @@ Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 Adult Paradise 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
+O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
+Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3770
+Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3771
+U Bang,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3769
+Wank It Now,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3773
+We Live Together,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3774
+White Boxxx,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3775
+Wicked,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3776
+Wild on Cam,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3777
+Xpanded TV,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3778
+XXL,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3779
+XY Max,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3780
+XY Mix,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3781
+XY Plus,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3782
+
 Venus,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
 Beate Uhse TV,http://5.255.90.184:2000/play/a03e
