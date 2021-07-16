@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,Тонус ТВ
-http://185.13.134.215:81/udp/239.254.2.31:1234
+#EXTINF:-1,松视1
+p5p://fccs.ggboxtv.tw:9806/60694312000ca14f15cde67abcbaadc0.ts
+#EXTINF:-1,松视2
+p5p://fccs.ggboxtv.tw:9806/606943840001b56215cfa0fe5764c8dc.ts
