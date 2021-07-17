@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,Arirang
-http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.m3u8
+#EXTINF:-1,Arirang
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 ,CTS
 http://ctsnanum.rtsp.vercoop.com:1935/CTS/_definst_/CTS_34312_100.sdp/hasbahca.m3u8
 #EXTINF:-1 ,CTS
