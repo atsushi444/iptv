@@ -11,6 +11,7 @@ Playboy TV Europe,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
 Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
 Playboy TV Europe,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+Hustler TV,http://78.83.191.18:8000/play/a078
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 Hustler hd,http://directtv1.xyz:80/Freddie/Freddie/130758
 Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
@@ -34,10 +35,61 @@ Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Com,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259926
 Penthouse Passion,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259927
 Penthouse Quickies,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259928
-Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
-Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Adult Beyond Porn 18+ Girls,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87413
+Adult Beyond Porn Anal Addicts,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87415
+Adult Beyond Porn BBW Girls Do Porn,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87416
+Adult Brazzers TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87417
+Adult Classic Sex Channel 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87418
+Adult Dorcel TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
+Adult HotClub,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87422
+Adult HotClub 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87423
+Adult HotClub 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87424
+Adult HotClub 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87425
+Adult HotClub Anal,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87426
+Adult Hotclub Asian Redlight,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87427
+Adult HotClub Black,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87428
+Adult HotClub Blowjob Extreme,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87429
+Adult HotClub Femdom,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87430
+Adult HotClub Gone Wild,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87431
+Adult HotClub GroupSex,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87432
+Adult HotClub Mixed Girls,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87433
+Adult Gangbang Gone Wild,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87434
+Adult Hustler TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87435
+Adult Passionate 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87437
+Adult Passionate 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87438
+Adult Penthouse 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87439
+Adult Penthouse 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87440
 Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
 Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
+Adult Red Erotic 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87445
+Adult Red Erotic 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87446
+Adult Red Erotic 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87447
+Adult Red Erotic 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87448
+Adult Red Erotic 5,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87449
+Adult Red Erotic 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87450
+Adult Redlight District 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87451
+Adult Redlight District 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87452
+Adult Redlight District 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87453
+Adult SexTream,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87454
+Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
+Adult Girls Do Porn 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87458
+Adult Girls Do Porn 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87460
+Adult Girls Do Porn 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87461
+Adult Girls Do Porn 5,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87462
+Adult Girls Do Porn 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87463
+Adult Girls Do Porn 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87464
+Adult Girls Do Porn 8v,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87465
+Adult Girls Do Porn 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87466
+Adult Girls Do Porn 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87467
+Adult Brazzers TV 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88540
+Adult Brazzers TV 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88541
+Adult Brazzers TV 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88542
+Adult Brazzers TV 5,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88543
+Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Adult Sensation 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88545
+Adult Sensation 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88546
+Adult Sensation 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88547
+Adult Sensation 5,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88548
 Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
 Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
 Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
@@ -48,6 +100,29 @@ Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
 Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
 Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
 Adult Paradise 10,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91601
+Adult Evil Angel 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87420
+Adult Evil Angel 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87421
+Adult Venus 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87455
+Adult Venus 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87456
+XXX SCT,http://propdsrv.com:80/walison123/123walison/35617
+XXX: SEXTREME HD ²,http://propdsrv.com:80/walison123/123walison/61344
+XXX: SEXTREME SD²,http://propdsrv.com:80/walison123/123walison/61345
+XXX: SEXY HOT SD²,http://propdsrv.com:80/walison123/123walison/61346
+XXX:PLAYBOY_HD ²,http://propdsrv.com:80/walison123/123walison/61362
+XXX:SEXY HOT HD ²,http://propdsrv.com:80/walison123/123walison/61366
+AGORA E HORA DAS PODEROSAS,http://propdsrv.com:80/walison123/123walison/35594
+ASSIM VC ME MATA,http://propdsrv.com:80/walison123/123walison/35596
+BABANDO DE TESAO,http://propdsrv.com:80/walison123/123walison/35597
+CLUBE PRIVE,http://propdsrv.com:80/walison123/123walison/35599
+DEPOIS DOS 40,http://propdsrv.com:80/walison123/123walison/35600
+ESTRELAS EM BUSCA DO PRAZER,http://propdsrv.com:80/walison123/123walison/35601
+FAZENDO SACANAGEM,http://propdsrv.com:80/walison123/123walison/35602
+XXX BLUE HUSTLER,http://propdsrv.com:80/walison123/123walison/35603
+XXX PASSION,http://propdsrv.com:80/walison123/123walison/35609
+XXX PENTHOUSE QUICKIES,http://propdsrv.com:80/walison123/123walison/35611
+XXX PINK-O,http://propdsrv.com:80/walison123/123walison/35612
+XXX PRIVATE  HD¹,http://propdsrv.com:80/walison123/123walison/35614
+XXX RUSNOCH,http://propdsrv.com:80/walison123/123walison/35616
 O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
 Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3770
 Vivid Red,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3771
@@ -71,6 +146,9 @@ Blue Hustler,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
 Lust Pur,http://5.146.116.76:8001/1:0:1:3B04:8D:270F:FFFF0000:0:0:0
 Pure Taboo,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259932
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234
 #__#
 JAPAN LUST,http://scrapehost.com:8080/123456/654321/259420
