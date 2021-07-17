@@ -11,24 +11,24 @@ Playboy TV Europe,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
 Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
 Playboy TV Europe,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
-Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 Hustler hd,http://directtv1.xyz:80/Freddie/Freddie/130758
+Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 Hot,http://185.236.229.21:9981/play/a03p
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
+Redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 Redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 Redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-Redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 Private TV (Italia),http://194.76.186.69:8000/play/a0bc
-Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
-Superone,http://185.96.176.139:8080/superone/index.m3u8
+Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
 Kinky Family,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259914
 Family Hookups,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259897
 Family Strokes,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259898
 Daughter Swap,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259886
 Dad Crush,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259884
+Superone,http://185.96.176.139:8080/superone/index.m3u8
 Penthouse,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Com,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259926
@@ -68,9 +68,9 @@ Beate Uhse TV,http://5.255.90.184:2000/play/a03e
 Beate Uhse TV,http://5.146.116.76:8001/1:0:19:85:1:85:FFFF0000:0:0:0
 Barely legal TV,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
 Blue Hustler,http://91.237.126.50:9001/udp/239.10.12.83:1234?token=test
-Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Lust Pur,http://5.146.116.76:8001/1:0:1:3B04:8D:270F:FFFF0000:0:0:0
 Pure Taboo,http://evolved.host:8080/micjordan25@yahoo.com/9GkRE44kUm/259932
+Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234
 #__#
 JAPAN LUST,http://scrapehost.com:8080/123456/654321/259420
