@@ -1,5 +1,6 @@
 BALKAN EROTIC,http://client.nodomain.vip:80/live.ts?channelId=1474&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 DORCEL TV,http://client.nodomain.vip:80/live.ts?channelId=1513&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+Redlight,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 PINK EROTIC 1,http://client.nodomain.vip:80/live.ts?channelId=96&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 PINK EROTIC 2,http://client.nodomain.vip:80/live.ts?channelId=97&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 PINK EROTIC 3,http://client.nodomain.vip:80/live.ts?channelId=98&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
@@ -35,7 +36,6 @@ Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 Freddie,http://directtv1.xyz:80/Freddie/Freddie/130758
 Hot,http://185.236.229.21:9981/play/a03p
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
-Redlight,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 Redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 Redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 Redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
