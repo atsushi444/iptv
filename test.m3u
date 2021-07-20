@@ -11,3 +11,7 @@ http://www.ast.tv/stream/1/master.m3u8
 http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1,Visit-X TV (720p)
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1,私人电视（意大利
+http://194.76.186.69:8000/play/a0bc
+
