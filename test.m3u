@@ -13,11 +13,11 @@ http://www.ast.tv/stream/2/master.m3u8
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
 
-#EXTINF:-1,私人电视（意大利
+#EXTINF:-1,私人电视
 http://194.76.186.69:8000/play/a0bc
-#EXTINF:-1,官1
+#EXTINF:-1,A
 https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-#EXTINF:-1,官2
+#EXTINF:-1,B
 https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w551645944.m3u8
 #EXTINF:-1,Rouge TV (720p)
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
