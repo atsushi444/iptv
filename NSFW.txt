@@ -134,6 +134,7 @@ Lust Pur,http://5.146.116.76:8001/1:0:1:3B04:8D:270F:FFFF0000:0:0:0
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon 2,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+Rouge TV (720p),http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234?token=test
 #__#
 JAPAN LUST,http://scrapehost.com:8080/123456/654321/259420
