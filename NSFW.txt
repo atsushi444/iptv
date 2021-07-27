@@ -42,6 +42,7 @@ Playboy TV Europe,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
 Playboy TV Europe,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87444
 Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 Hustler TV,http://78.83.191.18:8000/play/a078
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
