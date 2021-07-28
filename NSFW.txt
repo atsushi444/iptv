@@ -44,18 +44,16 @@ Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 Hustler TV,http://78.83.191.18:8000/play/a078
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
-Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 Freddie,http://directtv1.xyz:80/Freddie/Freddie/130758
 Hot,http://185.236.229.21:9981/play/a03p
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 Redlight hd,http://51.15.0.141:88/redlightHD/mpegts
-Redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 Redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 Private TV (Italia),http://194.76.186.69:8000/play/a0bc
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
 Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
-Superone,http://185.96.176.139:8080/superone/index.m3u8
+Superone,http://185.96.176.139:8080/superone/tracks-v1a1/mono.m3u8
 Adult Evil Angel 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87420
 Adult Evil Angel 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87421
 Adult Venus 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87455
@@ -155,7 +153,7 @@ Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon 2,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 Mofos,http://client.nodomain.vip:80/live.ts?channelId=1566&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-Rouge TV (720p),http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+Rouge TV (720p),http://event.vedge.infomaniak.com/livecast/event.stream/chunklist_w1365789967.m3u8
 Lust Pur,http://5.146.116.76:8001/1:0:1:3B04:8D:270F:FFFF0000:0:0:0
 Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234?token=test
 #__#
