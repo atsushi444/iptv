@@ -1,4 +1,3 @@
---,http://200.194.238.229:8000/udp/227.0.0.64:1234
 BALKAN EROTIC,http://client.nodomain.vip:80/live.ts?channelId=1474&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 DORCEL TV,http://client.nodomain.vip:80/live.ts?channelId=1513&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 Redlight,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
@@ -147,6 +146,7 @@ XY Mix,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3781
 XY Plus,http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3782
 Venus,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
+Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
 Beate Uhse TV,http://5.255.90.184:2000/play/a03e
 Beate Uhse TV,http://5.146.116.76:8001/1:0:19:85:1:85:FFFF0000:0:0:0
 Barely legal TV,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
