@@ -214,4 +214,3 @@ Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Playboy TV Latin America,http://186.101.216.211:8000/play/pboy
 Freddie,http://directtv1.xyz:80/Freddie/Freddie/130758
 O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
-Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234?token=test
