@@ -129,6 +129,17 @@ Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 Playboy TV Latin America,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
 Venus,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 #__#
+Beate Uhse TV,http://5.255.90.184:2000/play/a03e
+Hot,http://185.236.229.21:9981/play/a03p
+Hustler TV,http://78.83.191.18:8000/play/a078
+Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+Russkaya Noch,http://93.189.224.117:9030/russkayanoch
+Superone,http://185.96.176.139:8080/superone/tracks-v1a1/mono.m3u8
+Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
+Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
+Private TV (Italia),http://194.76.186.69:8000/play/a0bc
+Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
+#__#
 Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
 Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 花花,http://ott3.gearhostpreview.com/xxav.php?id=170
@@ -195,17 +206,6 @@ LES,http://ott3.gearhostpreview.com/xxav.php?id=256
 EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
 VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
 EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
-#__#
-Beate Uhse TV,http://5.255.90.184:2000/play/a03e
-Hot,http://185.236.229.21:9981/play/a03p
-Hustler TV,http://78.83.191.18:8000/play/a078
-Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-Russkaya Noch,http://93.189.224.117:9030/russkayanoch
-Superone,http://185.96.176.139:8080/superone/tracks-v1a1/mono.m3u8
-Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
-Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
-Private TV (Italia),http://194.76.186.69:8000/play/a0bc
-Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 
 Adult Dorcel TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
 Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
