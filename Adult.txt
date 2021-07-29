@@ -10,4 +10,3 @@ Happy,rtmp://161.202.204.248:1935/tv/ttv12
 HOT,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
 潘朵拉粉紅,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
 彩虹K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
-
