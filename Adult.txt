@@ -1,0 +1,12 @@
+港台杂类_121,#genre#
+彩虹e台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+潘多拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
+香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+惊艳电影台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+松视1,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
+松视2,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
+Happy,rtmp://161.202.204.248:1935/tv/ttv12
+松視➊,rtmp://161.202.204.248:1935/tv/ttv11
+HOT,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
+潘朵拉粉紅,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+彩虹K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
