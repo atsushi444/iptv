@@ -207,6 +207,7 @@ Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
 Private TV (Italia),http://194.76.186.69:8000/play/a0bc
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 
+Adult Dorcel TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87419
 Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
 Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
@@ -214,6 +215,3 @@ Playboy TV Latin America,http://186.101.216.211:8000/play/pboy
 Freddie,http://directtv1.xyz:80/Freddie/Freddie/130758
 O la la,http://5.128.254.228:81/udp/239.1.6.34:1234
 Тонус ТВ,http://185.13.134.215:81/udp/239.254.2.31:1234?token=test
-
-Adult Dorcel TV1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87420
-Adult Dorcel TV2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87421
