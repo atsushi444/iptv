@@ -129,9 +129,6 @@ Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 Playboy TV Latin America,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
 Venus,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 #__#
-Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
-Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
-#__#
 Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
 Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
 花花,http://ott3.gearhostpreview.com/xxav.php?id=170
@@ -210,6 +207,8 @@ Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
 Private TV (Italia),http://194.76.186.69:8000/play/a0bc
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 
+Playboy TV Europe,http://212.42.193.122:8888/play/a00p/index.m3u8
+Russkaya Noch,http://212.42.193.122:8888/play/a00o/index.m3u8
 Extasy TV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Playboy TV Latin America,http://186.101.216.211:8000/play/pboy
 Freddie,http://directtv1.xyz:80/Freddie/Freddie/130758
