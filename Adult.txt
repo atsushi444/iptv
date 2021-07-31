@@ -1,7 +1,5 @@
 潘多拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
 香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
-二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
 
 彩虹e台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
 惊艳电影台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
