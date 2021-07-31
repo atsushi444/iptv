@@ -207,10 +207,5 @@ bang,http://ott3.gearhostpreview.com/xxav.php?id=315
 卫星机房专用03,http://37.235.186.113:81/udp/225.50.70.7:1234.mp4
 卫星机房专用04,http://37.235.199.92:4022/udp/225.50.70.4:1234.mp4
 卫星机房专用05,http://37.235.186.113:81/udp/225.50.70.5:1234.mp4
-卫星机房专用29,https://www.ast.tv/stream/2/ultra.m3u8
-卫星机房专用30,http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
 卫星机房专用38,http://static.brazzers.com/scenes/7029/180sec.flv
-卫星机房专用34,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-卫星机房专用35,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
-卫星机房专用36,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-卫星机房专用37,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
+
