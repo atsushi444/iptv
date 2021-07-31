@@ -1,0 +1,17 @@
+$c_start央视$c_end
+CCTV1,http://39.134.39.39/TVOD/88888888/224/3221226247/index.m3u8
+CCTV2,http://39.134.39.39/TVOD/88888888/224/3221226220/index.m3u8
+CCTV3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV4,https://cctvksh5ca.v.kcdnvip.com/clive/cctv4_2/index.m3u8
+CCTV5,http://39.134.39.39/TVOD/88888888/224/3221226224/index.m3u8
+CCTV5+,http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
+CCTV6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
+CCTV9,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
