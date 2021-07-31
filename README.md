@@ -1,1 +1,1 @@
-[在线正则生成批量链接](http://tools.jb51.net/aideddesign/ljscq) (不会正则，可以用在线的)
+[在线文本比较](http://wenbenbijiao.renrensousuo.com/) (通过比较来确定同一套源的频道增减)
