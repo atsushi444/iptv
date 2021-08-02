@@ -1,6 +1,8 @@
 FashionTV Paris L'Original,https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 FashionTV New York,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 FashionTV F-Men,https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
 FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
@@ -11,4 +13,3 @@ Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8
 Odessa Fashion,http://cdn10.live-tv.od.ua:8081/ofod/ofod480p/playlist.m3u8
 QVC Beauty,https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
-
