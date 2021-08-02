@@ -127,6 +127,7 @@ Playboy TV Latin America,http://cobraa.in:8000/150110836751/6067d961998df.16041/
 Hustler HD,http://cobraa.in:8000/150110836751/6067d961998df.16041/86409
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 #__#
+Hustler TV,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/812
 Playboy TV Latin America,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
 Venus,http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 #__#
