@@ -8,6 +8,7 @@ FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13
 FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
 FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8?live_suff
 FTV Asia,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+FTV International,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist.m3u8
 #__#
 FTV Magazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
