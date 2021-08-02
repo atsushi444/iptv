@@ -1,7 +1,9 @@
 (无)彩虹频道,
 彩虹e台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
-彩虹电影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-彩虹电影台,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
+彩虹e台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
 (无)Look TV,
 香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
