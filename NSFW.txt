@@ -110,10 +110,10 @@ Hustler TV,http://78.83.191.18:8000/play/a078
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
 Superone,http://185.96.176.139:8080/superone/tracks-v1a1/mono.m3u8
-Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
 Sexprive,http://200.194.238.229:8000/udp/227.0.0.64:1234
-Private TV (Italia),http://194.76.186.69:8000/play/a0bc
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Private TV (Italia),http://194.76.186.69:8000/play/a0bc
+Sexy Hot,http://163.172.103.202:8880/287994003796/287994003796/32411
 #__#
 Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
 Hustler HD,http://ott3.gearhostpreview.com/xxav.php?id=169
