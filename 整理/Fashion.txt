@@ -7,3 +7,4 @@ FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_f
 FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8?live_suff
 #__#
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
