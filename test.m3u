@@ -3,8 +3,6 @@
 http://5.146.116.76:8001/1:0:1:201:4:85:FFFF0000:0:0:0
 #EXTINF:-1,Babestation24 (720p)
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26410872606_2107_19378video_720.m3u8
-#EXTINF:-1,Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1655248335.m3u8
 #EXTINF:-1,AST TV 1 (PC) (1080p)
 http://www.ast.tv/stream/1/https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,AST TV 2 (PC) (1080p)
