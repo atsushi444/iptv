@@ -153,6 +153,7 @@ XY Plus,http://ott3.gearhostpreview.com/xxav.php?id=218
 DUSK,http://ott3.gearhostpreview.com/xxav.php?id=222
 Hustler TV,http://ott3.gearhostpreview.com/xxav.php?id=223
 RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
+HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
 Venus,http://ott3.gearhostpreview.com/xxav.php?id=229
 LEO,http://ott3.gearhostpreview.com/xxav.php?id=231
 VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
