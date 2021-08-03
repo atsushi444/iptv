@@ -3,3 +3,4 @@
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
 - Parsa TV:https://www.parsatv.com/
+- COOLSTREAMING:https://www.coolstreaming.us/
