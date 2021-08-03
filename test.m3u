@@ -8,5 +8,5 @@ http://www.ast.tv/stream/1/https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,AST TV 2 (PC) (1080p)
 http://www.ast.tv/stream/2/https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1,Visit-X TV (720p)
-http://194.116.150.47:1935/vxtv/live_720p/chunklist_w979091423.m3u8
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
