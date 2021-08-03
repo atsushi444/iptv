@@ -4,9 +4,9 @@ http://5.146.116.76:8001/1:0:1:201:4:85:FFFF0000:0:0:0
 #EXTINF:-1,Babestation24 (720p)
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26410872606_2107_19378video_720.m3u8
 #EXTINF:-1,AST TV 1 (PC) (1080p)
-https://www.ast.tv/stream/1/ultra.m3u8
+https://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1,AST TV 2 (PC) (1080p)
-https://www.ast.tv/stream/2/ultra.m3u8
+https://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1,Visit-X TV (720p)
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
