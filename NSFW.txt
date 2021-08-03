@@ -83,9 +83,9 @@ DORCEL TV,http://client.nodomain.vip:80/live.ts?channelId=1513&uid=36826&deviceU
 Mofos,http://client.nodomain.vip:80/live.ts?channelId=1566&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 Redlight hd,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
 #__#
-Hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+Hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 Hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
-Redlight,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+Redlight,http://51.15.0.141:88/redlightHD/index.m3u8
 Redlight,http://51.15.0.141:88/redlightHD/mpegts
 #__#
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
