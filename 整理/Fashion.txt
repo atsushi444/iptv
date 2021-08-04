@@ -13,7 +13,7 @@ FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_f
 FTV Models,https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
 FTV Asia,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 FashionTV Fitness,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-FTV Magazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+FashionTV Fitness,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #__#
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
