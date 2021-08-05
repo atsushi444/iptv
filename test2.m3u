@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Hustler
-http://88.212.50.123:8001/1:0:1:78C8:2C5:600:E080000:0:0:0
-#EXTINF:-1,仅在深夜播放
-http://88.212.50.123:8001/1:0:1:78C3:2C5:600:E080000:0:0:0
-#EXTINF:-1,Private
-http://88.212.50.123:8001/1:0:1:78BD:2C5:600:E080000:0:0:0
 #EXTINF:-1,Web stream
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26410872606_2107_19378video_720.m3u8
 
