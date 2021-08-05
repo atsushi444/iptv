@@ -19,7 +19,6 @@ A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/
 Bikini TV,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Jasmin TV,https://gintna100.tulix.tv/gin_live/jasmintv/7834bc0c7f2e102cbefcbf8880bb3cf4/610a1ac2/index.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/playlist.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18WEB/playlist.m3u8
