@@ -118,8 +118,6 @@ private2,http://ott3.gearhostpreview.com/xxav.php?id=257
 bang2,http://ott3.gearhostpreview.com/xxav.php?id=266
 bang,http://ott3.gearhostpreview.com/xxav.php?id=315
 #__#
-| DORCELXXX,http://svrfit.com:25461/Ednar889967/536286/189363
-superone,http://185.96.176.139:8080/superone/index.m3u8
 Original P-rnBox 1,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215379
 Original P-rnBox 2,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215380
 Original P-rnBox 3,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215381
@@ -135,17 +133,6 @@ Original P-rnBox 12,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215393
 Original P-rnBox 13,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215394
 Original P-rnBox 14,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215395
 Original P-rnBox 15,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215398
-#__#
-色情,http://185.97.150.19:8082/155
-户外,http://185.97.150.19:8082/156
-色情,http://185.97.150.19:8082/157
-erox,http://185.97.150.19:8082/158
-菊花台,http://185.97.150.19:8082/159
-XXL,http://185.97.150.19:8082/360
-法国情人,http://185.97.150.19:8082/361
-blue hustler,http://185.97.150.19:8082/363
-redlight,http://185.97.150.19:8082/365
-hustler,http://185.97.150.19:8082/578
 #__#
 sext 6 传感器,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6254/index.m3u8
 21 性感,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
@@ -352,3 +339,15 @@ Ebony,p5p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc
 Blowjob,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
 Asian,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
 Anal,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
+#__#
+| DORCELXXX,http://svrfit.com:25461/Ednar889967/536286/189363
+色情,http://185.97.150.19:8082/155
+户外,http://185.97.150.19:8082/156
+色情,http://185.97.150.19:8082/157
+erox,http://185.97.150.19:8082/158
+菊花台,http://185.97.150.19:8082/159
+XXL,http://185.97.150.19:8082/360
+法国情人,http://185.97.150.19:8082/361
+blue hustler,http://185.97.150.19:8082/363
+redlight,http://185.97.150.19:8082/365
+hustler,http://185.97.150.19:8082/578
