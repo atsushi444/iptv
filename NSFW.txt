@@ -10,7 +10,6 @@ Redlight hd,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&devic
 #__#
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-Filmon 2,http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 #__#
 Playboy TV Europe,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
 Barely legal TV,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
