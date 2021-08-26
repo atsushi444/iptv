@@ -1,19 +1,4 @@
 #__#
-Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
-Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
-Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
-Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
-Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
-Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
-Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
-Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
-Adult Paradise 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
-Adult Paradise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
-Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
-Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
-Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
-Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
-#__#
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
