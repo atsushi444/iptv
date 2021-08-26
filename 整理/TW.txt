@@ -1,32 +1,22 @@
+#__#
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 (无)彩虹频道,
-彩虹E台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
-彩虹電影,
-K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
-Look TV,
-香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-驚艷台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-潘朵拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-潘朵拉粉红,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
-極限電影,
-松視1台,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
-松視2台,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
+(无)K频道,
+(无)Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+(无)潘朵拉粉红,
+極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
 (无)松視3台,
 (无)松視4台,
-HOT,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
-Happy,rtmp://161.202.204.248:1935/tv/ttv12
+HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
+(无)Happy,
 (无)玩家频道,
 (无)乐活频道,
-#__#
-彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913 
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
-驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
-潘朵拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
-極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d 
-松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
-松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
-HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
-Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd 
 #__#
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
 彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
@@ -38,5 +28,3 @@ Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
 #__#
 彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-
-
