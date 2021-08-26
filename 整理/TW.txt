@@ -2,7 +2,7 @@
 彩虹E台,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
 彩虹電影,
 K频道,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
-(无)Look TV,
+Look TV,
 香蕉台,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
 驚艷台,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
 潘朵拉玩美,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
@@ -26,6 +26,7 @@ Happy,rtmp://161.202.204.248:1935/tv/ttv12
 松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
 松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
 HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+Look TV,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd 
 #__#
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
 彩虹電影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
