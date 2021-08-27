@@ -7,4 +7,5 @@
 - Jackal:http://jackal.surge.sh/
 - IPTV Player:https://iptv.maheshwarravuri.com/
 - IPTV list:https://shen-yu.github.io/iptv-list)
-
+### 在线播放
+- [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
