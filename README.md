@@ -4,4 +4,7 @@
 - FashionTV:https://fashiontv.com/
 - Parsa TV:https://www.parsatv.com/
 - COOLSTREAMING:https://www.coolstreaming.us/
+- Jackal:http://jackal.surge.sh/
+- IPTV Player:https://iptv.maheshwarravuri.com/
+- IPTV list:https://shen-yu.github.io/iptv-list)
 
