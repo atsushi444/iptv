@@ -3,8 +3,9 @@ FashionTV New York,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_g
 FashionTV Singapore,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 FashionTV Singapore,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
-Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 FashionTV F-Men,https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/playlist.m3u8
 FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
 FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
