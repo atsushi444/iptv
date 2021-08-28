@@ -247,3 +247,7 @@ Playboy TV Latin America,http://185.134.22.131:8080/pedro123/pedro321/13617
 Venus,http://185.134.22.131:8080/pedro123/pedro321/53589
 #__#
 Hustler TV,http://78.83.191.18:8000/play/a078
+#__#
+Playboy TV Latin America,http://cobraa.in:8000/150110836751/6067d961998df.16041/86408
+Hustler HD,http://cobraa.in:8000/150110836751/6067d961998df.16041/86409
+Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
