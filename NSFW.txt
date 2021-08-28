@@ -18,10 +18,6 @@ Redlight hd,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&devic
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #__#
-Playboy TV Latin America,http://cobraa.in:8000/150110836751/6067d961998df.16041/86408
-Hustler HD,http://cobraa.in:8000/150110836751/6067d961998df.16041/86409
-Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
-#__#
 Hot,http://185.236.229.21:9981/play/a03p
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
