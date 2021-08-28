@@ -22,8 +22,6 @@ Playboy TV Latin America,http://cobraa.in:8000/150110836751/6067d961998df.16041/
 Hustler HD,http://cobraa.in:8000/150110836751/6067d961998df.16041/86409
 Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
 #__#
-Hot,http://185.236.229.21:9981/play/a03p
-Hustler TV,http://78.83.191.18:8000/play/a078
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
