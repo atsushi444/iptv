@@ -26,7 +26,7 @@ Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-日本娱,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
 菊花,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/147/index.m3u8
 红灯高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
