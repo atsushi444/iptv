@@ -18,6 +18,10 @@ Redlight hd,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&devic
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #__#
+Penthouse Gold,http://82.197.212.210:8000/play/a10y
+Penthouse Quickies,http://82.197.212.210:8000/play/a110
+#__#
+日本娱,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 Hot,http://185.236.229.21:9981/play/a03p
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
