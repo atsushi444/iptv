@@ -2,8 +2,8 @@ CCTV-1 综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 CCTV-2 财经,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
 CCTV-3 综艺,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 CCTV-4 中文国际（亚）,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
-CCTV-4 中文国际（欧）,https://cctvalih5c.v.myalicdn.com/live/cdrmcctveurope_1/index.m3u8
-CCTV-4 中文国际（美）,https://cctvalih5c.v.myalicdn.com/live/cdrmcctvamerica_1/index.m3u8
+CCTV-4 中文国际（欧）,http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
+CCTV-4 中文国际（美）,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
 CCTV-5 体育,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 CCTV-5+ 体育赛事,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 CCTV-6 电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
@@ -17,3 +17,17 @@ CCTV-13 新闻,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3
 CCTV-14 少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
 CCTV-15 音乐,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 CCTV-17 农业农村,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
+CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV 风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+#__#
