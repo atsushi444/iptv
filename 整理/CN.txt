@@ -30,7 +30,6 @@ CCTV 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-
 #__#
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
@@ -60,7 +59,6 @@ CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888
 辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
 黑龙江卫视,http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
 内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-
 #__#
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
