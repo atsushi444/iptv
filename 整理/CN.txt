@@ -1,0 +1,3 @@
+CCTV-1 综合,https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv1_1/index.m3u8
+CCTV-2 财经,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv2_1/index.m3u8
+CCTV-3 综艺,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv3_1/index.m3u8
