@@ -1,3 +1,5 @@
 CCTV-1 综合,https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv1_1/index.m3u8
 CCTV-2 财经,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv2_1/index.m3u8
 CCTV-3 综艺,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv3_1/index.m3u8
+CCTV-4 中文国际（亚）,https://cctvbsh5c.v.live.baishancdnx.cn/live/cdrmcctv4_1/index.m3u8
+CCTV-5 体育,https://cctv5bdh5c.a.bdydns.com/live/cdrmcctv5_1/index.m3u8
