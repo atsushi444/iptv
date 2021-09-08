@@ -6,15 +6,6 @@ redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 #__#
-PINK EROTIC 1,http://client.nodomain.vip:80/live.ts?channelId=96&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-PINK EROTIC 2,http://client.nodomain.vip:80/live.ts?channelId=97&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-PINK EROTIC 3,http://client.nodomain.vip:80/live.ts?channelId=98&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-PINK EROTIC 4,http://client.nodomain.vip:80/live.ts?channelId=99&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-BALKAN EROTIC,http://client.nodomain.vip:80/live.ts?channelId=1474&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-DORCEL TV,http://client.nodomain.vip:80/live.ts?channelId=1513&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-Mofos,http://client.nodomain.vip:80/live.ts?channelId=1566&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-Redlight hd,http://client.nodomain.vip:80/live.ts?channelId=1567&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
-#__#
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #__#
