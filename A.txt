@@ -263,10 +263,6 @@ Brazzers TV Europe,http://185.134.22.131:8080/pedro123/pedro321/53589
 Hustler TV,http://78.83.191.18:8000/play/a078
 Venus,https://tv.teleclub.xyz/live/1/XXX_2.m3u8
 #__#
-Playboy TV Latin America,http://cobraa.in:8000/150110836751/6067d961998df.16041/86408
-Hustler HD,http://cobraa.in:8000/150110836751/6067d961998df.16041/86409
-Hot,http://cobraa.in:8000/150110836751/6067d961998df.16041/86410
-#__#
 XXX | HUSTLER TV,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/28238
 XXX | EROTIC DANCE,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49310
 XXX | SEXTREME,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/49311
@@ -284,7 +280,7 @@ XXX | RUSSIAN,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/57742
 XXX | ADULTO XXX2,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/77472
 XXX | PHENTHOUSE,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/77473
 XXX | SEXY,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106545
-XXX | MIAMI TV OPC https://iptv.live,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106546
+XXX | MIAMI TV OPC,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106546
 XXX | VENUS,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/106547
 XXX | PRIVATE TV,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/115996
 XXX | VENUS OPC,http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/117890
