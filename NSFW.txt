@@ -13,6 +13,7 @@ Penthouse Gold,http://82.197.212.210:8000/play/a10y
 Penthouse Quickies,http://82.197.212.210:8000/play/a110
 #__#
 Hot,http://185.236.229.21:9981/play/a03p
+SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
