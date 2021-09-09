@@ -163,4 +163,3 @@ AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
 AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
 AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
 AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Woman,http://live.redtraffic.net/woman.m3u8
