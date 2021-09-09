@@ -60,8 +60,8 @@ XXX: XY Mix FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3293
 XXX: XY Plus FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3291
 #__#
 菊花,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/147/index.m3u8
-红灯高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
-私人电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/243/index.m3u8
+Redlight HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/242/index.m3u8
+Private TV,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/243/index.m3u8
 Hustler HD Europe,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/244/index.m3u8
 Dorcel TV HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/245/index.m3u8
 Barely legal,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/871/index.m3u8
