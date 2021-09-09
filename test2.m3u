@@ -31,6 +31,8 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1,RedTraffic Teen HD 720
 http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,RedTraffic Woman HD 720
+http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" group-title="XXX",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" group-title="XXX",AdultIPTV.net MILF
@@ -81,5 +83,4 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Woman" tvg-language="English" group-title="XXX",AdultIPTV.net Woman
-http://live.redtraffic.net/woman.m3u8
+
