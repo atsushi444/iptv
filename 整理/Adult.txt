@@ -1,6 +1,6 @@
 #__#（United Kingdom）
 Blue Hustler,
-HUSTLER TV,
+HUSTLER TV,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/279600
 Hustler HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/6028
 Private TV
 Barely Legal TV,
@@ -14,7 +14,7 @@ Dusk,
 Dorcel XXX,
 Erox HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3796
 Eroxxx HD,
-Hot,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1538
+Hot,
 #__#（Serbia）
 Pink Erotic 1,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/37153
 Pink Erotic 2,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/76
@@ -39,3 +39,4 @@ Exxxtasy,
 Penthouse TV,
 Red Hot TV,
 Skinemax HD,
+Nuat,
