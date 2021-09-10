@@ -61,6 +61,7 @@ NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 Penthouse Gold,http://82.197.212.210:8000/play/a10y
 Penthouse Quickies,http://82.197.212.210:8000/play/a110
 Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 央视频道,#genre#
 CCTV-1 综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
