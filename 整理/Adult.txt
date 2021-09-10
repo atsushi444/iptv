@@ -1,9 +1,14 @@
-XXL,
 Blue Hustler,
 HUSTLER TV,
 Hustler HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/6028
+Barely Legal TV,
 Brazzers TV Europe,
 Dorcel TV,
+Dusk,
+Dorcel XXX,
+Erox HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3796
+Eroxxx HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/37276
+Hot,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1538
 Playboy TV,
 Pink Erotic 1,
 Pink Erotic 2,
@@ -13,10 +18,9 @@ Pink Erotic 5,
 Pink Erotic 6,
 Pink Erotic 7,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3318
 Pink Erotic 8,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3319
-Erox HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3796
-Eroxxx HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/37276
-Dusk,
-Dorcel XXX,
-Barely Legal TV,
+Penthouse Gold,
+Penthouse Quickies,
+Penthouse Passion,
+Penthouse Black,
 Passion XXX,
-Hot,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1538
+XXL,
