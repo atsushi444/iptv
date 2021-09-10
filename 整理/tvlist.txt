@@ -143,7 +143,6 @@ AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
 AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
 AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
 AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
 AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
 AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
@@ -157,9 +156,10 @@ AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
 AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
 AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
 AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
 AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
 AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
+AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
