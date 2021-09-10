@@ -37,9 +37,7 @@ XXX: Extreme FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3329
 XXX: HOT HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1538
 XXX: Hustler HD Europe FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/6028
 XXX: Hustler TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/279600
-XXX: Jasmin TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/375
 XXX: Lesbian Affair HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3331
-XXX: Miami TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/1731
 XXX: Nuart HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/49169
 XXX: O La La HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/36535
 XXX: Passie XXX HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/28298
@@ -52,7 +50,6 @@ XXX: Private TV FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3281
 XXX: Reality Kings TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/383
 XXX: Redlight FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/85
 XXX: Venus HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3258
-XXX: Visit X TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/28531
 XXX: Vivid Red FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3989
 XXX: Vivid TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/146434
 XXX: XY Max FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/192282
