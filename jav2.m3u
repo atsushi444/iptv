@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="JP",HND-513
+#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2018/04/hnd513pl.jpg",HND-513 河南実里
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/HND-513/index.m3u8
-#EXTINF:-1 group-title="JP",MXBD-221
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/h_068mxbd00221/h_068mxbd00221pl.jpg",MXBD-221 吉沢明歩
 http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/MXBD-221/index.m3u8
-#EXTINF:-1 group-title="JP",DVDMS-329-2
+#EXTINF:-1 group-title="JP" tvg-logo="",DVDMS-329-2
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/dvdms-329-2/index.m3u8
-#EXTINF:-1 group-title="JP",WANZ-297
+#EXTINF:-1 group-title="JP" tvg-logo="",WANZ-297
 http://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-297/index.m3u8
-#EXTINF:-1 group-title="JP",IANF-027
+#EXTINF:-1 group-title="JP" tvg-logo="",IANF-027
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/IANF-027/index.m3u8
-#EXTINF:-1 group-title="JP",PPPD-504
+#EXTINF:-1 group-title="JP" tvg-logo="",PPPD-504
 http://videocdnbaidu.rhsj520.com/rbny/20180806/jx/PPPD-504/index.m3u8
-#EXTINF:-1 group-title="JP",WANZ-135
+#EXTINF:-1 group-title="JP" tvg-logo="",WANZ-135
 http://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/WANZ-135/index.m3u8
-#EXTINF:-1 group-title="JP",HUNTA-200B
+#EXTINF:-1 group-title="JP" tvg-logo="",HUNTA-200B
 http://ginocdn.bybzj.com:8091/youma/20180401/HUNTA-200B/650kb/hls/index.m3u8
-#EXTINF:-1 group-title="JP",RCT-505
+#EXTINF:-1 group-title="JP" tvg-logo="",RCT-505
 http://videocdnbaidu.rhsj520.com/rbny/20180821/lmyly/RCT-505/index.m3u8
 #EXTINF:-1 group-title="JP",VENU-458
 http://videocdnbaidu.rhsj520.com/rbny/20180901/tgyly/VENU-458/index.m3u8
