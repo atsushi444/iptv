@@ -21,8 +21,8 @@ Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
 XXX: Brazzers TV Europe FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/2
-XXX: Brazzers TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/79
 XXX: Dorcel TV FHD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/53152
+XXX: Brazzers TV HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/79
 XXX: erotic 1 HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/37153
 XXX: erotic 2 HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/76
 XXX: erotic 3 HD,http://iptvtree.net:8080/fawkes32/adaa5870d5c0/3317
