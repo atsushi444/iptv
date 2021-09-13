@@ -915,7 +915,7 @@ http://videozm.dlyilian.com:8091/20190709/HND-642_CH_SD/index.m3u8
 http://videozm.dlyilian.com:8091/20190723/JUY-783_CH_SD/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/ssni00154/ssni00154pl.jpg",SSNI-154 葵つかさ
 http://videocdn.dlyilian.com:8091/20190618/SSNI-154_FHD_CH/index.m3u8
-#EXTINF:-1 group-title="https://pics.dmm.co.jp//digital/video/dasd00574/dasd00574pl.jpg",DASD-574 星奈あい
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/dasd00574/dasd00574pl.jpg",DASD-574 星奈あい
 http://videozm.dlyilian.com:8091/20190921/WlstXyNW/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/18ugss00055/18ugss00055pl.jpg",UGSS-055
 http://cdnvideo.oywine.com:8091/youma/20180231/UGSS-055/650kb/hls/index.m3u8
@@ -1239,7 +1239,7 @@ http://videozm.dlyilian.com:8091/20190831/DVDMS-421_HD_CH/1000kb/hls/index.m3u8
 http://cdnvideo.oywine.com:8091/zimu/20180101/MUDR-021c/650kb/hls/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://us.netcdn.space/storage/tokyohot/media/5875/list_image/n0994_1280x720/820x462_default.jpg",Tokyo-Hot n0994 長谷川玲
 http://video.lllwo2o.com:8091/20180510/Tokyo_Hot_n0994/650kb/hls/index.m3u8
-#EXTINF:-1 group-title="https://pics.dmm.co.jp//digital/video/h_237hdka00120/h_237hdka00120pl.jpg",HDKA-120 清城ゆき
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/h_237hdka00120/h_237hdka00120pl.jpg",HDKA-120 清城ゆき
 http://videocdn2.quweikm.com:8091/20181001/HJM2KET120/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/atid00266/atid00266pl.jpg",ATID-266
 http://video1.feimanzb.com:8091/20180115/ATID-266-C/550kb/hls/index.m3u8
