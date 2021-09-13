@@ -141,7 +141,7 @@ http://videocdn.dlyilian.com:8091/20190301/HN1RTQDF602/index.m3u8
 http://videocdn.hndtl.com:8091/20181121/hd_vrtm-395_0/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/540yst00119/540yst00119pl.jpg",YST-119 宮藤尚美
 http://video2.feimanzb.com:8091/20180220/TKS1HLE119/650kb/hls/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-logo="",TEM-017 https://pics.dmm.co.jp//digital/video/118tem00017/118tem00017pl.jpg
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/118tem00017/118tem00017pl.jpg",TEM-017 
 http://videocdn2.quweikm.com:8091/20180801/TJB9TNH017/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/homa00049/homa00049pl.jpg",HOMA-049 有坂深雪
 http://videocdn.dlyilian.com:8091/20190401/HO86KUI049/index.m3u8
