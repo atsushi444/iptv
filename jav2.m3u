@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2018/04/hnd513pl.jpg",HND-513 河南実里
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/hnd00513/hnd00513pl.jpg",HND-513 河南実里
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/HND-513/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/h_068mxbd00221/h_068mxbd00221pl.jpg",MXBD-221 吉沢明歩
 http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/MXBD-221/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/dvdms00329/dvdms00329pl.jpg",DVDMS-329-2
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/dvdms-329-2/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2020/05/wanz297pl.jpg",WANZ-297 麻倉憂
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/wanz00297/wanz00297pl.jpg",WANZ-297 麻倉憂
 http://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-297/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/ianf00027/ianf00027pl.jpg",IANF-027 石原ルリカ
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/IANF-027/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2020/08/pppd504pl.jpg",PPPD-504 JULIA
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/pppd00504/pppd00504pl.jpg",PPPD-504 JULIA
 http://videocdnbaidu.rhsj520.com/rbny/20180806/jx/PPPD-504/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/3wanz00135/3wanz00135pl.jpg",WANZ-135 桜井あゆ
 http://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/WANZ-135/index.m3u8
@@ -19,9 +19,9 @@ http://ginocdn.bybzj.com:8091/youma/20180401/HUNTA-200B/650kb/hls/index.m3u8
 http://videocdnbaidu.rhsj520.com/rbny/20180821/lmyly/RCT-505/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/venu00458/venu00458pl.jpg",VENU-458
 http://videocdnbaidu.rhsj520.com/rbny/20180901/tgyly/VENU-458/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2018/04/kawd893pl.jpg",KAWD-893 小栗もなか
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/kawd00893/kawd00893pl.jpg",KAWD-893 小栗もなか
 http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/2/KAWD-893/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-logo="https://cdn.javsts.com/wp-content/uploads/2018/02/miae185pl.jpg",MIAE-185 美谷朱里
+#EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/miae00185/miae00185pl.jpg",MIAE-185 美谷朱里
 http://videocdn.dlyilian.com:8091/20190527/MIAE-185_FHD_CH/index.m3u8
 #EXTINF:-1 group-title="JP" tvg-logo="https://pics.dmm.co.jp//digital/video/29dmbj00059/29dmbj00059pl.jpg",DMBJ-059 桜井あゆ
 http://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/DMBJ-059/index.m3u8
