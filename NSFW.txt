@@ -14,10 +14,11 @@ Penthouse Quickies,http://82.197.212.210:8000/play/a110
 #__#
 Hot,http://185.236.229.21:9981/play/a03p
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
-Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
-Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
 Erotic,http://185.134.22.131:8080/pedro123/pedro321/13617
