@@ -52,7 +52,7 @@ Hot_Club 18,http://41.231.44.20:80/tolgax1x/tolgax1x/3535
 Hot_Club 19,http://41.231.44.20:80/tolgax1x/tolgax1x/3536
 Hot_Club 20,http://41.231.44.20:80/tolgax1x/tolgax1x/3537
 
-#__#(1080)
+#__#(1080p)
 FAKE COP,http://scrapehost.com:8080/Cedrick/Cedrick/259403
 FAKE HOSPITAL,http://scrapehost.com:8080/Cedrick/Cedrick/259405
 FAMILY SINNERS,http://scrapehost.com:8080/Cedrick/Cedrick/259407
