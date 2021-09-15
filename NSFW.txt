@@ -21,8 +21,8 @@ Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
-Erotic,http://185.134.22.131:8080/pedro123/pedro321/13617
-Brazzers TV Europe,http://185.134.22.131:8080/pedro123/pedro321/53589
+EROTIC,http://185.134.22.131:8080/pedro123/pedro321/13617
+BRAZZERS TV Europe,http://185.134.22.131:8080/pedro123/pedro321/53589
 #__#
 Playboy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/527/index.m3u8
 Russian Nights,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/147/index.m3u8
