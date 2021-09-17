@@ -16,12 +16,14 @@ Hot,http://185.236.229.21:9981/play/a03p
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
 Russkaya Noch,http://93.189.224.117:9030/russkayanoch
+Venus,https://tv.teleclub.xyz/live/1/XXX_2.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
-EROTIC,http://185.134.22.131:8080/pedro123/pedro321/13617
+Hustler TV,http://185.134.22.131:8080/pedro123/pedro321/6166
+Playboy TV,http://185.134.22.131:8080/pedro123/pedro321/13617
 BRAZZERS TV Europe,http://185.134.22.131:8080/pedro123/pedro321/53589
 #__#
 Playboy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/527/index.m3u8
