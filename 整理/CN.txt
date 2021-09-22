@@ -73,7 +73,6 @@ CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888
 四川卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 吉林卫视,http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
 云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
