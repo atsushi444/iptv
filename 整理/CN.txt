@@ -80,10 +80,6 @@ CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888
 海南卫视,http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
 
 #__#
-CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-CGTN,http://39.130.202.115:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
-CGTN 纪录,http://39.130.202.115:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 CGTN 法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN 西班牙,http://livees.cgtn.com/500e/prog_index.m3u8
