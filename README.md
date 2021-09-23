@@ -6,6 +6,7 @@
 - Parsa TV:https://www.parsatv.com/
 - COOLSTREAMING:https://www.coolstreaming.us/
 - Lmao Love:http://lmao.love/
+- OX-AX:http://oxax.tv (18+)
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 - [IPTV list](https://shen-yu.github.io/iptv-list) - Makes it easy to copy and play IPTV channels.
