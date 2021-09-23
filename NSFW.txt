@@ -6,8 +6,8 @@ redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 #__#
-Erotic Sensations,http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-Fetish Factory,http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #__#
 Penthouse Gold,http://82.197.212.210:8000/play/a10y
 Penthouse Quickies,http://82.197.212.210:8000/play/a110
