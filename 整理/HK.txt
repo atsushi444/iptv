@@ -78,3 +78,11 @@ Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 TVB星河粵语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河国语,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+BBC Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
+三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
