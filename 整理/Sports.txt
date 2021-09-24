@@ -1,1 +1,13 @@
-
+体育频道,#genre#
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+咪咕视频-体育,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+弈壇春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
