@@ -71,4 +71,4 @@ Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-
+华丽翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
