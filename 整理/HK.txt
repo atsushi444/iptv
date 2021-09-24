@@ -62,3 +62,5 @@ Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
 时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
 
+#__#
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
