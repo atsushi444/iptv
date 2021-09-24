@@ -29,12 +29,6 @@ Hot_Club 18,http://hbox.cdnss.me:80/tring123/tring123/3535
 Hot_Club 20,http://hbox.cdnss.me:80/tring123/tring123/3537
 
 #__#
-[XX] Adulto 17 [4K],http://tv.factoryiptv.com:80/Denis111/Denis111/69330
-[XX] Adulto 18 [4K],http://tv.factoryiptv.com:80/Denis111/Denis111/69331
-[XX] Adulto 19 [4K],http://tv.factoryiptv.com:80/Denis111/Denis111/69332
-[XX] Adulto 20 [4K],http://tv.factoryiptv.com:80/Denis111/Denis111/69333
-
-#__#
 BR: XXX 18+ 12,http://xcui.vitvabc.xyz:8880/28799400329b/28799400329b/32406
 BR: XXX 18+ 13,http://xcui.vitvabc.xyz:8880/28799400329b/28799400329b/32407
 BR: XXX 18+ 14,http://xcui.vitvabc.xyz:8880/28799400329b/28799400329b/32408
