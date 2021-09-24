@@ -9,12 +9,6 @@ redlight hd,http://51.15.0.141:88/redlightHD/mpegts
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 #__#
-Penthouse Gold,http://82.197.212.210:8000/play/a10y
-Penthouse Quickies,http://82.197.212.210:8000/play/a110
-#__#
-SEXPRVE,http://200.194.238.229:8000/udp/227.0.0.64:1234
-Russkaya Noch,http://93.189.224.117:9030/russkayanoch
-#__#
 Hot,http://185.236.229.21:9981/play/a03p
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
