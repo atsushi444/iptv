@@ -144,3 +144,19 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 BBC Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 BBC Earth,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+ONE,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
+卫视电影台,http://93.190.139.35:8278/streams/d/Weishimovie/playlist.m3u8
+Thrill电影台,http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
+Thrill电影台,http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+MOMO综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+阿里郎,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
