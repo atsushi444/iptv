@@ -10,14 +10,14 @@ TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af
 TVB J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
 澳门莲花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050
-公視2,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
-公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
+公视2,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
+公视3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
 民视,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
 民视第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 台视,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 台视财经,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 台视新闻,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-中天新聞,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a
+中天新闻,p5p://fccs.123178.top:9906/6108751d000ce82f133327c1075ab46a
 中视,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
 中视新闻,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
 中视经典,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
@@ -32,7 +32,7 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 东森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 东森戏剧,p5p://fccs.123178.top:9906/60449e3500031323021ce24de00b3ef2.ts
 东森洋片,p5p://fccs.123178.top:9906/60449f6d000c10680221a75af38e252f.ts
-东森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
+东森综合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 三立财经台,p5p://fccs.123178.top:9906/604496f8000b3b7b02009e1b5871dd53.ts
 三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都会台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
@@ -91,7 +91,7 @@ CatchPlay电影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594
 人间卫视,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 FOX警匪,p5p://fccs.123178.top:9906/60440e1600029d1f09c9d406f98d5158.ts
 FX-HD,p5p://fccs.123178.top:9906/60440f3c000c153709ce52e28565fc29.ts
-TLC旅遊,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
+TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
@@ -122,10 +122,12 @@ TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB星河粵语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+TVB星河粤语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河国语,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
@@ -134,12 +136,19 @@ ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
 中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
 民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
 民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
 民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
 民视新闻台,http://210.61.56.23/hls/ftvtv/index.m3u8
 民视新闻台,https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
+民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 华视教育体育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 华视新闻资讯,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
@@ -165,3 +174,7 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+原住民电视台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
