@@ -3,17 +3,17 @@
 凤凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
 凤凰中文台,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 凤凰香港台,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
-翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
-TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
+TVB翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+TVB明珠台,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
 TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af
-J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
+TVB J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 有线娱乐台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
 澳门莲花台,p5p://fccs.123178.top:9906/613192f10005f0f11859aeaf78bfd050
 公視2,p5p://fccs.123178.top:9906/60448f540003197f01e2c366b8927af8.ts
 公視3,p5p://fccs.123178.top:9906/6044903d0009037901e653127d757c7b.ts
 民视,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
+民视第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 台视,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
 台视财经,p5p://fccs.123178.top:9906/604484f5000c504c01ba42aad30caf2b.ts
 台视新闻,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
@@ -126,3 +126,19 @@ ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中视新闻,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+华视教育体育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+华视新闻资讯,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
