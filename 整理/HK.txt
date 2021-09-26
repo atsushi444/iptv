@@ -117,6 +117,11 @@ HD电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 华丽翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 TVB星河粵语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河国语,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
@@ -135,12 +140,6 @@ ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 华视教育体育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 华视新闻资讯,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 BBC Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
