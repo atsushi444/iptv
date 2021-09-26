@@ -104,7 +104,6 @@ BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 HD电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 
-
 #__#
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
@@ -142,3 +141,5 @@ TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
