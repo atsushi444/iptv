@@ -1,1 +1,75 @@
-
+日本频道,#genre#
+NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+Animax Japan (Vietnamese Subs),https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+CGNTV Japan,http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
+NHK-総合,p5p://fccs.123178.top:9906/606ad628000168f9020856b5c61b191f.ts
+日テレ,p5p://fccs.123178.top:9906/606ad1b0000f259301f6e57a73c17bf6.ts
+フジテレビ,p5p://fccs.123178.top:9906/606ad3be000380a701fee92f192a715c.ts
+TOKYOMX,p5p://fccs.123178.top:9906/606ad3e4000d7baa01ff802d7df770e3.ts
+Every,p5p://fccs.123178.top:9906/606ad7aa00025856020e3ac345df82b5.ts
+BSアニマックス,p5p://fccs.123178.top:9906/606ad57c000861930205b89ef48f3493.ts
+MBS毎日放送,p5p://fccs.123178.top:9906/61334380000b077b052a6ef20a75cba9
+ホ-ムドラマチャンネル,p5p://fccs.123178.top:9906/606ad4b3000254650202a5ea92a8c504.ts
+テレビ大阪,p5p://fccs.123178.top:9906/606ad28c00016d0401fa3d56baa40d3b.ts
+読売テレビ,p5p://fccs.123178.top:9906/606ad2ae000221b901fac2557c559e4a.ts
+NHKBS1,p5p://fccs.123178.top:9906/606b4d900008402e03dac6b66eddb728.ts
+NHKBSプレミア,p5p://fccs.123178.top:9906/606ad22a0008ed1d01f8c0729861e9d9.ts
+Disney XD Japan,p5p://fccs.123178.top:9906/606b4eb7000372a103df45d3fd48b2de.ts
+Disney Junior,p5p://fccs.123178.top:9906/61302a8a0007ce5412d9dcd227424d50
+Music_Japan_TV,p5p://fccs.123178.top:9906/606ad50e000f420302040cb196c70d14.ts
+BSスカパー！,p5p://fccs.123178.top:9906/606ad3970005635201fe51528e8fc92e.ts
+BSフジ.181,p5p://fccs.123178.top:9906/606ad2cf000e304501fb46531e55a2fb.ts
+WOWOWシネマ,p5p://fccs.123178.top:9906/606ad36000073ffc01fd7af4300db17f.ts
+スターチャンネ,p5p://fccs.123178.top:9906/606ad438000efb9d0200c8af4a74fd08.ts
+グリーンチャン,p5p://fccs.123178.top:9906/606ad45f000ef80b020161060a0ba882.ts
+TBSテレビ,p5p://fccs.123178.top:9906/606ad64e0006809c0208ec73cefee14b.ts
+関西テレビ,p5p://fccs.123178.top:9906/606ad18e00032f4601f65d9a65c73485.ts
+テレビ東京,p5p://fccs.123178.top:9906/606ad68b000227aa0209d99e10b32383.ts
+テレビ朝日,p5p://fccs.123178.top:9906/606ad6070006955b0207d72069cec474.ts
+ABSテレビ朝日,p5p://fccs.123178.top:9906/606ad26c000ca30e01f9c335103c65ce.ts
+日本映畫専門,p5p://fccs.123178.top:9906/606ad7080002731a020bc1fa261255a8.ts
+J SPORTS 1,p5p://fccs.123178.top:9906/606ad5bd0006520c0206b5ffd7614b79.ts
+J SPORTS 2,p5p://fccs.123178.top:9906/606ad5df000c1dc902073c4b588dd74d.ts
+J SPORTS 3,p5p://fccs.123178.top:9906/606ad6b1000f2f2a020a71640ab37d7f.ts
+J SPORTS 4,p5p://fccs.123178.top:9906/606ad6e40009cf36020b373c301e8c53.ts
+ディズニーチャンネル,p5p://fccs.123178.top:9906/606ad7350009b854020c739e2f736ba0.ts
+スカイA,p5p://fccs.123178.top:9906/606ad4150004092602003d29e945df69.ts
+Outdoor,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3
+ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/612b2de2000a5ad7193ec497cb88e49e
+鉄道チャンネル,p5p://fccs.123178.top:9906/61301f7e0002bdc212aeb4a6d540a053
+NEWS24,p5p://fccs.123178.top:9906/613021d7000a68ce12b7e24441f4cfb8
+スターチャンネル1,p5p://fccs.123178.top:9906/61302b6a000dc2ab12dd4958b77f833b
+スーパー！ドラマＴＶ ＨＤ,p5p://fccs.123178.top:9906/61302d73000db3a012e53c7cd1e9177a
+MONDO TV HD,p5p://fccs.123178.top:9906/61302e42000279f712e862347218a36c
+ゴルフネットワークHD,p5p://fccs.123178.top:9906/61302f090005152e12eb6c37eeae8bab
+ＢＢＣワールドニュース,p5p://fccs.123178.top:9906/61302fe50000be7512eec67bb4ac73da
+CNN/US HD,p5p://fccs.123178.top:9906/61303c280001e288131eac7e0db9e362
+Music Japan TV HD,p5p://fccs.123178.top:9906/61303dbc000608d41324d7aeeb17f2bc
+MUSIC ON! TV,p5p://fccs.123178.top:9906/61303f31000d10fd132a8a82dbf19fcf
+ヒストリーチャンネル? HD,p5p://fccs.123178.top:9906/61303ffe0001880e132da856261d98a3
+ＡＸＮ ＨＤ 海外ドラマ,p5p://fccs.123178.top:9906/613040a4000bb70013303362ae9777c0
+ＫＢＳ Ｗｏｒｌｄ ＨＤ,p5p://fccs.123178.top:9906/61304331000d8a17133a2aa16e1d178f
+FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534a4ce
+スターチャンネル2,p5p://fccs.123178.top:9906/61302bf100033cee12df55fe298918e5
+アニマルプラネット,p5p://fccs.123178.top:9906/613023e6000a0a9d12bfecc45913b98d
+スターチャンネル３,p5p://fccs.123178.top:9906/61302cc00002634512e27e5f4198b069
+衛星劇場ＨＤ,p5p://fccs.123178.top:9906/61304873000e01d0134eb4904d6fb4b1
+ディスカバリーチャンネル,p5p://fccs.123178.top:9906/61304c42000cd1f9135d94da13743ea7
+旅チャンネルＨＤ,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
+ＷＯＷＯＷシネマ,p5p://fccs.123178.top:9906/61304e9b000de7111366c0c9937331df
+ＷＯＷＯＷライブ,p5p://fccs.123178.top:9906/61304f540009cbd713699264184e3d03
+ＷＯＷＯＷプライム,p5p://fccs.123178.top:9906/613052d00004a56c13772d73557bec0f
+テレ朝チャンネル２,p5p://fccs.123178.top:9906/6130534f000a1a9c13791ef03b67dca5
+テレ朝チャンネル１,p5p://fccs.123178.top:9906/613053d30008ee23137b2243f0fd5df7
+ミュージック?エア,p5p://fccs.123178.top:9906/61305515000a035f13800c5ae54329f3
+ＴＢＳチャンネル１,p5p://fccs.123178.top:9906/6130557b000b29c613819b16d82dba18
+フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907
+フジテレビＯＮＥ,p5p://fccs.123178.top:9906/613057db000b71fa138ae22888301964
