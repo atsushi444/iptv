@@ -20,3 +20,4 @@ CIBN古装剧场,http://womlive.cloud.wo.cn/tvlive/100031/otpzod_otpzod,100031_h
 CIBN经典剧场,http://womlive.cloud.wo.cn/tvlive/100032/otpzod_otpzod,100032_hls_pull_2000K_live.m3u8
 CIBN流金岁月,http://womlive.cloud.wo.cn/tvlive/100033/otpzod_otpzod,100033_hls_pull_2000K_live.m3u8
 CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
+CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
