@@ -24,3 +24,4 @@ UFC 3,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b60000
 iHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 先锋乒羽,http://womlive.cloud.wo.cn/tvlive/100071/otpzod_otpzod,100071_hls_pull_2000K_live.m3u8
+广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
