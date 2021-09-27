@@ -12,3 +12,6 @@
 浙江新闻台,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.flv
+佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.flv
+佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
