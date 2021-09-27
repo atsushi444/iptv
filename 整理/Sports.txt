@@ -25,3 +25,4 @@ iHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 先锋乒羽,http://womlive.cloud.wo.cn/tvlive/100071/otpzod_otpzod,100071_hls_pull_2000K_live.m3u8
 广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
+NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
