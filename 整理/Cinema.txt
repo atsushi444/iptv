@@ -33,9 +33,8 @@ NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiank
 NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-SiTV都市剧场 1080,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 四川影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 安徽影视,http://zbbf1.ahtv.cn/live/756.flv
