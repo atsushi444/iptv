@@ -27,3 +27,4 @@ iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
 NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+SiTV魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
