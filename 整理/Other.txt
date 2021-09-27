@@ -15,3 +15,4 @@ CIBN微电影,http://womlive.cloud.wo.cn/tvlive/100040/otpzod_otpzod,100040_hls_
 NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
 NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
+NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
