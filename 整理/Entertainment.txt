@@ -16,3 +16,4 @@ SiTV生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.
 广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
 西安都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.flv
