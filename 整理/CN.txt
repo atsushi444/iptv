@@ -83,7 +83,6 @@ CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888
 天津卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
 天津卫视,http://womlive.cloud.wo.cn/tvlive/100007/otpzod_otpzod,100007_hls_pull_2000K_live.m3u8
 天津卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hdtianjinstv/index.m3u8
-黑龙江卫视,http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
 黑龙江卫视,http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
 黑龙江卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 黑龙江卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hdheilongjiangstv/index.m3u8
@@ -105,7 +104,6 @@ CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888
 四川卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 贵州卫视,http://womlive.cloud.wo.cn/tvlive/100019/otpzod_otpzod,100019_hls_pull_2000K_live.m3u8
-吉林卫视,http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
 吉林卫视,http://womlive.cloud.wo.cn/tvlive/100005/otpzod_otpzod,100005_hls_pull_2000K_live.m3u8
 海南卫视,http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
 海南卫视,http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
