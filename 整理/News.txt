@@ -15,3 +15,6 @@
 佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.flv
 佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.flv
 佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
+佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.flv
+广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
+西安都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
