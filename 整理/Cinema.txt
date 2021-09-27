@@ -34,3 +34,4 @@ NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiank
 NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 上海影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
