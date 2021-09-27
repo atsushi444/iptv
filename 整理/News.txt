@@ -4,3 +4,6 @@
 上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 四川新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 安徽经济,http://zbbf1.ahtv.cn/live/750.flv
+徐州-1,http://stream1.huaihai.tv/xwzh/playlist.m3u8
+西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+西安资讯,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
