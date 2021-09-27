@@ -11,6 +11,7 @@ CIBN真人秀,http://womlive.cloud.wo.cn/tvlive/100039/otpzod_otpzod,100039_hls_
 NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
 上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 SiTV生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
