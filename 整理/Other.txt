@@ -13,6 +13,9 @@ CIBN纪录片,http://womlive.cloud.wo.cn/tvlive/100038/otpzod_otpzod,100038_hls_
 CIBN纪录片,http://iptv.inewya.com/qq494937337/others/cibn.php?id=7
 CIBN微电影,http://womlive.cloud.wo.cn/tvlive/100040/otpzod_otpzod,100040_hls_pull_2000K_live.m3u8
 CIBN微电影,http://iptv.inewya.com/qq494937337/others/cibn.php?id=16
+CIBN生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=19
+CIBN环球奇观,http://iptv.inewya.com/qq494937337/others/cibn.php?id=17
+CIBN东方教育,http://iptv.inewya.com/qq494937337/others/cibn.php?id=8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 郑州教育,http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_live.m3u8
 纪实人文,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
