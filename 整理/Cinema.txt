@@ -19,3 +19,4 @@ CIBN骄阳剧场,http://womlive.cloud.wo.cn/tvlive/100030/otpzod_otpzod,100030_h
 CIBN古装剧场,http://womlive.cloud.wo.cn/tvlive/100031/otpzod_otpzod,100031_hls_pull_2000K_live.m3u8
 CIBN经典剧场,http://womlive.cloud.wo.cn/tvlive/100032/otpzod_otpzod,100032_hls_pull_2000K_live.m3u8
 CIBN流金岁月,http://womlive.cloud.wo.cn/tvlive/100033/otpzod_otpzod,100033_hls_pull_2000K_live.m3u8
+CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
