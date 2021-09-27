@@ -1,5 +1,6 @@
 少儿频道,#genre#
 iHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+iHOT爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 iHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 CIBN动画乐园,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
 NewTV黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
