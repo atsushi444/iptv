@@ -30,3 +30,5 @@ NewTV惊悚悬疑,http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
 NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
 NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
 NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
