@@ -12,3 +12,5 @@ CIBN微电影,http://womlive.cloud.wo.cn/tvlive/100040/otpzod_otpzod,100040_hls_
 郑州教育,http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_live.m3u8
 纪实人文,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
