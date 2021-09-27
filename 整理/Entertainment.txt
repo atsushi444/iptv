@@ -6,3 +6,5 @@ iHOT爱时尚,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
 CIBN风尚运动,http://womlive.cloud.wo.cn/tvlive/100035/otpzod_otpzod,100035_hls_pull_2000K_live.m3u8
 CIBN真人秀,http://womlive.cloud.wo.cn/tvlive/100039/otpzod_otpzod,100039_hls_pull_2000K_live.m3u8
+快乐垂钓,http://womlive.cloud.wo.cn/tvlive/100070/otpzod_otpzod,100070_hls_pull_2000K_live.m3u8
+茶频道,http://womlive.cloud.wo.cn/tvlive/100072/otpzod_otpzod,100072_hls_pull_2000K_live.m3u8
