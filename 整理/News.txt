@@ -11,3 +11,4 @@
 浙江经济台,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江新闻台,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
