@@ -21,3 +21,6 @@ NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
 SiTV全纪实 1080,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 四川公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 西安健康,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江钱江台,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
