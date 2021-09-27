@@ -9,4 +9,5 @@ CIBN真人秀,http://womlive.cloud.wo.cn/tvlive/100039/otpzod_otpzod,100039_hls_
 快乐垂钓,http://womlive.cloud.wo.cn/tvlive/100070/otpzod_otpzod,100070_hls_pull_2000K_live.m3u8
 茶频道,http://womlive.cloud.wo.cn/tvlive/100072/otpzod_otpzod,100072_hls_pull_2000K_live.m3u8
 广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
+NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
