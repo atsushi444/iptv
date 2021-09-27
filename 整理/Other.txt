@@ -35,3 +35,4 @@ SiTV全纪实 1080,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.flv
+佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
