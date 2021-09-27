@@ -9,3 +9,4 @@
 斗鱼（欧美）,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 iHOT爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
 iHOT爱怀旧,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+iHOT爱江湖,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
