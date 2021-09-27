@@ -22,3 +22,10 @@ CIBN流金岁月,http://womlive.cloud.wo.cn/tvlive/100033/otpzod_otpzod,100033_h
 CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
 CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
 广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
+NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+NewTV军旅剧场,http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+NewTV动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
+NewTV家庭剧场,http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
+NewTV惊悚悬疑,http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
+NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
