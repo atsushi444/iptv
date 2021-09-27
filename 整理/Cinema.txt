@@ -17,10 +17,15 @@ iHOT爱都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 iHOT爱家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
 CIBN骄阳剧场,http://womlive.cloud.wo.cn/tvlive/100030/otpzod_otpzod,100030_hls_pull_2000K_live.m3u8
+CIBN骄阳剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=2
 CIBN古装剧场,http://womlive.cloud.wo.cn/tvlive/100031/otpzod_otpzod,100031_hls_pull_2000K_live.m3u8
+CIBN古装剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=6
 CIBN经典剧场,http://womlive.cloud.wo.cn/tvlive/100032/otpzod_otpzod,100032_hls_pull_2000K_live.m3u8
+CIBN经典剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=4
 CIBN流金岁月,http://womlive.cloud.wo.cn/tvlive/100033/otpzod_otpzod,100033_hls_pull_2000K_live.m3u8
+CIBN流金岁月,http://iptv.inewya.com/qq494937337/others/cibn.php?id=14
 CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
+CIBN综合,http://iptv.inewya.com/qq494937337/others/cibn.php?id=18
 CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
