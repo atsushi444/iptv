@@ -21,7 +21,6 @@ CIBN经典剧场,http://womlive.cloud.wo.cn/tvlive/100032/otpzod_otpzod,100032_h
 CIBN流金岁月,http://womlive.cloud.wo.cn/tvlive/100033/otpzod_otpzod,100033_hls_pull_2000K_live.m3u8
 CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
 CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
-广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
 NewTV军旅剧场,http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
 NewTV动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
@@ -32,12 +31,12 @@ NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
 NewTV黑莓电影,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
 NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
-NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 SiTV都市剧场 1080,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 四川影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 安徽影视,http://zbbf1.ahtv.cn/live/756.flv
 安徽影视,http://zbbf2.ahtv.cn/live/da9.m3u8
