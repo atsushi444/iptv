@@ -17,6 +17,7 @@ NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
 NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
 NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 SiTV全纪实 1080,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 四川公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
