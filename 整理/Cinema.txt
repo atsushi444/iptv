@@ -41,3 +41,6 @@ SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000
 四川影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 安徽影视,http://zbbf1.ahtv.cn/live/756.flv
 安徽影视,http://zbbf2.ahtv.cn/live/da9.m3u8
+安徽影视,http://zbbf2.ahtv.cn/live/758.m3u8
+安徽影视,http://zbbf2.ahtv.cn/live/754.m3u8
+安徽影视,http://zbbf2.ahtv.cn/live/752.m3u8
