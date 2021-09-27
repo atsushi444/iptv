@@ -3,3 +3,4 @@ iHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 CIBN动画乐园,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
 NewTV黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+SiTV动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
