@@ -8,3 +8,4 @@ iHOT爱历史,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱科学,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
 iHOT爱探索,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 CIBN纪录片,http://womlive.cloud.wo.cn/tvlive/100038/otpzod_otpzod,100038_hls_pull_2000K_live.m3u8
+CIBN微电影,http://womlive.cloud.wo.cn/tvlive/100040/otpzod_otpzod,100040_hls_pull_2000K_live.m3u8
