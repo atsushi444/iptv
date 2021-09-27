@@ -8,3 +8,4 @@ CIBN风尚运动,http://womlive.cloud.wo.cn/tvlive/100035/otpzod_otpzod,100035_h
 CIBN真人秀,http://womlive.cloud.wo.cn/tvlive/100039/otpzod_otpzod,100039_hls_pull_2000K_live.m3u8
 快乐垂钓,http://womlive.cloud.wo.cn/tvlive/100070/otpzod_otpzod,100070_hls_pull_2000K_live.m3u8
 茶频道,http://womlive.cloud.wo.cn/tvlive/100072/otpzod_otpzod,100072_hls_pull_2000K_live.m3u8
+广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
