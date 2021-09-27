@@ -44,5 +44,5 @@ SiTV欢笑剧场 1080,http://140.207.241.2:8080/live/program/live/hxjchd/4000000
 安徽影视,http://zbbf2.ahtv.cn/live/758.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/754.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/752.m3u8
-徐州-3,http://stream1.huaihai.tv/wyys/playlist.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
