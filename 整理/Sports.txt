@@ -1,6 +1,5 @@
 体育频道,#genre#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
@@ -30,4 +29,4 @@ iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
 NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
-SiTV魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
