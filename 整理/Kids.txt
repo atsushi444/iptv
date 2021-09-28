@@ -8,8 +8,8 @@ CIBN动漫剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12
 CIBN朵丫园动漫,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
 黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 黑莓动画,http://39.135.140.104:6610/PLTV/88888888/224/3221225672/2/index.m3u8
-SiTV动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV动漫秀场,http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
+动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+动漫秀场,http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8
 哈哈炫动,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
 IPTV淘BABY,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
