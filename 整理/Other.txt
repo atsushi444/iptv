@@ -61,7 +61,9 @@ SiTV全纪实,http://117.136.154.72/PLTV/88888888/224/3221225842/index.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/758.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/754.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/752.m3u8
+安徽影视,http://live1.ahwanyun.cn/wylive/9f8f237e-586a-4e53-ae57-8abc222ff0f1.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.flv
 佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.flv
+河东影视,http://jsylivealone302.iqilu.com/live/hedong_tv01.m3u8
 陶瓷,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
