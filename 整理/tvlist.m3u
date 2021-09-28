@@ -1,3 +1,55 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y2xxrgfk7v5ygz7x"
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iori444/iptv/main/%E6%95%B4%E7%90%86/logo/A/erotic.png" group-title="adult",Pink Erotic 1
-http://client.nodomain.vip:80/live.ts?channelId=96&uid=36826&deviceUser=29ZeljkoKukec&devicePass=vSOfu480Q8KDNIITvIim
+#EXTINF:-1 group-title="adult" tvg-logo="https://epg.ovh/logo/xxxVOD1.png",XXX1
+http://82.42.140.103:8001/1:0:1:43:1964:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://epg.ovh/logo/xxxVOD2.png",XXX2
+http://82.42.140.103:8001/1:0:1:44:1964:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/xxlpl.png",XXL
+http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight
+http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png",Dorcel TV
+http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://epg.ovh/logo/Private+TV+HD.png",Private TV
+http://82.42.140.103:8001/1:0:1:4222:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustler.png",Hustler TV
+http://82.42.140.103:8001/1:0:16:100B:451:35:C00000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/bluehustler.png",Blue Hustler HD
+http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
+http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
+http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/brazzerstv.png",Brazzers TV
+http://82.42.140.103:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/brazzerstv.png",Brazzers TV Europe
+http://82.42.140.103:8001/1:0:16:1009:451:35:C00000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtveurope.png",Vivid TV Europe
+http://82.42.140.103:8001/1:0:16:FE0:451:35:C00000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividtouch.png",Vivid Touch
+http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividred.png",Vivid Red HD
+http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/pinkotv.png",Pink O TV
+http://82.42.140.103:8001/1:0:1:52E:3D54:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/passionxxx.png",PassionXXX
+http://82.42.140.103:8001/1:0:16:52F:3D54:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/100x60/penthousehd.png",Penthouse HD
+http://82.42.140.103:8001/1:0:1:4224:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/penthousehd2.png",Penthouse 2 HD
+http://82.42.140.103:8001/1:0:16:421f:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://epg.ovh/logo/PENTHOUSE.png",Penthouse Black HD
+http://82.42.140.103:8001/1:0:16:421e:2f44:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/sextosenso.png",Sexst6senso TV
+http://82.42.140.103:8001/1:0:1:52D:3D54:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="",Prive
+http://82.42.140.103:8001/1:0:1:52C:3D54:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/GENERAL/sct.png",SCT
+http://82.42.140.103:8001/1:0:1:5e6:2f44:13e:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dusk.png",Dusk TV
+http://82.42.140.103:8001/1:0:1:35C1:1388:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/passiexxxnl.png",Passione TV
+http://82.42.140.103:8001/1:0:1:35C8:1388:13E:820000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Beate-uhse.tv_2018.svg/revision/latest/scale-to-width-down/300?cb=20210830041606",Beate Uhse TV
+http://82.42.140.103:8001/1:0:19:85:3:85:c00000:0:0:0:
+#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/playboytvhot.png",Playboy TV
+http://82.42.140.103:8001/1:0:1:1BC1:17D4:13E:820000:0:0:0:
