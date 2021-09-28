@@ -1,8 +1,9 @@
 影视频道,#genre#
 有线电影台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-北京IPTV淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-北京IPTV淘电影,http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+IPTV淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+IPTV淘电影,http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+IPTV淘剧场,http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u8
 天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
