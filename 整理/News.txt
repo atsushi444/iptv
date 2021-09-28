@@ -2,6 +2,7 @@
 广州新闻,http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8
 广州法治,http://womlive.cloud.wo.cn/tvlive/100087/otpzod_otpzod,100087_hls_pull_2000K_live.m3u8
 上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 四川新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 安徽经济,http://zbbf1.ahtv.cn/live/750.flv
 徐州-1,http://stream1.huaihai.tv/xwzh/playlist.m3u8
