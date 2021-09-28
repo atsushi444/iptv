@@ -44,10 +44,13 @@ SiTV全纪实,http://117.136.154.72/PLTV/88888888/224/3221225842/index.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江钱江台,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 郑州教育,http://womlive.cloud.wo.cn/tvlive/100096/otpzod_otpzod,100096_hls_pull_2000K_live.m3u8
 四川公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 四川影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
