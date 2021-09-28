@@ -3,5 +3,5 @@ iHOT爱电竞,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 黑莓电竞,http://183.207.248.71:80/cntv/live1/wmyx/wmyx
 黑莓电竞,http://39.135.140.104:6610/PLTV/88888888/224/3221225653/2/index.m3u8
 CIBN全电竞,http://iptv.inewya.com/qq494937337/others/cibn.php?id=9
-SiTV游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-SiTV游戏风云,http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
+游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+游戏风云,http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
