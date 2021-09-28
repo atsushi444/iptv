@@ -1,6 +1,7 @@
 新闻频道,#genre#
 广州新闻,http://womlive.cloud.wo.cn/tvlive/100085/otpzod_otpzod,100085_hls_pull_2000K_live.m3u8
 广州法治,http://womlive.cloud.wo.cn/tvlive/100087/otpzod_otpzod,100087_hls_pull_2000K_live.m3u8
+广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
 上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 四川新闻,http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
@@ -9,12 +10,14 @@
 徐州-3,http://stream1.huaihai.tv/wyys/playlist.m3u8
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 西安资讯,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-浙江经济台,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江新闻台,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+西安都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.flv
 佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.flv
 佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.flv
-广州综合,http://womlive.cloud.wo.cn/tvlive/100084/otpzod_otpzod,100084_hls_pull_2000K_live.m3u8
-西安都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+
