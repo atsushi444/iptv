@@ -31,19 +31,19 @@ CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
 CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+黑莓电影,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+黑莓电影,http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8
+SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV都市剧场,http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8
 NewTV军旅剧场,http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
 NewTV动作电影,http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
 NewTV家庭剧场,http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
 NewTV惊悚悬疑,http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
 NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
-黑莓电影,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
-黑莓电影,http://39.135.140.104:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
-NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
 NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
-SiTV都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV都市剧场,http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8
+NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
 广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
 四川峨眉电影,http://60.255.49.202/live/emdygqH265_4000.m3u8
 
