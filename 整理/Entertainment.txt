@@ -11,5 +11,6 @@ CIBN风尚运动,http://womlive.cloud.wo.cn/tvlive/100035/otpzod_otpzod,100035_h
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 快乐垂钓,http://womlive.cloud.wo.cn/tvlive/100070/otpzod_otpzod,100070_hls_pull_2000K_live.m3u8
 茶频道,http://womlive.cloud.wo.cn/tvlive/100072/otpzod_otpzod,100072_hls_pull_2000K_live.m3u8
+茶频道,http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海外语,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
