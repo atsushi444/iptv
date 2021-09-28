@@ -18,12 +18,12 @@ CIBN环球奇观,http://iptv.inewya.com/qq494937337/others/cibn.php?id=17
 CIBN东方教育,http://iptv.inewya.com/qq494937337/others/cibn.php?id=8
 CIBN品质生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=11
 CIBN好物,http://iptv.inewya.com/qq494937337/others/cibn.php?id=15
-NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
 NewTV军事评论,http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
+NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
-NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
 NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
 北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
