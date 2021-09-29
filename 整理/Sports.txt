@@ -30,3 +30,4 @@ NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
 NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
 NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
