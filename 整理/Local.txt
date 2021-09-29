@@ -86,3 +86,5 @@
 山东奎文,http://jsylivealone302.iqilu.com/live/kuiwen_tv01/index.m3u8
 山东单县综合,http://jsylivealone302.iqilu.com/live/shanxian_tv01/index.m3u8
 山东乳山1套,http://jsylivealone302.iqilu.com/live/rushan_tv01.m3u8
+广州影视,http://womlive.cloud.wo.cn/tvlive/100086/otpzod_otpzod,100086_hls_pull_2000K_live.m3u8
+四川峨眉电影,http://60.255.49.202/live/emdygqH265_4000.m3u8
