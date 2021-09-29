@@ -26,11 +26,12 @@ NewTV农业致富,http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
 NewTV精品综合,http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
+NewTV怡伴健康,http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+IPTV大健康,http://39.135.238.67/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
 北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
-IPTV大健康,http://39.135.238.67/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 纪实人文,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 纪实人文,http://117.136.154.98/PLTV/88888888/224/3221225695/index.m3u8
