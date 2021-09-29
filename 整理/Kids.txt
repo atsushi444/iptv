@@ -13,4 +13,5 @@ CIBN朵丫乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
 哈哈炫动,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
 IPTV淘BABY,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+卡酷少儿,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
+
