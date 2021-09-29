@@ -5,7 +5,7 @@ iHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 CIBN动画乐园,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
 CIBN动画乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0
 CIBN动漫剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12
-CIBN朵丫园动漫,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
+CIBN朵丫乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
 黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 黑莓动画,http://39.135.140.104:6610/PLTV/88888888/224/3221225672/2/index.m3u8
 动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
