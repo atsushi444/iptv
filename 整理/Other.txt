@@ -13,7 +13,6 @@ BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 罪案侦缉频道,,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 
 #__#
-
 国家地理,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
 探索频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
