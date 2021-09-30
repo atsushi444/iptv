@@ -1,4 +1,15 @@
 其他频道,#genre#
+探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
+探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
+探索科学,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
+探索动力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
+日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
+
+#__#
+
+国家地理,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
+探索频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
+探索亚洲,http://125.227.210.37:10388/VideoInput/play.ts
 iHOT爱世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 iHOT爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 iHOT爱解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
