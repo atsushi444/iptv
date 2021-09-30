@@ -1,4 +1,11 @@
 #__#
+Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
+Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
+Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
+Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
+Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
+
+#__#
 XXX1,http://82.42.140.103:8001/1:0:1:43:1964:13E:820000:0:0:0:
 XXX2,http://82.42.140.103:8001/1:0:1:44:1964:13E:820000:0:0:0:
 Private TV,http://82.42.140.103:8001/1:0:1:4222:3DB8:13E:820000:0:0:0:
