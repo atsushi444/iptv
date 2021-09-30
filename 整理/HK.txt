@@ -120,8 +120,6 @@ TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
 纬来育乐,rtmp://59.124.75.136/sat/tv701
 纬来体育,rtmp://59.124.75.136/sat/tv721
 MOMO综合台,rtmp://59.124.75.136/sat/tv761
-卫视中文台,http://50.7.61.148:30080/Entry/starchinese
-TVBS HD,http://50.7.61.148:30080/Entry/tvbs
 
 #__#
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -227,3 +225,5 @@ HBO,http://125.227.210.37:16027/VideoInput/play.ts
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+卫视中文台,http://50.7.61.148:30080/Entry/starchinese
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
