@@ -76,12 +76,6 @@ Fox family MOVIES,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
 Fox family MOVIES,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
 采昌影剧,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 HBO,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
-探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
-探索亚洲,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55.ts
-探索科学,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
-探索动力 DMAX,p5p://fccs.123178.top:9906/6043467c000301e806be22909a147731
-日本旅游频道,p5p://fccs.123178.top:9906/61304d2b000a9536136122700ecd28a5
-Eleven运动台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Z 频道,p5p://fccs.123178.top:9906/60446c7f000b970f015ab58bf1266ed0.ts
 法国时装,p5p://fccs.123178.top:9906/6131917c000da76e1853ffa122f43950
 时尚疯高清频道,p5p://fccs.123178.top:9906/61318fef00087c22184def86f768df3e
@@ -94,13 +88,6 @@ FX-HD,p5p://fccs.123178.top:9906/60440f3c000c153709ce52e28565fc29.ts
 TLC旅游,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
 TVBS精彩台,p5p://fccs.123178.top:9906/610ccbbc000ada220a2a333a700ad566
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
-动物星球,p5p://fccs.123178.top:9906/60440362000e75bc09a007eeaa0519c7.ts
-国家地理,p5p://fccs.123178.top:9906/6043485f000c065106c583978afda437.ts
-国家地理人文,p5p://fccs.123178.top:9906/6043ffe3000c6f3709925f52585be323.ts
-国家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-探索频道,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a
-BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
-罪案侦缉频道,,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
 卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 HD电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 HD电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
@@ -232,8 +219,6 @@ TVBS新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3
 幸福空间居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 星空卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/startv.m3u8
-国家地理,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
-探索频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
