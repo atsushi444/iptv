@@ -1,8 +1,12 @@
 体育频道,#genre#
+ELTA体育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
+ELTA体育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 
 #__#
 ELEVEN1,rtmp://59.124.75.136/sat/tv731
 ELEVEN2,rtmp://59.124.75.136/sat/tv741
+ELTA体育1,rtmp://59.124.75.136/sat/md011
+ELTA体育1,rtmp://59.124.75.136/sat/md041
 
 #__#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
