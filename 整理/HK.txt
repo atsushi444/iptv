@@ -115,10 +115,13 @@ HD电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
 凤凰资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯台,http://stream.guihet.com/t/ifeng2.php?id=1
+凤凰资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文台,http://stream.guihet.com/t/ifeng2.php?id=2
 凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+凤凰中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
