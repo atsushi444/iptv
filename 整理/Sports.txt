@@ -32,6 +32,7 @@ ELTA体育1,rtmp://161.202.204.248/sat/md041
 弈壇春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
 ELEVEN1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+ELEVEN1,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
