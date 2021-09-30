@@ -209,3 +209,5 @@ TVBS新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3
 探索频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
