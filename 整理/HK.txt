@@ -24,7 +24,6 @@ TVB J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 中视经典,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 华视,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
 BOOMERANG,p5p://fccs.123178.top:9906/60447a4a00022e630190941a11afdf8e.ts
-博斯高球2,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
 Animax HD,p5p://fccs.123178.top:9906/611a8d5a000710970c22409682924b74
 ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
@@ -46,8 +45,6 @@ CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 八大戏剧台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 ELTA综合,,p5p://fccs.123178.top:9906/60689fa0000c9dae134f712965a8f823.ts
-ELTA体育1台,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
-ELTA体育3台,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 靖天日本台,p5p://fccs.123178.top:9906/6045b8aa000389cf066c3b7385e82ede.ts
 靖天卡通台,p5p://fccs.123178.top:9906/60bd172500015f0f095802a7f2bd13c9
 靖天映画,p5p://fccs.123178.top:9906/6045ba850003d28406737afe6daf6f4d.ts
@@ -109,6 +106,22 @@ BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 卫视中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 HD电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 HD电影,p5p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
+
+#__#
+民视,rtmp://59.124.75.136/sat/tv051
+台视,rtmp://59.124.75.136/sat/tv071
+中视,rtmp://59.124.75.136/sat/tv091
+华视,rtmp://59.124.75.136/sat/tv111
+TVBS新闻台,rtmp://59.124.75.136/sat/tv551
+TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
+东森财经新闻,rtmp://59.124.75.136/sat/tv571
+东森超视,rtmp://59.124.75.136/sat/tv521
+纬来日本,rtmp://59.124.75.136/sat/tv771
+纬来育乐,rtmp://59.124.75.136/sat/tv701
+纬来体育,rtmp://59.124.75.136/sat/tv721
+MOMO综合台,rtmp://59.124.75.136/sat/tv761
+卫视中文台,http://50.7.61.148:30080/Entry/starchinese
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
 
 #__#
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
