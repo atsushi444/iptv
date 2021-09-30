@@ -197,6 +197,9 @@ ONE,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
 Thrill电影台,http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
 Thrill电影台,http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 MOMO综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
