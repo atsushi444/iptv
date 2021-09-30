@@ -5,6 +5,7 @@ hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/mpegts
+HARD X (UK),http://51.15.0.141:88/blacked_hd/index.m3u8
 #__#
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
