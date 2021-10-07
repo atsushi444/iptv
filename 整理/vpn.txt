@@ -1,1 +1,22 @@
 备用频道（需梯子）,#genre#
+中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+民視,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民視台灣,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+民視第一,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民視新聞,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+華視,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+華視教育體育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+華視新聞,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+無綫新聞,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+TVB明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+無綫財經資訊,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
