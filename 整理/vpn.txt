@@ -20,3 +20,5 @@ RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
+
