@@ -131,6 +131,7 @@ TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 
 #__#
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
