@@ -21,4 +21,18 @@ RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 Viu TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 Viu TV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
-
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+MOMO綜合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+海豚綜合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+法國24電視,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+阿里郎電視,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+寰宇新聞,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亞洲旅遊,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+博斯運動II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
