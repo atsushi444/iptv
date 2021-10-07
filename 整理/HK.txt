@@ -120,18 +120,22 @@ ELEVEN2,rtmp://161.202.204.248/sat/md041
 MOMO綜合,rtmp://161.202.204.248/sat/tv761
 博斯运动2,rtmp://161.202.204.248/sat/md051
 
-#__#
+#__#1080
+壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+
+#__#720
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
 無綫財經資訊,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 天映頻道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
-天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 東森電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 龍翔時代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
-壹新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+
+#__#SD
+天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 
 #__#
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
