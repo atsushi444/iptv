@@ -133,6 +133,12 @@ TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 緯來電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 TVBS新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+三立新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+民視新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+非凡新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+衛視電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+美亞電影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 
 #__#SD
 天映經典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
