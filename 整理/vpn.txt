@@ -51,3 +51,17 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+TVBS新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
+台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+華視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
+中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
+中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+TVBS新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
+三立iNews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+東森新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcnews.m3u8
+東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
+幸福空間居家,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
