@@ -1,7 +1,6 @@
 港台频道,#genre#
 凤凰资讯台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
 凤凰中文台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
-凤凰中文台,p5p://fccs.123178.top:9906/60447d38000deb8b019c08cb6ec7c4d9.ts
 凤凰香港台,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
 TVB翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
 TVB明珠台,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
@@ -125,7 +124,6 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 凤凰资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
@@ -155,8 +153,3 @@ TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-
-#__#SD
-凤凰资讯台,http://stream.guihet.com/t/ifeng2.php?id=1
-凤凰中文台,http://stream.guihet.com/t/ifeng2.php?id=2
-天映经典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
