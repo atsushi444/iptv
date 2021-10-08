@@ -163,7 +163,6 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 凤凰中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-华丽翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 TVB财经资讯,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
