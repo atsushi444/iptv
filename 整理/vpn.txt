@@ -1,4 +1,7 @@
 备用频道（需梯子）,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+澳门-MACAU,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist.m3u8
 中視,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中視經典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中視菁采,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
