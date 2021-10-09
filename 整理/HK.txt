@@ -147,7 +147,6 @@ TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
