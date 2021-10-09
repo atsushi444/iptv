@@ -136,6 +136,10 @@ ELEVEN2,rtmp://161.202.204.248/sat/md051
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
+无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
 无线财经信息,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
@@ -152,19 +156,3 @@ TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-民視新聞,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
-台視新聞,http://sytv.xtvants.fun/mytv.php?id=tsxw&token=free&user=free
-中視新聞,http://sytv.xtvants.fun/mytv.php?id=zsxw&token=free&user=free
-華視新聞,http://sytv.xtvants.fun/mytv.php?id=hsxw&token=free&user=free
-東森新聞,http://sytv.xtvants.fun/mytv.php?id=dsxw&token=free&user=free
-中天新聞,http://sytv.xtvants.fun/mytv.php?id=ztxw&token=free&user=free
-三立新聞,http://sytv.xtvants.fun/mytv.php?id=slxw&token=free&user=free
-TVBS,http://sytv.xtvants.fun/mytv.php?id=tvbsxw&token=free&user=free
-年代新聞,http://sytv.xtvants.fun/mytv.php?id=ndxw&token=free&user=free
-非凡新聞,http://sytv.xtvants.fun/mytv.php?id=ffxw&token=free&user=free
-寰宇新聞,http://sytv.xtvants.fun/mytv.php?id=hyxw&token=free&user=free
-寰宇新聞2,http://sytv.xtvants.fun/mytv.php?id=hyxw2&token=free&user=free
-TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
-无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
