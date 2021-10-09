@@ -142,7 +142,6 @@ ELEVEN2,rtmp://161.202.204.248/sat/md051
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
 无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
@@ -260,3 +259,4 @@ Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
 龙祥电影,http://sytv.xtvants.fun/mytv.php?id=lxsd&token=free&user=free
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
