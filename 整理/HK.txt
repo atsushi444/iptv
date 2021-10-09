@@ -135,11 +135,13 @@ ELEVEN2,rtmp://161.202.204.248/sat/md051
 凤凰资讯台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
+凤凰资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰中文台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
