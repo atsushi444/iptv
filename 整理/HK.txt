@@ -122,6 +122,7 @@ ELEVEN2,rtmp://161.202.204.248/sat/md051
 壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 東森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
+東森超視,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 
