@@ -1,1 +1,37 @@
 海外频道,#genre#
+TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Astro 爱奇艺,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Oh!K,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+求索科学,http://39.135.135.71:80/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索生活,http://39.135.135.38:80/PLTV/88888888/224/3221225715/index.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+CBC News,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+时尚频道,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
