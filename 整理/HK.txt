@@ -96,8 +96,8 @@ TVBS新闻,rtmp://59.124.75.136/sat/tv551
 ELEVEN1,rtmp://59.124.75.136/sat/tv731
 ELEVEN2,rtmp://59.124.75.136/sat/tv741
 MOMO综合,rtmp://59.124.75.136/sat/tv761
-ELTA體育3,rtmp://59.124.75.136/sat/md011
-ELTA體育2,rtmp://59.124.75.136/sat/md021
+ELTA体育3,rtmp://59.124.75.136/sat/md011
+ELTA体育2,rtmp://59.124.75.136/sat/md021
 ELEVEN+,rtmp://59.124.75.136/sat/md031
 博斯网球,rtmp://59.124.75.136/sat/md041
 博斯魅力,rtmp://59.124.75.136/sat/md051
@@ -114,8 +114,8 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551
 ELEVEN1,rtmp://161.202.204.248/sat/tv731
 ELEVEN2,rtmp://161.202.204.248/sat/tv741
 MOMO综合,rtmp://161.202.204.248/sat/tv761
-ELTA體育3,rtmp://161.202.204.248/sat/md011
-ELTA體育2,rtmp://161.202.204.248/sat/md021
+ELTA体育3,rtmp://161.202.204.248/sat/md011
+ELTA体育2,rtmp://161.202.204.248/sat/md021
 ELEVEN+,rtmp://161.202.204.248/sat/md031
 博斯网球,rtmp://161.202.204.248/sat/md041
 博斯魅力,rtmp://161.202.204.248/sat/md051
