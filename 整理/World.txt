@@ -1,5 +1,6 @@
 海外频道,#genre#
 TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -19,6 +20,7 @@ Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 Oh!K,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Oh!K,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
 One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
