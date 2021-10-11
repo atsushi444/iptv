@@ -184,18 +184,18 @@ Playboy TV,http://82.42.140.103:8001/1:0:1:1BC1:17D4:13E:820000:0:0:0:
 +18 Sexy Hot,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13414
 
 #__#
-XXX Penthouse Passion HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105894
-XXX Penthouse Gold,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/40411
-XXX Penthouse Quickies HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/6669
-XXX Private TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/28852
-XXX Reality Kings TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24289
-XXX Redlight HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/17987
-XXX Super One HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/15976
-XXX Sextosenso,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24164
-XXX Visit-X TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88605
-XXX Vivid RED,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88606
-XXX Xy MAX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105896
-XXX Xy MIX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105895
+XXX: Penthouse Passion HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105894
+XXX: Penthouse Gold,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/40411
+XXX: Penthouse Quickies HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/6669
+XXX: Private TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/28852
+XXX: Reality Kings TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24289
+XXX: Redlight HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/17987
+XXX: Super One HD,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/15976
+XXX: Sextosenso,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/24164
+XXX: Visit-X TV,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88605
+XXX: Vivid RED,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/88606
+XXX: Xy MAX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105896
+XXX: Xy MIX,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/105895
 XXX: Erotic 01,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139308
 XXX: Erotic 02,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139309
 XXX: Erotic 03,http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/139310
@@ -226,11 +226,11 @@ XXX Penthouse Quickies HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/6669
 XXX Private TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/28852
 XXX Reality Kings TV,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/24289
 XXX Redlight HD,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/17987
-XXX: Erotic 01,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139308
-XXX: Erotic 02,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139309
-XXX: Erotic 03,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139310
-XXX: Erotic 04,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139311
-XXX: Hot Club,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139319
+XXX Erotic 01,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139308
+XXX Erotic 02,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139309
+XXX Erotic 03,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139310
+XXX Erotic 04,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139311
+XXX Hot Club,http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/139319
 
 #__#
 XXX-2,http://on7.media:8080/aydar/b7p6rzZhEU/246
