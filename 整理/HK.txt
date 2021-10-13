@@ -14,7 +14,7 @@ MOMO综合,rtmp://59.124.75.136/sat/tv761
 纬来日本,rtmp://161.202.204.248/sat/tv771
 MOMO综合,rtmp://161.202.204.248/sat/tv761
 
-#__#1080
+#__#
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -26,48 +26,25 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
-中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
-三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
-#__#720
 凤凰中文台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
-天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
-东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
-三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
-民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
-年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
-非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
-卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
-天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 台视综合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 华视教育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公视台语,http://sytv.xtvants.fun/mytv.php?id=gs2&token=free&user=free
 公视3,http://sytv.xtvants.fun/mytv.php?id=gs3&token=free&user=free
 东森综合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
-东森戏剧,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
-东森洋片,http://sytv.xtvants.fun/mytv.php?id=dsyp&token=free&user=free
-东森电影,http://sytv.xtvants.fun/mytv.php?id=dsdy&token=free&user=free
-中天娱乐,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
 三立台湾,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
-三立财经,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
 三立综合,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
-三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
-MTV综合,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 东风卫视,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
-壹电影,http://sytv.xtvants.fun/mytv.php?id=ydy&token=free&user=free
-龙华偶像,http://sytv.xtvants.fun/mytv.php?id=lhox&token=free&user=free
-龙华洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
-卫视电影,http://sytv.xtvants.fun/mytv.php?id=wsdy&token=free&user=free
