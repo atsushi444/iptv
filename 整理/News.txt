@@ -22,3 +22,4 @@ TVBS新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 年代新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 非凡新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
 壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
+三立财经,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
