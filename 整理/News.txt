@@ -6,18 +6,19 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551
 
 #__#
 凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰卫视资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰卫视资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰卫视资讯台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰卫视资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰卫视资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰卫视资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
-壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
-无线财经·资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+凤凰卫视资讯台,,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
+无线财经资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVBS新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 三立新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 民视新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
 年代新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 非凡新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
