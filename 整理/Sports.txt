@@ -1,10 +1,4 @@
 体育频道,#genre#
-ELTA体育1,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
-ELTA体育3,p5p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
-博斯高球2,p5p://fccs.123178.top:9906/604477b3000746210186779063f54d2a.ts
-Eleven1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-
-#__#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
