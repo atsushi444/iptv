@@ -17,17 +17,6 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 #__#1080
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
-中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
-三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
-
-#__#720
-凤凰资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-凤凰资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
@@ -35,6 +24,13 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
+中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
+
+#__#720
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
 无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
 凤凰资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
