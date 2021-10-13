@@ -19,6 +19,5 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551
 TVBS新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 三立新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 民视新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
-民视新闻台,http://sytv.xtvants.fun/mytv.php?id=msxw&token=free&user=free
 年代新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
 非凡新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
