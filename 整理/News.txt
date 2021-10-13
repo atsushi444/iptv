@@ -7,12 +7,6 @@
 寰宇新闻2台,p5p://fccs.123178.top:9906/60434c6b000d588a06d552cd4d7910ec.ts
 
 #__#
-TVBS新闻台,rtmp://59.124.75.136/sat/tv551
-TVBS新闻台,rtmp://161.202.204.248/sat/tv551
-东森财经新闻,rtmp://59.124.75.136/sat/tv571
-东森财经新闻,rtmp://161.202.204.248/sat/tv571
-
-#__#
 TVB新闻台,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立Live新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
