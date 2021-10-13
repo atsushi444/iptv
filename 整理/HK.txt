@@ -15,8 +15,6 @@ MOMO综合,rtmp://59.124.75.136/sat/tv761
 MOMO综合,rtmp://161.202.204.248/sat/tv761
 
 #__#1080
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
