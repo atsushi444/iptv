@@ -29,14 +29,10 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
 三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
-
-#__#720
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
-无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
-凤凰资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
+#__#720
 凤凰中文台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-无线财经资讯,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
