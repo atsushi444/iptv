@@ -19,11 +19,8 @@ MOMO综合,rtmp://161.202.204.248/sat/tv761
 凤凰资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
-东森幼幼,http://sytv.xtvants.fun/mytv.php?id=dsyy&token=free&user=free
 东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
 三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
