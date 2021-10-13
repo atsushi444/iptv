@@ -45,7 +45,7 @@ TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
 凤凰资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 凤凰中文台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw
 TVB J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
-无线财经信息,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+无线财经资讯,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
