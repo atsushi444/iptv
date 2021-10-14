@@ -1,6 +1,4 @@
 韩国频道,#genre#
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 BBS Buddhist Broadcasting[1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
