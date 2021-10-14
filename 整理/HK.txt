@@ -24,6 +24,7 @@ MOMO综合,rtmp://59.124.75.157/sat/tv761
 凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
