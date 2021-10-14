@@ -15,6 +15,7 @@ ELTA体育2,rtmp://161.202.204.248/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
 ELTA体育2,rtmp://161.202.204.248/sat/md051
+博斯网球,rtmp://59.124.75.157/sat/md011  
 
 #__#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
