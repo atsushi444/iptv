@@ -1,9 +1,11 @@
 海外频道,#genre#
-TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV8,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
@@ -18,15 +20,19 @@ Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Astro Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 Oh!K,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 Oh!K,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
 One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 求索科学,http://39.135.135.71:80/PLTV/88888888/224/3221225728/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
