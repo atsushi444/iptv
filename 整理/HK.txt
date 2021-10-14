@@ -51,3 +51,4 @@ JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
