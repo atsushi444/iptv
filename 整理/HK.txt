@@ -50,10 +50,12 @@ JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
 TVB翡翠,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
 Viutv,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
 ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+有线综合娱乐台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
