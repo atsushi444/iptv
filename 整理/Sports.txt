@@ -26,6 +26,7 @@ TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 UFC 3,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+有线603,https://p2.weizan.cn/1646497941/726330645979324847/live.m3u8
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
