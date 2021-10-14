@@ -1,5 +1,7 @@
 影视频道,#genre#
 天映频道,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+天映经典,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
+纬来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
 卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
