@@ -12,7 +12,6 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551
 凤凰卫视资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰卫视资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰卫视资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
-无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
 壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
 凤凰卫视资讯台,,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 无线财经资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
@@ -23,3 +22,6 @@ TVBS新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 非凡新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
 壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 三立财经,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
+无线新闻台,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
+有线新闻台,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
+无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
