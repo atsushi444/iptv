@@ -60,3 +60,8 @@ Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有线直播台,https://api.leonardpark.dev/live/icable/110
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
