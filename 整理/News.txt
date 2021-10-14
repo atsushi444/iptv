@@ -13,7 +13,6 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551
 凤凰卫视资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰卫视资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
-凤凰卫视资讯台,,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx
 无线财经资讯台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
 TVBS新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
 三立新闻台,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
