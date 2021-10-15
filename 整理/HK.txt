@@ -35,6 +35,7 @@ TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
 TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
 东森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free
 中天综合,http://sytv.xtvants.fun/mytv.php?id=ztzh&token=free&user=free
+中天娱乐,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
 三立都会,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 台视综合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 华视教育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
