@@ -7,4 +7,3 @@ MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-KBS,http://luotuo.ycchenrong.cn/dl/youku.php?id=8034767
