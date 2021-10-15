@@ -3,7 +3,6 @@ TVBS欢乐,rtmp://59.124.75.136/sat/tv421
 TVBS欢乐,rtmp://161.202.204.248/sat/tv421
 
 #__#
-中天娱乐,http://sytv.xtvants.fun/mytv.php?id=ztyl&token=free&user=free
 IPTV淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 IPTV淘娱乐,http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 IPTV淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
