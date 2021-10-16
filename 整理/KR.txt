@@ -16,4 +16,4 @@ KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
 Arirang,,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-
+KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
