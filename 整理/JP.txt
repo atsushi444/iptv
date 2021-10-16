@@ -45,3 +45,11 @@ FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534
 TV5 Monde,p5p://fccs.123178.top:9906/6046414f0008aa040882014b96694a71.ts
 BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
 Disney XD Japan,p5p://fccs.123178.top:9906/61302a8a0007ce5412d9dcd227424d50.ts
+AT-X,https://sub2.neetball.net/live/neet.m3u8
+GAORA SPORTS,rtmp://59.124.75.136/sat/jp011
+J SPORTS 2,rtmp://59.124.75.136/sat/jp021
+日テレジータス,rtmp://59.124.75.136/sat/jp031
+日テレNEWS24,rtmp://59.124.75.136/sat/jp041
+フジテレビONE,rtmp://59.124.75.136/sat/jp051
+BSスカパー!,rtmp://59.124.75.136/sat/jp061
+J SPORTS 2,rtmp://59.124.75.136/sat/jp071
