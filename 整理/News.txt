@@ -32,4 +32,5 @@ TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
