@@ -15,7 +15,7 @@ SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-NYX MEDIA,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
 XXL,http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
 Blue Hustler HD,http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
