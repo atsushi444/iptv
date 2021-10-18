@@ -21,7 +21,6 @@ RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 寰宇新闻,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-博斯运动II,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -40,9 +39,6 @@ RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
-Eleven1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-Eleven2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有线直播台,https://api.leonardpark.dev/live/icable/110
