@@ -63,9 +63,18 @@ AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+中视经典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
 华视教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+国会频道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+
 
