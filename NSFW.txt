@@ -13,8 +13,6 @@ Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Hot,http://185.236.229.21:9981/play/a03p
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-French Lover,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
-Playboy,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
 Rouge TV,https://edge2.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
