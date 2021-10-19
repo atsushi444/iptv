@@ -45,7 +45,9 @@ CIBN流金岁月,http://iptv.inewya.com/qq494937337/others/cibn.php?id=14
 CIBN综合,http://womlive.cloud.wo.cn/tvlive/100041/otpzod_otpzod,100041_hls_pull_2000K_live.m3u8
 CIBN综合,http://iptv.inewya.com/qq494937337/others/cibn.php?id=18
 CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 CHC动作电影,http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
 CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 黑莓电影,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
