@@ -13,6 +13,16 @@ XXX_Redlight_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
 XXX_Sext6senso,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/14
 
 #__#
++18 Dorcel Tv 1,http://iptv.csserv.co:8000/live/clientr725/631739/4448.m3u8
++18 Alba XXX-HD2,http://iptv.csserv.co:8000/live/clientr725/631739/4447.m3u8
++18 Alba XXX-HD1,http://iptv.csserv.co:8000/live/clientr725/631739/4446.m3u8
++18 HUSTLER,http://iptv.csserv.co:8000/live/clientr725/631739/4444.m3u8
++18 Jasmin TV,http://iptv.csserv.co:8000/live/clientr725/631739/3766.m3u8
++18 PENTHOUSE,http://iptv.csserv.co:8000/live/clientr725/631739/2006.m3u8
++18 REDLIGHT HD,http://iptv.csserv.co:8000/live/clientr725/631739/2005.m3u8
++18 SCT HD,http://iptv.csserv.co:8000/live/clientr725/631739/1516.m3u8
+
+#__#
 XXX: SEXY HOT FHD,http://paineliptv8.xyz:2082/389419/845472/9445
 COROAS GOSTOSAS,http://paineliptv8.xyz:2082/389419/845472/82750
 XXX: PLAYBOY SD,http://paineliptv8.xyz:2082/389419/845472/9446
