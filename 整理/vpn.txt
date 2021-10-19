@@ -68,3 +68,13 @@ RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
+澳視綜藝,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+澳门Macau,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+澳门体育,http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+澳视澳门,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+澳视葡文,http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.m3u8
+東森洋片,http://125.227.210.37:18685/VideoInput/play.m3u8
+東森戲劇,http://125.227.210.37:17524/VideoInput/play.m3u8
