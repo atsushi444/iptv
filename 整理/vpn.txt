@@ -67,3 +67,4 @@ AXN,http://50.7.61.148:30080/Entry/axn
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
