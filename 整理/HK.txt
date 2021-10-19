@@ -80,5 +80,5 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 华视教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 国会频道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
 国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-
+韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
