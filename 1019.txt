@@ -21,6 +21,28 @@ XXX_Sext6senso,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/14
 +18 PENTHOUSE,http://iptv.csserv.co:8000/live/clientr725/631739/2006.m3u8
 +18 REDLIGHT HD,http://iptv.csserv.co:8000/live/clientr725/631739/2005.m3u8
 +18 SCT HD,http://iptv.csserv.co:8000/live/clientr725/631739/1516.m3u8
++18 Adult_3,http://iptv.csserv.co:8000/live/clientr725/631739/1461.ts
++18 Adult_4,http://iptv.csserv.co:8000/live/clientr725/631739/1460.ts
++18 Adult_5,http://iptv.csserv.co:8000/live/clientr725/631739/1459.ts
++18 DORCEL TV HD,http://iptv.csserv.co:8000/live/clientr725/631739/1517.ts
++18 Brazzers HD,http://iptv.csserv.co:8000/live/clientr725/631739/2009.ts
++18 VENUS,http://iptv.csserv.co:8000/live/clientr725/631739/2008.ts
++18 Adult_7,http://iptv.csserv.co:8000/live/clientr725/631739/1998.ts
++18 playboyv,http://iptv.csserv.co:8000/live/clientr725/631739/1803.ts
++18 SESTO SENSO TV,http://iptv.csserv.co:8000/live/clientr725/631739/2002.ts
++18 DORCEL,http://iptv.csserv.co:8000/live/clientr725/631739/4451.ts
++18 VIVID RED,http://iptv.csserv.co:8000/live/clientr725/631739/4450.ts
++18 Evil Angel,http://iptv.csserv.co:8000/live/clientr725/631739/4449.ts
++18 PASSION XXX,http://iptv.csserv.co:8000/live/clientr725/631739/4445.ts
++18 Erox XXX,http://iptv.csserv.co:8000/live/clientr725/631739/2004.ts
++18 Adult_12,http://iptv.csserv.co:8000/live/clientr725/631739/2003.ts
++18 RUSSKAYA NOCH,http://iptv.csserv.co:8000/live/clientr725/631739/2001.ts
++18 O LA LA,http://iptv.csserv.co:8000/live/clientr725/631739/2000.ts
++18 Adult_8,http://iptv.csserv.co:8000/live/clientr725/631739/1999.ts
++18 Adult_6,http://iptv.csserv.co:8000/live/clientr725/631739/1513.ts
++18 PENTHOUSE QUICKIES,http://iptv.csserv.co:8000/live/clientr725/631739/1476.ts
++18 PENTHOUSE GOLD,http://iptv.csserv.co:8000/live/clientr725/631739/1465.ts
++18 Private,http://iptv.csserv.co:8000/live/clientr725/631739/1653.ts
 
 #__#
 XXX: SEXY HOT FHD,http://paineliptv8.xyz:2082/389419/845472/9445
