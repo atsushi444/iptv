@@ -17,18 +17,6 @@
 +18 playboyv,http://iptv.csserv.co:8000/live/clientr725/631739/1803.ts
 +18 SESTO SENSO TV,http://iptv.csserv.co:8000/live/clientr725/631739/2002.ts
 +18 DORCEL,http://iptv.csserv.co:8000/live/clientr725/631739/4451.ts
-+18 VIVID RED,http://iptv.csserv.co:8000/live/clientr725/631739/4450.ts
-+18 Evil Angel,http://iptv.csserv.co:8000/live/clientr725/631739/4449.ts
-+18 PASSION XXX,http://iptv.csserv.co:8000/live/clientr725/631739/4445.ts
-+18 Erox XXX,http://iptv.csserv.co:8000/live/clientr725/631739/2004.ts
-+18 Adult_12,http://iptv.csserv.co:8000/live/clientr725/631739/2003.ts
-+18 RUSSKAYA NOCH,http://iptv.csserv.co:8000/live/clientr725/631739/2001.ts
-+18 O LA LA,http://iptv.csserv.co:8000/live/clientr725/631739/2000.ts
-+18 Adult_8,http://iptv.csserv.co:8000/live/clientr725/631739/1999.ts
-+18 Adult_6,http://iptv.csserv.co:8000/live/clientr725/631739/1513.ts
-+18 PENTHOUSE QUICKIES,http://iptv.csserv.co:8000/live/clientr725/631739/1476.ts
-+18 PENTHOUSE GOLD,http://iptv.csserv.co:8000/live/clientr725/631739/1465.ts
-+18 Private,http://iptv.csserv.co:8000/live/clientr725/631739/1653.ts
 
 #__#
 XXX_Penthouse Gold HD,http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/1213
