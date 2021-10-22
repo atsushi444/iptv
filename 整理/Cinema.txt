@@ -19,6 +19,7 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 龙华洋片,http://sytv.xtvants.fun/mytv.php?id=lhyp&token=free&user=free
 三立戏剧,http://sytv.xtvants.fun/mytv.php?id=slxj&token=free&user=free
 卫视电影台,http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/53
+卫视电影台,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv 
 HBO,https://gratismkctv.net/film/hbo.m3u8
 斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼（华语2）,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
