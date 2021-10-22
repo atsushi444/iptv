@@ -78,3 +78,8 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+民視第一,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
+民視台灣,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
+民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
+民視旅遊,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
+Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
