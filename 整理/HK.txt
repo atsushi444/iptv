@@ -9,14 +9,6 @@ TVBS欢乐,rtmp://59.124.75.136/sat/tv421
 MOMO综合,rtmp://59.124.75.136/sat/tv761
 纬来育乐,rtmp://59.124.75.157/sat/tv701 
 MOMO综合,rtmp://59.124.75.157/sat/tv761  
-民视,rtmp://161.202.204.248/sat/tv051
-台视,rtmp://161.202.204.248/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091
-华视,rtmp://161.202.204.248/sat/tv111
-TVBS欢乐,rtmp://161.202.204.248/sat/tv421
-纬来育乐,rtmp://161.202.204.248/sat/tv701
-纬来日本,rtmp://161.202.204.248/sat/tv771
-MOMO综合,rtmp://161.202.204.248/sat/tv761
 
 #__#
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -61,7 +53,19 @@ ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
 民视,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
 JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
-
+台视综合,https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
+华视教育文化,https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
+公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公视台语,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公视3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+MTV综合,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+MUCH TV,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
+JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
+东风卫视,https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
+高点综合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
+高点育乐,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
+霹雳台湾台,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
+Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
 亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
