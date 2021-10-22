@@ -1,5 +1,6 @@
 日本频道,#genre#
 NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK WORLD TV,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Animax HD (Vietnamese Subs),https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
 日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
