@@ -58,7 +58,10 @@ TVB翡翠,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
 ViuTV,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
 ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
+民视,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
+JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+
 亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
