@@ -39,7 +39,7 @@ TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 壹新闻,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
 BBCNews,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
 ABCnews,http://v3948069e.live.126.net/live/wbrbruqn78846690/52.flv
-CNN,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
+CNN International,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
 CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
 三立inews,https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
 中视新闻台,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
