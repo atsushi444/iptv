@@ -8,14 +8,6 @@ ELTA体育1,rtmp://59.124.75.136/sat/md021
 博斯网球,rtmp://59.124.75.136/sat/md041
 ELTA体育2,rtmp://59.124.75.136/sat/md051
 ELTA体育2,rtmp://59.124.75.157/sat/md011  
-纬来体育,rtmp://161.202.204.248/sat/tv721
-ELEVEN1,rtmp://161.202.204.248/sat/tv731
-ELEVEN2,rtmp://161.202.204.248/sat/tv741
-ELTA体育2,rtmp://161.202.204.248/sat/md011
-ELTA体育1,rtmp://161.202.204.248/sat/md021
-博斯魅力,rtmp://161.202.204.248/sat/md031
-博斯网球,rtmp://161.202.204.248/sat/md041
-ELTA体育2,rtmp://161.202.204.248/sat/md051
 
 #__#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
