@@ -1,8 +1,6 @@
 新闻频道,#genre#
 TVBS新闻台,rtmp://59.124.75.136/sat/tv551
 东森财经新闻,rtmp://59.124.75.136/sat/tv571
-TVBS新闻台,rtmp://161.202.204.248/sat/tv551
-东森财经新闻,rtmp://161.202.204.248/sat/tv571
 
 #__#
 凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
