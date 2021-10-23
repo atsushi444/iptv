@@ -2,6 +2,7 @@
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
+MTV,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
