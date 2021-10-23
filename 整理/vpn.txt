@@ -1,5 +1,4 @@
 备用频道（需梯子）,#genre#
-凤凰中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
