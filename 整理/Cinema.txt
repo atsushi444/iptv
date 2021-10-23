@@ -1,6 +1,7 @@
 影视频道,#genre#
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映频道,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 东森戏剧,http://sytv.xtvants.fun/mytv.php?id=dsxj&token=free&user=free
