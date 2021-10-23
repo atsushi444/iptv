@@ -35,7 +35,7 @@ MOMO综合,rtmp://59.124.75.157/sat/tv761
 东森综合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 三立台湾,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立综合,http://sytv.xtvants.fun/mytv.php?id=slzh&token=free&user=free
-MUCH TV,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
+年代MUCH,http://sytv.xtvants.fun/mytv.php?id=much&token=free&user=free
 JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 东风卫视,http://sytv.xtvants.fun/mytv.php?id=dfws&token=free&user=free
 高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
@@ -54,7 +54,7 @@ AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 公视台语,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
 公视3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
-MUCH TV,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
+年代MUCH,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
 JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
 东风卫视,https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
 高点综合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
