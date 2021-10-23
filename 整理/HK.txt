@@ -54,7 +54,6 @@ AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 公视台语,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
 公视3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
-MTV综合,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 MUCH TV,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
 JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
 东风卫视,https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
