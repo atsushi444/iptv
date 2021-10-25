@@ -13,6 +13,7 @@ TVBS新闻台,rtmp://59.124.75.157/sat/tv551
 无线新闻台,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
 有线新闻台,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
 无线新闻台,http://v3948069e.live.126.net/live/hod900.flv
+无线财经资讯台,http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
 NOW新闻,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
 民视新闻台,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
 中视新闻台,http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv
