@@ -9,7 +9,6 @@ TVBS新闻台,rtmp://59.124.75.157/sat/tv551
 凤凰卫视资讯台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 凤凰卫视资讯台,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰卫视资讯台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-壹新闻,http://sytv.xtvants.fun/mytv.php?id=yxw&token=free&user=free
 三立inews,http://sytv.xtvants.fun/mytv.php?id=slcj&token=free&user=free
 无线新闻台,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
 有线新闻台,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
