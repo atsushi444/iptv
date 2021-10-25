@@ -1,5 +1,13 @@
 其他频道,#genre#
 时尚频道,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 iHOT爱世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 iHOT爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 iHOT爱解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
