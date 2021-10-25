@@ -19,6 +19,12 @@
 +18 DORCEL,http://iptv.csserv.co:8000/live/clientr725/631739/4451.ts
 
 #__#
+VENUS HD,http://dns1.adns.site:80/janete2021/2021janete/771260
+SEXY HOT HD,http://dns1.adns.site:80/janete2021/2021janete/771261
+VENUS HD,http://dns1.adns.site:80/janete2021/2021janete/771263
+PLAYBOY TV HD,http://dns1.adns.site:80/janete2021/2021janete/771264
+
+#__#
 |ADULT| PENTHOUSE QUICKIES HD,http://line.4k-iptv.com:80/samac/samac/18872
 |ADULT| PENTHOUSE GOLD HD,http://line.4k-iptv.com:80/samac/samac/18871
 |ADULT| PRIVATE TV HD,http://line.4k-iptv.com:80/samac/samac/18869
