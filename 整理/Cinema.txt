@@ -1,4 +1,4 @@
-影视频道,#genre#
+电影频道,#genre#
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
