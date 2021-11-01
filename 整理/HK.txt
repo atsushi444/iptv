@@ -92,3 +92,9 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 香港C+,http://124.238.99.44:808/hls/366/index.m3u8
+民视,http://43.128.9.168/jjtv.php?id=24
+中视,http://43.128.9.168/jjtv.php?id=29
+华视,http://43.128.9.168/jjtv.php?id=30
+JET综合,http://43.128.9.168/jjtv.php?id=52
+三立台湾,http://43.128.9.168/jjtv.php?id=129
+三立都会,http://43.128.9.168/jjtv.php?id=131
