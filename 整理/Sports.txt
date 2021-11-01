@@ -17,6 +17,14 @@ ELTA体育1,rtmp://59.124.75.138/sat/md021
 ELTA体育2,rtmp://59.124.75.138/sat/md051
 
 #__#
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+博斯运动1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
+博斯运动2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+博斯网球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+博斯无限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+博斯无限2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
