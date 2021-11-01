@@ -5,6 +5,7 @@ MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 MTV,http://anan.jxin122.top/松鼠php/126net.php?id=40
 1HD Music,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+梅蒂斯艺术,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
