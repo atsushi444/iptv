@@ -11,7 +11,6 @@
 民视新闻,https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
@@ -22,6 +21,7 @@
 亚洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
+民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
@@ -82,7 +82,11 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
 民視旅遊,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
 Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
-民視第一台,http://43.128.9.168/jjtv.php?id=25
-民視台湾台,http://43.128.9.168/jjtv.php?id=26
+民視第一,http://43.128.9.168/jjtv.php?id=25
+民視台灣,http://43.128.9.168/jjtv.php?id=26
 民視綜藝,http://43.128.9.168/jjtv.php?id=27
 民視旅游,http://43.128.9.168/jjtv.php?id=28
+Thrill,http://43.128.9.168/jjtv.php?id=79
+BT Sports 1,http://43.128.9.168/jjtv.php?id=115
+BT Sports 2,http://43.128.9.168/jjtv.php?id=116
+BT Sports 3,http://43.128.9.168/jjtv.php?id=117
