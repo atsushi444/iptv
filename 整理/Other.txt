@@ -1,4 +1,7 @@
 其他频道,#genre#
+亚洲旅游台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV生活英语台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 时尚频道,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
