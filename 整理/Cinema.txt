@@ -4,6 +4,11 @@
 龙华日韩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 龙华偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
 龙华经典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+CatchPlay 电影,http://43.128.9.168/jjtv.php?id=76
+tvN Movie,http://43.128.9.168/jjtv.php?id=78
+AXN,http://43.128.9.168/jjtv.php?id=80
+One,http://43.128.9.168/jjtv.php?id=81
+Warner TV,http://43.128.9.168/jjtv.php?id=82
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映频道,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
