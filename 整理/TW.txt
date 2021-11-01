@@ -59,6 +59,18 @@ JStar极限台,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e
 松视4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 潘朵啦玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 #__#
+HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+松视1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松视2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松视3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
+潘朵啦粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+惊艳台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
+#__#
 彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
 彩虹电影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
 LOOK TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
