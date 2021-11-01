@@ -27,11 +27,11 @@ NOW新闻,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
 华视新闻,http://v3948069e.live.126.net/live/faynljtw39421227/45.flv
 TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 三立inews,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
-三立LIVE,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+三立Live新闻,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
 壹新闻,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
-BBCNews,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
+BBC World News,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
 ABCnews,http://v3948069e.live.126.net/live/wbrbruqn78846690/52.flv
-CNN International,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
+CNN,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
 CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
 三立inews,https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
 三立inews,,http://anan.jxin122.top/松鼠php/126net.php?id=37
@@ -39,9 +39,26 @@ CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
 民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
 华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 香港电台视像新闻,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 寰宇新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
 寰宇新闻台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+民视新闻台,http://43.128.9.168/jjtv.php?id=32
+中视新闻台,http://43.128.9.168/jjtv.php?id=33
+台视新闻台,http://43.128.9.168/jjtv.php?id=34
+寰宇新闻台,http://43.128.9.168/jjtv.php?id=35
+中天新聞,http://43.128.9.168/jjtv.php?id=36
+东森新闻,http://43.128.9.168/jjtv.php?id=38
+东森财经新闻,http://43.128.9.168/jjtv.php?id=39
+华视新闻,http://43.128.9.168/jjtv.php?id=41
+TVBS新闻台,http://43.128.9.168/jjtv.php?id=42
+三立inews,http://43.128.9.168/jjtv.php?id=43
+三立Live新闻,http://43.128.9.168/jjtv.php?id=44
+壹新闻,http://43.128.9.168/jjtv.php?id=46
+BBC World News,http://43.128.9.168/jjtv.php?id=47
+ABCnews,http://43.128.9.168/jjtv.php?id=48
+CNN,http://43.128.9.168/jjtv.php?id=49
+NHK World,http://43.128.9.168/jjtv.php?id=50
+CNA,http://43.128.9.168/jjtv.php?id=51
