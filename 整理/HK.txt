@@ -20,8 +20,9 @@ ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
 #__#
 亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-香港C+,http://124.238.99.44:808/hls/366/index.m3u8
 澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
+#__#
+香港C+,http://124.238.99.44:808/hls/366/index.m3u8
 澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
 #__#
 RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
