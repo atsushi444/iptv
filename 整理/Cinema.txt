@@ -1,8 +1,8 @@
 影视频道,#genre#
 龙华电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
-龙华戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 龙华日韩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
 龙华偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+龙华戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
 龙华经典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 #__#
 CatchPlay 电影,http://43.128.9.168/jjtv.php?id=76
