@@ -72,6 +72,8 @@ LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
 香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
 
 #__#
+红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
+红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8 
 HOT,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/362.m3u8
 素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8 
 NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
