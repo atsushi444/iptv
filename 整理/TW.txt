@@ -19,6 +19,7 @@ MOMO综合,rtmp://59.124.75.138/sat/tv761
 #__#
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+#__#
 台视综合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 华视教育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
@@ -30,6 +31,7 @@ JET综合,http://sytv.xtvants.fun/mytv.php?id=jet&token=free&user=free
 高点综合,http://sytv.xtvants.fun/mytv.php?id=gdzh&token=free&user=free
 高点育乐,http://sytv.xtvants.fun/mytv.php?id=gdyl&token=free&user=free
 Z频道,http://sytv.xtvants.fun/mytv.php?id=zpd&token=free&user=free
+#__#
 民视,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
 JET综合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
 AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
@@ -45,6 +47,7 @@ JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7
 高点育乐,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
 霹雳台湾台,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
 Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
+#__#
 台视综合,http://anan.jxin122.top/松鼠php/126net.php?id=11
 华视教育文化,http://anan.jxin122.top/松鼠php/126net.php?id=17
 公视,http://anan.jxin122.top/松鼠php/126net.php?id=19
@@ -53,8 +56,10 @@ Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773
 年代MUCH,http://anan.jxin122.top/松鼠php/126net.php?id=46
 JET综合,http://anan.jxin122.top/松鼠php/126net.php?id=47
 东风37,http://anan.jxin122.top/松鼠php/126net.php?id=48
+#__#
 MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#__#
 中视,http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
 中视经典台,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
 中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
@@ -65,7 +70,9 @@ MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 华视教育文化,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
 国会频道1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
 国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+#__#
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+#__#
 民视,http://43.128.9.168/jjtv.php?id=24
 中视,http://43.128.9.168/jjtv.php?id=29
 华视,http://43.128.9.168/jjtv.php?id=30
