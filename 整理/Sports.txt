@@ -25,42 +25,57 @@ ELTA体育2,rtmp://59.124.75.138/sat/md051
 博斯网球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
 博斯无限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
 博斯无限2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
+#__#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+#__#
 Supersports 1,http://43.128.9.168/jjtv.php?id=108
 Supersports 2,http://43.128.9.168/jjtv.php?id=109
 Supersports 4,http://43.128.9.168/jjtv.php?id=110
 Supersports 4,http://43.128.9.168/jjtv.php?id=111
+#__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#__#
 UFC 3,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 有线603,https://p2.weizan.cn/1646497941/726330645979324847/live.m3u8
+#__#
 ELEVEN sports 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 ELEVEN sports 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#__#
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#__#
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#__#
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+#__#
 劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
+五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
+#__#
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
-极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
+#__#
 弈壇春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+#__#
 iHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#__#
 先锋乒羽,http://womlive.cloud.wo.cn/tvlive/100071/otpzod_otpzod,100071_hls_pull_2000K_live.m3u8
 广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
+#__#
 NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
-NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+#__#
+NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
