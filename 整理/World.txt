@@ -37,3 +37,6 @@ Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+#__#
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
