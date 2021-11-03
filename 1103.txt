@@ -1,4 +1,53 @@
 #__#
+XXX Adult 01,http://appcliente.com:8880/teste123/teste123/9171
+XXX Adult 02,http://appcliente.com:8880/teste123/teste123/9290
+XXX Adult 03,http://appcliente.com:8880/teste123/teste123/9170
+XXX Adult 04,http://appcliente.com:8880/teste123/teste123/9172
+XXX Adult 05,http://appcliente.com:8880/teste123/teste123/9240
+XXX Adult 06,http://appcliente.com:8880/teste123/teste123/9241
+XXX Adult 07,http://appcliente.com:8880/teste123/teste123/9242
+XXX Adult 08,http://appcliente.com:8880/teste123/teste123/9243
+XXX Adult 09,http://appcliente.com:8880/teste123/teste123/9244
+XXX Adult 10,http://appcliente.com:8880/teste123/teste123/9245
+XXX Adult 11,http://appcliente.com:8880/teste123/teste123/9246
+XXX Adult 12,http://appcliente.com:8880/teste123/teste123/9247
+XXX Adult 13,http://appcliente.com:8880/teste123/teste123/9264
+XXX Adult 14,http://appcliente.com:8880/teste123/teste123/9265
+XXX Adult 15,http://appcliente.com:8880/teste123/teste123/9266
+XXX Adult 16,http://appcliente.com:8880/teste123/teste123/9267
+XXX Adult 17,http://appcliente.com:8880/teste123/teste123/9269
+XXX Adult 18,http://appcliente.com:8880/teste123/teste123/9268
+XXX Adult 19,http://appcliente.com:8880/teste123/teste123/9287
+XXX Adult 20,http://appcliente.com:8880/teste123/teste123/9288
+XXX Adult 21,http://appcliente.com:8880/teste123/teste123/9289
+XXX Adult 22,http://appcliente.com:8880/teste123/teste123/9291
+XXX Adult 23,http://appcliente.com:8880/teste123/teste123/9292
+XXX Adult 24,http://appcliente.com:8880/teste123/teste123/9293
+XXX Adult 25,http://appcliente.com:8880/teste123/teste123/9294
+XXX Adult 26,http://appcliente.com:8880/teste123/teste123/9295
+XXX Adult 27,http://appcliente.com:8880/teste123/teste123/9296
+XXX Adult 28,http://appcliente.com:8880/teste123/teste123/7946
+XXX Adult 29,http://appcliente.com:8880/teste123/teste123/7947
+XXX Adult 30,http://appcliente.com:8880/teste123/teste123/7948
+XXX Adult 31,http://appcliente.com:8880/teste123/teste123/39579
+XXX Adult 32,http://appcliente.com:8880/teste123/teste123/39580
+XXX Adult 33,http://appcliente.com:8880/teste123/teste123/7951
+XXX Adult 34,http://appcliente.com:8880/teste123/teste123/7952
+XXX Adult 35,http://appcliente.com:8880/teste123/teste123/7953
+XXX Adult 36,http://appcliente.com:8880/teste123/teste123/7955
+XXX Adult 37,http://appcliente.com:8880/teste123/teste123/7956
+XXX Adult 38,http://appcliente.com:8880/teste123/teste123/7958
+XXX Adult 39,http://appcliente.com:8880/teste123/teste123/7959
+XXX Adult 40,http://appcliente.com:8880/teste123/teste123/7954
+XXX Adult 41,http://appcliente.com:8880/teste123/teste123/7960
+XXX Adult 42,http://appcliente.com:8880/teste123/teste123/7961
+XXX Adult 43,http://appcliente.com:8880/teste123/teste123/7962
+XXX Adult 44,http://appcliente.com:8880/teste123/teste123/7943
+XXX Adult 45,http://appcliente.com:8880/teste123/teste123/7944
+XXX Adult 46,http://appcliente.com:8880/teste123/teste123/7957
+XXX Adult 47,http://appcliente.com:8880/teste123/teste123/7945
+
+#__#
 XX | PASSIEXXX,http://77as77.com:80/dOIcvfWCXw/8MXunrvjfd/43725
 XX | EVIL ANGEL,http://77as77.com:80/dOIcvfWCXw/8MXunrvjfd/43724
 XX | EVIL ENGEL TV,http://77as77.com:80/dOIcvfWCXw/8MXunrvjfd/43783
