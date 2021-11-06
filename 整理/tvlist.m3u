@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y2xxrgfk7v5ygz7x"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight
 http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
 #EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png",Dorcel TV
