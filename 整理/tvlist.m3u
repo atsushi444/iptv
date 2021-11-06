@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight
+#EXTINF:-1 tvg-id="1" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight
 http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png",Dorcel TV
+#EXTINF:-1 tvg-id="2" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dorcelhd.png",Dorcel TV
 http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
+#EXTINF:-1 tvg-id="3" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
 http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
+#EXTINF:-1 tvg-id="4" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler HD
 http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividred.png",Vivid Red HD
+#EXTINF:-1 tvg-id="5" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vividred.png",Vivid Red HD
 http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 
 #EXTM3U Adult
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler_HD
+#EXTINF:-1 tvg-id="1" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/hustlerhdcz.png",Hustler_HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/1
-#EXTINF:-1 group-title="adult" tvg-logo="",Penthouse_Gold
+#EXTINF:-1 tvg-id="2" group-title="adult" tvg-logo="",Penthouse_Gold
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/5
-#EXTINF:-1 group-title="adult" tvg-logo="",Penthouse_Passion
+#EXTINF:-1 tvg-id="3" group-title="adult" tvg-logo="",Penthouse_Passion
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
-#EXTINF:-1 group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight_HD
+#EXTINF:-1 tvg-id="4" group-title="adult" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/redlighthd.png",Redlight_HD
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
 
 #EXTM3U TW
-#EXTINF:-1 tvg-country="TW" tvg-logo="" group-title="",三立台湾台
+#EXTINF:-1 tvg-id="1" tvg-country="TW" group-title="" tvg-logo="",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-country="TW" tvg-logo="" group-title="",三立都会台
+#EXTINF:-1 tvg-id="2" tvg-country="TW" group-title="" tvg-logo="",三立都会台
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 
