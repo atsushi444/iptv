@@ -21,8 +21,8 @@ http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
 http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
 
 #EXTM3U TW
-#EXTINF:-1 tvg-country="TW" group-title="" tvg-logo="",三立台湾台
+#EXTINF:-1 group-title="TW" tvg-logo="",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-country="TW" group-title="" tvg-logo="",三立都会台
+#EXTINF:-1 group-title="TW" tvg-logo="",三立都会台
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
 
