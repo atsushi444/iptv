@@ -1,4 +1,20 @@
 #__#
+PT: Hot,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/82
+PT: Venus,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/121
+PT: Playboy TV,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/134
+Jasmin TV,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/358
+Hot Club 1,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/662
+Hot Club 2,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/663
+Hot Club 3,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/664
+Hot Club 4,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/665
+Hot Club 5,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/666
+Hot Club 6,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/667
+Hot Club 7,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/499
+Hot Club 8,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/498
+Hot Club 9,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/696
+Hot Club 10,http://usa2.iptvteam.org:8000/picamiolos8/picamiolos8/697
+
+#__#
 XXX - DORCEL TV,http://cmsvs.tvmoip.com:18080/JasNermNOmo1/freeJasNer1a/184
 XXX - REDLIGHT TV,http://cmsvs.tvmoip.com:18080/JasNermNOmo1/freeJasNer1a/185
 XXX - BRAZZERS TV,http://cmsvs.tvmoip.com:18080/JasNermNOmo1/freeJasNer1a/186
