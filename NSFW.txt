@@ -8,9 +8,17 @@ black hd,http://51.15.0.141:88/blacked_hd/index.m3u8
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #__#
+[1080]Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
+[1080]PENTHOUSE,http://iptv.csserv.co:8000/live/clientr725/631739/2006.m3u8
+[1080]REDLIGHT HD,http://iptv.csserv.co:8000/live/clientr725/631739/2005.m3u8
+[720]SCT HD,http://iptv.csserv.co:8000/live/clientr725/631739/1516.m3u8
+[720]Adult_7,http://iptv.csserv.co:8000/live/clientr725/631739/1998.m3u8
+Adult_4,http://iptv.csserv.co:8000/live/clientr725/631739/1460.m3u8
+#__#
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+[720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+[720]Rouge TV,https://edge8.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
 XXL,http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
