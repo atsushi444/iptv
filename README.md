@@ -12,6 +12,10 @@
 - [IPTV list](https://shen-yu.github.io/iptv-list) - Makes it easy to copy and play IPTV channels.
 - [Photocall](https://photocall.tv/) - Live TV channels from all over the world.
 - [Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/) - Easy way to listen to radio stations and watch movies, series, animes, show, porn and IPTV on the website.
-
 ### 在线播放
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
+### 节目表
+- https://epg.112114.xyz
+- http://epg.51zmt.top:8000/api/diyp/
+- https://epg.sec.st/epg.php
+
