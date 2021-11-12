@@ -1196,3 +1196,4 @@ Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts?1080P
 #__#
 +18 Playboy TV,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13410
 +18 Sexy Hot,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13414
++18 Brasileirinha 1,http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13433
