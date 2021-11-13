@@ -15,6 +15,11 @@
 ### 在线播放
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 ### 节目表
+#### XML
+- https://epg.112114.xyz/pp.xml
+- http://epg.51zmt.top:8000/e.xml
+- https://files.3y1.xyz/static/sitemap/ott_xmltv.xml
+#### DIYP
 - https://epg.112114.xyz
 - http://epg.51zmt.top:8000/api/diyp/
 - https://epg.sec.st/epg.php
