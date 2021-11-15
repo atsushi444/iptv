@@ -19,4 +19,6 @@
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=qq3036107507&user=fmys
+#__#
+三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 
