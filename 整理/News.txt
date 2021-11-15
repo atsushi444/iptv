@@ -2,6 +2,9 @@
 民視新聞台,https://git.io/JgkAb
 台視新聞台,https://git.io/JgkxY
 中視新聞台,https://git.io/Jgkxz
+
+#__#
+民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
 #__#
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 中視新聞台,http://seb.sason.top/sc/zsxw_fhd.m3u8
