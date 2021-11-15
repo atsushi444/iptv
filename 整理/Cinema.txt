@@ -1,2 +1,3 @@
 影视频道,#genre#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
+公视戏剧台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/bjykY-sw4WE/4gtv-4gtv042-avc1_6000000=1-mp4a_135000_zho=2.m3u8
