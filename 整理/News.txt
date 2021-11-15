@@ -1,5 +1,6 @@
 新闻频道,#genre#
 民視新聞台,https://git.io/JgkAb
 台視新聞台,https://git.io/JgkxY
+中視新聞台,https://git.io/Jgkxz
 #__#
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
