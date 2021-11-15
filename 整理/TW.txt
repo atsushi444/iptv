@@ -6,3 +6,7 @@
 台視,rtmp://59.124.75.157/sat/tv071
 中視,rtmp://59.124.75.157/sat/tv091
 
+#__#
+中視經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
+中視菁采台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?ts=hi/vod/ZhicuyIaoak/4gtv-4gtv064-avc1_6000000=1-mp4a_119000_zho=2.m3u8
+
