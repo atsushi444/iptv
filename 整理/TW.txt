@@ -17,6 +17,12 @@
 三立台灣台,http://50.7.61.148:30080/Entry/settw-
 衛視中文台,http://50.7.61.148:30080/Entry/starchinese
 #__#
+民視台灣台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/tojcOqODdRM/4gtv-4gtv001-avc1_6000000=1-mp4a_130000=7.m3u8
+民視台灣台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
+民視,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/9dgaOBfRZQY/4gtv-4gtv002-avc1_6000000=1-mp4a_138000=2.m3u8
+民視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
+民視第一台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/wW03Zigf5Fs/4gtv-4gtv003-avc1_6000000=1-mp4a_128000=7.m3u8
+民視第一台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
 民视综艺台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/SncXq5FMjP8/4gtv-4gtv004-avc1_6000000=1-mp4a_134000=2.m3u8
 民视综艺台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv004
 中視經典台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
