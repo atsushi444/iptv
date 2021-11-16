@@ -25,6 +25,8 @@
 民視第一台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
 民视综艺台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/SncXq5FMjP8/4gtv-4gtv004-avc1_6000000=1-mp4a_134000=2.m3u8
 民视综艺台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv004
+韓國娛樂台KMTV,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/tuhDo7TWh_Y/4gtv-4gtv016-avc1_6000000=1-mp4a_119000_zho=2.m3u8
+韓國娛樂台KMTV,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
 中視經典台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
 中視經典台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 中視菁采台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/ZhicuyIaoak/4gtv-4gtv064-avc1_6000000=1-mp4a_119000_zho=2.m3u8
