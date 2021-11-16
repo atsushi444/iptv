@@ -33,6 +33,12 @@
 中視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv040
 華視,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/YOxDOTUMzLc/4gtv-4gtv041-avc1_6000000=1-mp4a_132000_zho=6.m3u8
 華視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+客家電視台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/RsWk6uFsFc0/4gtv-4gtv043-avc1_6000000=1-mp4a_148000=2.m3u8
+客家電視台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv043
+靖天綜合台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/WpVMIVa9Ye4/4gtv-4gtv046-avc1_6000000=1-mp4a_131000_zho=2.m3u8
+靖天綜合台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+靖天日本台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/HMO7P0H372w/4gtv-4gtv047-avc1_6000000=1-mp4a_131000_zho=2.m3u8
+靖天日本台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
 中視經典台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
 中視經典台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 中視菁采台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/ZhicuyIaoak/4gtv-4gtv064-avc1_6000000=1-mp4a_119000_zho=2.m3u8
