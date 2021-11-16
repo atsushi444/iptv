@@ -41,8 +41,22 @@
 靖天日本台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
 Nice TV 靖天歡樂台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/v_XgA4avQyc/4gtv-4gtv054-avc1_6000000=1-mp4a_132000_zho=2.m3u8
 Nice TV 靖天歡樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
+靖天育樂台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/6DBXtHPdqNA/4gtv-4gtv062-avc1_6000000=1-mp4a_137000_zho=2.m3u8
+靖天育樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+KLT-靖天國際台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/S5KBeV-ZZC8/4gtv-4gtv063-avc1_6000000=1-mp4a_139000_zho=2.m3u8
+KLT-靖天國際台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv063
+靖天資訊台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/fbSuOX9TBDM/4gtv-4gtv065-avc1_6000000=1-mp4a_130000_zho=2.m3u8
 中視菁采台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/ZhicuyIaoak/4gtv-4gtv064-avc1_6000000=1-mp4a_119000_zho=2.m3u8
 中視菁采台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
+靖天資訊台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
+台視,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/_DUyFHUuyEI/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2.m3u8
+台視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+TVBS精采台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/fHZUYZ7lRs8/4gtv-4gtv067-avc1_6000000=1-mp4a_134000_zho=2.m3u8
+TVBS精采台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+TVBS歡樂台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/sE8yViMOEJs/4gtv-4gtv068-avc1_6000000=1-mp4a_127000=2.m3u8
+TVBS歡樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+爱尔达娱乐台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/QEM6rGcxoRo/4gtv-4gtv070-avc1_2000000=1-mp4a_131000_zho=2.m3u8
+爱尔达娱乐台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
 中視經典台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/sjpSVejeGwg/4gtv-4gtv080-avc1_2000000=1-mp4a_129000_zho=2.m3u8
 中視經典台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 #__#
