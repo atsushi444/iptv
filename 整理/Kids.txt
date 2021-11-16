@@ -3,7 +3,11 @@
 龍華卡通,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 BabyFirst,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/egRhXOdL0ms/litv-longturn02-audio_20000=64000-video=2936000.m3u8
 BabyFirst,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn02
-達文西頻道,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/1Ix36q4_QHs/4gtv-4gtv018-avc1_6000000=1-mp4a_130000_zho=7.m3u8
-達文西頻道,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
 ELTV生活英語台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/S8ZLMjsfpQE/litv-longturn20-audio_20000=65600-video=5936000.m3u8
 ELTV生活英語台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+達文西頻道,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/1Ix36q4_QHs/4gtv-4gtv018-avc1_6000000=1-mp4a_130000_zho=7.m3u8
+達文西頻道,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+靖天卡通台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/tyG8kVDbPgY/4gtv-4gtv044-avc1_6000000=1-mp4a_147000_zho=2.m3u8
+靖天卡通台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
+靖洋卡通台Nice Bingo,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/Usrz_pUWGfE/4gtv-4gtv057-avc1_6000000=1-mp4a_125000_zho=2.m3u8
+靖洋卡通台Nice Bingo,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv057
