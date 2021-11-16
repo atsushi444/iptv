@@ -15,3 +15,7 @@ FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 靖天映畫,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
 靖天戲劇台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/4eOAyNDOpDo/4gtv-4gtv058-avc1_6000000=1-mp4a_149000_zho=2.m3u8
 靖天戲劇台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv058
+靖天電影台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/1DcvZq02s9I/4gtv-4gtv061-avc1_6000000=1-mp4a_139000_zho=2.m3u8
+靖天電影台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+CatchPlay電影台,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/VcPlYwamfNI/4gtv-4gtv076-avc1_6000000=1-mp4a_139000=2.m3u8
+CatchPlay電影台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
