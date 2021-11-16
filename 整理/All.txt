@@ -152,11 +152,7 @@ CNN,http://43.128.9.168/jjtv.php?id=49
 NHK World,http://43.128.9.168/jjtv.php?id=50
 CNA,http://43.128.9.168/jjtv.php?id=51
 
-龙华电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
-龙华日韩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
-龙华偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-龙华戏剧,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
-龙华经典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+美亚电影台: http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 #__#
 CatchPlay 电影,http://43.128.9.168/jjtv.php?id=76
 tvN Movie,http://43.128.9.168/jjtv.php?id=78
