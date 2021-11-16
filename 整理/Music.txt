@@ -2,8 +2,9 @@
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 #__#
-Medici-arts,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/zL151yA6XXk/litv-longturn16-audio_20000=65600-video=6000000.m3u8
-Medici-arts,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn16
 古典音樂台CLASSICA HD,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/gKlG4MHqo74/4gtv-4gtv059-avc1_2000000=1-mp4a_129000_zho=2.m3u8
 古典音樂台CLASSICA HD,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+Medici-arts,http://tw.hstv.pro/litv/litvts.php?ts=hi/vod/zL151yA6XXk/litv-longturn16-audio_20000=65600-video=6000000.m3u8
+Medici-arts,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+
 
