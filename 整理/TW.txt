@@ -9,8 +9,10 @@
 華視,rtmp://59.124.75.157/sat/tv111
 #__#
 民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
+靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 公視3台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
