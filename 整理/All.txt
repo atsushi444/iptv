@@ -131,9 +131,6 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #__#
-寰宇新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
-寰宇新闻台湾台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
-#__#
 民视新闻台,http://43.128.9.168/jjtv.php?id=32
 中视新闻台,http://43.128.9.168/jjtv.php?id=33
 台视新闻台,http://43.128.9.168/jjtv.php?id=34
