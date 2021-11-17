@@ -96,7 +96,6 @@ $c_start付费3_121$c_end
 $c_start影片_121$c_end
 
 $c_start电视$c_end
-$__$
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 華視新聞資訊台,http://seb.sason.top/sc/hsxw_fhd.m3u8
 三立新聞台,http://seb.sason.top/sc/sllive_fhd.m3u8
