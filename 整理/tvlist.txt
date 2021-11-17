@@ -96,76 +96,101 @@ $c_start付费3_121$c_end
 $c_start影片_121$c_end
 
 $c_start电视$c_end
-CCTV-1 综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-CCTV-2 财经,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
-CCTV-3 综艺,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
-CCTV-4 中文国际（亚）,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
-CCTV-4 中文国际（欧）,http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
-CCTV-4 中文国际（美）,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
-CCTV-5 体育,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-CCTV-5+ 体育赛事,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
-CCTV-6 电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
-CCTV-7 国防军事,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
-CCTV-8 电视剧,http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
-CCTV-9 纪录,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
-CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-CCTV-11 戏曲,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
-CCTV-12 社会与法,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
-CCTV-13 新闻,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
-CCTV-14 少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
-CCTV-15 音乐,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
-CCTV-17 农业农村,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
-CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-CCTV 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-CCTV 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-CCTV 风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-CCTV 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 $__$
-东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-江苏卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8
-北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
-湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
-湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
-天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
-山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
-东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
-广东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
-广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-江西卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
-河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-安徽卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
-浙江卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
-四川卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-云南卫视,http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
-深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
-海南卫视,http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
-吉林卫视,http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
-辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
-黑龙江卫视,http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
-内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+華視新聞資訊台,http://seb.sason.top/sc/hsxw_fhd.m3u8
+三立新聞台,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立inews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 $__$
-Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-Channel[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-求索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-国家地理频道,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 $__$
-CHC高清电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
-CHC家庭电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+民視新聞台,https://git.io/JgkAb
+台視新聞台,https://git.io/JgkxY
+中視新聞台,https://git.io/Jgkxz
+三立LIVE新闻,https://git.io/Jgkxp
+三立inews新闻,https://git.io/Jgkxj
+$__$
+華視新聞資訊台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
+$__$
+三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
+三立新聞台,http://125.227.210.55:15589/VideoInput/play.ts
+三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
+$__$
+民視,http://50.7.61.147:30080/Entry/ftv
+台視,http://50.7.61.148:30080/Entry/ttv
+中視,http://50.7.61.148:30080/Entry/ctv
+華視,http://50.7.61.147:30080/Entry/cts
+三立台灣台,http://50.7.61.148:30080/Entry/settw-
+衛視中文台,http://50.7.61.148:30080/Entry/starchinese
+民視新聞台,http://50.7.61.148:30080/Entry/ftvnews
+$__$
+民視台灣台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
+民視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
+民視第一台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
+民视综艺台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv004
+中天新聞台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+非凡新聞台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+影迷數位電影台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+視納華仁紀實台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+時尚運動X,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014
+韓國娛樂台KMTV,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+達文西頻道,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+八大綜合台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+中視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv040
+華視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+公視戲劇,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
+客家電視台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv043
+靖天卡通台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
+靖洋戲劇台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+靖天綜合台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+靖天日本台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+非凡商業台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+采昌影劇台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
+台視新聞台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
+華視新聞資訊台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
+GINXeSportsTV,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+Nice TV 靖天歡樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
+靖天映畫,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
+台視財經台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv056
+靖洋卡通台Nice Bingo,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv057
+靖天戲劇台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv058
+古典音樂台CLASSICA HD,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+靖天電影台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+靖天育樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+KLT-靖天國際台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv063
+中視菁采台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
+靖天資訊台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
+台視,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+TVBS精采台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+TVBS歡樂台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+爱尔达娱乐台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+TVBS新闻台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
+TVBS,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+中視新聞台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
+CatchPlay電影台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+Arirang TV,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
+中視經典台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
+Trace Urban,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv082
+Mezzo Live HD,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+$__$
+龍華卡通,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+BabyFirst,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+龍華電影,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+龙华日韩台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+龍華偶像,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+寰宇新聞台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇新聞台灣台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+Medici-arts,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+亞洲旅遊台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+龍華戲劇,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+Fashion One,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV生活英語台,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+龍華經典,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 
 $c_start成人_10086$c_end
 Live Cams ,http://cdn.adultiptv.net/livecams.m3u8
