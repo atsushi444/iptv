@@ -1,15 +1,15 @@
 体育频道,#genre#
 纬来体育,rtmp://59.124.75.157/sat/tv721
-ELEVEN1,rtmp://59.124.75.157/sat/tv731
-ELEVEN2,rtmp://59.124.75.157/sat/tv741
+ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
+ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
 ELTA体育2,rtmp://59.124.75.157/sat/md011
 ELTA体育1,rtmp://59.124.75.157/sat/md021
 博斯魅力網,rtmp://59.124.75.157/sat/md031
 博斯網球台,rtmp://59.124.75.157/sat/md041
 ELTA体育2,rtmp://59.124.75.157/sat/md051
 纬来体育,rtmp://59.124.75.138/sat/tv721
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
+ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
 ELTA体育2,rtmp://59.124.75.138/sat/md011
 ELTA体育1,rtmp://59.124.75.138/sat/md021
 博斯魅力網,rtmp://59.124.75.138/sat/md031
@@ -17,3 +17,4 @@ ELTA体育1,rtmp://59.124.75.138/sat/md021
 ELTA体育2,rtmp://59.124.75.138/sat/md051
 
 #__#
+ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
