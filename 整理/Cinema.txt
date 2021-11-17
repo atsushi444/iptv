@@ -1,6 +1,7 @@
 影视频道,#genre#
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
+靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 #__#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 
