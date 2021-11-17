@@ -94,9 +94,9 @@ AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
 $c_start付费3_121$c_end
 
 $c_start影片_121$c_end
+test,http://50.7.61.147:30080/Entry/ftv#https://git.io/JgkAb
 
 $c_start电视$c_end
-test,http://50.7.61.147:30080/Entry/ftv#https://git.io/JgkAb
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 華視新聞資訊台,http://seb.sason.top/sc/hsxw_fhd.m3u8
 三立新聞台,http://seb.sason.top/sc/sllive_fhd.m3u8
