@@ -1,4 +1,4 @@
-付费频道1_121,#genre#
+$c_start付费频道1_121$c_end
 彩虹E台,p5p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
 彩虹电影,p5p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
 惊艳台,p5p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
@@ -18,7 +18,7 @@ HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
 极限电影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
 
-付费频道2_121,#genre#
+$c_start付费频道2_121$c_end
 Cunnilingus,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
 Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e 
 Solo girl,p5p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700 
