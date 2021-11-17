@@ -1,2 +1,3 @@
 其他频道,#genre#
 國家地理國際頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
