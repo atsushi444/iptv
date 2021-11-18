@@ -33,3 +33,4 @@ Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
 CNN International,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
 半島英語新聞台Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
+FRANCE24(French),mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
