@@ -10,3 +10,4 @@ Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
 Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
 ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
 i-Fun動漫台,mitv://ns2.hellotvvod.com:9906/f62384ed61d345cebf4cc1a3c9167bd3
+Cbeebies,mitv://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
