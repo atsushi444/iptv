@@ -1,13 +1,4 @@
 付费频道_121,#genre#
-红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
-红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8 
-HOT,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/362.m3u8
-素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8 
-NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
-NYX MEDIA2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/365.m3u8
-iBiza Media,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/366.m3u8
-iBiza Media2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/367.m3u8
-NYX MEDIA3,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/368.m3u8 
 
 电视频道,#genre#
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
