@@ -1,22 +1,26 @@
 体育频道,#genre#
-纬来体育,rtmp://59.124.75.157/sat/tv721
+緯來體育台,rtmp://59.124.75.157/sat/tv721
 ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
 ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
-ELTA体育2,rtmp://59.124.75.157/sat/md011
-ELTA体育1,rtmp://59.124.75.157/sat/md021
+愛爾達體育2台,rtmp://59.124.75.157/sat/md011
+愛爾達體育1台,rtmp://59.124.75.157/sat/md021
 博斯魅力網,rtmp://59.124.75.157/sat/md031
 博斯網球台,rtmp://59.124.75.157/sat/md041
-ELTA体育2,rtmp://59.124.75.157/sat/md051
-纬来体育,rtmp://59.124.75.138/sat/tv721
+愛爾達體育2台,rtmp://59.124.75.157/sat/md051
+緯來體育台,rtmp://59.124.75.138/sat/tv721
 ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
 ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
-ELTA体育2,rtmp://59.124.75.138/sat/md011
-ELTA体育1,rtmp://59.124.75.138/sat/md021
+愛爾達體育2台,rtmp://59.124.75.138/sat/md011
+愛爾達體育1台,rtmp://59.124.75.138/sat/md021
 博斯魅力網,rtmp://59.124.75.138/sat/md031
 博斯網球台,rtmp://59.124.75.138/sat/md041
-ELTA体育2,rtmp://59.124.75.138/sat/md051
+愛爾達體育2台,rtmp://59.124.75.138/sat/md051
 #__#
 緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
 ELEVEN體育一台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
+愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
+愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
+TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
 #__#
 ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
