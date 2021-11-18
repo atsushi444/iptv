@@ -433,3 +433,46 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
+
+#__#
+Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+Astro AOD,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+Astro 爱奇艺,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+Astro 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Astro Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Astro Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Oh!K,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Oh!K,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
+One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#__#
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+#__#
+TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
