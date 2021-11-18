@@ -38,6 +38,11 @@ CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
 采昌影劇台,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 TVB星河頻道,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+有线电影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+凤凰电影台,mitv://ns2.hellotvvod.com:9906/06553799649b45619f5c5ff5467abe0e
+TVB經典台,mitv://ns2.hellotvvod.com:9906/1c0d8aefa5cd4d009cecff61ebc3e18b
+Thrill,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
+Now 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 #__#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 
