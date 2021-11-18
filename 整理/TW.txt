@@ -16,6 +16,11 @@
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
+華視,mitv://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
+公視,mitv://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
+霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
+原住民族電視台,mitv://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
 
 
 #__#
