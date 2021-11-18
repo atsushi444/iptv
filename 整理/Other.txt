@@ -7,3 +7,4 @@ Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
 動物星球頻道,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+戶外頻道,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
