@@ -6,6 +6,7 @@
 中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+三立iNEWS,mitv://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
 TVBS 新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 TVBS,mitv://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
 非凡新聞台,mitv://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
