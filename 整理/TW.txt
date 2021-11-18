@@ -50,6 +50,9 @@ Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 Nice TV 靖天歡樂台,mitv://ns2.hellotvvod.com:9906/33d8d6d8b2c84d8680e888b8f2bc636b
 壹電視資訊綜合台,mitv://ns2.hellotvvod.com:9906/9296b1db1f674585a1ca7be4ff47c004
 ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/b9f9c80102d54af7b3bc3aedc124afa9
+韓國娛樂台KMTV,mitv://ns2.hellotvvod.com:9906/7a7c099add954867853e91a6018c2a33
+星衛娛樂台,mitv://ns2.hellotvvod.com:9906/866cb328f02348c9aa3a2cf6858ca8c6
+ROCK Extreme,mitv://ns2.hellotvvod.com:9906/760a7b9f2e104b9abeba8ac4717a1fc2
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
