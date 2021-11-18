@@ -2,3 +2,9 @@
 國家地理國際頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 美食星球頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+
+#__#
+國家地理國際頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
+動物星球頻道,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
