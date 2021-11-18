@@ -36,6 +36,7 @@ CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992db
 CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
 壹電視電影台,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
 采昌影劇台,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
+EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 #__#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 
