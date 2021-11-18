@@ -6,6 +6,16 @@ Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 八大戲劇台,mitv://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
+HITS,mitv://ns2.hellotvvod.com:9906/8bc2e742cb57462c924904032624a6fd
+衛視電影台,mitv://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
+東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
+緯來電影台,mitv://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
+LS Time電影台,mitv://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
+HBO,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+東森洋片台,mitv://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
+AXN,mitv://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
+好萊塢電影台,mitv://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
+CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
 #__#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 
