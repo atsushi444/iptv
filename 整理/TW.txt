@@ -21,6 +21,8 @@
 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
 原住民族電視台,mitv://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
 緯來綜合台,mitv://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+緯來日本台,mitv://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
 八大第一台,mitv://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
 八大綜合台,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
 三立台灣台,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
@@ -31,6 +33,8 @@
 中天娛樂台,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
 高点综合台,mitv://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
+國興衛視,mitv://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
+Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
