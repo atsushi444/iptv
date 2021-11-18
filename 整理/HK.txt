@@ -1,42 +1,6 @@
 港澳频道,#genre#
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰中文台,http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#__#
-TVB J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
-TVB翡翠,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
-#__#
-TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
-ViuTV,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
-ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
-#__#
-亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
-#__#
-香港C+,http://124.238.99.44:808/hls/366/index.m3u8
-澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
-#__#
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RTHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-TVB翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#__#
-澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
-澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
-澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
+鳳凰衛視中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
+鳳凰衛視香港台,mitv://ns2.hellotvvod.com:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
+ViuTVsix,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
 
