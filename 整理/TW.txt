@@ -14,6 +14,11 @@
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 
 #__#
+民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
+台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+
+
+#__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
