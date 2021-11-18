@@ -46,11 +46,9 @@ TVBS精采台,mitv://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
 Z頻道,mitv://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
 靖天綜合台,mitv://ns2.hellotvvod.com:9906/fe98dad44e224b70ae27c282fdd5682a
 靖天育樂台,mitv://ns2.hellotvvod.com:9906/48cbe27fc4af4d988cab3cbf08c34d60
-壹電視資訊綜合台,mitv://ns2.hellotvvod.com:9906/9296b1db1f674585a1ca7be4ff47c004
-
-ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/b9f9c80102d54af7b3bc3aedc124afa9
 Nice TV 靖天歡樂台,mitv://ns2.hellotvvod.com:9906/33d8d6d8b2c84d8680e888b8f2bc636b
-
+壹電視資訊綜合台,mitv://ns2.hellotvvod.com:9906/9296b1db1f674585a1ca7be4ff47c004
+ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/b9f9c80102d54af7b3bc3aedc124afa9
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
