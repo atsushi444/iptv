@@ -10,3 +10,19 @@ TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b6
 戶外頻道,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+DMAX頻道,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
+歷史頻道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
+BBC Lifestyle Channel,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+LUXE TV Channel,mitv://ns2.hellotvvod.com:9906/a6a73818f9aa4fd992d966aac4b49c20
+Lifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
+HGTV 居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
+美食星球頻道,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
+亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/b52d03f4997a48b88d4ff3a86d2fa8de
+EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
+時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
