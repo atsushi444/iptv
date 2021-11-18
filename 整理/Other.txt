@@ -9,7 +9,8 @@ TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b6
 動物星球頻道,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
 戶外頻道,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
 國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
-Discovery Asia,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
 DMAX頻道,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
 EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
