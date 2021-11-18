@@ -1,42 +1,21 @@
 海外频道,#genre#
-Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-Astro AOD,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-Astro 爱奇艺,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-Astro 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Astro Prima,http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV8,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-Naura,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Oh!K,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-Oh!K,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
-One,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-NatGeo Wild HD,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-Animal Planet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-Bernama,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#__#
-BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-#__#
-TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
+Arirang TV,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
+tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
+DW(Deutsch),mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
+FRANCE24(French),mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
+KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
+TV5MONDE,mitv://ns2.hellotvvod.com:9906/5a4be120d6f04d17b285e897e6204063
+TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
+TV2 HD,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
+TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
+NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
+8TV,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
+TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb
+Astro Ria HD,mitv://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
+Astro Prima HD,mitv://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
+Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
+Astro Warna HD,mitv://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
+Astro Citra HD,mitv://ns2.hellotvvod.com:9906/564ec53813704a74b8c4ab042a18463f
+Naura HD,mitv://ns2.hellotvvod.com:9906/e5021a2cb2894b68b5422c254b8b7617
+Astro Rania HD,mitv://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
+Astro Aura HD,mitv://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
