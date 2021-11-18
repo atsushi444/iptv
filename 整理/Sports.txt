@@ -15,6 +15,8 @@ ELTA体育1,rtmp://59.124.75.138/sat/md021
 博斯魅力網,rtmp://59.124.75.138/sat/md031
 博斯網球台,rtmp://59.124.75.138/sat/md041
 ELTA体育2,rtmp://59.124.75.138/sat/md051
-
+#__#
+緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+ELEVEN体育1台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
 #__#
 ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
