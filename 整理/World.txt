@@ -2,7 +2,6 @@
 Arirang TV,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 DW(Deutsch),mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-FRANCE24(French),mitv://ns2.hellotvvod.com:9906/4742de38085f41d5ae90b7e8f236c153
 KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
 TV5MONDE,mitv://ns2.hellotvvod.com:9906/5a4be120d6f04d17b285e897e6204063
 TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
