@@ -1,2 +1,5 @@
 少儿频道,#genre#
-
+卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
+迪士尼頻道,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+東森幼幼台,mitv://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
