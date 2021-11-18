@@ -27,6 +27,7 @@
 八大綜合台,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
 三立台灣台,mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 三立都會台,mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立綜合台,mitv://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
 東森綜合台,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
 東森超視,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
 中天綜合台,mitv://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
