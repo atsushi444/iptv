@@ -12,7 +12,6 @@
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 公視3台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
@@ -32,8 +31,6 @@
 中天娛樂台,mitv://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
 高点综合台,mitv://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
-
-
 #__#
 公視,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
 #__#
