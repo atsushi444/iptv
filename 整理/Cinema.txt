@@ -19,10 +19,23 @@ CINEMAX,mitv://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
 FOX頻道,mitv://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
 HBO 強檔鉅獻,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBO 原創鉅獻,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
+HBO 溫馨家庭,mitv://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
 三立戲劇台,mitv://ns2.hellotvvod.com:9906/c5251859faa14a0b9ba00a3bbe4ec0fa
 龍華戲劇,mitv://ns2.hellotvvod.com:9906/b3fdf7edaf724fffb49a1bb3e5ba36c0
+龍華電影,mitv://ns2.hellotvvod.com:9906/cda4c0d5e8df4d49bb51fa6b71b5d19b
 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
+靖天映畫,mitv://ns2.hellotvvod.com:9906/0a08a213ff34484ebba095598ffed323
+靖天電影台,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
+美亞電影台HD,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
+星衛HD電影台,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
+Warner TV,mitv://ns2.hellotvvod.com:9906/bf10e7821b5744d3aed911a956e6cdfe
+Star Movies HD,mitv://ns2.hellotvvod.com:9906/b2c5dfbc8b6d4a7280ee39244a7678a8
+amc最愛電影,mitv://ns2.hellotvvod.com:9906/eb5393add687434ca3f3da38ce5ec3bf
+CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/c4eeae79ede24dd3baf9226ec992dbe4
+CinemaWorld,mitv://ns2.hellotvvod.com:9906/e37bdcc69e4f403f9fc52c6817c367f6
+壹電視電影台,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
+采昌影劇台,mitv://ns2.hellotvvod.com:9906/fa78b19b455148e3b2b00b5bf648c3fc
 #__#
 FOX MOVIES,http://60.251.59.180:8543/xoxo.m3u8
 
