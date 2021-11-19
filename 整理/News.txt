@@ -1,4 +1,7 @@
 新闻频道,#genre#
+#__#
+台視新聞台,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+#__#
 鳳凰衛視中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰衛視資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 無綫新聞台,mitv://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
