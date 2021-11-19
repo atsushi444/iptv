@@ -15,6 +15,8 @@
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 中視經典台,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 華視教育體育文化台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+客家電視台,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 民視第一台,mitv://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
