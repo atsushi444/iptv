@@ -1,4 +1,4 @@
-p5p频道,#genre#
+原力频道,#genre#
 凤凰资讯台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
 凤凰中文台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 凤凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
