@@ -82,6 +82,10 @@ Arirang TV,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
 中視經典台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
 Trace Urban,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv082
 Mezzo Live HD,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+智林體育台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101
+東森購物1台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
+東森購物3台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv103
+中天亞洲台,http://tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 #__#
 龍華卡通,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn01
 BabyFirst,http://tw.hstv.pro/litv/litvts.php?id=litv-longturn02
