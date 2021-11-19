@@ -23,21 +23,6 @@ Vivid Touch,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
 [1080]Hustler HD,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
 [1080]Vivid Red HD,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
 #__#
-[1080]Hustler_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/1
-Brazzers,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/2
-Dorcel,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/3
-Blue_Hustler,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/4
-[1080]Penthouse_Gold,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/5
-French_Lover,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/6
-[1080]Penthouse_Passion,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/7
-Barely_Legal,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/8
-Playboy,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/9
-[720]Private_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/10
-[1080]Prive_TV,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/11
-[1080]Redlight_HD,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/12
-ViVid Red,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/15
-XXL,http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/16
-#__#
 Playboy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/527/index.m3u8
 Russian Nights,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/147/index.m3u8
 Brazzers TV Europe,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/910/index.m3u8
