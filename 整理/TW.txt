@@ -12,6 +12,7 @@
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 公視3台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+中視經典台,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 民視第一台,mitv://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
@@ -58,4 +59,3 @@ ROCK Extreme,mitv://ns2.hellotvvod.com:9906/760a7b9f2e104b9abeba8ac4717a1fc2
 #__#
 三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
 三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
-
