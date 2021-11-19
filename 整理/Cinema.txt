@@ -3,6 +3,7 @@
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+靖天電影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 #__#
 東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
