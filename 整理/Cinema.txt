@@ -1,4 +1,5 @@
 影视频道,#genre#
+東森戲劇台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
