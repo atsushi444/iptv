@@ -10,6 +10,7 @@ AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 采昌影劇台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+TVB星河頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 #__#
 東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
