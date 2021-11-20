@@ -1,5 +1,5 @@
 
-#__#
+#__#台湾
 台视综合,http://sytv.xtvants.fun/mytv.php?id=tszh&token=free&user=free
 华视教育文化,http://sytv.xtvants.fun/mytv.php?id=hsjy&token=free&user=free
 公视,http://sytv.xtvants.fun/mytv.php?id=gs&token=free&user=free
@@ -61,12 +61,8 @@ JET综合,http://43.128.9.168/jjtv.php?id=52
 三立台湾,http://43.128.9.168/jjtv.php?id=129
 三立都会,http://43.128.9.168/jjtv.php?id=131
 
-TVBS新闻台,rtmp://59.124.75.157/sat/tv551
-东森财经新闻,rtmp://59.124.75.157/sat/tv571
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
 
-#__#
+#__#新闻
 凤凰卫视资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰卫视资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
@@ -130,8 +126,9 @@ CNN,http://43.128.9.168/jjtv.php?id=49
 NHK World,http://43.128.9.168/jjtv.php?id=50
 CNA,http://43.128.9.168/jjtv.php?id=51
 
+
+#__#影视
 美亚电影台: http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-#__#
 CatchPlay 电影,http://43.128.9.168/jjtv.php?id=76
 tvN Movie,http://43.128.9.168/jjtv.php?id=78
 AXN,http://43.128.9.168/jjtv.php?id=80
@@ -160,16 +157,6 @@ kk电影频道2,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 IPTV淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘电影,http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
 IPTV淘剧场,http://39.134.134.84:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/2.m3u8
-#__#
-iHOT爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-iHOT爱怀旧,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-iHOT爱江湖,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-iHOT爱谍战,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-iHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-iHOT爱经典,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-iHOT爱都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-iHOT爱青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-iHOT爱家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
 #__#
 CIBN骄阳剧场,http://womlive.cloud.wo.cn/tvlive/100030/otpzod_otpzod,100030_hls_pull_2000K_live.m3u8
 CIBN古装剧场,http://womlive.cloud.wo.cn/tvlive/100031/otpzod_otpzod,100031_hls_pull_2000K_live.m3u8
@@ -208,7 +195,7 @@ NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
 NewTV古装剧场,http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
 NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 
-#__#
+#__#其他
 时尚频道,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #__#
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
@@ -219,15 +206,6 @@ NewTV热播精选,http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#__#
-iHOT爱世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHOT爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-iHOT爱解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-iHOT爱军武,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-iHOT爱猎奇,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-iHOT爱历史,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-iHOT爱科学,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-iHOT爱探索,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 #__#
 CIBN真人秀,http://womlive.cloud.wo.cn/tvlive/100039/otpzod_otpzod,100039_hls_pull_2000K_live.m3u8
 CIBN纪录片,http://womlive.cloud.wo.cn/tvlive/100038/otpzod_otpzod,100038_hls_pull_2000K_live.m3u8
@@ -273,12 +251,8 @@ IPTV大健康,http://39.135.238.67/otttv.bj.chinamobile.com/TVOD/88888888/224/32
 陶瓷,http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 
-#__#
+#__#少儿
 Animax,http://43.128.9.168/jjtv.php?id=83
-#__#
-iHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-iHOT爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-iHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 #__#
 CIBN动画乐园,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
 #__#
@@ -302,13 +276,7 @@ IPTV淘BABY,http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221
 金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 优漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 
-iHOT爱电竞,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-黑莓电竞,http://183.207.248.71:80/cntv/live1/wmyx/wmyx
-黑莓电竞,http://39.135.140.104:6610/PLTV/88888888/224/3221225653/2/index.m3u8
-CIBN全电竞,http://iptv.inewya.com/qq494937337/others/cibn.php?id=9
-游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-游戏风云,http://117.136.154.86/PLTV/88888888/224/3221225840/index.m3u8
-
+#__#音乐
 MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
 MTV,http://anan.jxin122.top/松鼠php/126net.php?id=40
@@ -320,7 +288,7 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#__#
+#__#体育
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #__#
 Supersports 1,http://43.128.9.168/jjtv.php?id=108
@@ -362,9 +330,6 @@ Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1
 弈壇春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
 #__#
-iHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-iHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#__#
 先锋乒羽,http://womlive.cloud.wo.cn/tvlive/100071/otpzod_otpzod,100071_hls_pull_2000K_live.m3u8
 广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
 #__#
@@ -374,6 +339,7 @@ NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
 NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
+#__#港澳
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -415,7 +381,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
 
-#__#
+#__#海外
 Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -458,7 +424,7 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
 
-#__#
+#__#日本
 NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK WORLD TV,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
