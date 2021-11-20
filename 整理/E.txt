@@ -75,7 +75,7 @@ JStar極限台電影頻道,p5p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c
 潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 #__#
 Hot,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
-彩虹电影台,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
+彩虹電影台,rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5
 彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
 松視1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
 松視2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
