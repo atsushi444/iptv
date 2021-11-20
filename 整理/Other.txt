@@ -5,6 +5,9 @@ Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 Discovery科學頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 DMAX頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+BBC Lifestyle Channel,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cba
+歷史頻道,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cee
+HISTORY 2,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910cec
 #__#
 國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
 探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
