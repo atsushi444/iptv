@@ -1,17 +1,17 @@
 其他频道,#genre#
-國家地理國際頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
+國家地理頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
 Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 美食星球頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 Discovery科學頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 DMAX頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 動物星球頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
 #__#
-國家地理國際頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
 探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 TLC旅遊生活頻道,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
 動物星球頻道,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
 戶外頻道,mitv://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
-國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+國家地理野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
