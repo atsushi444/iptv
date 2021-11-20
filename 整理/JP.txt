@@ -1,3 +1,4 @@
 日本频道,#genre#
 NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
+NHK WORLD-JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
 #__#
