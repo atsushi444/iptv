@@ -1,6 +1,9 @@
 新闻频道,#genre#
+TVBS 新聞台,rtmp://59.124.75.138/sat/tv551
 東森財經新聞台,rtmp://59.124.75.138/sat/tv571
+TVBS 新聞台,rtmp://59.124.75.157/sat/tv551
 東森財經新聞台,rtmp://59.124.75.157/sat/tv571
+TVBS 新聞台,rtmp://9wv7.mine.nu/sat/tv551
 東森財經新聞台,rtmp:///9wv7.mine.nu/sat/tv571
 #__#
 台視新聞台,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
