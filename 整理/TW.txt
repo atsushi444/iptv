@@ -35,8 +35,6 @@ MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 原住民族電視台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c42
 客家電視台,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
-三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
-三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 衛視中文台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
 JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 緯來育樂台,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
