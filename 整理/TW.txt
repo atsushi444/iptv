@@ -30,7 +30,6 @@ MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 華視,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c4c
 華視教育體育文化台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 公視,rtmp://45.92.126.114/channel/60c3176f961593122ebaf906
-靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 公視台語台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視3台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
