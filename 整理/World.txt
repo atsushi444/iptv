@@ -2,23 +2,3 @@
 TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
 KIX HD,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
 DW(Deutsch),rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
-#__#
-Arirang TV,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
-tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
-DW(Deutsch),mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
-KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
-TV5MONDE,mitv://ns2.hellotvvod.com:9906/5a4be120d6f04d17b285e897e6204063
-TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e
-TV2 HD,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f
-TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f
-NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
-8TV,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
-TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb
-Astro Ria HD,mitv://ns2.hellotvvod.com:9906/c138fff294f2452eb90920d65182fdce
-Astro Prima HD,mitv://ns2.hellotvvod.com:9906/5712b148ea8d4b2da1e83c691cf7490b
-Astro Oasis HD,mitv://ns2.hellotvvod.com:9906/e599d6240fbe444d8a39f34225e40887
-Astro Warna HD,mitv://ns2.hellotvvod.com:9906/1a865f8d00fd497896b0fc1646aa801f
-Astro Citra HD,mitv://ns2.hellotvvod.com:9906/564ec53813704a74b8c4ab042a18463f
-Naura HD,mitv://ns2.hellotvvod.com:9906/e5021a2cb2894b68b5422c254b8b7617
-Astro Rania HD,mitv://ns2.hellotvvod.com:9906/1aae1307c2d04bd2b7ca5aed1469cd02
-Astro Aura HD,mitv://ns2.hellotvvod.com:9906/5e7a3708a99c482390ab8cf0f90a045e
