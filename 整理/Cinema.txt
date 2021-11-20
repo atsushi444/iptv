@@ -14,6 +14,7 @@ TVB星河頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 天映经典频道,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
 My Cinema Europe HD 我的歐洲電影,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
 私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
+龍華偶像,rtmp://104.149.131.118/channel/60b4e50239e1b02e8b910d48
 #__#
 東森戲劇台,mitv://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 東森電影台,mitv://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
