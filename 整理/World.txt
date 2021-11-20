@@ -1,4 +1,6 @@
 海外频道,#genre#
+TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
+#__#
 Arirang TV,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
 tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 DW(Deutsch),mitv://ns2.hellotvvod.com:9906/b957ef1774204c088bb084c051005717
