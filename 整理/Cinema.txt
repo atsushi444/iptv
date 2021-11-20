@@ -13,6 +13,7 @@ CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 TVB星河頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 天映经典频道,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
+天映电影,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
 My Cinema Europe HD 我的歐洲電影,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
 私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
 #__#
