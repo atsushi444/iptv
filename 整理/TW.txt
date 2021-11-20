@@ -26,12 +26,16 @@ MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 #__#
 民視,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
 台視,rtmp://104.149.141.122/channel/60b4e50239e1b02e8b910c44
+中視,rtmp://45.92.126.114/channel/60c3166c961593122ebaf8fe
+中視經典台,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
+華視,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c4c
+華視教育體育文化台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+公視,rtmp://45.92.126.114/channel/60c3176f961593122ebaf906
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 公視台語台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 公視3台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
 星衛娛樂台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-中視經典台,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
-華視教育體育文化台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
+原住民族電視台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c42
 客家電視台,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
 三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
@@ -47,6 +51,7 @@ Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 海豚綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
 TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
+霹靂台灣台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c72
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 民視第一台,mitv://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
