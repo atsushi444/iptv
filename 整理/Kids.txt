@@ -4,6 +4,7 @@ MOMO親子台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc8
 東森幼幼台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d84
 靖洋卡通台Nice Bingo,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
 卡通頻道,rtmp://104.149.130.142/channel/60f451628dfe8209677fda46
+迪士尼頻道,rtmp://104.149.131.118/channel/60f451968dfe8209677fda48
 #__#
 卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
 迪士尼頻道,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
