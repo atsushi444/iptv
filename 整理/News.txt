@@ -7,6 +7,7 @@ TVBS 新聞台,rtmp://9wv7.mine.nu/sat/tv551
 東森財經新聞台,rtmp:///9wv7.mine.nu/sat/tv571
 #__#
 鳳凰衛視中文台,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+鳳凰衛視中文台,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
 鳳凰衛視資訊台,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
 民視新聞台,rtmp://45.83.118.242/channel/60c461de961593122ebafa2c
 台視新聞台,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
