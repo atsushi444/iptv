@@ -5,6 +5,8 @@ HBO 強檔鉅獻,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 Thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 靖天電影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
+靖天戲劇台,rtmp://104.149.131.118/channel/60c343f1961593122ebaf998
+八大戲劇台,rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f
 FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
