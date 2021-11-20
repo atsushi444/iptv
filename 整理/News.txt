@@ -15,6 +15,7 @@ TVBS 新聞台,rtmp://9wv7.mine.nu/sat/tv551
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
 CNBC Asia Channel,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
+Channel NewsAsia頻道,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
 #__#
 鳳凰衛視中文台,mitv://ns2.hellotvvod.com:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰衛視資訊台,mitv://ns2.hellotvvod.com:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
