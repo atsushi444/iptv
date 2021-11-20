@@ -98,4 +98,5 @@ ALJAZEERAHD,http://125.227.210.55:8938/VideoInput/play.ts
 NHKBS1HD,http://125.227.210.55:8939/VideoInput/play.ts
 NHKBSPHD,http://125.227.210.55:8940/VideoInput/play.ts
 BBCworldHD,http://125.227.210.55:10246/VideoInput/play.ts
+中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
 
