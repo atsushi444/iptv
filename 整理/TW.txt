@@ -49,6 +49,8 @@ JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 東森綜合台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d86
 東森超視,rtmp://104.149.130.142/channel/60b4e50239e1b02e8b910d8e
+中天綜合台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d90
+中天娛樂台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c94
 ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
@@ -56,10 +58,8 @@ Nice TV 靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 WAKUWAKU JAPAN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d38
 Z頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 冠軍電視台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
-海豚綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
 TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
 霹靂台灣台,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910c72
-信吉電視台,rtmp://104.149.131.118/channel/611a83ad3e4da143c0159880
 #__#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 民視第一台,mitv://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
