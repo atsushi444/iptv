@@ -30,25 +30,4 @@ ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/tv741
 愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md031
 ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/md041
 ELEVEN SPORTS PLUS,rtmp://9wv7.mine.nu/sat/md051
-#__#
-緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
-ELEVEN體育一台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
-ELEVEN SPORTS 2,mitv://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
-TRACE Sport Stars,mitv://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
-博斯高球一台,mitv://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球二台,mitv://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
-博斯網球台,mitv://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
-博斯無限台,mitv://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
-博斯無限二台,mitv://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
-博斯運動一台,mitv://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
-博斯運動二台,mitv://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
-智林體育台,mitv://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
-香港603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
-有线体育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
-HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/947fa69d3ee7421f83b9aae7df4c846d
-#__#
-ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
+
