@@ -42,6 +42,9 @@ MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 衛視中文台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cc4
 JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 緯來育樂台,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
+緯來綜合台,rtmp://104.149.131.118/channel/60c312b7961593122ebaf8f1
+八大第一台,rtmp://104.149.131.118/channel/60c31d07961593122ebaf92d
+八大綜合台,rtmp://45.83.118.242/channel/60c31c5a961593122ebaf92b
 ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
