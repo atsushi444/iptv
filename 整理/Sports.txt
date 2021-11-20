@@ -15,6 +15,14 @@ ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
 博斯魅力網,rtmp://59.124.75.138/sat/md031
 博斯網球台,rtmp://59.124.75.138/sat/md041
 愛爾達體育2台,rtmp://59.124.75.138/sat/md051
+緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
+ELEVEN體育一台,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/tv741
+愛爾達體育2台,rtmp://9wv7.mine.nu/sat/md011
+愛爾達體育1台,rtmp://9wv7.mine.nu/sat/md021
+博斯魅力網,rtmp://9wv7.mine.nu/sat/md031
+博斯網球台,rtmp://9wv7.mine.nu/sat/md041
+愛爾達體育2台,rtmp://9wv7.mine.nu/sat/md051
 #__#
 緯來體育台,mitv://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
 ELEVEN體育一台,mitv://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
