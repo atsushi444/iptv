@@ -17,6 +17,7 @@ TVBS 新聞台,rtmp://9wv7.mine.nu/sat/tv551
 年代新聞台,rtmp://45.88.148.178/channel/60c3181e961593122ebaf90e
 三立新聞台,rtmp://45.92.126.114/channel/60b4e50239e1b02e8b910c7c
 TVBS 新聞台,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c7e
+非凡新聞台,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910c86
 TVBS,rtmp://45.88.148.114/channel/60b4e50239e1b02e8b910c90
 CNBC Asia Channel,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
