@@ -3,6 +3,7 @@
 台視,rtmp://59.124.75.138/sat/tv071
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.138/sat/tv111
+TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 緯來育樂台,rtmp://59.124.75.138/sat/tv701
 緯來日本台,rtmp://59.124.75.138/sat/tv771
@@ -10,6 +11,7 @@ MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 台視,rtmp://59.124.75.157/sat/tv071
 中視,rtmp://59.124.75.157/sat/tv091
 華視,rtmp://59.124.75.157/sat/tv111
+TVBS歡樂台,rtmp://59.124.75.157/sat/tv421
 MoMo綜合台,rtmp://59.124.75.157/sat/tv761
 緯來育樂台,rtmp://59.124.75.157/sat/tv701
 緯來日本台,rtmp://59.124.75.157/sat/tv771
@@ -17,6 +19,7 @@ MoMo綜合台,rtmp://59.124.75.157/sat/tv761
 台視,rtmp://9wv7.mine.nu/sat/tv071
 中視,rtmp://9wv7.mine.nu/sat/tv091
 華視,rtmp://9wv7.mine.nu/sat/tv111
+TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 MoMo綜合台,rtmp://9wv7.mine.nu/sat/tv761
 緯來育樂台,rtmp://9wv7.mine.nu/sat/tv701
 緯來日本台,rtmp://9wv7.mine.nu/sat/tv771
