@@ -53,13 +53,7 @@ MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 国会频道2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
 #__#
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-#__#
-民视,http://43.128.9.168/jjtv.php?id=24
-中视,http://43.128.9.168/jjtv.php?id=29
-华视,http://43.128.9.168/jjtv.php?id=30
-JET综合,http://43.128.9.168/jjtv.php?id=52
-三立台湾,http://43.128.9.168/jjtv.php?id=129
-三立都会,http://43.128.9.168/jjtv.php?id=131
+
 
 
 #__#新闻
@@ -107,33 +101,10 @@ CNN,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-#__#
-民视新闻台,http://43.128.9.168/jjtv.php?id=32
-中视新闻台,http://43.128.9.168/jjtv.php?id=33
-台视新闻台,http://43.128.9.168/jjtv.php?id=34
-寰宇新闻台,http://43.128.9.168/jjtv.php?id=35
-中天新聞,http://43.128.9.168/jjtv.php?id=36
-东森新闻,http://43.128.9.168/jjtv.php?id=38
-东森财经新闻,http://43.128.9.168/jjtv.php?id=39
-华视新闻,http://43.128.9.168/jjtv.php?id=41
-TVBS新闻台,http://43.128.9.168/jjtv.php?id=42
-三立inews,http://43.128.9.168/jjtv.php?id=43
-三立Live新闻,http://43.128.9.168/jjtv.php?id=44
-壹新闻,http://43.128.9.168/jjtv.php?id=46
-BBC World News,http://43.128.9.168/jjtv.php?id=47
-ABCnews,http://43.128.9.168/jjtv.php?id=48
-CNN,http://43.128.9.168/jjtv.php?id=49
-NHK World,http://43.128.9.168/jjtv.php?id=50
-CNA,http://43.128.9.168/jjtv.php?id=51
 
 
 #__#影视
 美亚电影台: http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-CatchPlay 电影,http://43.128.9.168/jjtv.php?id=76
-tvN Movie,http://43.128.9.168/jjtv.php?id=78
-AXN,http://43.128.9.168/jjtv.php?id=80
-One,http://43.128.9.168/jjtv.php?id=81
-Warner TV,http://43.128.9.168/jjtv.php?id=82
 #__#
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -252,8 +223,6 @@ IPTV大健康,http://39.135.238.67/otttv.bj.chinamobile.com/TVOD/88888888/224/32
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 
 #__#少儿
-Animax,http://43.128.9.168/jjtv.php?id=83
-#__#
 CIBN动画乐园,http://womlive.cloud.wo.cn/tvlive/100034/otpzod_otpzod,100034_hls_pull_2000K_live.m3u8
 #__#
 CIBN动画乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0
@@ -290,11 +259,6 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 
 #__#体育
 博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-#__#
-Supersports 1,http://43.128.9.168/jjtv.php?id=108
-Supersports 2,http://43.128.9.168/jjtv.php?id=109
-Supersports 4,http://43.128.9.168/jjtv.php?id=110
-Supersports 4,http://43.128.9.168/jjtv.php?id=111
 #__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
