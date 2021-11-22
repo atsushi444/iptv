@@ -29,15 +29,6 @@ JET综合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7
 霹雳台湾台,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
 Z频道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
 #__#
-台视综合,http://anan.jxin122.top/松鼠php/126net.php?id=11
-华视教育文化,http://anan.jxin122.top/松鼠php/126net.php?id=17
-公视,http://anan.jxin122.top/松鼠php/126net.php?id=19
-公视台语,http://anan.jxin122.top/松鼠php/126net.php?id=20
-公视3,http://anan.jxin122.top/松鼠php/126net.php?id=21
-年代MUCH,http://anan.jxin122.top/松鼠php/126net.php?id=46
-JET综合,http://anan.jxin122.top/松鼠php/126net.php?id=47
-东风37,http://anan.jxin122.top/松鼠php/126net.php?id=48
-#__#
 MOMO综合,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #__#
