@@ -6,6 +6,14 @@
 ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
 博斯高球二台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
 #__#
+緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
+ELEVEN體育一台,rtmp://9wv7.mine.nu/sat/tv731
+ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/tv741
+愛爾達體育1台,rtmp://9wv7.mine.nu/sat/md011
+博斯網球台,rtmp://9wv7.mine.nu/sat/md021
+ELEVEN SPORTS PLUS,rtmp://9wv7.mine.nu/sat/md031
+愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md041
+博斯運動二台,rtmp://9wv7.mine.nu/sat/md051
 緯來體育台,rtmp://59.124.75.157/sat/tv721
 ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
 ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
@@ -22,12 +30,4 @@ ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
 愛爾達體育3台,rtmp://59.124.75.138/sat/md031
 ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/md041
 ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md051
-緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
-ELEVEN體育一台,rtmp://9wv7.mine.nu/sat/tv731
-ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/tv741
-愛爾達體育1台,rtmp://9wv7.mine.nu/sat/md011
-愛爾達體育2台,rtmp://9wv7.mine.nu/sat/md021
-愛爾達體育3台,rtmp://9wv7.mine.nu/sat/md031
-ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/md041
-ELEVEN SPORTS PLUS,rtmp://9wv7.mine.nu/sat/md051
 
