@@ -18,16 +18,14 @@ ELEVEN SPORTS PLUS,rtmp://9wv7.mine.nu/sat/md031
 ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
 ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
 愛爾達體育1台,rtmp://59.124.75.157/sat/md011
-愛爾達體育2台,rtmp://59.124.75.157/sat/md021
-愛爾達體育3台,rtmp://59.124.75.157/sat/md031
-ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/md041
-ELEVEN SPORTS PLUS,rtmp://59.124.75.157/sat/md051
+ELEVEN SPORTS PLUS,rtmp://59.124.75.157/sat/md031
+愛爾達體育3台,rtmp://59.124.75.157/sat/md041
+博斯運動二台,rtmp://59.124.75.157/sat/md051
 緯來體育台,rtmp://59.124.75.138/sat/tv721
 ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
 ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
 愛爾達體育1台,rtmp://59.124.75.138/sat/md011
-愛爾達體育2台,rtmp://59.124.75.138/sat/md021
-愛爾達體育3台,rtmp://59.124.75.138/sat/md031
-ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/md041
-ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md051
+ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md031
+愛爾達體育3台,rtmp://59.124.75.138/sat/md041
+博斯運動二台,rtmp://59.124.75.138/sat/md051
 
