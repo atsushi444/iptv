@@ -14,8 +14,8 @@ Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
 Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
 Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
 X Desire,http://185.226.88.3:1036/live/backup/backup/7.m3u8
-X-Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
-X-Bisarre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
+X Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
+X Bizdrre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
