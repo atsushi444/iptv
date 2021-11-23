@@ -47,7 +47,7 @@ xxx:Barely legal,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/871/index.m3u8
 xxx:Passion XXX,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/878/index.m3u8
 [1080]Redlight,,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/242/index.m3u8
 xxx:Private TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/243/index.m3u8
-xxx:Hustler HD Europe,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/244/index.m3u8
+[1080]Hustler HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/244/index.m3u8
 xxx:Dorcel TV HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/245/index.m3u8
 xxx:Pink\'o TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/874/index.m3u8
 xxx:Нюарт TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2057/index.m3u8
