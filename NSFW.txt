@@ -40,10 +40,7 @@ VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
 #__#
 xxx:Playboy,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/527/index.m3u8
 xxx:Русская Ночь,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/147/index.m3u8
-xxx:Brazzers TV Europe,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/910/index.m3u8
-xxx:Шалун,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/922/index.m3u8
-xxx:Candy,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/923/index.m3u8
-xxx:Penthouse TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
+[1080]Penthouse Passion,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
 xxx:Blue Hustler,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1064/index.m3u8
 xxx:Barely legal,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/871/index.m3u8
 xxx:BRAZZERS TV Europe 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/872/index.m3u8
