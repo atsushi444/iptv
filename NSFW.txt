@@ -43,10 +43,7 @@ xxx:Русская Ночь,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/147/
 [1080]Penthouse Passion,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
 xxx:Blue Hustler,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1064/index.m3u8
 xxx:Barely legal,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/871/index.m3u8
-xxx:BRAZZERS TV Europe 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/872/index.m3u8
-xxx:Sexto Senso,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/875/index.m3u8
-xxx:SCT,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/876/index.m3u8
-xxx:PRIVE,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/877/index.m3u8
+[720]SCT,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/876/index.m3u8
 xxx:Passion XXX,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/878/index.m3u8
 xxx:Redlight HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/242/index.m3u8
 xxx:Private TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/243/index.m3u8
