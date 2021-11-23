@@ -49,6 +49,7 @@ xxx:FrenchLover,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2160/index.m3u8
 xxx:O-la-la,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2161/index.m3u8
 xxx:XXL,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5009/index.m3u8
 xxx:Penthouse Quickies,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5012/index.m3u8
+xxx:Dusk,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6198/index.m3u8
 [1080]Penthouse Passion,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8
 [720]SCT,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/876/index.m3u8
 [1080]Redlight,,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/242/index.m3u8
@@ -84,6 +85,14 @@ xxx:Penthouse Quickies,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5012/inde
 [1080]DDF Network,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6194/index.m3u8
 [1080]Digital Desire HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6195/index.m3u8
 [1080]Digital Playground HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6196/index.m3u8
+[1080]Dorcel Club,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6197/index.m3u8
+[1080]Evil Angel HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6199/index.m3u8
+[720]Evolved Fights,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6200/index.m3u8
+[720]Extasy HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6201/index.m3u8
+[1080]Fake Taxi HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6202/index.m3u8
+[720]FemJoy,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6212/index.m3u8
+[1080]Got MYLF,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6216/index.m3u8
+[1080]Hands on Hardcore,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6217/index.m3u8
 [720]Anal Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6167/index.m3u8
 [720]Big Ass Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6175/index.m3u8
 [720]Big Dick Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6176/index.m3u8
@@ -93,44 +102,41 @@ xxx:Penthouse Quickies,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5012/inde
 [720]Brunette Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6183/index.m3u8
 [720]Compilation Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6187/index.m3u8
 [720]Cuckold Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6188/index.m3u8
-xxx:Dorcel Club,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6197/index.m3u8
-xxx:Dusk,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6198/index.m3u8
-xxx:Evil Angel HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6199/index.m3u8
-xxx:Evolved Fights,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6200/index.m3u8
-xxx:Extasy HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6201/index.m3u8
-xxx:Fake Taxi HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6202/index.m3u8
-xxx:Fap TV 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6203/index.m3u8
-xxx:Fap TV 3,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6204/index.m3u8
-xxx:Fap TV 4,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6205/index.m3u8
-xxx:Fap TV Anal,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6206/index.m3u8
+[720]Fetish Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6213/index.m3u8
+[720]Gangbang Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6214/index.m3u8
+[720]Gay Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6215/index.m3u8
 xxx:Fap TV BBW,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6207/index.m3u8
-xxx:Fap TV Compilation,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6208/index.m3u8
-xxx:Fap TV Lesbian,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6209/index.m3u8
-xxx:Fap TV Parody,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6210/index.m3u8
-xxx:Fap TV Teens,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6211/index.m3u8
-xxx:FemJoy,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6212/index.m3u8
-xxx:Fetish Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6213/index.m3u8
-xxx:Gangbang Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6214/index.m3u8
-xxx:Gay Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6215/index.m3u8
-xxx:Got MYLF,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6216/index.m3u8
-xxx:Hands on Hardcore,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6217/index.m3u8
-xxx:Hard X,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6218/index.m3u8
+[720]Fap TV 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6203/index.m3u8
+[720]Fap TV 3,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6204/index.m3u8
+[720]Fap TV 4,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6205/index.m3u8
+[720]Fap TV Anal,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6206/index.m3u8
+[720]Fap TV Compilation,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6208/index.m3u8
+[720]Fap TV Lesbian,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6209/index.m3u8
+[720]Fap TV Parody,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6210/index.m3u8
+[1080]Fap TV Teens,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6211/index.m3u8
 xxx:Hardcore Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6219/index.m3u8
+xxx:Interracial Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6224/index.m3u8
+xxx:Latina Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6226/index.m3u8
+xxx:Lesbian Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6228/index.m3u8
+xxx:MILF Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6234/index.m3u8
+xxx:Pornstar Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6243/index.m3u8
+xxx:POV Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6244/index.m3u8
+xxx:Rough Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6250/index.m3u8
+xxx:Russian Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6251/index.m3u8
+xxx:Teen Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6256/index.m3u8
+xxx:Threesome Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6257/index.m3u8
+xxx:Hard X,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6218/index.m3u8
 xxx:Hitzefrei HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6220/index.m3u8
 xxx:Holed,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6221/index.m3u8
 xxx:Hot and Mean,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6222/index.m3u8
 xxx:Hot Guys Fuck,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6223/index.m3u8
-xxx:Interracial Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6224/index.m3u8
 xxx:Japan HDV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6225/index.m3u8
-xxx:Latina Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6226/index.m3u8
 xxx:Lesbea,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6227/index.m3u8
-xxx:Lesbian Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6228/index.m3u8
 xxx:Lethal Hardcore,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6229/index.m3u8
 xxx:Little Asians HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6230/index.m3u8
 xxx:Live Cams Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6231/index.m3u8
 xxx:Lust Cinema,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6232/index.m3u8
 xxx:MetArt HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6233/index.m3u8
-xxx:MILF Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6234/index.m3u8
 xxx:Monsters of Cock,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6235/index.m3u8
 xxx:MYLF TV HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6236/index.m3u8
 xxx:Naughty America,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6237/index.m3u8
@@ -139,21 +145,15 @@ xxx:ox-ax HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6239/index.m3u8
 xxx:Pink Erotic 3,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6240/index.m3u8
 xxx:Pink Erotic 4,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6241/index.m3u8
 xxx:Playboy Plus,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6242/index.m3u8
-xxx:Pornstar Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6243/index.m3u8
-xxx:POV Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6244/index.m3u8
 xxx:Private HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6245/index.m3u8
 xxx:Public Agent,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6246/index.m3u8
 xxx:Reality Kings HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6247/index.m3u8
 xxx:RK Prime,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6248/index.m3u8
 xxx:RK TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6249/index.m3u8
-xxx:Rough Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6250/index.m3u8
-xxx:Russian Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6251/index.m3u8
 xxx:Sex With Muslims,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6252/index.m3u8
 xxx:SexArt,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6253/index.m3u8
 xxx:sext 6 senso,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6254/index.m3u8
 xxx:SINematica,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6255/index.m3u8
-xxx:Teen Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6256/index.m3u8
-xxx:Threesome Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6257/index.m3u8
 xxx:Tiny4K,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6258/index.m3u8
 xxx:Trans Angels,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6259/index.m3u8
 xxx:True Amateurs,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6260/index.m3u8
