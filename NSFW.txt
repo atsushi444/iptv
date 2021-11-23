@@ -52,8 +52,8 @@ xxx:Private TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/243/index.m3u8
 xxx:Pink\'o TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/874/index.m3u8
 xxx:FrenchLover,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2160/index.m3u8
 xxx:O-la-la,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2161/index.m3u8
-xxx:Vivid Red HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2162/index.m3u8
-xxx:Exxxotica HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2397/index.m3u8
+[1080]Vivid Red HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2162/index.m3u8
+[1080]Exxxotica HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/2397/index.m3u8
 xxx:XXL,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5009/index.m3u8
 xxx:Penthouse Passion,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5010/index.m3u8
 xxx:Penthouse Gold HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5011/index.m3u8
