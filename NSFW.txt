@@ -34,9 +34,9 @@ Vivid Touch,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
 [1080]Redlight,http://93.152.174.144:4000/play/Redlight/index.m3u8
 [1080]Penthouse,http://93.152.174.144:4000/play/Penthouse/index.m3u8
 #__#
-[720]Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
-[720]Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
 VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
+[720]Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
+[720]Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
 #__#
 xxx:Playboy,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/527/index.m3u8
 xxx:Русская Ночь,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/147/index.m3u8
