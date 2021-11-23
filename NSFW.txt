@@ -36,7 +36,6 @@ Vivid Touch,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
 #__#
 [720]Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
 [720]Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
-[720]SYFY HD,http://livetv2021.site:8080/9897876765/6576567/8854
 VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
 #__#
 Playboy,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/527/index.m3u8
