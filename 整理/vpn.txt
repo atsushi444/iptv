@@ -1,3 +1,5 @@
+高清频道（需梯子）,#genre#
+
 备用频道（需梯子）,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
