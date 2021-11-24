@@ -98,8 +98,6 @@ xxx:SuperOne HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6298/index.m3u8
 [720]A3 Bikini,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6165/index.m3u8
 [1080]Adult Time,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6166/index.m3u8
 [720]Analized HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6168/index.m3u8
-[720]AST TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6169/index.m3u8
-[1080]AST TV 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6170/index.m3u8
 [1080]Babes HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6171/index.m3u8
 [1080]Babes HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6172/index.m3u8
 [1080]Bang Bros HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6173/index.m3u8
@@ -153,7 +151,6 @@ xxx:SuperOne HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6298/index.m3u8
 [1080]Bangerz,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6271/index.m3u8
 [1080]Emanuelle HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6272/index.m3u8
 [720]Extreme,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6273/index.m3u8
-[720]Fast Boyz,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6274/index.m3u8
 [1080]Hot Pleasure,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6277/index.m3u8
 [1080]Oldtimer,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6279/index.m3u8
 [720]Taboo,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6283/index.m3u8
@@ -161,6 +158,9 @@ xxx:SuperOne HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6298/index.m3u8
 [1080]XY Mix HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6287/index.m3u8
 [1080]XY Plus HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6288/index.m3u8
 [1080]Erox HD,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6296/index.m3u8
+[720]Fast Boyz,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6274/index.m3u8
+[720]AST TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6169/index.m3u8
+[1080]AST TV 2,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6170/index.m3u8
 [720]Anal Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6167/index.m3u8
 [720]Big Ass Adult TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6175/index.m3u8
 [720]Big Dick Red TV,http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6176/index.m3u8
