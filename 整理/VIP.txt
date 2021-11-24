@@ -53,6 +53,9 @@ SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
 SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 #__#
+黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓电影,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#__#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 四海钓鱼,http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
 上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
