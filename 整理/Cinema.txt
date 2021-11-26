@@ -15,6 +15,8 @@ CINEMAX,http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 好萊塢電影台,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 #__#
+Now 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
+#__#
 東森戲劇台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 HBO 強檔鉅獻,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
