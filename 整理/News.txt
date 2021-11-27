@@ -21,6 +21,9 @@ CNBC Asia Channel,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cn
 Bloomberg TV,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
 #__#
 東森新聞台,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
+CNA HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #__#
 TVBS 新聞台,rtmp://59.124.75.138/sat/tv551
 東森財經新聞台,rtmp://59.124.75.138/sat/tv571
