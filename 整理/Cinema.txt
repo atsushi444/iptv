@@ -16,6 +16,7 @@ AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 好萊塢電影台,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 #__#
 Now 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
+Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #__#
 東森戲劇台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
@@ -27,7 +28,6 @@ FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
 AXN,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c
 CatchPlay電影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a
 采昌影劇台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd4
-靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
 TVB星河頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 天映经典频道,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
 My Cinema Europe HD 我的歐洲電影,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
