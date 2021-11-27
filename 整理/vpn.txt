@@ -3,8 +3,6 @@
 三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
 三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
 三立新聞台,http://125.227.210.55:15589/VideoInput/play.ts
-FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
-FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
 東森戲劇台,http://125.227.210.37:17524/VideoInput/play.ts
 東森戲劇台,http://125.227.210.55:17524/VideoInput/play.ts
 BBC Earth,http://125.227.210.37:18358/VideoInput/play.ts
