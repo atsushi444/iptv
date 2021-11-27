@@ -421,37 +421,7 @@ Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #__#
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-寰宇新闻,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-亚洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-#__#
-壹新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新闻,http://stream.nexttv.com.tw/n001/playlist.m3u8
-#__#
-民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
-东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-#__#
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-#__#
-三立Live新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-中视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-民视新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-华视新闻资讯,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
-寰宇新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
-寰宇新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-台视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
-中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
-TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
-TVBS新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
 #__#
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
@@ -463,25 +433,6 @@ RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
 #__#
-东森新闻,http://50.7.61.147:30080/Entry/etnews
-纬来日本,http://50.7.61.147:30080/Entry/vljp
-非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
-TLC,http://50.7.61.147:30080/Entry/tlc
-JET综合,http://50.7.61.147:30080/Entry/jet
-民视 HD,http://50.7.61.147:30080/Entry/ftv
-华视CTS HD,http://50.7.61.147:30080/Entry/cts
-壹新闻 HD,http://50.7.61.147:30080/Entry/etv
-#__#
-HBO,http://50.7.61.148:30080/Entry/hbo
-台视 HD,http://50.7.61.148:30080/Entry/ttv
-TVBS HD,http://50.7.61.148:30080/Entry/tvbs
-民视新闻,http://50.7.61.148:30080/Entry/ftvnews
-中视 HD,http://50.7.61.148:30080/Entry/ctv
-TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
-SET三立台湾,http://50.7.61.148:30080/Entry/settw-
-卫视中文,http://50.7.61.148:30080/Entry/starchinese
-AXN,http://50.7.61.148:30080/Entry/axn
-#__#
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #__#
@@ -489,10 +440,6 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #__#
 東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
-#__#
-中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 #__#
 民視第一,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
 民視台灣,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
