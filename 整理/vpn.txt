@@ -201,7 +201,10 @@ ELTV生活英語台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-lon
 JET綜合台,http://50.7.61.147:30080/Entry/jet
 緯來日本台,http://50.7.61.147:30080/Entry/vljp
 TVBS,http://50.7.61.148:30080/Entry/tvbs
-非凡新聞台,http://50.7.61.147:30080/Entry/ubnbus
+東森新聞台,http://50.7.61.147:30080/Entry/etnews
+非凡商業台,http://50.7.61.147:30080/Entry/ubnbus
+TLC旅遊生活頻道,http://50.7.61.147:30080/Entry/tlc
+TVBS 新聞台,http://50.7.61.148:30080/Entry/tvbsnews
 壹電視新聞台,http://50.7.61.147:30080/Entry/etv
 HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
