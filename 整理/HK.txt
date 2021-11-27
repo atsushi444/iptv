@@ -1,2 +1,5 @@
 港澳频道,#genre#
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亞旅衛視,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
+#__#
 鳳凰衛視香港台,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
