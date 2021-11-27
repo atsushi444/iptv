@@ -6,7 +6,7 @@ TLC旅遊生活頻道,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/8
 亞洲旅遊台,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
 #__#
 國家地理頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-Discovery Asia,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+Discovery Channel,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
 美食星球頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 Discovery科學頻道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
 DMAX頻道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
