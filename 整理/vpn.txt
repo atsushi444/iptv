@@ -1,6 +1,6 @@
 超清频道（需梯子）,#genre#
-鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts
-鳳凰衛視,http://125.227.210.55:8935/VideoInput/play.ts
+鳳凰衛視中文台,http://125.227.210.37:8935/VideoInput/play.ts
+鳳凰衛視中文台,http://125.227.210.55:8935/VideoInput/play.ts
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
 三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
