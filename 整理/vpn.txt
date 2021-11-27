@@ -1,4 +1,6 @@
 超清频道（需梯子）,#genre#
+鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts
+鳳凰衛視,http://125.227.210.55:8935/VideoInput/play.ts
 三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
 三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
 三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
@@ -36,6 +38,34 @@ CNBC,http://125.227.210.55:16415/VideoInput/play.ts
 韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
 ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
+TVBS 新聞台,http://125.227.210.37:16329/VideoInput/play.ts
+TVBS 新聞台,http://125.227.210.55:16329/VideoInput/play.ts
+Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
+Arirang TV,http://125.227.210.55:8933/VideoInput/play.ts
+NHKworld,http://125.227.210.37:8931/VideoInput/play.ts
+NHKworld,http://125.227.210.55:8931/VideoInput/play.ts
+YTN,http://125.227.210.37:8932/VideoInput/play.ts
+YTN,http://125.227.210.55:8932/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://125.227.210.55:16027/VideoInput/play.ts
+DW,http://125.227.210.37:8934/VideoInput/play.ts
+DW,http://125.227.210.55:8934/VideoInput/play.ts
+RT,http://125.227.210.37:8936/VideoInput/play.ts
+RT,http://125.227.210.55:8936/VideoInput/play.ts
+TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
+TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
+Al Jazeera,http://125.227.210.37:8938/VideoInput/play.ts
+Al Jazeera,http://125.227.210.55:8938/VideoInput/play.ts
+NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
+NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts
+NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
+NHKBSP,http://125.227.210.55:8940/VideoInput/play.ts
+BBC World News,http://125.227.210.37:10246/VideoInput/play.ts
+BBC World News,http://125.227.210.55:10246/VideoInput/play.ts
+CNN,http://125.227.210.37:10797/VideoInput/play.ts
+CNN,http://125.227.210.55:10797/VideoInput/play.ts
+Bloomberg TV,http://125.227.210.55:18184/VideoInput/play.ts
+Bloomberg TV,http://125.227.210.37:18184/VideoInput/play.ts
 #__#
 民視新聞台,https://git.io/JgkAb
 台視新聞台,https://git.io/JgkxY
