@@ -1,4 +1,10 @@
 新闻频道,#genre#
+鳳凰衛視資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+鳳凰衛視資訊台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+鳳凰衛視資訊台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+鳳凰衛視資訊台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+鳳凰衛視資訊台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
+#__#
 NHK新聞資訊台,http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
 東森新聞台,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森財經新聞台,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
