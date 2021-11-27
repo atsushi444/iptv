@@ -14,6 +14,8 @@ CNN International,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/c
 CNBC Asia Channel,http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 Bloomberg TV,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
 #__#
+東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
+#__#
 TVBS 新聞台,rtmp://59.124.75.138/sat/tv551
 東森財經新聞台,rtmp://59.124.75.138/sat/tv571
 TVBS 新聞台,rtmp://59.124.75.157/sat/tv551
