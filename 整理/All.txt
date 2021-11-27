@@ -116,18 +116,6 @@ NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
 #__#港澳
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-凤凰中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文台,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰中文台,http://39.134.134.89:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#__#
 TVB J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
 TVB翡翠,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 #__#
