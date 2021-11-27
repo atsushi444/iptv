@@ -175,9 +175,9 @@ AXN,http://50.7.61.148:30080/Entry/axn
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 #__#
 民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
 民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
