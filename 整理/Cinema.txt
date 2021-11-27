@@ -17,6 +17,19 @@ AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #__#
 Now 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+美亞電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+#__#
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+kk电影频道1,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+kk电影频道2,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#__#
+斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+斗鱼（华语2）,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
+斗鱼（欧美）,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+#__#
+CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #__#
 東森戲劇台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
 HBO 原創鉅獻,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
