@@ -63,7 +63,6 @@ JET綜合台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 三立台灣台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c78
 三立都會台,rtmp://45.92.126.226/channel/60c53f4a961593122ebafa48
 TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
 靖天綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 Nice TV 靖天歡樂台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
