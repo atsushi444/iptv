@@ -11,6 +11,7 @@ Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 SexTreme,http://138.59.177.78:8000/play/a00c
+Erox,http://94.229.250.73:8008/play/a002
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
