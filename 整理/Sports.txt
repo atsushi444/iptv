@@ -5,12 +5,6 @@
 ELEVEN體育一台,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #__#
-愛爾達體育1台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-愛爾達體育2台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb6
-愛爾達體育3台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb8
-ELEVEN SPORTS 2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
-博斯高球二台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
-#__#
 緯來體育台,rtmp://9wv7.mine.nu/sat/tv721
 ELEVEN體育一台,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN SPORTS 2,rtmp://9wv7.mine.nu/sat/tv741
