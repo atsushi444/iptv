@@ -1,4 +1,1 @@
 海外频道,#genre#
-TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
-KIX HD,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
-DW(Deutsch),rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
