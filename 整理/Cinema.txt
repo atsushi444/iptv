@@ -16,12 +16,7 @@ AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 好萊塢電影台,http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8
 #__#
 Now 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
-Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 美亞電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-#__#
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-kk电影频道1,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-kk电影频道2,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 #__#
 斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼（华语2）,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
