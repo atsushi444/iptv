@@ -15,6 +15,9 @@ Erox,http://94.229.250.73:8008/play/a002
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
+[720]SexTreme,http://livetv2021.site:8080/9897876765/6576567/8852
+[720]SexHot,http://livetv2021.site:8080/9897876765/6576567/8853
+#__#
 Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
 Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
 Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
