@@ -9,6 +9,13 @@ KBS N ,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 #__#
+SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
+SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
+#__#
 KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
 TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
