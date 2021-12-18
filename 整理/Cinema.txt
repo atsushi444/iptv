@@ -21,6 +21,7 @@ AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 #__#
 Now 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
 美亞電影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 #__#
 斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼（华语2）,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
