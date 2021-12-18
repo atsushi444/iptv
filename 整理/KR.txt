@@ -30,6 +30,7 @@ korea TV,http://ye23.win/iptv/korea2021.php?id=korea
 KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
 #__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
