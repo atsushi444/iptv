@@ -1,23 +1,69 @@
 #EXTM3U
-#EXTINF:-1,SBS
-https://www.navchina.cf/IPTV/sbs.php?id=S01
-#EXTINF:-1,SBS Sports
-https://www.navchina.cf/IPTV/sbs.php?id=S02
-#EXTINF:-1,SBS Plus
-https://www.navchina.cf/IPTV/sbs.php?id=S03
-#EXTINF:-1,SBS Fun
-https://www.navchina.cf/IPTV/sbs.php?id=S04
-#EXTINF:-1,SBS Golf
-https://www.navchina.cf/IPTV/sbs.php?id=S05
-#EXTINF:-1,SBS BIZ
-https://www.navchina.cf/IPTV/sbs.php?id=S06
-#EXTINF:-1,SBS 1
-https://www.navchina.cf/IPTV/sbs.php?id=S07
-#EXTINF:-1,SBS 2
-https://www.navchina.cf/IPTV/sbs.php?id=S08
-#EXTINF:-1,SBS MTV
-https://www.navchina.cf/IPTV/sbs.php?id=S09
-#EXTINF:-1,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,CNA
-https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+#EXTINF:-1,OBS
+http://ye23.win/iptv/korea2021.php?id=OBS
+#EXTINF:-1,OBSW
+http://ye23.win/iptv/korea2021.php?id=OBSW
+#EXTINF:-1,Arirang
+http://ye23.win/iptv/korea2021.php?id=Arirang
+#EXTINF:-1,Good TV
+http://ye23.win/iptv/korea2021.php?id=Good
+#EXTINF:-1,cgntv
+http://ye23.win/iptv/korea2021.php?id=cgntv
+#EXTINF:-1,cpbc
+http://ye23.win/iptv/korea2021.php?id=cpbc
+#EXTINF:-1,bbstv
+http://ye23.win/iptv/korea2021.php?id=bbstv
+#EXTINF:-1,CTS
+http://ye23.win/iptv/korea2021.php?id=CTS
+#EXTINF:-1,myStream
+http://ye23.win/iptv/korea2021.php?id=myStream
+#EXTINF:-1,MTN
+http://ye23.win/iptv/korea2021.php?id=MTN
+#EXTINF:-1,TBS
+http://ye23.win/iptv/korea2021.php?id=tbstv
+#EXTINF:-1,FTV
+http://ye23.win/iptv/korea2021.php?id=FTV
+#EXTINF:-1,Channel A
+http://ye23.win/iptv/korea2021.php?id=Channela
+#EXTINF:-1,korea TV
+http://ye23.win/iptv/korea2021.php?id=korea
+#EXTINF:-1,YTN
+http://ye23.win/iptv/korea2021.php?id=ytn
+#EXTINF:-1,YTN 2
+http://ye23.win/iptv/korea2021.php?id=YTN_2
+#EXTINF:-1,YTN
+http://ye23.win/iptv/korea2021.php?id=YTN_b
+#EXTINF:-1,YTN DMB
+http://ye23.win/iptv/korea2021.php?id=YTN-D
+#EXTINF:-1,YTN A
+http://ye23.win/iptv/korea2021.php?id=YTN_a
+#EXTINF:-1,MBN
+http://ye23.win/iptv/korea2021.php?id=MBN
+#EXTINF:-1,Channel A
+http://ye23.win/iptv/korea2021.php?id=Channel
+#EXTINF:-1,TBS
+http://ye23.win/iptv/korea2021.php?id=TBS-a
+#EXTINF:-1,TBS
+http://ye23.win/iptv/korea2021.php?id=TBS-B
+#EXTINF:-1,KCTV
+http://ye23.win/iptv/korea2021.php?id=KCTV
+#EXTINF:-1,EBS 1
+http://ye23.win/iptv/korea2021.php?id=EBS1
+#EXTINF:-1,EBS 2
+http://ye23.win/iptv/korea2021.php?id=EBS2
+#EXTINF:-1,EBS i
+http://ye23.win/iptv/korea2021.php?id=EBSi
+#EXTINF:-1,EBS+2
+http://ye23.win/iptv/korea2021.php?id=EBS_2
+#EXTINF:-1,EBS E
+http://ye23.win/iptv/korea2021.php?id=EBS_E
+#EXTINF:-1,EBS KIDS
+http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+#EXTINF:-1,flive
+http://ye23.win/iptv/korea2021.php?id=flive
+#EXTINF:-1,dema
+http://ye23.win/iptv/korea2021.php?id=dema
+#EXTINF:-1,阿里郎WORLD
+http://ye23.win/iptv/korea2021.php?id=arirang_1
+#EXTINF:-1,阿里郎WORLD
+http://ye23.win/iptv/korea2021.php?id=arirang_2
