@@ -21,6 +21,18 @@ TVBS歡樂台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.
 緯來日本台,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 年代MUCH TV,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
 #__#
+三立台灣台,http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都會台,http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+東森綜合台,http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+TVBS,http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天亞洲台,http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天娛樂台,http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中天綜合台,http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+公視,http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民視,http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+華視,http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+中視,http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#__#
 原住民電視台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 愛爾達綜合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
