@@ -1,1 +1,2 @@
 海外频道,#genre#
+CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
