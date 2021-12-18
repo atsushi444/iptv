@@ -1,8 +1,8 @@
 韩国频道,#genre#
 KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 KBS-24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 KBS drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 KBS N ,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
