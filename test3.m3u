@@ -1,9 +1,21 @@
 #EXTM3U
 #EXTINF:-1,SBS
-http://ye23.win/iptv/korea2021.php?id=SBS
-#EXTINF:-1,TJB SBS
-http://ye23.win/iptv/korea2021.php?id=TJB
-#EXTINF:-1,CJB SBS
-http://ye23.win/iptv/korea2021.php?id=CJB
-#EXTINF:-1,KBC SBS
-http://ye23.win/iptv/korea2021.php?id=KBC
+http://ye23.win/iptv/sbs5.1.php?id=S01
+#EXTINF:-1,SBS-Sports
+http://ye23.win/iptv/sbs5.1.php?id=S02
+#EXTINF:-1,SBS-Plus
+http://ye23.win/iptv/sbs5.1.php?id=S03
+#EXTINF:-1,SBS-Fun
+http://ye23.win/iptv/sbs5.1.php?id=S04
+#EXTINF:-1,SBS-Golf
+http://ye23.win/iptv/sbs5.1.php?id=S05
+#EXTINF:-1,SBS-Biz
+http://ye23.win/iptv/sbs5.1.php?id=S06
+#EXTINF:-1,SBS-POWER
+http://ye23.win/iptv/sbs5.1.php?id=S07
+#EXTINF:-1,SBS-LOVE
+http://ye23.win/iptv/sbs5.1.php?id=S08
+#EXTINF:-1,SBS-MTV
+http://ye23.win/iptv/sbs5.1.php?id=S09
+#EXTINF:-1,SBS-GorealraM
+http://ye23.win/iptv/sbs5.1.php?id=S19
