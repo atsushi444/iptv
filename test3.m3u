@@ -1,21 +1,23 @@
 #EXTM3U
 #EXTINF:-1,SBS
-http://ye23.win/iptv/sbs5.1.php?id=S01
-#EXTINF:-1,SBS-Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
-#EXTINF:-1,SBS-Plus
-http://ye23.win/iptv/sbs5.1.php?id=S03
-#EXTINF:-1,SBS-Fun
-http://ye23.win/iptv/sbs5.1.php?id=S04
-#EXTINF:-1,SBS-Golf
-http://ye23.win/iptv/sbs5.1.php?id=S05
-#EXTINF:-1,SBS-Biz
-http://ye23.win/iptv/sbs5.1.php?id=S06
-#EXTINF:-1,SBS-POWER
-http://ye23.win/iptv/sbs5.1.php?id=S07
-#EXTINF:-1,SBS-LOVE
-http://ye23.win/iptv/sbs5.1.php?id=S08
-#EXTINF:-1,SBS-MTV
-http://ye23.win/iptv/sbs5.1.php?id=S09
-#EXTINF:-1,SBS-GorealraM
-http://ye23.win/iptv/sbs5.1.php?id=S19
+https://www.navchina.cf/IPTV/sbs.php?id=S01
+#EXTINF:-1,SBS Sports
+https://www.navchina.cf/IPTV/sbs.php?id=S02
+#EXTINF:-1,SBS Plus
+https://www.navchina.cf/IPTV/sbs.php?id=S03
+#EXTINF:-1,SBS Fun
+https://www.navchina.cf/IPTV/sbs.php?id=S04
+#EXTINF:-1,SBS Golf
+https://www.navchina.cf/IPTV/sbs.php?id=S05
+#EXTINF:-1,SBS BIZ
+https://www.navchina.cf/IPTV/sbs.php?id=S06
+#EXTINF:-1,SBS 1
+https://www.navchina.cf/IPTV/sbs.php?id=S07
+#EXTINF:-1,SBS 2
+https://www.navchina.cf/IPTV/sbs.php?id=S08
+#EXTINF:-1,SBS MTV
+https://www.navchina.cf/IPTV/sbs.php?id=S09
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,CNA
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8
