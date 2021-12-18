@@ -20,6 +20,16 @@ KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
 TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+Good TV,http://ye23.win/iptv/korea2021.php?id=Good
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
+YTN,http://ye23.win/iptv/korea2021.php?id=ytn
+YTN A,http://ye23.win/iptv/korea2021.php?id=YTN_a
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+korea TV,http://ye23.win/iptv/korea2021.php?id=korea
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 #__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
