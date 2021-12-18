@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Good TV
-http://ye23.win/iptv/korea2021.php?id=Good
-#EXTINF:-1,cgntv
-http://ye23.win/iptv/korea2021.php?id=cgntv
-#EXTINF:-1,cpbc
-http://ye23.win/iptv/korea2021.php?id=cpbc
-#EXTINF:-1,bbstv
-http://ye23.win/iptv/korea2021.php?id=bbstv
-#EXTINF:-1,myStream
-http://ye23.win/iptv/korea2021.php?id=myStream
-#EXTINF:-1,MTN
-http://ye23.win/iptv/korea2021.php?id=MTN
-#EXTINF:-1,TBS
-http://ye23.win/iptv/korea2021.php?id=TBS-a
-#EXTINF:-1,FTV
-http://ye23.win/iptv/korea2021.php?id=FTV
-#EXTINF:-1,YTN
-http://ye23.win/iptv/korea2021.php?id=ytn
-#EXTINF:-1,YTN A
-http://ye23.win/iptv/korea2021.php?id=YTN_a
-#EXTINF:-1,Channel A
-http://ye23.win/iptv/korea2021.php?id=Channela
-#EXTINF:-1,Channel A
-http://ye23.win/iptv/korea2021.php?id=Channel
-#EXTINF:-1,korea TV
-http://ye23.win/iptv/korea2021.php?id=korea
-#EXTINF:-1,KCTV
-http://ye23.win/iptv/korea2021.php?id=KCTV
-#EXTINF:-1,EBS 1
-http://ye23.win/iptv/korea2021.php?id=EBS1
-#EXTINF:-1,EBS 2
-http://ye23.win/iptv/korea2021.php?id=EBS2
-#EXTINF:-1,EBS i
-http://ye23.win/iptv/korea2021.php?id=EBSi
-#EXTINF:-1,EBS+2
-http://ye23.win/iptv/korea2021.php?id=EBS_2
-#EXTINF:-1,EBS E
-http://ye23.win/iptv/korea2021.php?id=EBS_E
-#EXTINF:-1,EBS KIDS
-http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-#EXTINF:-1,dema
-http://ye23.win/iptv/korea2021.php?id=dema
-#EXTINF:-1,阿里郎WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_1
-#EXTINF:-1,阿里郎WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_2
+#EXTINF:-1,民視新聞
+http://anan.jxin122.top/cj.php?id=5&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,非凡新聞
+http://anan.jxin122.top/cj.php?id=6&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,年代新聞
+http://anan.jxin122.top/cj.php?id=7&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,東森新聞
+http://anan.jxin122.top/cj.php?id=33&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中天新聞
+http://anan.jxin122.top/cj.php?id=42&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,緯來體育
+http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,龍祥年代
+http://anan.jxin122.top/cj.php?id=13&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,東森洋片
+http://anan.jxin122.top/cj.php?id=28&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,東森電影
+http://anan.jxin122.top/cj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中視
+http://anan.jxin122.top/cj.php?id=18&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,三立台灣
+http://anan.jxin122.top/cj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,三立都會
+http://anan.jxin122.top/cj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,三立綜合
+http://anan.jxin122.top/cj.php?id=26&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,東森綜合
+http://anan.jxin122.top/cj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,TVBS歡樂
+http://anan.jxin122.top/cj.php?id=36&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,TVBS
+http://anan.jxin122.top/cj.php?id=37&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中天亞洲
+http://anan.jxin122.top/cj.php?id=39&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中天娛樂
+http://anan.jxin122.top/cj.php?id=40&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中天綜合
+http://anan.jxin122.top/cj.php?id=41&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,公視
+http://anan.jxin122.top/cj.php?id=43&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,民視
+http://anan.jxin122.top/cj.php?id=44&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,華視
+http://anan.jxin122.top/cj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,中視
+http://anan.jxin122.top/cj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
