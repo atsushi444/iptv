@@ -1,4 +1,14 @@
 韩国频道,#genre#
+KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS-24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+KBS N ,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 가요TV,http://gayotv.net:1935/live/gayotv/playlist.m3u8
