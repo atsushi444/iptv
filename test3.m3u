@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1,KBS-1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1,KBS-2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1,KBS-WORLD
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1,KBS-24
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1,KBS drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1,KBS JOY
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1,KBS N 
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1,KBS W
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1,KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:-1,SBS
+http://ye23.win/iptv/korea2021.php?id=SBS
+#EXTINF:-1,TJB SBS
+http://ye23.win/iptv/korea2021.php?id=TJB
+#EXTINF:-1,CJB SBS
+http://ye23.win/iptv/korea2021.php?id=CJB
+#EXTINF:-1,KBC SBS
+http://ye23.win/iptv/korea2021.php?id=KBC
