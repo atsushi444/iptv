@@ -1,4 +1,4 @@
-🇨🇳央视频道,#genre#
+央视频道,#genre#
 CCTV-1综合,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8?fmt=ts2hls
 CCTV-2财经,http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/index.m3u8?fmt=ts2hls
 CCTV-3综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
@@ -32,7 +32,7 @@ CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888
 CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 
-📺卫视频道,#genre#
+卫视频道,#genre#
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
 东方卫视,http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
