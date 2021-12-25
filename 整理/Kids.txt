@@ -1,4 +1,7 @@
 少儿频道,#genre#
+靖天卡通,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH139/139
+東森幼幼台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH143/143
+#__#
 東森幼幼台,http://220.135.55.74:8506/live.m3u8
 龍華卡通,http://220.135.55.74:8508/live.m3u8
 東森幼幼台,http://220.135.55.74:8506/http/60.250.87.135:8081/hls/63/805/ch09.m3u8
