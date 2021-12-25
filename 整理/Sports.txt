@@ -1,4 +1,12 @@
 体育频道,#genre#
+愛爾達體育1台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
+愛爾達體育2台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH69/69
+博斯運動二台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH72/72
+博斯高球,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH73/73
+博斯高球2,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH74/74
+博斯網球台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH75/75
+博斯無限,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH76/76
+#__#
 博斯運動一台,http://220.135.55.74:8570/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 ELEVEN體育一台,http://220.135.55.74:8553/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #__#
