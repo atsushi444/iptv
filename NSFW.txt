@@ -1,15 +1,9 @@
 #__#
-hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
-redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-redlight hd,http://51.15.0.141:88/redlightHD/mpegts
-black hd,http://51.15.0.141:88/blacked_hd/tracks-v1a1/mono.m3u8
-Русская ночь,http://46.174.83.66/Russkaya_Noch/mpegts
-#__#
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #__#
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
+SuperOne HD,https://ujeb.se/hNN57X
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 SexTreme,http://138.59.177.78:8000/play/a00c
 Erox,http://94.229.250.73:8008/play/a002
@@ -23,27 +17,6 @@ Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
 X Desire,http://185.226.88.3:1036/live/backup/backup/7.m3u8
 X Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
 X Bizdrre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
-#__#
-XXL,http://82.42.140.103:8001/1:0:1:1d4:26ac:13f:820000:0:0:0:
-Blue Hustler HD,http://82.42.140.103:8001/1:0:16:4221:2f44:13E:820000:0:0:0:
-Vivid Touch,http://82.42.140.103:8001/1:0:1:1CBB:1CE8:71:820000:0:0:0:
-[1080]Redlight,http://82.42.140.103:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:
-[1080]Dorcel TV,http://82.42.140.103:8001/1:0:1:4205:2F44:13E:820000:0:0:0:
-[1080]Hustler HD,http://82.42.140.103:8001/1:0:19:4223:2f44:13E:820000:0:0:0:
-[1080]Hustler HD,http://82.42.140.103:8001/1:0:19:4220:2f44:13E:820000:0:0:0:
-[1080]Vivid Red HD,http://82.42.140.103:8001/1:0:1:4267:3db8:13E:820000:0:0:0:
-#__#
-[720]EroXXX,http://91.132.60.82:4000/play/eroxxx/index.m3u8
-[1080]Redlight,http://93.152.174.144:4000/play/Redlight/index.m3u8
-[1080]Penthouse,http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#__#
-VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
-[720]Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
-[720]Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
-#__#
-SuperOne HD,https://ujeb.se/hNN57X
-[1080]Private TV,https://ujeb.se/2XoHsp
-[1080]Vivid Red HD,https://ujeb.se/xO0afJ
 #__#
 Cunnilingus,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
 Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e 
