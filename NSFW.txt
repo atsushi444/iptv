@@ -3,13 +3,16 @@ Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #__#
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
-SuperOne HD,https://ujeb.se/hNN57X
+SuperOne,https://ujeb.se/hNN57X
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 SexTreme,http://138.59.177.78:8000/play/a00c
 Erox,http://94.229.250.73:8008/play/a002
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-[720]PLAYBOY,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+#__#
+[720]PLAYBOY,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
+XXX: SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
+XXX: VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
 #__#
 Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
 Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
