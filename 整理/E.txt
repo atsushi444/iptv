@@ -88,6 +88,15 @@ Hot,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
 JStar極限台電影頻道,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
 Happy,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
 PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
+#__#
+彩虹e台,rtmp://125.227.196.250:1935/live/Rainbowmovie
+K 頻道,rtmp://125.227.196.250:1935/live/Kchannel
+JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
+潘朵啦高畫質粉紅台,rtmp://125.227.196.250:1935/live/PandoraPlays
+潘朵啦高畫質玩美台,rtmp://125.227.196.250:1935/live/PandoraPink
+松視1台,rtmp://125.227.196.250:1935/live/PineVision1
+松視2台,rtmp://125.227.196.250:1935/live/PineVision2
+Happy,rtmp://125.227.196.250:1935/live/BananaStation
 
 #__#
 红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
