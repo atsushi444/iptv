@@ -115,6 +115,7 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
 #__#
 彩虹e台,rtmp://125.227.196.250:1935/live/Rainbowmovie
 K 頻道,rtmp://125.227.196.250:1935/live/Kchannel
+香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
 驚豔成人電影台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
 JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
 潘朵啦高畫質粉紅台,rtmp://125.227.196.250:1935/live/PandoraPlays
@@ -122,7 +123,6 @@ JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
 松視1台,rtmp://125.227.196.250:1935/live/PineVision1
 松視2台,rtmp://125.227.196.250:1935/live/PineVision2
 松視3台,rtmp://125.227.196.250:1935/live/PineVision3
-Happy,rtmp://125.227.196.250:1935/live/BananaStation
 Happy,rtmp://125.227.196.250:1935/live/HAPPY
 
 #__#
