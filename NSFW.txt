@@ -7,6 +7,7 @@ SuperOne,https://ujeb.se/hNN57X
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 SexTreme,http://138.59.177.78:8000/play/a00c
 Erox,http://94.229.250.73:8008/play/a002
+VENUS,http://170.83.242.153:8000/play/a00z
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
