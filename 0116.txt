@@ -1,4 +1,13 @@
 #__#
+Adultchannel 1,http://185.193.240.245:8000/play/a01e/index.m3u8
+Adultchannel 2,http://185.193.240.245:8000/play/a01f/index.m3u8
+Adultchannel 3,http://185.193.240.245:8000/play/a01g/index.m3u8
+Adultchannel 4,http://185.193.240.245:8000/play/a01h/index.m3u8
+Adultchannel 5,http://185.193.240.245:8000/play/a01i/index.m3u8
+Adultchannel 6,http://185.193.240.245:8000/play/a01j/index.m3u8
+Adultchannel 7,http://185.193.240.245:8000/play/a01k/index.m3u8
+
+#__#
 XXX:SEXTREME_LA6,http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/4159
 XXX:SEXTREME_LA5,http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/4160
 XXX:SEXTREME_LA3,http://tutvxweb.net:8000/guillenomorenocristian/NDKFXJ5C5C/4161
