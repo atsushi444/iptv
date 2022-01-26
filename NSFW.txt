@@ -1,29 +1,38 @@
 #__#
+[1080]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
+[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68795
+[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68794
+[1080]SEXY HOT,http://list.starbr.nz:80/nilson1234/1234nilson/20825
+[1080]VENUS,http://list.starbr.nz:80/nilson1234/1234nilson/79698
+[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/871
+[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/68796
+[720]SEXTREME,http://list.starbr.nz:80/nilson1234/1234nilson/853
+#__#
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #__#
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 SuperOne,https://ujeb.se/hNN57X
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-SexTreme,http://138.59.177.78:8000/play/a00c
+SEXTREME,http://138.59.177.78:8000/play/a00c
 Erox,http://94.229.250.73:8008/play/a002
 VENUS,http://170.83.242.153:8000/play/a00z
 [720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 #__#
-[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/129544
-[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/4897
-[720]PLAYBOY,http://efv.me:80/eliana/eliana123/4899
+[1080]PLAYBOY TV,http://efv.me:80/eliana/eliana123/129544
+[1080]PLAYBOY TV,http://efv.me:80/eliana/eliana123/4897
+[720]PLAYBOY TV,http://efv.me:80/eliana/eliana123/4899
 SEXY HOT,http://efv.me:80/eliana/eliana123/4884
-SEX PRIVE,http://efv.me:80/eliana/eliana123/128194
+SEXPRIVE,http://efv.me:80/eliana/eliana123/128194
 VENUS,http://efv.me:80/eliana/eliana123/129438
 SEX HOT,http://efv.me:80/eliana/eliana123/129560
 SEXTREME,http://efv.me:80/eliana/eliana123/129584
 VENUS,http://efv.me:80/eliana/eliana123/4900
 #__#
-[720]PLAYBOY,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
-XXX: SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
-XXX: VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
+[720]PLAYBOY TV,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
+SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
+VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
 #__#
 Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
 Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
