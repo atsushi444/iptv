@@ -141,15 +141,16 @@ JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
 Happy,rtmp://125.227.196.250:1935/live/HAPPY
 
 #__#
-红松,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/360.m3u8 
-红松2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/361.m3u8 
-HOT,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/362.m3u8
-素人,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/363.m3u8 
-NYX MEDIA,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/364.m3u8 
-NYX MEDIA2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/365.m3u8
-iBiza Media,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/366.m3u8
-iBiza Media2,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/367.m3u8
-NYX MEDIA3,http://api.hstv.me:8080/live/fylike520/P6dPiVP849/368.m3u8 
+红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8 
+红松2,http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8 
+HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
+素人,http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8 
+NYX MEDIA,http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8 
+NYX MEDIA2,http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8
+iBiza Media,http://api.hstv.me:8080/live/pi2021001/456321/366.m3u8
+iBiza Media2,http://api.hstv.me:8080/live/pi2021001/456321/367.m3u8
+NYX MEDIA3,http://api.hstv.me:8080/live/pi2021001/456321/368.m3u8 
+NYX MEDIA4,http://api.hstv.me:8080/live/pi2021001/456321/369.m3u8 
 
 #__#
 彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
