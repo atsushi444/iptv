@@ -27,8 +27,8 @@ FOX,http://125.227.210.37:13498/VideoInput/play.ts
 FOX,http://125.227.210.55:13498/VideoInput/play.ts
 国家地理频道,http://125.227.210.37:16408/VideoInput/play.ts
 国家地理频道,http://125.227.210.55:16408/VideoInput/play.ts
-CN卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts
-CN卡通頻道,http://125.227.210.55:16671/VideoInput/play.ts
+CN卡通频道,http://125.227.210.37:16671/VideoInput/play.ts
+CN卡通频道,http://125.227.210.55:16671/VideoInput/play.ts
 Disney,http://125.227.210.37:14250/VideoInput/play.ts
 Disney,http://125.227.210.55:14250/VideoInput/play.ts
 DiscoveryAsia,http://125.227.210.37:10388/VideoInput/play.ts
