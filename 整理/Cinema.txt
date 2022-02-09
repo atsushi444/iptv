@@ -20,9 +20,4 @@ AXN,http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 斗鱼（华语1）,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 斗鱼（华语2）,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 斗鱼（欧美）,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-#__#
-CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-
 
