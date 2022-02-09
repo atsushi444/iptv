@@ -14,15 +14,6 @@ Pink\'O,http://86.126.115.112:8000/play/a098/index.m3u8
 Playboy TV,http://86.126.115.112:8000/play/a097/index.m3u8
 SuperOne,http://86.126.115.112:8000/play/a0aw/index.m3u8
 #__#
-[1080]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
-[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68795
-[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68794
-[1080]SEXY HOT,http://list.starbr.nz:80/nilson1234/1234nilson/20825
-[1080]VENUS,http://list.starbr.nz:80/nilson1234/1234nilson/79698
-[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/871
-[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/68796
-[720]SEXTREME,http://list.starbr.nz:80/nilson1234/1234nilson/853
-#__#
 [1080]Hot,http://94.61.44.29:7500/play/a005/index.m3u8
 [1080]Penthouse Gold,http://94.61.44.29:7500/play/a00l/index.m3u8
 [1080]Playboy TV,http://94.61.44.29:7500/play/a009/index.m3u8
