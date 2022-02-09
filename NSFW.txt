@@ -1,4 +1,19 @@
 #__#
+Babes TV HD,http://37.19.203.217:8085/udp/239.10.10.69:5000
+Reality Kings,http://37.19.203.217:8085/udp/239.10.10.81:5000
+Hustler TV,http://37.19.203.217:8085/udp/239.10.10.88:5000
+Dorcel TV HD,http://37.19.203.217:8085/udp/239.10.10.155:5000
+Eroxxx HD,http://37.19.203.217:8085/udp/239.10.10.164:5000
+Brazzers TV,http://37.19.203.217:8085/udp/239.100.10.190:5000
+Hustler HD,http://37.19.203.217:8085/udp/239.100.10.58:5000
+Brazzers TV,http://86.126.115.112:8000/play/a096/index.m3u8
+Penthouse HD,http://86.126.115.112:8000/play/a085/index.m3u8
+Penthouse Passion,http://86.126.115.112:8000/play/a07n/index.m3u8
+Penthouse Quickies,http://86.126.115.112:8000/play/a09y/index.m3u8
+Pink\'O,http://86.126.115.112:8000/play/a098/index.m3u8
+Playboy TV,http://86.126.115.112:8000/play/a097/index.m3u8
+SuperOne,http://86.126.115.112:8000/play/a0aw/index.m3u8
+#__#
 [1080]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
 [1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68795
 [1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68794
