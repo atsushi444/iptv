@@ -14,12 +14,6 @@ Pink\'O,http://86.126.115.112:8000/play/a098/index.m3u8
 Playboy TV,http://86.126.115.112:8000/play/a097/index.m3u8
 SuperOne,http://86.126.115.112:8000/play/a0aw/index.m3u8
 #__#
-[1080]Hot,http://94.61.44.29:7500/play/a005/index.m3u8
-[1080]Penthouse Gold,http://94.61.44.29:7500/play/a00l/index.m3u8
-[1080]Playboy TV,http://94.61.44.29:7500/play/a009/index.m3u8
-HOT Taboo,http://94.61.44.29:7500/play/a003/index.m3u8
-SEXTREME,http://94.61.44.29:7500/play/a00p/index.m3u8
-#__#
 Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #__#
