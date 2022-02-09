@@ -79,7 +79,6 @@ TVBS,https://git.io/JgYl2
 幸福空間居家台,https://git.io/JgYYF
 KPOP,https://git.io/JgYAE
 #__#
-民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
