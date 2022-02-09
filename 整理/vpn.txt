@@ -67,9 +67,7 @@ CNN,http://125.227.210.55:10797/VideoInput/play.ts
 Bloomberg TV,http://125.227.210.55:18184/VideoInput/play.ts
 Bloomberg TV,http://125.227.210.37:18184/VideoInput/play.ts
 #__#
-民視新聞台,https://git.io/JgkAb
 台視新聞台,https://git.io/JgkxY
-中視新聞台,https://git.io/Jgkxz
 華視新聞資訊台,https://git.io/J1zPH
 三立LIVE新聞,https://git.io/Jgkxp
 三立inews新聞,https://git.io/Jgkxj
@@ -77,7 +75,6 @@ Bloomberg TV,http://125.227.210.37:18184/VideoInput/play.ts
 東森新聞台,https://git.io/Jgkps
 東森財經新聞台,https://git.io/Jgkpc
 TVBS,https://git.io/JgYl2
-TVBS 新聞台,https://git.io/Jgkp1
 中天新聞,https://git.io/Jgkpy
 幸福空間居家台,https://git.io/JgYYF
 KPOP,https://git.io/JgYAE
@@ -95,14 +92,12 @@ KPOP,https://git.io/JgYAE
 三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 華視新聞資訊台,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hsxw.m3u8
-中視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 民視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 華視新聞資訊台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 台視新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
 TVBS 新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
-TVBS 新聞台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
 #__#
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
