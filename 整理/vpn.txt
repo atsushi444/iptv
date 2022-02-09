@@ -127,13 +127,4 @@ AXN,http://50.7.61.148:30080/Entry/axn
 民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
 民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
 #__#
-民視,https://4gtvfreemobile-mozai.4gtv.tv/z-4Hg7N6vs50yhA6iX9n9elf1ikuJKEcMdR1IKqFOp4%3d/stream2.m3u8?token=q44SHDi8AXE1makMtVkjDw&expires=1632729656&token1=H38SB9bSUWCnbFIT-2H4Yw&expires1=1632758456&refer=MWRmMzMzMzQtMDBkNy00NTA2LWEwYzgtNzI4NzgyZGE1NDYw&y=0
-民視,https://4gtvfreemobile-mozai.4gtv.tv/EsGHR5kmmmdGF7ceX4JrxzFGr5EZWyRjqaKVoUJ3Gfk%3d/stream2.m3u8?token=gGyPozlBLrCzgcF_CMv2Tg&expires=1630484776&token1=XVXm7_bwqoA_ltNZssw8aA&expires1=1630513576&refer=ODI4MjVlNDItODhiMy00MDEzLTg4YzktZTk5MmJiM2E5OWU4&y=0
-民視台灣台,https://4gtvfreemobile-mozai.4gtv.tv/0qg0WovcfDMSWMMlCga3nFZYb_aQ-M5Ai-D4Vm2PiLw%3d/stream2.m3u8?token=xI0fLiKy1vem2vPjOlfwFw&expires=1630484837&token1=xVY64k4T75EVLPBtQaDQIw&expires1=1630513637&refer=MmRjZjkxNWEtYTgyZS00MjIxLWE4NTktYzg1Zjc3MGQ1NDM1&y=0
-民視第一台,https://4gtvfreemobile-mozai.4gtv.tv/BS0hPFwEmjNJQjj2oFSy1Z-XQ9JgkjaDBtZQBS7S6B4%3d/stream2.m3u8?token=25j77IK5TofuZcj-JuUCMQ&expires=1632735955&token1=vu3xx42dEIv86AGcv0C74g&expires1=1632764755&refer=ZGQ2ZmNkZTMtYzQyMS00NTYzLTg5MTgtM2RhMjBhZmFhM2Rj&y=0
-民視影劇台,https://4gtvfreemobile-mozai.4gtv.tv/2rqbIbRqglryu8IiI0qxjrccv7fDS-G13j9voZQySdk%3d/stream2.m3u8?token=7_GvS2I7i2XhcMTApCqRsQ&expires=1632735997&token1=7amtPD5YIAjhQAZSQ1eijQ&expires1=1632764797&refer=MWRkZGE1NmMtYjk2My00MGQ5LTlhOGQtOTA3NjQ2MDg5ZDU0&y=0
-民視旅遊台,https://4gtvfreemobile-mozai.4gtv.tv/5aKpM4LBCCkSNY-NDqu_QuK_2b__ckfU6MnG55DANMI%3d/stream2.m3u8?token=CnJNRPOvMkXHAg7xZ3MRvg&expires=1632736040&token1=Bj0UqU00DPlvywn8kxMqXg&expires1=1632764840&refer=ZTIxNThiOGItY2RkNC00YTM0LTg3YjktMGUyMGU5NTI1NTQ2&y=0
-民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/0df68Gf2eZZfeig9vWfaKfrjsVCG-GW-OCbyLHhoW0M%3d/stream2.m3u8?token=kZe4eLTn9CRCt4byOtfzpQ&expires=1628316954&refer=ZDRjZGQzODAtOTUyMi00ZDAxLTgyMzktZTMyMzFiZWUwZGIz&token1=kHxHRFjqciiDO5a-uaorqw&expires1=1628345754&y=0&vt=
-民視綜藝台,https://4gtvfreemobile-mozai.4gtv.tv/NgfVD30MBxjs1kU9m3lMtxjPqnu2_Me6anz6aPf7PYc%3d/stream2.m3u8?token=m-OTQK_06hRbFrhAJwCjTA&expires=1632730935&token1=8kPUOFYapn4YUVKcqEpDxA&expires1=1632759735&refer=YWQ5MDU3YjYtNGViYy00MGJkLWJiMjMtZjg1NmMyMTYyODU1&y=0&vt=
-#__#
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
