@@ -19,10 +19,10 @@ CIBN-动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
 黑莓动画,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #__#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-纪实人文,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+上海纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 四海钓鱼,http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
-上海外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-上海外语,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上视外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+上视外语频道,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
