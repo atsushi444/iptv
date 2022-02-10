@@ -1,99 +1,196 @@
 测试频道,#genre#
-1,http://206.119.173.184/tv/js.php?id=1
-2,http://206.119.173.184/tv/js.php?id=2
-3,http://206.119.173.184/tv/js.php?id=3
-7,http://206.119.173.184/tv/js.php?id=7
-9,http://206.119.173.184/tv/js.php?id=9
+凤凰中文,http://206.119.173.184/tv/js.php?id=1
+
+凤凰资讯,http://206.119.173.184/tv/js.php?id=2
+
+凤凰香港,http://206.119.173.184/tv/js.php?id=3
+
+星河,http://206.119.173.184/tv/js.php?id=7
+
+j2,http://206.119.173.184/tv/js.php?id=9
+
 10,http://206.119.173.184/tv/js.php?id=10
-14,http://206.119.173.184/tv/js.php?id=14
-16,http://206.119.173.184/tv/js.php?id=16
-17,http://206.119.173.184/tv/js.php?id=17
-18,http://206.119.173.184/tv/js.php?id=18
-19,http://206.119.173.184/tv/js.php?id=19
-20,http://206.119.173.184/tv/js.php?id=20
+
+无线财经,http://206.119.173.184/tv/js.php?id=14
+
+ViuTv6,http://206.119.173.184/tv/js.php?id=16
+
+RTHK31,http://206.119.173.184/tv/js.php?id=17
+
+RTHK32,http://206.119.173.184/tv/js.php?id=18
+
+Now Sports,http://206.119.173.184/tv/js.php?id=19
+
+Now直播台,http://206.119.173.184/tv/js.php?id=20
+
 21,http://206.119.173.184/tv/js.php?id=21
-33,http://206.119.173.184/tv/js.php?id=33
-64,http://206.119.173.184/tv/js.php?id=64
-65,http://206.119.173.184/tv/js.php?id=65
-66,http://206.119.173.184/tv/js.php?id=66
-67,http://206.119.173.184/tv/js.php?id=67
+
+公视,http://206.119.173.184/tv/js.php?id=33
+
+Astro Supersport,http://206.119.173.184/tv/js.php?id=64
+
+Astro Supersport 2,http://206.119.173.184/tv/js.php?id=65
+
+Astro Supersport 3,http://206.119.173.184/tv/js.php?id=66
+
+Astro Supersport 4,http://206.119.173.184/tv/js.php?id=67
+
 69,http://206.119.173.184/tv/js.php?id=69
+
 70,http://206.119.173.184/tv/js.php?id=70
-71,http://206.119.173.184/tv/js.php?id=71
-72,http://206.119.173.184/tv/js.php?id=72
-73,http://206.119.173.184/tv/js.php?id=73
-74,http://206.119.173.184/tv/js.php?id=74
-75,http://206.119.173.184/tv/js.php?id=75
-76,http://206.119.173.184/tv/js.php?id=76
-77,http://206.119.173.184/tv/js.php?id=77
-80,http://206.119.173.184/tv/js.php?id=80
-82,http://206.119.173.184/tv/js.php?id=82
-83,http://206.119.173.184/tv/js.php?id=83
+
+WWE,http://206.119.173.184/tv/js.php?id=71
+
+NBA TV,http://206.119.173.184/tv/js.php?id=72
+
+Eurosport,http://206.119.173.184/tv/js.php?id=73
+
+Golf,http://206.119.173.184/tv/js.php?id=74
+
+Bein Sports 3,http://206.119.173.184/tv/js.php?id=75
+
+Astro Arena,http://206.119.173.184/tv/js.php?id=76
+
+Astro Arena 2,http://206.119.173.184/tv/js.php?id=77
+
+Sky Sports Football,http://206.119.173.184/tv/js.php?id=80
+
+BT Sport 3,http://206.119.173.184/tv/js.php?id=82
+
+BT Sport ESPN,http://206.119.173.184/tv/js.php?id=83
+
 84,http://206.119.173.184/tv/js.php?id=84
-85,http://206.119.173.184/tv/js.php?id=85
-86,http://206.119.173.184/tv/js.php?id=86
-87,http://206.119.173.184/tv/js.php?id=87
-90,http://206.119.173.184/tv/js.php?id=90
-92,http://206.119.173.184/tv/js.php?id=92
-97,http://206.119.173.184/tv/js.php?id=97
+
+Sky Sports Racing,http://206.119.173.184/tv/js.php?id=85
+
+Sky Sports Cricket,http://206.119.173.184/tv/js.php?id=86
+
+Sky Sports Premier League,http://206.119.173.184/tv/js.php?id=87
+
+Sky Sports Golf,http://206.119.173.184/tv/js.php?id=90
+
+HBO Hits,http://206.119.173.184/tv/js.php?id=92
+
 112,http://206.119.173.184/tv/js.php?id=112
+
 113,http://206.119.173.184/tv/js.php?id=113
-114,http://206.119.173.184/tv/js.php?id=114
+
+华纳,http://206.119.173.184/tv/js.php?id=114
+
 117,http://206.119.173.184/tv/js.php?id=117
+
 118,http://206.119.173.184/tv/js.php?id=118
-123,http://206.119.173.184/tv/js.php?id=123
-124,http://206.119.173.184/tv/js.php?id=124
+
+DMAX,http://206.119.173.184/tv/js.php?id=123
+
+Science Channel,http://206.119.173.184/tv/js.php?id=124
+
 131,http://206.119.173.184/tv/js.php?id=131
-132,http://206.119.173.184/tv/js.php?id=132
-133,http://206.119.173.184/tv/js.php?id=133
-134,http://206.119.173.184/tv/js.php?id=134
-141,http://206.119.173.184/tv/js.php?id=141
-147,http://206.119.173.184/tv/js.php?id=147
-150,http://206.119.173.184/tv/js.php?id=150
-151,http://206.119.173.184/tv/js.php?id=151
-152,http://206.119.173.184/tv/js.php?id=152
-153,http://206.119.173.184/tv/js.php?id=153
-154,http://206.119.173.184/tv/js.php?id=154
-155,http://206.119.173.184/tv/js.php?id=155
-156,http://206.119.173.184/tv/js.php?id=156
-158,http://206.119.173.184/tv/js.php?id=158
-159,http://206.119.173.184/tv/js.php?id=159
-160,http://206.119.173.184/tv/js.php?id=160
+
+History,http://206.119.173.184/tv/js.php?id=132
+
+FTV Fashion,http://206.119.173.184/tv/js.php?id=133
+
+HGTV,http://206.119.173.184/tv/js.php?id=134
+
+东森财经新闻台,http://206.119.173.184/tv/js.php?id=141
+
+华视新闻资讯,http://206.119.173.184/tv/js.php?id=147
+
+Abc News,http://206.119.173.184/tv/js.php?id=150
+
+Kcal 9,http://206.119.173.184/tv/js.php?id=151
+
+CBS,http://206.119.173.184/tv/js.php?id=152
+
+france24,http://206.119.173.184/tv/js.php?id=153
+
+DW,http://206.119.173.184/tv/js.php?id=154
+
+CNN,http://206.119.173.184/tv/js.php?id=155
+
+CNBC,http://206.119.173.184/tv/js.php?id=156
+
+Bloomberg,http://206.119.173.184/tv/js.php?id=158
+
+CGTN,http://206.119.173.184/tv/js.php?id=159
+
+半岛新闻,http://206.119.173.184/tv/js.php?id=160
+
 161,http://206.119.173.184/tv/js.php?id=161
-162,http://206.119.173.184/tv/js.php?id=162
-164,http://206.119.173.184/tv/js.php?id=164
-168,http://206.119.173.184/tv/js.php?id=168
-169,http://206.119.173.184/tv/js.php?id=169
+
+NHKWorld,http://206.119.173.184/tv/js.php?id=162
+
+华丽台,http://206.119.173.184/tv/js.php?id=164
+
+Astro 小太阳,http://206.119.173.184/tv/js.php?id=168
+
+爱奇艺,http://206.119.173.184/tv/js.php?id=169
+
 172,http://206.119.173.184/tv/js.php?id=172
+
 173,http://206.119.173.184/tv/js.php?id=173
-175,http://206.119.173.184/tv/js.php?id=175
+
+Jet综合台,http://206.119.173.184/tv/js.php?id=175
+
 176,http://206.119.173.184/tv/js.php?id=176
+
 177,http://206.119.173.184/tv/js.php?id=177
+
 178,http://206.119.173.184/tv/js.php?id=178
+
 179,http://206.119.173.184/tv/js.php?id=179
-184,http://206.119.173.184/tv/js.php?id=184
+
+Arirang,http://206.119.173.184/tv/js.php?id=184
+
 185,http://206.119.173.184/tv/js.php?id=185
-186,http://206.119.173.184/tv/js.php?id=186
-187,http://206.119.173.184/tv/js.php?id=187
-188,http://206.119.173.184/tv/js.php?id=188
+
+CBS,http://206.119.173.184/tv/js.php?id=186
+
+EBS 1,http://206.119.173.184/tv/js.php?id=187
+
+EBS 2,http://206.119.173.184/tv/js.php?id=188
+
 191,http://206.119.173.184/tv/js.php?id=191
-192,http://206.119.173.184/tv/js.php?id=192
+
+KBS,http://206.119.173.184/tv/js.php?id=192
+
 193,http://206.119.173.184/tv/js.php?id=193
-194,http://206.119.173.184/tv/js.php?id=194
+
+YTN,http://206.119.173.184/tv/js.php?id=194
+
 195,http://206.119.173.184/tv/js.php?id=195
+
 196,http://206.119.173.184/tv/js.php?id=196
+
 197,http://206.119.173.184/tv/js.php?id=197
+
 198,http://206.119.173.184/tv/js.php?id=198
-199,http://206.119.173.184/tv/js.php?id=199
+
+EBS Kids,http://206.119.173.184/tv/js.php?id=199
+
 200,http://206.119.173.184/tv/js.php?id=200
+
 201,http://206.119.173.184/tv/js.php?id=201
+
 202,http://206.119.173.184/tv/js.php?id=202
+
 203,http://206.119.173.184/tv/js.php?id=203
+
 204,http://206.119.173.184/tv/js.php?id=204
-205,http://206.119.173.184/tv/js.php?id=205
-206,http://206.119.173.184/tv/js.php?id=206
-209,http://206.119.173.184/tv/js.php?id=209
+
+EBS Kids,http://206.119.173.184/tv/js.php?id=205
+
+Fox News,http://206.119.173.184/tv/js.php?id=206
+
+Star Movies Gold,http://206.119.173.184/tv/js.php?id=209
+
 211,http://206.119.173.184/tv/js.php?id=211
+
+
+
+
+
 
 翡翠台,http://206.119.173.184/tv/js.php?id=4
 明珠台,http://206.119.173.184/tv/js.php?id=6
