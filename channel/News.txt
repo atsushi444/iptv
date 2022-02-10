@@ -1,19 +1,8 @@
 新闻频道,#genre#
-鳳凰衛視資訊台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-鳳凰衛視資訊台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-鳳凰衛視資訊台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-鳳凰衛視資訊台,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-鳳凰衛視資訊台,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-鳳凰衛視中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-鳳凰衛視中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
-鳳凰衛視中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-鳳凰衛視中文台,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-鳳凰衛視中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#__#
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+france24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #__#
-TVBS 新聞台,rtmp://59.124.75.138/sat/tv551
-東森財經新聞台,rtmp://59.124.75.138/sat/tv571
-TVBS 新聞台,rtmp://59.124.75.157/sat/tv551
-東森財經新聞台,rtmp://59.124.75.157/sat/tv571
+TVBS新闻台,rtmp://59.124.75.138/sat/tv551
+东森财经新闻台,rtmp://59.124.75.138/sat/tv571
+TVBS新闻台,rtmp://59.124.75.157/sat/tv551
+东森财经新闻台,rtmp://59.124.75.157/sat/tv571
