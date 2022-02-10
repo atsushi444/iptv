@@ -45,12 +45,8 @@ EBS E,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 EBS KIDS,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-가요TV,http://gayotv.net:1935/live/gayotv/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 춘천MBC(MBC Chuncheon),https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-Maeil Business Newspaper,rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
@@ -60,6 +56,5 @@ TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
-Arirang,,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+Arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+Maeil Business Newspaper,rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
