@@ -1,0 +1,70 @@
+付费频道_121,#genre#
+
+电视频道,#genre#
+鳳凰衛視,http://125.227.210.37:8935/VideoInput/play.ts
+鳳凰衛視,http://125.227.210.55:8935/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
+三立台灣台,http://125.227.210.37:15714/VideoInput/play.ts
+三立新聞台,http://125.227.210.37:15589/VideoInput/play.ts
+三立新聞台,http://125.227.210.55:15589/VideoInput/play.ts
+東森戲劇台,http://125.227.210.37:17524/VideoInput/play.ts
+東森戲劇台,http://125.227.210.55:17524/VideoInput/play.ts
+BBC Earth,http://125.227.210.37:18358/VideoInput/play.ts
+BBC Earth,http://125.227.210.55:18358/VideoInput/play.ts
+中天綜合台,http://125.227.210.37:14583/VideoInput/play.ts
+中天綜合台,http://125.227.210.55:14583/VideoInput/play.ts
+中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
+中天娛樂台,http://125.227.210.55:15796/VideoInput/play.ts
+年代新聞台,http://125.227.210.37:11055/VideoInput/play.ts
+年代新聞台,http://125.227.210.55:11055/VideoInput/play.ts
+非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
+非凡新聞台,http://125.227.210.55:15078/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.55:19020/VideoInput/play.ts
+TLC旅遊生活頻道,http://125.227.210.37:19020/VideoInput/play.ts
+星衛HD電影台,http://125.227.210.37:18789/VideoInput/play.ts
+星衛HD電影台,http://125.227.210.55:18789/VideoInput/play.ts
+東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
+東森洋片台,http://125.227.210.55:18685/VideoInput/play.ts
+FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
+FOX頻道,http://125.227.210.55:13498/VideoInput/play.ts
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
+國家地理頻道,http://125.227.210.55:16408/VideoInput/play.ts
+卡通頻道,http://125.227.210.37:16671/VideoInput/play.ts
+卡通頻道,http://125.227.210.55:16671/VideoInput/play.ts
+迪士尼頻道,http://125.227.210.37:14250/VideoInput/play.ts
+迪士尼頻道,http://125.227.210.55:14250/VideoInput/play.ts
+Discovery Asia,http://125.227.210.37:10388/VideoInput/play.ts
+Discovery Asia,http://125.227.210.55:10388/VideoInput/play.ts
+CNBC,http://125.227.210.37:16415/VideoInput/play.ts
+CNBC,http://125.227.210.55:16415/VideoInput/play.ts
+韓國阿里郎,http://125.227.210.55:8933/VideoInput/play.ts
+ELEVEN體育一台,http://125.227.210.37:10677/VideoInput/play.ts
+ELEVEN體育一台,http://125.227.210.55:10677/VideoInput/play.ts
+TVBS 新聞台,http://125.227.210.37:16329/VideoInput/play.ts
+TVBS 新聞台,http://125.227.210.55:16329/VideoInput/play.ts
+Arirang TV,http://125.227.210.37:8933/VideoInput/play.ts
+Arirang TV,http://125.227.210.55:8933/VideoInput/play.ts
+NHKworld,http://125.227.210.37:8931/VideoInput/play.ts
+NHKworld,http://125.227.210.55:8931/VideoInput/play.ts
+YTN,http://125.227.210.37:8932/VideoInput/play.ts
+YTN,http://125.227.210.55:8932/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://125.227.210.55:16027/VideoInput/play.ts
+DW,http://125.227.210.37:8934/VideoInput/play.ts
+DW,http://125.227.210.55:8934/VideoInput/play.ts
+RT,http://125.227.210.37:8936/VideoInput/play.ts
+RT,http://125.227.210.55:8936/VideoInput/play.ts
+TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
+TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
+Al Jazeera,http://125.227.210.37:8938/VideoInput/play.ts
+Al Jazeera,http://125.227.210.55:8938/VideoInput/play.ts
+NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
+NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts
+NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
+NHKBSP,http://125.227.210.55:8940/VideoInput/play.ts
+BBC World News,http://125.227.210.37:10246/VideoInput/play.ts
+BBC World News,http://125.227.210.55:10246/VideoInput/play.ts
+CNN,http://125.227.210.37:10797/VideoInput/play.ts
+CNN,http://125.227.210.55:10797/VideoInput/play.ts
+Bloomberg TV,http://125.227.210.55:18184/VideoInput/play.ts
+Bloomberg TV,http://125.227.210.37:18184/VideoInput/play.ts
