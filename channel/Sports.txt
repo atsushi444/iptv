@@ -1,0 +1,26 @@
+体育频道,#genre#
+博斯運動一台,http://220.135.55.74:8570/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+ELEVEN體育一台,http://220.135.55.74:8553/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#__#
+緯來體育台,http://211.23.114.106:8563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+博斯運動一台,http://211.23.114.106:8564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+博斯運動二台,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
+ELEVEN體育一台,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#__#
+緯來體育台,http://anan.jxin122.top/cj.php?id=11&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#__#
+緯來體育台,rtmp://59.124.75.157/sat/tv721
+ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
+ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
+愛爾達體育1台,rtmp://59.124.75.157/sat/md011
+ELEVEN SPORTS PLUS,rtmp://59.124.75.157/sat/md031
+愛爾達體育3台,rtmp://59.124.75.157/sat/md041
+博斯運動二台,rtmp://59.124.75.157/sat/md051
+緯來體育台,rtmp://59.124.75.138/sat/tv721
+ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
+ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
+愛爾達體育1台,rtmp://59.124.75.138/sat/md011
+ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md031
+愛爾達體育3台,rtmp://59.124.75.138/sat/md041
+博斯運動二台,rtmp://59.124.75.138/sat/md051
