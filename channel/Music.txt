@@ -1,0 +1,3 @@
+音乐频道,#genre#
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
