@@ -63,5 +63,3 @@ TVBS 新聞台,rtmp://59.124.75.138/sat/tv551
 東森財經新聞台,rtmp://59.124.75.138/sat/tv571
 TVBS 新聞台,rtmp://59.124.75.157/sat/tv551
 東森財經新聞台,rtmp://59.124.75.157/sat/tv571
-TVBS 新聞台,rtmp://9wv7.mine.nu/sat/tv551
-東森財經新聞台,rtmp:///9wv7.mine.nu/sat/tv571
