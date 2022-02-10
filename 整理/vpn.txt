@@ -109,6 +109,8 @@ MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 备用频道（需梯子）,#genre#
+中视http://50.7.61.148:30080/Entry/ctv
+华视,http://50.7.61.147:30080/Entry/cts
 三立台湾台,http://50.7.61.148:30080/Entry/settw-
 卫视中文台,http://50.7.61.148:30080/Entry/starchinese
 JET综合台,http://50.7.61.147:30080/Entry/jet
@@ -118,7 +120,11 @@ TVBS新闻台,http://50.7.61.148:30080/Entry/tvbsnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 AXN,http://50.7.61.148:30080/Entry/axn
 爱尔达体育1,http://50.7.61.148:30080/Entry/eltasport1
-爱尔达体育2,http://50.7.61.148:30080/Entry/eltasport3
+爱尔达体育2,http://50.7.61.147:30080/Entry/eltasport2
+爱尔达体育3,http://50.7.61.148:30080/Entry/eltasport3
+卫视电影台,http://50.7.61.147:30080/Entry/starmovie
+纬来电影台,http://50.7.61.148:30080/Entry/vlmovie
+亚洲旅游台,http://50.7.61.147:30080/Entry/asiatravel
 #__#
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
 民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
