@@ -1,0 +1,25 @@
+其他频道,#genre#
+國家地理頻道,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH100/100
+國家地理野生,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH101/101
+動物星球頻道,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH102/102
+DMAX動力,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH103/103
+探索科學,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH104/104
+探索亞州,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH105/105
+CI罪案偵緝,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH106/106
+亞洲旅遊台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH108/108
+Discovery Channel,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH109/109
+TLC旅遊生活頻道,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH110/110
+亞洲旅遊台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH111/111
+Fashion TV,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH112/112
+TLC旅遊生活頻道,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH113/113
+EYE旅遊,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH141/141
+#__#
+國家地理頻道,http://220.135.55.74:8501/http/60.250.87.135:8081/hls/61/803/ch01.m3u8
+Discovery Channel,http://220.135.55.74:8500/http/60.250.87.135:8081/hls/71/813/ch44.m3u8
+亞洲旅遊台,http://220.135.55.74:8568/http/60.250.87.135:8081/hls/76/818/ch61.m3u8
+#__#
+國家地理頻道,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+Discovery Channel,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+TLC旅遊生活頻道,http://211.23.114.106:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8
+動物星球頻道,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+亞洲旅遊台,http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
