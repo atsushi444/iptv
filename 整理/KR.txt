@@ -1,48 +1,41 @@
 韩国频道,#genre#
 KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS-24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-KBS drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-KBS N ,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#__#
+TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
 SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
 SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
 SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
 SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
 SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
-#__#
-KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
-SBS,http://ye23.win/iptv/korea2021.php?id=SBS
-TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
-CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
+SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
+SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
 Good TV,http://ye23.win/iptv/korea2021.php?id=Good
-TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
-YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-YTN A,http://ye23.win/iptv/korea2021.php?id=YTN_a
+cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
+bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
+myStream,http://ye23.win/iptv/korea2021.php?id=myStream
+MTN,http://ye23.win/iptv/korea2021.php?id=MTN
+FTV,http://ye23.win/iptv/korea2021.php?id=FTV
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
 korea TV,http://ye23.win/iptv/korea2021.php?id=korea
+YTN,http://ye23.win/iptv/korea2021.php?id=ytn
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
 KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
-阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
-阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
 EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
 EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
 EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
 EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
 EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-#__#
-EBS 1,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS 2,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBS i,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-EBS E,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS KIDS,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+dema,http://ye23.win/iptv/korea2021.php?id=dema
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
+阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 #__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
