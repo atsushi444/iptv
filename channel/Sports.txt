@@ -1,15 +1,16 @@
 体育频道,#genre#
-緯來體育台,rtmp://59.124.75.157/sat/tv721
-ELEVEN體育一台,rtmp://59.124.75.157/sat/tv731
-ELEVEN SPORTS 2,rtmp://59.124.75.157/sat/tv741
-愛爾達體育1台,rtmp://59.124.75.157/sat/md011
+纬来体育台,rtmp://59.124.75.157/sat/tv721
+ELEVEN体育一台,rtmp://59.124.75.157/sat/tv731
+ELEVEN体育二台,rtmp://59.124.75.157/sat/tv741
+爱尔达体育1,rtmp://59.124.75.157/sat/md011
 ELEVEN SPORTS PLUS,rtmp://59.124.75.157/sat/md031
-愛爾達體育3台,rtmp://59.124.75.157/sat/md041
-博斯運動二台,rtmp://59.124.75.157/sat/md051
-緯來體育台,rtmp://59.124.75.138/sat/tv721
-ELEVEN體育一台,rtmp://59.124.75.138/sat/tv731
-ELEVEN SPORTS 2,rtmp://59.124.75.138/sat/tv741
-愛爾達體育1台,rtmp://59.124.75.138/sat/md011
+爱尔达体育3,rtmp://59.124.75.157/sat/md041
+博斯运动二台,rtmp://59.124.75.157/sat/md051
+纬来体育台,rtmp://59.124.75.138/sat/tv721
+ELEVEN体育一台,rtmp://59.124.75.138/sat/tv731
+ELEVEN体育二台,rtmp://59.124.75.138/sat/tv741
+爱尔达体育1,rtmp://59.124.75.138/sat/md011
 ELEVEN SPORTS PLUS,rtmp://59.124.75.138/sat/md031
-愛爾達體育3台,rtmp://59.124.75.138/sat/md041
-博斯運動二台,rtmp://59.124.75.138/sat/md051
+爱尔达体育3,rtmp://59.124.75.138/sat/md041
+博斯运动二台,rtmp://59.124.75.138/sat/md051
+
