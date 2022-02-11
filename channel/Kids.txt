@@ -1,1 +1,6 @@
 少儿频道,#genre#
+哈哈炫动,http://111.11.121.184:6610/030000001001/xuandongkaton/1.m3u8?channel-id=ystenlive
+卡酷少儿,http://111.11.121.184:6610/030000001001/kakukaton/1.m3u8?channel-id=ystenlive
+中国教育1,http://111.11.121.184:6610/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive
+金鹰卡通,http://111.11.121.184:6610/030000001001/jinyingkaton/1.m3u8?channel-id=ystenlive
+优漫卡通,http://111.11.121.184:6610/030000001001/youmankaton/1.m3u8?channel-id=ystenlive
