@@ -18,6 +18,7 @@
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #__#
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #__#
 翡翠台,http://61.222.202.191/tbs.php?id=1
 无线财经,http://61.222.202.191/tbs.php?id=10
