@@ -7,6 +7,11 @@ NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 黑莓动画,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #__#
+CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+#__#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 上海纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 四海钓鱼,http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
