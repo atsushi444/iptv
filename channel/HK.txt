@@ -20,17 +20,6 @@
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #__#
-翡翠台,http://61.222.202.191/tbs.php?id=1
-无线财经,http://61.222.202.191/tbs.php?id=10
-无线新闻,http://61.222.202.191/tbs.php?id=9
-明珠台,http://61.222.202.191/tbs.php?id=13
-ViuTV,http://61.222.202.191/tbs.php?id=8
-香港开电视,http://61.222.202.191/tbs.php?id=7
-RHK31,http://61.222.202.191/tbs.php?id=20
-RHK32,http://61.222.202.191/tbs.php?id=21
-now新闻,http://61.222.202.191/tbs.php?id=16
-now财经,http://61.222.202.191/tbs.php?id=17
-#__#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
