@@ -1,3 +1,4 @@
 海外频道,#genre#
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 ChannelNewsAsia,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
