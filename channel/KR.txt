@@ -39,12 +39,11 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 #__#
 KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-춘천MBC(MBC Chuncheon),https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-대전MBC(MBC Daejeon),https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 여수MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+대전MBC(MBC Daejeon),https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
