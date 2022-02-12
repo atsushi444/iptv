@@ -22,32 +22,18 @@ Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #__#
-劲爆体育,http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
-五星体育,http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
-#__#
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 #__#
-弈壇春秋,http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
-吉林篮球,http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
-#__#
-先锋乒羽,http://womlive.cloud.wo.cn/tvlive/100071/otpzod_otpzod,100071_hls_pull_2000K_live.m3u8
-广州竞赛,http://womlive.cloud.wo.cn/tvlive/100088/otpzod_otpzod,100088_hls_pull_2000K_live.m3u8
-#__#
 NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
-#__#
-NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
 
 #__#备用
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#__#
-无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 #__#
 澳视澳门,http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 澳门综艺,http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
@@ -62,37 +48,16 @@ NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 澳视葡文,http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 澳门资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #__#
-民视新闻,http://210.61.56.23/hls/ftvtv/index.m3u8
-#__#
-民视新闻,https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#__#
-经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-#__#
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有线直播台,https://api.leonardpark.dev/live/icable/110
 #__#
-RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
-#__#
-RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #__#
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #__#
 東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
-#__#
-民視第一,http://43.128.9.168/jjtv.php?id=25
-民視台灣,http://43.128.9.168/jjtv.php?id=26
-民視綜藝,http://43.128.9.168/jjtv.php?id=27
-民視旅游,http://43.128.9.168/jjtv.php?id=28
-Thrill,http://43.128.9.168/jjtv.php?id=79
-BT Sports 1,http://43.128.9.168/jjtv.php?id=115
-BT Sports 2,http://43.128.9.168/jjtv.php?id=116
-BT Sports 3,http://43.128.9.168/jjtv.php?id=117
+
