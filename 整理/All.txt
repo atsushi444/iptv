@@ -46,17 +46,6 @@ NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 NewTV超級体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
 #__#港澳
-TVB J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
-TVB翡翠,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
-#__#
-TVB J2,http://v3948069e.live.126.net/live/hodttf42922498/3.flv
-ViuTV,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
-ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
-#__#
-澳门莲花卫视,http://nettvpro.live/hls/lotustv.php
-#__#
-澳门Macau,http://124.238.99.44:808/hls/357/index.m3u8
-#__#
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
