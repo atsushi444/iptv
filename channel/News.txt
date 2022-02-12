@@ -1,7 +1,4 @@
 新闻频道,#genre#
-ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-france24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-#__#
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 东森财经新闻台,rtmp://59.124.75.138/sat/tv571
 TVBS新闻台,rtmp://59.124.75.157/sat/tv551
