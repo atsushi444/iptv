@@ -2,7 +2,6 @@
 NHKWorld,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorld,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 AT-X,https://sub2.neetball.net/live/neet.m3u8
 
