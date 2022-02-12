@@ -1,6 +1,4 @@
 #__#少儿
-动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#__#
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 卡酷少儿,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 #__#
