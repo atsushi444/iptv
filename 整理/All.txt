@@ -1,7 +1,5 @@
 
 #__#体育
-博斯運動二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-#__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -17,7 +15,6 @@ ELEVEN sports 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/i
 Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #__#
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 #__#
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #__#
@@ -90,12 +87,6 @@ RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #__#
 東網直播1台,https://streamw-az-news3.on.cc/video/playlist720p.m3u8
-#__#
-民視第一,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
-民視台灣,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
-民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
-民視旅遊,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
-Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
 #__#
 民視第一,http://43.128.9.168/jjtv.php?id=25
 民視台灣,http://43.128.9.168/jjtv.php?id=26
