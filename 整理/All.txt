@@ -88,23 +88,6 @@ TV5MONDE,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
 
-#__#日本
-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK Chinese Vision,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK WORLD TV,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
-Animax HD (Vietnamese Subs),https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
-日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-Fuji TV,https://fujitv1.mov3.co/hls/fujitv.m3u8
-Nippon TV,https://ntv1.mov3.co/hls/ntv.m3u8
-AT-X,https://sub2.neetball.net/live/neet.m3u8
-NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-#__#
-ウェザーニュース,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-Gunma TV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-
 #__#备用
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
