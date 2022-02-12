@@ -1,3 +1,10 @@
 音乐频道,#genre#
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+#__#
+1HD Music,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
