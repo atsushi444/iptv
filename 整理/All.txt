@@ -1,11 +1,3 @@
-#__#少儿
-卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-卡酷少儿,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
-#__#
-哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
-金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
-优漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
-
 #__#音乐
 MTV,http://sytv.xtvants.fun/mytv.php?id=mtv&token=free&user=free
 MTV,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
