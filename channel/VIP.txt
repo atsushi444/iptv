@@ -67,9 +67,14 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 全纪实,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #__#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 上海纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 上视外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上视外语频道,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #__#
 幸福彩,http://117.148.179.156/PLTV/88888888/224/3221231730/index.m3u8
 北京文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
@@ -87,4 +92,5 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 
