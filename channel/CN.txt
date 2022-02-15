@@ -31,18 +31,15 @@ CCTV15,http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 CCTV16,http://39.135.46.246:6610/PLTV/77777777/224/3221225956/index.m3u8
 CCTV17,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
 CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
-CCTV 第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-CCTV 怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV 风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV 风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-CCTV 兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV 世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-CCTV 风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-CCTV 央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV 高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-CCTV 电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV 央视文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+CCTV-第一剧场,http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
+CCTV-风云剧场,http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
+CCTV-风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
+CCTV-世界地理,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
+CCTV-女性时尚,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
+CCTV-央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
+CCTV-高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
+CCTV-央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 
 卫视频道,#genre#
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
