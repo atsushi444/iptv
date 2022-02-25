@@ -1,46 +1,9 @@
 #__#
-Babes TV HD,http://37.19.203.217:8085/udp/239.10.10.69:5000
-Dorcel TV HD,http://37.19.203.217:8085/udp/239.10.10.155:5000
-Eroxxx HD,http://37.19.203.217:8085/udp/239.10.10.164:5000
-Hustler HD,http://37.19.203.217:8085/udp/239.100.10.58:5000
-Reality Kings,http://37.19.203.217:8085/udp/239.10.10.81:5000
-Hustler TV,http://37.19.203.217:8085/udp/239.10.10.88:5000
-Brazzers TV,http://37.19.203.217:8085/udp/239.100.10.190:5000
-#__#
-Brazzers TV,http://86.126.115.112:8000/play/a096/index.m3u8
-Penthouse Gold,http://86.126.115.112:8000/play/a085/index.m3u8
-Penthouse Passion,http://86.126.115.112:8000/play/a07n/index.m3u8
-Penthouse Quickies,http://86.126.115.112:8000/play/a09y/index.m3u8
-Pink\'O,http://86.126.115.112:8000/play/a098/index.m3u8
-Playboy TV,http://86.126.115.112:8000/play/a097/index.m3u8
-SuperOne,http://86.126.115.112:8000/play/a0aw/index.m3u8
-#__#
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 SuperOne,https://ujeb.se/hNN57X
 Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-#__#
-PLAYBOY TV FHD,http://efv.me:80/eliana/eliana123/129544
-PLAYBOY TV FHD,http://efv.me:80/eliana/eliana123/4897
-PLAYBOY TV HD,http://efv.me:80/eliana/eliana123/4899
-SEXY HOT,http://efv.me:80/eliana/eliana123/4884
-VENUS,http://efv.me:80/eliana/eliana123/129438
-SEX HOT,http://efv.me:80/eliana/eliana123/129560
-SEXTREME,http://efv.me:80/eliana/eliana123/129584
-VENUS,http://efv.me:80/eliana/eliana123/4900
-#__#
-PLAYBOY TV HD,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
-SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
-VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
-#__#
-Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
-Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
-Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
-#__#
-X Desire,http://185.226.88.3:1036/live/backup/backup/7.m3u8
-X Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
-X Bizdrre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
 #__#
 专用1,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
 专用2,p5p://fccs.123178.top:9906/6163d74a0002fd370d5efb0f7340eb24
