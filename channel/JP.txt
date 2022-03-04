@@ -30,8 +30,6 @@ BS Asahi,http://203.162.235.41:16914
 BS Tokyo,http://203.162.235.41:16915
 WOWOW Prime,http://203.162.235.41:169161
 AT-X,https://sub2.neetball.net/live/neet.m3u8
-GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-Japanet Channel DX,https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
