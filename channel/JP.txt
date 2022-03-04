@@ -16,7 +16,6 @@ MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 Weather News,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-ANIPLUS,http://45.126.83.51/dr9445/h/h02/01.m3u8
 NHK,http://203.162.235.41:16901
 NHK-综合,http://203.162.235.41:16903
 Fuji TV,http://203.162.235.41:16904
