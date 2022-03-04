@@ -4,7 +4,6 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 NHKWorld,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorld,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHKWorld,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NJPW World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 Anibox TV,https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/playlist_sltha.m3u8
 Animax Japan,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 Animax Japan,http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
