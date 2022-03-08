@@ -1,3 +1,4 @@
 少儿频道,#genre#
+东森幼幼台,http://59.125.101.187:8515/playlist.m3u8
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 
