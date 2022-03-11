@@ -123,10 +123,11 @@ K 頻道,rtmp://125.227.196.250:1935/live/Kchannel
 JStar極限台電影頻道,rtmp://125.227.196.250:1935/live/JSTAR
 潘朵啦高畫質玩美台,rtmp://125.227.196.250:1935/live/PandoraPlays
 潘朵啦高畫質粉紅台,rtmp://125.227.196.250:1935/live/PandoraPink
-松視1台,rtmp://125.227.196.250:1935/live/PineVision1
-松視2台,rtmp://125.227.196.250:1935/live/PineVision2
 松視3台,rtmp://125.227.196.250:1935/live/PineVision3
+松視2台,rtmp://125.227.196.250:1935/live/PineVision2
+松視1台,rtmp://125.227.196.250:1935/live/PineVision1
 Happy,rtmp://125.227.196.250:1935/live/HAPPY
+Hot,rtmp://125.227.196.250:1935/live/hot
 
 #__#
 做愛輸入,rtmp://202.39.64.234:1938/live/949
