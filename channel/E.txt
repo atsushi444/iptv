@@ -181,6 +181,18 @@ AV女王,rtmp://202.39.64.234:1936/live/964
 专用16,p5p://45.92.126.18:19706/6163d3730009d54a0d4ffcf82e745ab5
 
 #__#
+京采1,p5p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416
+京采2,p5p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
+京采3,p5p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff 
+京采4,p5p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6 
+京采5,p5p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca 
+京采6,p5p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9 
+京采7,p5p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc
+京采8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
+京采9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
+京采10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
+
+#__#
 红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8 
 红松2,http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8 
 HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
