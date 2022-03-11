@@ -116,6 +116,9 @@ Hot,p2p://860969650:9906/e97014fbd6f74d2f97777c213d6392fa
 Happy,p2p://860969650:9906/1269c71356f54b919d69c2f54f635a89
 PLAYBOY,p2p://860969650:9906/5a627ba45e9542df8ec11d690d111ad0
 #__#
+Look TV,rtmp://118.163.221.79:1936/live/LookHD
+彩虹電影台,rtmp://118.163.221.79:1936/live/RainbowE
+#__#
 彩虹e台,rtmp://125.227.196.250:1935/live/Rainbowmovie
 K 頻道,rtmp://125.227.196.250:1935/live/Kchannel
 香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
