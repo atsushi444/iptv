@@ -23,6 +23,7 @@
 #### DIYP
 - https://epg.112114.xyz
 - http://epg.51zmt.top:8000/api/diyp/
-- https://epg.sec.st/epg.php
 - https://epg.hicloud.co/epg.php
+- https://epg.sec.st/epg.php
+
 
