@@ -140,8 +140,3 @@ CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 青海卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
 
-#__#
-CGTN 法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-CGTN 俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN 西班牙,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN 阿拉伯,http://livear.cgtn.com/1000a/prog_index.m3u8
