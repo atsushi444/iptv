@@ -37,5 +37,6 @@ Vivid Tv,http://89.248.160.57/iptv/urfps4qvv53qpf/6264/index.m3u8
 Hot,http://89.248.160.57/iptv/urfps4qvv53qpf/6275/index.m3u8
 Venus,http://89.248.160.57/iptv/urfps4qvv53qpf/6284/index.m3u8
 Xymax,http://89.248.160.57/iptv/urfps4qvv53qpf/6286/index.m3u8
+XYMix,http://89.248.160.57/iptv/URFPS4QVV53QPF/6287/index.m3u8
 Xyplus,http://89.248.160.57/iptv/urfps4qvv53qpf/6288/index.m3u8
 Superone,http://89.248.160.57/iptv/urfps4qvv53qpf/6298/index.m3u8
