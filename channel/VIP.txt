@@ -83,7 +83,9 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #__#
+4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
 四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
 四海钓鱼,http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
 环球旅游,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
@@ -105,6 +107,7 @@ BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 上视外语频道,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上视新闻频道,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+欢笑剧场,http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #__#
 新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
