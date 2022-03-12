@@ -10,7 +10,6 @@ BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 东方影视,http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8
 上海纪实,http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
 上海都市频道,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
-幸福彩,http://117.148.179.156/PLTV/88888888/224/3221231730/index.m3u8
 五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 山东少儿,https://livealone302.iqilu.com/iqilu/sepd.m3u8
 山东农科,https://livealone302.iqilu.com/iqilu/nkpd.m3u8
