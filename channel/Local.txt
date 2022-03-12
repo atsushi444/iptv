@@ -1,10 +1,4 @@
 地方频道,#genre#
-BTV科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
-BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
-上视新闻频道,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 山东少儿,https://livealone302.iqilu.com/iqilu/sepd.m3u8
 山东农科,https://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东综艺,https://livealone302.iqilu.com/iqilu/zypd.m3u8
@@ -70,7 +64,6 @@ CDTV6,http://teyonds.weetai.cn/cdn1/iptv/tyzb33.php?id=192-6
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-山西 I 沁县综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb24.php?id=sxczqx
 江苏教育,http://117.148.179.158/PLTV/88888888/224/3221231631/index.m3u8
 山东教育卫视,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8
 石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
@@ -170,6 +163,7 @@ CH1-shd,https://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
 山西 I 山西公共,http://teyonds.weetai.cn/cdn1/iptv/tyzb34.php?id=sxgg
 山西 I 山西黄河,http://teyonds.weetai.cn/cdn1/iptv/tyzb34.php?id=sxhh
 山西 I 太原法制,http://teyonds.weetai.cn/cdn1/iptv/tyzb34.php?id=tysjfz
+山西 I 沁县综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb24.php?id=sxczqx
 甘肃 I 金昌综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb29.php?id=2
 甘肃 I 新闻综合,http://teyonds.weetai.cn/cdn1/iptv/tyzb30.php?id=1
 甘肃 I 生活经济,http://teyonds.weetai.cn/cdn1/iptv/tyzb30.php?id=16
