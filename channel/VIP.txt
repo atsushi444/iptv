@@ -95,6 +95,7 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 东方影视,http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8
 上海都市频道,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 金鹰纪实,http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8
+中国教育1台,http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
 BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 #__#
 BTV科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
