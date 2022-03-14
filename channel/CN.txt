@@ -114,6 +114,8 @@ CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 东南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 天津卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
 黑龙江卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#__#
+东南卫视,http://42.176.185.28:9901/tsfile/live/1014_1.m3u8
 
 其他频道,#genre#
 CGTNDocumentary,http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
