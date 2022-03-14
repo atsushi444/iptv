@@ -1,4 +1,15 @@
 地方频道,#genre#
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+BTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+BTV科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+BTV影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+BTV财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+北京纪实,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+BTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+卡酷动画,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+#__#
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 沈阳新闻,http://42.176.185.28:9901/tsfile/live/1027_1.m3u8
