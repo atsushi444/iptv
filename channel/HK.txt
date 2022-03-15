@@ -8,6 +8,10 @@
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #__#
+凤凰中文,http://itv.my.to/gd?id=32&play=2
+凤凰资讯,http://itv.my.to/gd?id=33&play=2
+凤凰香港,http://itv.my.to/gd?id=34&play=2
+#__#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
