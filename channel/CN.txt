@@ -244,4 +244,5 @@ CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 东南卫视,http://42.176.185.28:9901/tsfile/live/1014_1.m3u8
 
 其他频道,#genre#
+CGTN,http://39.130.202.77:6610/gitv_live/G_CGTN-HD/G_CGTN-HD.m3u8
 CGTNDocumentary,http://39.130.202.77:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
