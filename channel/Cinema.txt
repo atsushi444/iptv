@@ -8,7 +8,6 @@ LSTime电影台,http://itv.my.to/gd?id=38&play=2
 #__#
 K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-K K_开心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 K K_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 #__#
 斗鱼电影1,http://epg.112114.xyz/douyu/9249162
