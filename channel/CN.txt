@@ -141,7 +141,7 @@ CCTV-8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/in
 CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
 风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-央视精品,ttp://42.176.185.28:9901/tsfile/live/1028_1.m3u8
+央视精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 武术世界,http://42.176.185.28:9901/tsfile/live/1032_1.m3u8
 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
@@ -167,7 +167,6 @@ CCTV8,http://39.130.202.77:6610/gitv_live/iptv-cctv8-hd/chunklist.m3u8
 CCTV9,http://39.130.202.77:6610/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-CCTV14,http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/dindex.m3u8
 
 卫视频道,#genre#
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
