@@ -45,6 +45,12 @@ CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 武术世界,http://42.176.185.28:9901/tsfile/live/1032_1.m3u8
 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
+#__#
+CCTV1,http://itv.my.to/gd?id=1&play=2
+CCTV3,http://itv.my.to/gd?id=3&play=2
+CCTV5,http://itv.my.to/gd?id=5&play=2
+CCTV6,http://itv.my.to/gd?id=6&play=2
+CCTV8,http://itv.my.to/gd?id=8&play=2
 
 卫视频道,#genre#
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
