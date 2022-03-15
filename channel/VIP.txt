@@ -63,6 +63,7 @@ NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.
 北京纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 新华中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 新华英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+新华英文,http://39.135.138.60:18890/PLTV/88888888/224/3221225693/index.m3u8
 #__#
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
@@ -72,6 +73,10 @@ CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC家庭影院,http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
+#__#
+CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8
+CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8
 #__#
 魅力足球,http://itv.my.to/gd?id=50&play=2
 #__#
@@ -103,9 +108,14 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 中国教育1台,http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
 BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 #__#
+中国教育1台,http://39.130.202.77:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+中国教育1台,http://140.207.241.3:8080/live/program/live/zgjy1ott/4000000/dindex.m3u8
+#__#
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 新华中文,https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #__#
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
