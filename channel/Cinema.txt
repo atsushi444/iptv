@@ -1,5 +1,10 @@
 影视频道,#genre#
-经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+TVB星河频道,http://itv.my.to/gd?id=35&play=2
+LSTime电影台,http://itv.my.to/gd?id=38&play=2
+私人影院,http://itv.my.to/gd?id=57&play=2
+东森电影台,http://itv.my.to/gd?id=58&play=2
+东森洋片台,http://itv.my.to/gd?id=59&play=2
+天映经典,http://itv.my.to/gd?id=62&play=2
 #__#
 K K_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 K K_开心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
