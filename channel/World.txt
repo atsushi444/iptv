@@ -1,4 +1,5 @@
 海外频道,#genre#
+高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 aljazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 aljazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
