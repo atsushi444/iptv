@@ -109,7 +109,6 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 #__#
 中国教育1台,http://39.130.202.77:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-中国教育1台,http://140.207.241.3:8080/live/program/live/zgjy1ott/4000000/dindex.m3u8
 #__#
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 新华中文,https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -117,6 +116,10 @@ BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #__#
+中国教育1台,http://140.207.241.3:8080/live/program/live/zgjy1ott/4000000/dindex.m3u8
+都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -150,6 +153,3 @@ BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-
-
-
