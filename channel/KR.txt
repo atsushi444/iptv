@@ -47,4 +47,7 @@ TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+MBC韩剧频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+
