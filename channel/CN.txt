@@ -140,12 +140,11 @@ CCTV-8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/in
 #__#
 高尔夫网球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 高尔夫网球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-文化精品,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-文化精品,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-电视指南,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-电视指南,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+央视精品,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+央视精品,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 兵器科技,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 兵器科技,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 风云音乐,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
 风云音乐,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 女性时尚,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
@@ -161,6 +160,8 @@ CCTV-8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/in
 怀旧剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 央视台球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 央视台球,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+电视指南,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+电视指南,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #__#
 CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
@@ -172,7 +173,6 @@ CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 #__#
 兵器科技,http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-兵器科技,http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 #__#
 CCTV1,http://itv.my.to/gd?id=1&play=2
 CCTV3,http://itv.my.to/gd?id=3&play=2
