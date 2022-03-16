@@ -1,4 +1,7 @@
 #__#
+REDLIGHT HD,http://109.200.130.123:7032/play/353
+VIVID RED,http://109.200.130.123:7032/play/a00g
+#__#
 VIVID RED,http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
 HUSTLER HD,http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziomek222222
 REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
