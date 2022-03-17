@@ -412,10 +412,6 @@ CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 北京卫视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
 #__#
-广东卫视,http://140.207.241.3:8080/live/program/live/gdwshd/4000000/dindex.m3u8
-深圳卫视,http://140.207.241.3:8080/live/program/live/szwshd/4000000/dindex.m3u8
-安徽卫视,http://140.207.241.3:8080/live/program/live/ahwshd/4000000/dindex.m3u8
-#__#
 湖南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 东南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 天津卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
