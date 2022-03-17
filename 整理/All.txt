@@ -14,8 +14,6 @@ ELEVEN sports 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/i
 ELEVEN sports 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
 #__#
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#__#
 咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #__#
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
@@ -23,7 +21,6 @@ Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1
 极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #__#
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 #__#
