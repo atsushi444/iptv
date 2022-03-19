@@ -1,6 +1,7 @@
 ### 工具
 - [在线文本比较](http://wenbenbijiao.renrensousuo.com/) (通过比较来确定同一套源的频道增减)
 - [在线测试直播源](https://streamtest.in/) (批量测试、IP地址查询)
+- [搜索直播源](https://www.foodieguide.com/iptvsearch/) (关键字搜索)
 - [在线播放](http://www.reloltv.com/)(直播源、视频)
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
