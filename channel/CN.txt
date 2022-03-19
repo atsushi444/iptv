@@ -341,7 +341,6 @@ CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 吉林卫视,http://39.134.65.177/PLTV/88888888/224/3221225872/index.m3u8
 #__#
 四川卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/index.m3u8
-甘肃卫视,http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 厦门卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #__#
 湖南卫视,http://39.130.202.77:6610/gitv_live/HNWS-HD/HNWS-HD.m3u8
