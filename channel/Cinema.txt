@@ -1,18 +1,4 @@
 影视频道,#genre#
-TVB星河频道,http://itv.my.to/gd?id=35&play=2
-LSTime电影台,http://itv.my.to/gd?id=38&play=2
-私人影院,http://itv.my.to/gd?id=57&play=2
-东森电影台,http://itv.my.to/gd?id=58&play=2
-东森洋片台,http://itv.my.to/gd?id=59&play=2
-天映经典,http://itv.my.to/gd?id=62&play=2
-#__#
-TVB星河频道,http://113.64.147.97:808/hls/35/index.m3u8
-LSTime电影台,http://113.64.147.97:808/hls/38/index.m3u8
-私人影院,http://113.64.147.97:808/hls/57/index.m3u8
-东森电影台,http://113.64.147.97:808/hls/58/index.m3u8
-东森洋片台http://113.64.147.97:808/hls/59/index.m3u8
-天映经典,http://113.64.147.97:808/hls/62/index.m3u8
-#__#
 K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 K K_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
