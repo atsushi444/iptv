@@ -15,8 +15,6 @@ BTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u
 沈阳新闻,http://42.176.185.28:9901/tsfile/live/1027_1.m3u8
 金鹰纪实,http://42.176.185.28:9901/tsfile/live/1038_1.m3u8
 #__#
-广东体育,http://itv.my.to/gd?id=18&play=2
-#__#
 山东少儿,https://livealone302.iqilu.com/iqilu/sepd.m3u8
 山东农科,https://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东综艺,https://livealone302.iqilu.com/iqilu/zypd.m3u8
