@@ -10,6 +10,10 @@ BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 BTV新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 卡酷动画,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #__#
+深圳电视剧,http://radius.8866.org:880/hls/29/index.m3u8
+深圳公共,http://radius.8866.org:880/hls/30/index.m3u8
+深圳都市,http://radius.8866.org:880/hls/32/index.m3u8
+#__#
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 沈阳新闻,http://42.176.185.28:9901/tsfile/live/1027_1.m3u8
