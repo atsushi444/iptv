@@ -167,8 +167,6 @@ MAX极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4
 中国教育1台,http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
 BTV文艺,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
 #__#
-中国教育1台,http://39.130.202.77:6610/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-#__#
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 新华中文,https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英文,https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
