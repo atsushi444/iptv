@@ -220,8 +220,6 @@ CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 #__#
-兵器科技,http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-#__#
 CCTV1,http://itv.my.to/gd?id=1&play=2
 CCTV3,http://itv.my.to/gd?id=3&play=2
 CCTV5,http://itv.my.to/gd?id=5&play=2
