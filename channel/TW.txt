@@ -61,9 +61,9 @@ FOXMOVIES,http://211.23.114.106:8626/playlist.m3u8
 三立台湾台,http://211.23.114.106:8631/playlist.m3u8
 #__#
 中天娱乐台,http://60.250.91.85:8585/playlist.m3u8
+Discovery,http://60.250.91.85:8588/playlist.m3u8
 TLC旅游生活频道,http://60.250.91.85:8589/playlist.m3u8
 CINEMAX,http://60.250.91.85:8590/playlist.m3u8
-Discovery,http://60.250.91.85:8588/playlist.m3u8
 #__#
 三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立都会台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
