@@ -1,4 +1,5 @@
 海外频道,#genre#
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
