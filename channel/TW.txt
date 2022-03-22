@@ -1,4 +1,10 @@
 台湾频道,#genre#
+
+三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+三立都会台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+东森戏剧台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+卫视中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+
 FOXMOVIES,http://59.125.101.187:8500/playlist.m3u8
 台视,http://59.125.101.187:8501/playlist.m3u8
 东森幼幼台,http://59.125.101.187:8506/playlist.m3u8
