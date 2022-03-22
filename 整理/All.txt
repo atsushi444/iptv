@@ -1,28 +1,3 @@
-
-#__#体育
-#__#
-UFC 3,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-有线603,https://p2.weizan.cn/1646497941/726330645979324847/live.m3u8
-#__#
-ELEVEN sports 1,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-ELEVEN sports 2,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-Canal+ Sport,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
-#__#
-咪咕视频,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#__#
-劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
-#__#
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-极速汽车,http://117.136.154.86/PLTV/88888888/224/3221225847/index.m3u8
-山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
-#__#
-NewTV世界搏击,http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
-NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
-
-
 #__#备用
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
