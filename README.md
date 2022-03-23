@@ -4,6 +4,7 @@
 - [搜索直播源](https://www.foodieguide.com/iptvsearch/) (关键字搜索)
 - [在线播放](http://www.reloltv.com/)(直播源、视频)
 - [测试网络](https://m.17ce.com/site/http)(网络连通性测试)
+- [主机名](https://us.host-tools.com/)(检测IP地址)
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
 - Parsa TV:https://www.parsatv.com/
