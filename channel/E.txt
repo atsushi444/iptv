@@ -162,29 +162,6 @@ PLAYBOY,P2p://51.81.90.178:9906/5a627ba45e9542df8ec11d690d111ad0
 专用16,p5p://45.92.126.18:19706/6163d3730009d54a0d4ffcf82e745ab5
 
 #__#
-红松,http://api.hstv.me:8080/live/pi2021001/456321/360.m3u8 
-红松2,http://api.hstv.me:8080/live/pi2021001/456321/361.m3u8 
-HOT,http://api.hstv.me:8080/live/pi2021001/456321/362.m3u8
-素人,http://api.hstv.me:8080/live/pi2021001/456321/363.m3u8 
-NYX MEDIA,http://api.hstv.me:8080/live/pi2021001/456321/364.m3u8 
-NYX MEDIA2,http://api.hstv.me:8080/live/pi2021001/456321/365.m3u8
-iBiza Media,http://api.hstv.me:8080/live/pi2021001/456321/366.m3u8
-iBiza Media2,http://api.hstv.me:8080/live/pi2021001/456321/367.m3u8
-NYX MEDIA3,http://api.hstv.me:8080/live/pi2021001/456321/368.m3u8 
-NYX MEDIA4,http://api.hstv.me:8080/live/pi2021001/456321/369.m3u8 
-#__#
-红松,http://195.154.231.101:8080/live/pi2021001/456321/360.m3u8 
-红松2,http://195.154.231.101:8080/live/pi2021001/456321/361.m3u8 
-HOT,http://195.154.231.101:8080/live/pi2021001/456321/362.m3u8
-素人,http://195.154.231.101:8080/live/pi2021001/456321/363.m3u8 
-NYX MEDIA,http://195.154.231.101:8080/live/pi2021001/456321/364.m3u8 
-NYX MEDIA2,http://195.154.231.101:8080/live/pi2021001/456321/365.m3u8
-iBiza Media,http://195.154.231.101:8080/live/pi2021001/456321/366.m3u8
-iBiza Media2,http://195.154.231.101:8080/live/pi2021001/456321/367.m3u8
-NYX MEDIA3,http://195.154.231.101:8080/live/pi2021001/456321/368.m3u8 
-NYX MEDIA4,http://195.154.231.101:8080/live/pi2021001/456321/369.m3u8 
-
-#__#
 彩虹e台,p3p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8
 彩虹电影台,p3p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3
 LOOK TV,p3p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771
