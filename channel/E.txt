@@ -84,15 +84,6 @@ JStar極限台電影頻道,p5p://45.92.126.18:19706/60fd2dff000297b000ee4ada2986
 Hot,p5p://45.92.126.18:19706/60e5c5940008bfb40cf9327b7a38210e
 Happy,p5p://45.92.126.18:19706/60e5c5bb0000e84a0cf9c8d164f11b3b
 #__#
-松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-#__#
-松視2台,http://ott3.alwaysdata.net/live/test.php?id=1
-松視3台,http://ott3.alwaysdata.net/live/test.php?id=2
-潘朵啦高畫質玩美台,http://ott3.alwaysdata.net/live/test.php?id=3
-松視2台,http://ott3.alwaysdata.net/live/av.php?id=5
-#__#
 彩虹e台,mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af
 Look TV,mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8
@@ -134,6 +125,7 @@ Look TV,P2p://51.81.90.178:9906/2c4f0eccccec4dfd8685055ee9f8e2a8
 Hot,P2p://51.81.90.178:9906/e97014fbd6f74d2f97777c213d6392fa
 Happy,P2p://51.81.90.178:9906/1269c71356f54b919d69c2f54f635a89
 PLAYBOY,P2p://51.81.90.178:9906/5a627ba45e9542df8ec11d690d111ad0
+
 #__#
 Look TV,rtmp://118.163.221.79:1936/live/LookHD
 彩虹電影台,rtmp://118.163.221.79:1936/live/RainbowE
