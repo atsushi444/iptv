@@ -1,29 +1,17 @@
 #__#
-Blue Hustler,http://185.205.201.44:8017/play/a04o/index.m3u8
-Brazzers HD,http://185.205.201.44:8017/play/a04l/index.m3u8
-Dorcel TV HD,http://185.205.201.44:8017/play/a04k/index.m3u8
-Hustler HD,http://185.205.201.44:8017/play/a04n/index.m3u8
-Private HD,http://185.205.201.44:8017/play/a04p/index.m3u8
+[720]SEXTREME,http://list.starbr.nz:80/nilson1234/1234nilson/853
+[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/871
+PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/20820
+[1080]SEXY HOT,http://list.starbr.nz:80/nilson1234/1234nilson/20825
+[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68794
+[1080]SEXPRIVE,http://list.starbr.nz:80/nilson1234/1234nilson/68795
+[720]PLAYBOY TV,http://list.starbr.nz:80/nilson1234/1234nilson/68796
+[1080]VENUS,http://list.starbr.nz:80/nilson1234/1234nilson/79698
 #__#
-REDLIGHT HD,http://109.200.130.123:7032/play/353
-VIVID RED,http://109.200.130.123:7032/play/a00g
-#__#
-一本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-三本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#__#
-Hustler TV,http://78.83.191.18:8000/play/a078
-#__#
-Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
-Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
-Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
-Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
-Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
-#__#
-xxx,https://pornercdns.com/hls/0067000/67291/fullhd/fullhd.m3u8
-xxx2,https://pornercdns.com/hls/0073000/73271/hd/hd.m3u8
-xxx3,https://pornercdns.com/hls/0073000/73269/hd/hd.m3u8
-xxx4,https://pornercdns.com/hls/0073000/73270/hd/hd.m3u8
-xxx5,https://pornercdns.com/hls/0073000/73272/hd/hd.m3u8
-xxx6,https://pornercdns.com/hls/0073000/73273/hd/hd.m3u8
-xxx7,https://pornercdns.com/hls/0073000/73268/hd/hd.m3u8
+Vod1,https://pornercdns.com/hls/0067000/67291/fullhd/fullhd.m3u8
+Vod2,https://pornercdns.com/hls/0073000/73268/hd/hd.m3u8
+Vod3,https://pornercdns.com/hls/0073000/73269/hd/hd.m3u8
+Vod4,https://pornercdns.com/hls/0073000/73270/hd/hd.m3u8
+Vod5,https://pornercdns.com/hls/0073000/73271/hd/hd.m3u8
+Vod6,https://pornercdns.com/hls/0073000/73272/hd/hd.m3u8
+Vod7,https://pornercdns.com/hls/0073000/73273/hd/hd.m3u8
