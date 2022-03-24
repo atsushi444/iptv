@@ -1,9 +1,17 @@
 #__#
-VIVID RED,http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
-HUSTLER HD,http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziomek222222
-REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
-PENTHOUSE PASSION,http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
+Dorcel TV HD,http://185.205.201.44:8017/play/a04k/index.m3u8
+Brazzers HD,http://185.205.201.44:8017/play/a04l/index.m3u8
+Hustler HD,http://185.205.201.44:8017/play/a04n/index.m3u8
+Private HD,http://185.205.201.44:8017/play/a04p/index.m3u8
+#__#
+REDLIGHT HD,http://109.200.130.123:7032/play/353
+VIVID RED,http://109.200.130.123:7032/play/a00g
+#__#
+Hustler HD,http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziomek222222
+PENTHOUSE QUICKIES,http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUS GOLD,http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
+REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
+VIVID RED,http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
 #__#
 Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
