@@ -5,10 +5,6 @@ REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comzio
 PENTHOUSE PASSION,http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUS GOLD,http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
 #__#
-Venus,http://168.232.168.242:8000/play/a0ex/index.m3u8
-Playboy TV,http://168.232.168.242:8000/play/a0i9/index.m3u8
-Playboy TV,http://168.232.168.242:8000/play/a015/index.m3u8
-#__#
 Eroxxxhd,http://94.229.250.73:8008/play/a002
 SuperOne,http://185.96.176.139:8080/superone/index.m3u8
 SuperOne,https://ujeb.se/hNN57X
