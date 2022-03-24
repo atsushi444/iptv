@@ -7,3 +7,5 @@ OLALA,http://pl1cdn.plusx.tv:8880/350/mono.m3u8?token=pirek23@gmail.comziomek222
 Venus,http://168.232.168.242:8000/play/a0ex/index.m3u8
 Playboy TV,http://168.232.168.242:8000/play/a0i9/index.m3u8
 Playboy TV,http://168.232.168.242:8000/play/a015/index.m3u8
+#__#
+Eroxxxhd,http://94.229.250.73:8008/play/a002
