@@ -4,10 +4,6 @@ HUSTLER HD,http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziom
 REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUSE PASSION,http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUS GOLD,http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
-XXL,http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
-VIVID TOUCH,http://pl1cdn.plusx.tv:8880/347/mono.m3u8?token=pirek23@gmail.comziomek222222
-VIVID TOUCH,http://pl1cdn.plusx.tv:8880/354/mono.m3u8?token=pirek23@gmail.comziomek222222
-OLALA,http://pl1cdn.plusx.tv:8880/350/mono.m3u8?token=pirek23@gmail.comziomek222222
 #__#
 Venus,http://168.232.168.242:8000/play/a0ex/index.m3u8
 Playboy TV,http://168.232.168.242:8000/play/a0i9/index.m3u8
