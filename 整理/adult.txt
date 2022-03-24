@@ -1,11 +1,18 @@
 #__#
-XXL,http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
 VIVID TOUCH,http://pl1cdn.plusx.tv:8880/347/mono.m3u8?token=pirek23@gmail.comziomek222222
-VIVID TOUCH,http://pl1cdn.plusx.tv:8880/354/mono.m3u8?token=pirek23@gmail.comziomek222222
 OLALA,http://pl1cdn.plusx.tv:8880/350/mono.m3u8?token=pirek23@gmail.comziomek222222
+VIVID TOUCH,http://pl1cdn.plusx.tv:8880/354/mono.m3u8?token=pirek23@gmail.comziomek222222
+XXL,http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
 #__#
 Venus,http://168.232.168.242:8000/play/a0ex/index.m3u8
 Playboy TV,http://168.232.168.242:8000/play/a0i9/index.m3u8
 Playboy TV,http://168.232.168.242:8000/play/a015/index.m3u8
 #__#
+Blue Hustler,http://185.205.201.44:8017/play/a04o/index.m3u8
+#__#
+Hustler TV,http://78.83.191.18:8000/play/a078
 Eroxxxhd,http://94.229.250.73:8008/play/a002
+#__#
+三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
