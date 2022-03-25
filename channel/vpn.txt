@@ -2,7 +2,6 @@
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/playlist.m3u8
 #__#
-NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 france24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -10,8 +9,6 @@ CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8	
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-MoMo綜合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-博斯运动二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 网络频道（需梯子）,#genre#
