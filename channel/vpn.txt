@@ -124,8 +124,8 @@ ELEVEN体育一台,http://125.227.210.37:10677/VideoInput/play.ts
 ELEVEN体育一台,http://125.227.210.55:10677/VideoInput/play.ts
 CNN,http://125.227.210.37:10797/VideoInput/play.ts
 CNN,http://125.227.210.55:10797/VideoInput/play.ts
-Momo综合台,http://125.227.210.37:13498/VideoInput/play.ts
-Momo综合台,http://125.227.210.55:13498/VideoInput/play.ts
+FOX,http://125.227.210.37:13498/VideoInput/play.ts
+FOX,http://125.227.210.55:13498/VideoInput/play.ts
 FoodNetwork美食台,http://125.227.210.37:14250/VideoInput/play.ts
 FoodNetwork美食台,http://125.227.210.55:14250/VideoInput/play.ts
 非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
