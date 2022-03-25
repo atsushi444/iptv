@@ -117,7 +117,7 @@ BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
 
 备用频道（需梯子）,#genre#
-中视http://50.7.61.148:30080/Entry/ctv
+中视,http://50.7.61.148:30080/Entry/ctv
 华视,http://50.7.61.147:30080/Entry/cts
 三立台湾台,http://50.7.61.148:30080/Entry/settw-
 卫视中文台,http://50.7.61.148:30080/Entry/starchinese
