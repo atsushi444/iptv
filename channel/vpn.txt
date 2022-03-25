@@ -136,7 +136,7 @@ AXN,http://50.7.61.148:30080/Entry/axn
 #__#
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 
-四季（需梯子）,#genre#
+4gTV（需梯子）,#genre#
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
 民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
 民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
