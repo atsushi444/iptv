@@ -55,10 +55,10 @@ Adult-7,http://125.227.210.37:18685/VideoInput/play.ts
 adult-7,http://125.227.210.55:18685/VideoInput/play.ts
 香蕉台,http://125.227.210.37:11055/VideoInput/play.ts
 香蕉台,http://125.227.210.55:11055/VideoInput/play.ts
-惊艳台,http://125.227.210.37:18789/VideoInput/play.ts
-惊艳台,http://125.227.210.55:18789/VideoInput/play.ts
-极限电影台,http://125.227.210.55:19020/VideoInput/play.ts
-极限电影台,http://125.227.210.37:19020/VideoInput/play.ts
+驚豔成人電影台,http://125.227.210.37:18789/VideoInput/play.ts
+驚豔成人電影台,http://125.227.210.55:18789/VideoInput/play.ts
+JStar極限台電影頻道,http://125.227.210.55:19020/VideoInput/play.ts
+JStar極限台電影頻道,http://125.227.210.37:19020/VideoInput/play.ts
 NHKworld,http://125.227.210.37:8931/VideoInput/play.ts
 NHKworld,http://125.227.210.55:8931/VideoInput/play.ts
 YTN,http://125.227.210.37:8932/VideoInput/play.ts
@@ -73,8 +73,8 @@ RT,http://125.227.210.37:8936/VideoInput/play.ts
 RT,http://125.227.210.55:8936/VideoInput/play.ts
 TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
 TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
-ALJAZEERA,http://125.227.210.37:8938/VideoInput/play.ts
-ALJAZEERA,http://125.227.210.55:8938/VideoInput/play.ts
+aljazeera,http://125.227.210.37:8938/VideoInput/play.ts
+aljazeera,http://125.227.210.55:8938/VideoInput/play.ts
 NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
 NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts
 NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
@@ -89,8 +89,8 @@ CNN,http://125.227.210.37:10797/VideoInput/play.ts
 CNN,http://125.227.210.55:10797/VideoInput/play.ts
 Momo综合台,http://125.227.210.37:13498/VideoInput/play.ts
 Momo综合台,http://125.227.210.55:13498/VideoInput/play.ts
-Food Network,http://125.227.210.37:14250/VideoInput/play.ts
-Food Network,http://125.227.210.55:14250/VideoInput/play.ts
+FoodNetwork美食台,http://125.227.210.37:14250/VideoInput/play.ts
+FoodNetwork美食台,http://125.227.210.55:14250/VideoInput/play.ts
 非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
 非凡新闻台,http://125.227.210.55:15078/VideoInput/play.ts
 三立新闻台,http://125.227.210.37:15589/VideoInput/play.ts
@@ -99,8 +99,8 @@ Food Network,http://125.227.210.55:14250/VideoInput/play.ts
 三立台湾台,http://125.227.210.37:15714/VideoInput/play.ts
 中天娱乐台,http://125.227.210.37:15796/VideoInput/play.ts
 中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
-HBO,http://125.227.210.37:16027/VideoInput/play.ts
-HBO,http://125.227.210.55:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
+HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
 TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
 TVBS新闻台,http://125.227.210.55:16329/VideoInput/play.ts
 国家地理频道,http://125.227.210.37:16408/VideoInput/play.ts
@@ -109,12 +109,12 @@ CNBCHongKong,http://125.227.210.37:16415/VideoInput/play.ts
 CNBCHongKong,http://125.227.210.55:16415/VideoInput/play.ts
 CN卡通频道,http://125.227.210.37:16671/VideoInput/play.ts
 CN卡通频道,http://125.227.210.55:16671/VideoInput/play.ts
-Cna,http://125.227.210.37:17524/VideoInput/play.ts
-Cna,http://125.227.210.55:17524/VideoInput/play.ts
+ChannelNewsAsia,http://125.227.210.37:17524/VideoInput/play.ts
+ChannelNewsAsia,http://125.227.210.55:17524/VideoInput/play.ts
 BloombergTV,http://125.227.210.55:18184/VideoInput/play.ts
 BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
-纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
-纬来体育,http://125.227.210.55:18358/VideoInput/play.ts
+纬来体育台,http://125.227.210.37:18358/VideoInput/play.ts
+纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
 
 备用频道（需梯子）,#genre#
 中视http://50.7.61.148:30080/Entry/ctv
