@@ -42,6 +42,43 @@ K-POP LIVE STREAMING,https://git.io/JgP6P
 台视新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
+#__#
+三立inews新聞https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+東森購物3台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+东森新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+france24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+CNBCHongKong,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+非凡新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+Bloomberg Quicktake,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+东森新闻4K,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+信吉电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+aljazeera,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+ArirangTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+东京浅草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 中華電信（需梯子）,#genre#
 Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
