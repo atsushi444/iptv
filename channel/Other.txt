@@ -1,4 +1,4 @@
-其他频道,#genre#
+电视侠,#genre#
 翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
 翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
