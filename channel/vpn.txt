@@ -69,8 +69,8 @@ DW,http://125.227.210.37:8934/VideoInput/play.ts
 DW,http://125.227.210.55:8934/VideoInput/play.ts
 凤凰中文,http://125.227.210.37:8935/VideoInput/play.ts
 凤凰中文,http://125.227.210.55:8935/VideoInput/play.ts
-RT,http://125.227.210.37:8936/VideoInput/play.ts
-RT,http://125.227.210.55:8936/VideoInput/play.ts
+TRT World,http://125.227.210.37:8936/VideoInput/play.ts
+TRT World,http://125.227.210.55:8936/VideoInput/play.ts
 TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
 TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
 aljazeera,http://125.227.210.37:8938/VideoInput/play.ts
