@@ -43,7 +43,7 @@ K-POP LIVE STREAMING,https://git.io/JgP6P
 中天新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 
-125（需梯子）,#genre#
+HDlive（需梯子）,#genre#
 Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
 Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
