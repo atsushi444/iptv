@@ -22,6 +22,7 @@ TVBS,https://git.io/JgYl2
 中天新聞,https://git.io/Jgkpy
 幸福空间居家台,https://git.io/JgYYF
 KPOP,https://git.io/JgYAE
+中視新聞,https://git.io/Jgkxz
 #__#
 台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
