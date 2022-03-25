@@ -80,7 +80,7 @@ ArirangTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 东京浅草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
-中華電信（需梯子）,#genre#
+中华电信（需梯子）,#genre#
 Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
 Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
 Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
