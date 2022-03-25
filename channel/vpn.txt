@@ -96,8 +96,8 @@ adult-7,http://125.227.210.55:18685/VideoInput/play.ts
 驚豔成人電影台,http://125.227.210.55:18789/VideoInput/play.ts
 JStar極限台電影頻道,http://125.227.210.55:19020/VideoInput/play.ts
 JStar極限台電影頻道,http://125.227.210.37:19020/VideoInput/play.ts
-NHKworld,http://125.227.210.37:8931/VideoInput/play.ts
-NHKworld,http://125.227.210.55:8931/VideoInput/play.ts
+NHKWorld,http://125.227.210.37:8931/VideoInput/play.ts
+NHKWorld,http://125.227.210.55:8931/VideoInput/play.ts
 YTN,http://125.227.210.37:8932/VideoInput/play.ts
 YTN,http://125.227.210.55:8932/VideoInput/play.ts
 ArirangTV,http://125.227.210.37:8933/VideoInput/play.ts
