@@ -13,7 +13,6 @@ CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 
 网络频道（需梯子）,#genre#
 台视新闻台,https://git.io/JgkxY
-華視新聞資訊台,https://git.io/J1zPH
 三立LIVE新聞,https://git.io/Jgkxp
 三立inews新聞,https://git.io/Jgkxj
 寰宇新闻,https://git.io/JgkpO
