@@ -1,5 +1,6 @@
 #__#
 VIVID TOUCH,http://pl1cdn.plusx.tv:8880/347/mono.m3u8?token=pirek23@gmail.comziomek222222
+HUSTLER,http://pl1cdn.plusx.tv:8880/349/mono.m3u8?token=pirek23@gmail.comziomek222222
 OLALA,http://pl1cdn.plusx.tv:8880/350/mono.m3u8?token=pirek23@gmail.comziomek222222
 VIVID TOUCH,http://pl1cdn.plusx.tv:8880/354/mono.m3u8?token=pirek23@gmail.comziomek222222
 XXL,http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
