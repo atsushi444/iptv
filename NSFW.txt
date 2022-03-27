@@ -99,12 +99,12 @@ REDLIGHT HD,http://109.200.130.123:7032/play/353
 VIVID RED,http://109.200.130.123:7032/play/a00g
 #__#
 Dorcel TV HD,http://cdnx1.plusx.tv:8880/345/mono.m3u8?token=pirek23@gmail.comziomek222222
-DORCEL,http://pl1cdn.plusx.tv:8880/345/mono.m3u8?token=pirek23@gmail.comziomek222222
+Dorcel TV HD,http://pl1cdn.plusx.tv:8880/345/mono.m3u8?token=pirek23@gmail.comziomek222222
 Hustler HD,http://pl1cdn.plusx.tv:8880/348/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUSE QUICKIES,http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
 PENTHOUS GOLD,http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
 REDLIGHT HD,http://pl1cdn.plusx.tv:8880/358/mono.m3u8?token=pirek23@gmail.comziomek222222
-DORCEL,http://pl1cdn.plusx.tv:8880/359/mono.m3u8?token=pirek23@gmail.comziomek222222
+Dorcel TV HD,http://pl1cdn.plusx.tv:8880/359/mono.m3u8?token=pirek23@gmail.comziomek222222
 VIVID RED,http://pl1cdn.plusx.tv:8880/361/mono.m3u8?token=pirek23@gmail.comziomek222222
 EXXXOTICA,http://pl1cdn.plusx.tv:8880/362/mono.m3u8?token=pirek23@gmail.comziomek222222
 #__#
