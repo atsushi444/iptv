@@ -177,6 +177,7 @@ JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e622
 松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
 松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
 Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
+Look TV,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd.ts
 $__$
 彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
 彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
