@@ -55,7 +55,8 @@ JET综合台,http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012
 TVBS新闻台,http://50.7.218.42:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 TVBS,http://50.7.218.42:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 亚洲旅游台,http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-BabyTV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
+韩国娱乐台KMTV,http://50.7.218.42:8278/chcaction/playlist.m3u8?tid=MDFD9003917790039177&ct=18393&tsum=01a5afaa9d5381fd7cf50f050376b93f
+EYE戏剧,http://50.7.218.42:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 爱尔达影剧,http://50.7.218.42:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 纬来电影台,http://50.7.218.42:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 星卫HD电影,http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
@@ -66,7 +67,10 @@ LSTime电影台,http://50.7.218.42:8278/cb7a1fec69/playlist.m3u8?tid=md05ab40022
 龙华戏剧,http://50.7.218.42:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龙华洋片,http://50.7.218.42:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 靖天卡通台,http://50.7.218.42:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+BabyTV,http://50.7.218.42:8278/babytv_twn/playlist.m3u8?tid=m7ab1b92a1306&ct=18335&tsum=57086eb57e1cc0c75ba08c75acab2406
 WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+爱尔达体育1,http://50.7.218.42:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+FOXSports,http://50.7.218.42:8278/foxsport3hd_twn/playlist.m3u8?tid=m5d584d8f204e14267960&ct=17895&tsum=a75615ebe28f1eaa5d552ec102136011
 博斯高球1台,http://50.7.218.42:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 博斯高球1台,http://50.7.218.42:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
 博斯运动二台,http://50.7.218.42:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
