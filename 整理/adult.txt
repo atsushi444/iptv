@@ -2,10 +2,6 @@
 OLALA,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9068/index.m3u8
 VIVID RED,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
 #__#
-Venus,http://168.232.168.242:8000/play/a0ex/index.m3u8
-Playboy TV,http://168.232.168.242:8000/play/a0i9/index.m3u8
-Playboy TV,http://168.232.168.242:8000/play/a015/index.m3u8
-#__#
 Blue Hustler,http://185.205.201.44:8017/play/a04o/index.m3u8
 Blue Hustler,http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 #__#
