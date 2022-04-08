@@ -8,14 +8,6 @@
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #__#
-无线新闻,http://51.222.193.143:10010/1
-翡翠台,http://51.222.193.143:10010/2
-ViuTV,http://51.222.193.143:10010/3
-ViuTV6,http://51.222.193.143:10010/4
-明珠台,http://51.222.193.143:10010/5
-无线财经,http://51.222.193.143:10010/6
-J2,http://51.222.193.143:10010/7
-#__#
 翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 无线财经,http://radius.8866.org:880/hls/83/index.m3u8
