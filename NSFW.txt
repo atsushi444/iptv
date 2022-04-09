@@ -109,6 +109,9 @@ Private HD,http://185.205.201.44:8017/play/a04p/index.m3u8
 REDLIGHT HD,http://109.200.130.123:7032/play/353
 VIVID RED,http://109.200.130.123:7032/play/a00g
 #__#
+Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
+#__#
 REDLIGHT HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
 Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
