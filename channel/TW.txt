@@ -51,6 +51,10 @@ AXN,http://59.125.101.187:8773/playlist.m3u8
 Discovery,http://60.250.91.85:8588/.m3u8
 TLC旅游生活频道,http://60.250.91.85:8589/.m3u8
 #__#
+中天娱乐台,http://123.51.230.64:8585/playlist.m3u8
+Discovery,http://123.51.230.64:8588/playlist.m3u8
+TLC旅游生活频道,http://123.51.230.64:8589/playlist.m3u8
+#__#
 三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立都会台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 东森戏剧台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
