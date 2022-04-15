@@ -8,6 +8,10 @@
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #__#
+凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰中文,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+#__#
 翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 无线财经,http://radius.8866.org:880/hls/83/index.m3u8
