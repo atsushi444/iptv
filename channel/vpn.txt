@@ -90,7 +90,7 @@ Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
 Adult-6,http://125.227.210.37:14583/VideoInput/play.ts
 Adult-6,http://125.227.210.55:14583/VideoInput/play.ts
 Adult-7,http://125.227.210.37:18685/VideoInput/play.ts
-adult-7,http://125.227.210.55:18685/VideoInput/play.ts
+Adult-7,http://125.227.210.55:18685/VideoInput/play.ts
 香蕉台,http://125.227.210.37:11055/VideoInput/play.ts
 香蕉台,http://125.227.210.55:11055/VideoInput/play.ts
 驚豔成人電影台,http://125.227.210.37:18789/VideoInput/play.ts
