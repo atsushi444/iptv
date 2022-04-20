@@ -8,3 +8,4 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
