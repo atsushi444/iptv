@@ -90,6 +90,10 @@ XXX: XY Plus FHD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/285212
 XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
 XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 #__#
+Redlight HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
+Hustler HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
+Dorcel TV HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/245/index.m3u8
+#__#
 Hustler HD,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9065/index.m3u8
 Dorcel TV HD,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/9067/index.m3u8
 BABES,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
@@ -101,13 +105,13 @@ Asian,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
 bangbros,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
 Tiny4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
 #__#
-REDLIGHT HD,http://109.200.130.123:7032/play/353
+Redlight HD,http://109.200.130.123:7032/play/353
 VIVID RED,http://109.200.130.123:7032/play/a00g
 #__#
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
 #__#
-REDLIGHT HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
 Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
