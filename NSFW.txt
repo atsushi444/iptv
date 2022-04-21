@@ -101,11 +101,6 @@ Asian,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
 bangbros,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
 Tiny4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
 #__#
-Dorcel TV HD,http://185.205.201.44:8017/play/a04k/index.m3u8
-Brazzers HD,http://185.205.201.44:8017/play/a04l/index.m3u8
-Hustler HD,http://185.205.201.44:8017/play/a04n/index.m3u8
-Private HD,http://185.205.201.44:8017/play/a04p/index.m3u8
-#__#
 REDLIGHT HD,http://109.200.130.123:7032/play/353
 VIVID RED,http://109.200.130.123:7032/play/a00g
 #__#
