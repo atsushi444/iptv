@@ -24,6 +24,8 @@ BloombergTV,http://59.125.98.83:8551/playlist.m3u8
 NHK,http://59.125.98.83:8552/playlist.m3u8
 三立台湾台,http://59.125.101.187:8501/playlist.m3u8
 #__#
+中天娱乐台,http://60.250.91.85:8525/index.m3u8
+#__#
 三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立都会台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 东森戏剧台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
