@@ -90,6 +90,12 @@ XXX: XY Plus FHD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/285212
 XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
 XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 #__#
+Redlight HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/641
+Penthouse Quickies,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/644
+Dorcel TV HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/682
+Prıvate TV HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/683
+Vivid Red HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/793
+#__#
 Redlight HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
 Hustler HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
 Dorcel TV HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/245/index.m3u8
@@ -106,7 +112,7 @@ bangbros,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
 Tiny4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
 #__#
 Redlight HD,http://109.200.130.123:7032/play/353
-VIVID RED,http://109.200.130.123:7032/play/a00g
+Vivid Red HD,http://109.200.130.123:7032/play/a00g
 #__#
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
