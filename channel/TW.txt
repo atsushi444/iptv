@@ -33,6 +33,8 @@ NHK,http://59.125.98.83:8552/playlist.m3u8
 东森戏剧台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 卫视中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 #__#
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 原住民频道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #__#
 民视,rtmp://59.124.75.138/sat/tv051
