@@ -89,6 +89,7 @@ CCTV8,http://120.84.96.29:808/hls/8/index.m3u8
 CCTV9,http://120.84.96.29:808/hls/9/index.m3u8
 广东体育,http://120.84.96.29:808/hls/22/index.m3u8
 澳门莲花卫视,http://120.84.96.29:808/hls/24/index.m3u8
+翡翠台,http://120.84.96.32:808/hls/25/index.m3u8
 凤凰中文,http://120.84.96.29:808/hls/29/index.m3u8
 CCTV5+,http://120.84.96.29:808/hls/30/index.m3u8
 东森电影台,http://120.84.96.29:808/hls/32/index.m3u8
