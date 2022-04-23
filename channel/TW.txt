@@ -2,6 +2,9 @@
 龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
 龙华日韩,http://59.125.98.83:8535/playlist.m3u8
 龙华偶像,http://59.125.98.83:8536/playlist.m3u8
+龙华偶像,http://59.125.98.83:8538/playlist.m3u8
+BloombergTV,http://59.125.98.83:8551/playlist.m3u8
+NHK,http://59.125.98.83:8552/playlist.m3u8
 东森新闻,http://59.125.101.187:8702/playlist.m3u8
 中天新闻,http://59.125.101.187:8703/playlist.m3u8
 华视新闻,http://59.125.101.187:8704/playlist.m3u8
