@@ -12,12 +12,6 @@
 寰宇新闻,http://61.221.81.93:8088/hls/76/818/ch62.m3u8
 中天新闻,http://61.221.81.93:8088/hls/78/80/ch63max.m3u8
 #__#
-东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-#__#
 龙华戏剧,http://59.125.98.83:8534/playlist.m3u8
 龙华日韩,http://59.125.98.83:8535/playlist.m3u8
 龙华偶像,http://59.125.98.83:8536/playlist.m3u8
