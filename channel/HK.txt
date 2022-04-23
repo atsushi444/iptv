@@ -1,4 +1,7 @@
 港澳频道,#genre#
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#__#
 凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #__#
@@ -11,6 +14,9 @@
 凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
 凤凰中文,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
 凤凰香港,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+凤凰资讯,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
+凤凰中文,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
+凤凰香港,http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 #__#
 翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
