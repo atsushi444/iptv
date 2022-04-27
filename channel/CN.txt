@@ -152,6 +152,20 @@ CCTV5+,http://42.176.185.28:9901/tsfile/live/1004_1.m3u8
 #__#
 CCTV3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#__#
+第一剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+怀旧剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+兵器科技,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+世界地理,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+风云足球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+风云音乐,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+风云剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+女性时尚,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+央视精品,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+央视台球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+高尔夫网球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+电视指南,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+卫生健康,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 
 卫视频道,#genre#
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
