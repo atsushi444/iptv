@@ -90,6 +90,9 @@ XXX: XY Plus FHD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/285212
 XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
 XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 #__#
+Hustler HD,http://217.71.224.86:8290
+Prıvate TV HD,http://217.71.224.86:8292
+#__#
 Redlight HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/641
 Penthouse Quickies,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/644
 Dorcel TV HD,http://schnupfistreamer.hopto.me:55875/kikiSat/LlpAxpCFdu/682
