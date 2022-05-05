@@ -27,17 +27,6 @@ ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
 RHK31,http://radius.8866.org:880/hls/89/index.m3u8
 RHK32,http://radius.8866.org:880/hls/90/index.m3u8
 #__#
-无线新闻,https://dm1133.kglink.xyz/live/01
-无线财经,https://dm1133.kglink.xyz/live/02
-有线新闻台,https://dm1133.kglink.xyz/live/03
-有线财经资讯台,https://dm1133.kglink.xyz/live/04
-Now新闻台,https://dm1133.kglink.xyz/live/05
-香港开电视,https://dm1133.kglink.xyz/live/06
-RHK31,https://dm1133.kglink.xyz/live/07
-RHK32,https://dm1133.kglink.xyz/live/08
-Now体育,https://dm1133.kglink.xyz/live/09
-澳门莲花卫视,https://dm1133.kglink.xyz/live/10
-#__#
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
