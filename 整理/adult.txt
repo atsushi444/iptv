@@ -7,6 +7,7 @@ Blue Hustler,http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 Pinkotv,http://93.152.174.144:4000/play/pinkotv/index.m3u8
 Hustler TV,http://78.83.191.18:8000/play/a078
 Eroxxxhd,http://94.229.250.73:8008/play/a002
+XXL,http://85.14.32.15:8801/udp/224.100.1.151:56000
 #__#
 三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
