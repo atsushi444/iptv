@@ -11,10 +11,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="海外频道",aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外频道",亚美卫视
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外频道",亚美卫视
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="海外频道",ChannelNewsAsia
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1 tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="海外频道",ChannelNewsAsia
