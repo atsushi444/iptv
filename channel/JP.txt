@@ -3,12 +3,6 @@
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日本频道",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="日本频道",NHKWorldPremium
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="日本频道",NHKWorldPremium
-http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="日本频道",NHKWorldPremium
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="日本频道",Animax Japan
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="日本频道",Animax Japan
