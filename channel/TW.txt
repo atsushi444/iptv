@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",卫视电影
-http://61.221.81.93:8507/hls/77/80/ch62.m3u8
-#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="台湾",卫视中文
-http://61.221.81.93:8503/hls/77/80/ch62.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="台湾",凤凰资讯
-http://61.221.81.93:8513/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="台湾",凤凰中文
-http://61.221.81.93:8514/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻
-http://61.221.81.93:8542/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="台湾",BABYTV
-http://61.221.81.93:8546/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="台湾",FOXMOVIES
-http://61.221.81.93:8561/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="台湾",FOX
-http://61.221.81.93:8562/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="台湾",BLOOMBERG
-http://61.221.81.93:8581/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台湾",国家地理
-http://61.221.81.93:8590/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="台湾",龙华偶像
-http://61.221.81.93:8591/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
-http://61.221.81.93:8592/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="台湾",龙华戏剧
-http://61.221.81.93:8593/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="7188" tvg-name="龙华动画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" group-title="台湾",龙华动画
-http://61.221.81.93:8594/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="台湾",CNBC
-http://61.221.81.93:8595/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="台湾",龙华电影
-http://61.221.81.93:8597/hls/70/80/ch01.m3u8
-#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾",博斯运动一台
-http://61.221.81.93:8596/hls/70/80/ch01.m3u8
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/playlist.m3u8
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
