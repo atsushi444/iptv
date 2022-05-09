@@ -1,21 +1,33 @@
-#__#
-Hustler HD,http://217.71.224.86:8290
-Prıvate TV HD,http://217.71.224.86:8292
-#__#
-Redlight HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
-Hustler HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
-Dorcel TV HD,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/245/index.m3u8
-#__#
-Redlight HD,http://109.200.130.123:7032/play/353
-Vivid Red HD,http://109.200.130.123:7032/play/a00g
-#__#
-Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
-Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
-#__#
-Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
-Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
-Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-XYPLUS,http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
-IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="NSFW",Hustler HD
+http://217.71.224.86:8290
+#EXTINF:-1 group-title="NSFW",Prıvate TV HD
+http://217.71.224.86:8292
+#EXTINF:-1 group-title="NSFW",Redlight HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/242/index.m3u8
+#EXTINF:-1 group-title="NSFW",Hustler HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
+#EXTINF:-1 group-title="NSFW",Dorcel TV HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/245/index.m3u8
+#EXTINF:-1 group-title="NSFW",Redlight HD
+http://109.200.130.123:7032/play/353
+#EXTINF:-1 group-title="NSFW",Vivid Red HD
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1 group-title="NSFW",Penthouse Gold
+http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1 group-title="NSFW",Penthouse Quickies
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:-1 group-title="NSFW",Redlight HD
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="NSFW",Hustler HD
+http://193.33.240.8:80/hustler_hd/index.m3u8
+#EXTINF:-1 group-title="NSFW",Extasy/LeoTV
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 group-title="NSFW",Rouge TV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="NSFW",XYPLUS
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 group-title="NSFW",IBizaHDTV
+https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="NSFW",IBizaHDTV
+https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
