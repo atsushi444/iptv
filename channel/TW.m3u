@@ -7,11 +7,7 @@ http://59.125.98.83:8535/playlist.m3u8
 http://59.125.98.83:8536/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾频道",华视新闻资讯
 http://59.125.98.83:8538/playlist.m3u8
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="台湾频道",BloombergTV
-http://59.125.98.83:8551/playlist.m3u8
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾台
 http://59.125.101.187:8501/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾频道",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台湾频道",原住民频道
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
