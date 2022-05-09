@@ -109,3 +109,11 @@ BloombergTV,http://125.227.210.55:18184/VideoInput/play.ts
 BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 纬来体育台,http://125.227.210.37:18358/VideoInput/play.ts
 纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
+
+4gTV(需梯子),#genre#
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
