@@ -16,8 +16,6 @@ http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 #EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾",东森戏剧台
 http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾",HBO
-http://gg.gg/HaNoiIPTV-HBO_HD
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="6034" tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="台湾",原住民频道
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
