@@ -120,3 +120,7 @@ BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 
 其他频道,#genre#
 新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+
+影视频道,#genre#
+斗鱼电影1,http://epg.112114.xyz/douyu/9249162
+斗鱼电影1,http://zzy789.xyz/douyu1.php?id=9249162
