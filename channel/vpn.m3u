@@ -146,89 +146,169 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络直播2(需梯子)",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
-中华电信（需梯子）,#genre#
-Aldult-1,http://125.227.210.55:9051/VideoInput/play.ts
-Aldult-2,http://125.227.210.55:9053/VideoInput/play.ts
-Aldult-3,http://125.227.210.55:9054/VideoInput/play.ts
-Aldult-4,http://125.227.210.55:9055/VideoInput/play.ts
-Aldult-5,http://125.227.210.55:9062/VideoInput/play.ts
-Adult-6,http://125.227.210.37:14583/VideoInput/play.ts
-Adult-6,http://125.227.210.55:14583/VideoInput/play.ts
-Adult-7,http://125.227.210.37:18685/VideoInput/play.ts
-Adult-7,http://125.227.210.55:18685/VideoInput/play.ts
-香蕉台,http://125.227.210.37:11055/VideoInput/play.ts
-香蕉台,http://125.227.210.55:11055/VideoInput/play.ts
-驚豔成人電影台,http://125.227.210.37:18789/VideoInput/play.ts
-驚豔成人電影台,http://125.227.210.55:18789/VideoInput/play.ts
-JStar極限台電影頻道,http://125.227.210.55:19020/VideoInput/play.ts
-JStar極限台電影頻道,http://125.227.210.37:19020/VideoInput/play.ts
-NHKWorld,http://125.227.210.37:8931/VideoInput/play.ts
-NHKWorld,http://125.227.210.55:8931/VideoInput/play.ts
-YTN,http://125.227.210.37:8932/VideoInput/play.ts
-YTN,http://125.227.210.55:8932/VideoInput/play.ts
-ArirangTV,http://125.227.210.37:8933/VideoInput/play.ts
-ArirangTV,http://125.227.210.55:8933/VideoInput/play.ts
-DW,http://125.227.210.37:8934/VideoInput/play.ts
-DW,http://125.227.210.55:8934/VideoInput/play.ts
-凤凰中文,http://125.227.210.37:8935/VideoInput/play.ts
-凤凰中文,http://125.227.210.55:8935/VideoInput/play.ts
-TRT World,http://125.227.210.37:8936/VideoInput/play.ts
-TRT World,http://125.227.210.55:8936/VideoInput/play.ts
-TV5MONDE ASIE,http://125.227.210.37:8937/VideoInput/play.ts
-TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
-aljazeera,http://125.227.210.37:8938/VideoInput/play.ts
-aljazeera,http://125.227.210.55:8938/VideoInput/play.ts
-NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
-NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts
-NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
-NHKBSP,http://125.227.210.55:8940/VideoInput/play.ts
-BBCWorldNews,http://125.227.210.37:10246/VideoInput/play.ts
-BBCWorldNews,http://125.227.210.55:10246/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.37:10388/VideoInput/play.ts
-DiscoveryAsia,http://125.227.210.55:10388/VideoInput/play.ts
-ELEVEN体育一台,http://125.227.210.37:10677/VideoInput/play.ts
-ELEVEN体育一台,http://125.227.210.55:10677/VideoInput/play.ts
-CNN,http://125.227.210.37:10797/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts
-FOX,http://125.227.210.37:13498/VideoInput/play.ts
-FOX,http://125.227.210.55:13498/VideoInput/play.ts
-FoodNetwork美食台,http://125.227.210.37:14250/VideoInput/play.ts
-FoodNetwork美食台,http://125.227.210.55:14250/VideoInput/play.ts
-非凡新闻台,http://125.227.210.37:15078/VideoInput/play.ts
-非凡新闻台,http://125.227.210.55:15078/VideoInput/play.ts
-三立新闻台,http://125.227.210.37:15589/VideoInput/play.ts
-三立新闻台,http://125.227.210.55:15589/VideoInput/play.ts
-三立台湾台,http://125.227.210.55:15714/VideoInput/play.ts
-三立台湾台,http://125.227.210.37:15714/VideoInput/play.ts
-中天娱乐台,http://125.227.210.37:15796/VideoInput/play.ts
-中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
-HBOHD,http://125.227.210.37:16027/VideoInput/play.ts
-HBOHD,http://125.227.210.55:16027/VideoInput/play.ts
-TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
-TVBS新闻台,http://125.227.210.55:16329/VideoInput/play.ts
-国家地理频道,http://125.227.210.37:16408/VideoInput/play.ts
-国家地理频道,http://125.227.210.55:16408/VideoInput/play.ts
-CNBCHongKong,http://125.227.210.37:16415/VideoInput/play.ts
-CNBCHongKong,http://125.227.210.55:16415/VideoInput/play.ts
-CN卡通频道,http://125.227.210.37:16671/VideoInput/play.ts
-CN卡通频道,http://125.227.210.55:16671/VideoInput/play.ts
-ChannelNewsAsia,http://125.227.210.37:17524/VideoInput/play.ts
-ChannelNewsAsia,http://125.227.210.55:17524/VideoInput/play.ts
-BloombergTV,http://125.227.210.55:18184/VideoInput/play.ts
-BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
-纬来体育台,http://125.227.210.37:18358/VideoInput/play.ts
-纬来体育台,http://125.227.210.55:18358/VideoInput/play.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Aldult-1
+http://125.227.210.55:9051/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Aldult-2
+http://125.227.210.55:9053/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Aldult-3
+http://125.227.210.55:9054/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Aldult-4
+http://125.227.210.55:9055/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Aldult-5
+http://125.227.210.55:9062/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Adult-6
+http://125.227.210.37:14583/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Adult-6
+http://125.227.210.55:14583/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Adult-7
+http://125.227.210.37:18685/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",Adult-7
+http://125.227.210.55:18685/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",香蕉台
+http://125.227.210.37:11055/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",香蕉台
+http://125.227.210.55:11055/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",惊豔成人电影台
+http://125.227.210.37:18789/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",惊豔成人电影台
+http://125.227.210.55:18789/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",JStar极限台电影频道
+http://125.227.210.55:19020/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",JStar极限台电影频道
+http://125.227.210.37:19020/VideoInput/play.ts
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="中华电信(需梯子)",NHKWorld
+http://125.227.210.37:8931/VideoInput/play.ts
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="中华电信(需梯子)",NHKWorld
+http://125.227.210.55:8931/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",YTN
+http://125.227.210.37:8932/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",YTN
+http://125.227.210.55:8932/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="中华电信(需梯子)",ArirangTV
+http://125.227.210.37:8933/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="中华电信(需梯子)",ArirangTV
+http://125.227.210.55:8933/VideoInput/play.ts
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中华电信(需梯子)",DW
+http://125.227.210.37:8934/VideoInput/play.ts
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中华电信(需梯子)",DW
+http://125.227.210.55:8934/VideoInput/play.ts
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="中华电信(需梯子)",凤凰中文
+http://125.227.210.37:8935/VideoInput/play.ts
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="中华电信(需梯子)",凤凰中文
+http://125.227.210.55:8935/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",TRT World
+http://125.227.210.37:8936/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",TRT World
+http://125.227.210.55:8936/VideoInput/play.ts
+#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="中华电信(需梯子)",TV5MONDE ASIE
+http://125.227.210.37:8937/VideoInput/play.ts
+#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="中华电信(需梯子)",TV5MONDE ASIE
+http://125.227.210.55:8937/VideoInput/play.ts
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="中华电信(需梯子)",aljazeera
+http://125.227.210.37:8938/VideoInput/play.ts
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="中华电信(需梯子)",aljazeera
+http://125.227.210.55:8938/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",NHKBS1
+http://125.227.210.37:8939/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",NHKBS1
+http://125.227.210.55:8939/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",NHKBSP
+http://125.227.210.37:8940/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中华电信(需梯子)",NHKBSP
+http://125.227.210.55:8940/VideoInput/play.ts
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="中华电信(需梯子)",BBCWorldNews
+http://125.227.210.37:10246/VideoInput/play.ts
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="中华电信(需梯子)",BBCWorldNews
+http://125.227.210.55:10246/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="中华电信(需梯子)",DiscoveryAsia
+http://125.227.210.37:10388/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="中华电信(需梯子)",DiscoveryAsia
+http://125.227.210.55:10388/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="中华电信(需梯子)",ELEVEN体育一台
+http://125.227.210.37:10677/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="中华电信(需梯子)",ELEVEN体育一台
+http://125.227.210.55:10677/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="中华电信(需梯子)",CNN
+http://125.227.210.37:10797/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="中华电信(需梯子)",CNN
+http://125.227.210.55:10797/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="中华电信(需梯子)",FOX
+http://125.227.210.37:13498/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="中华电信(需梯子)",FOX
+http://125.227.210.55:13498/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="中华电信(需梯子)",FoodNetwork美食台
+http://125.227.210.37:14250/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="中华电信(需梯子)",FoodNetwork美食台
+http://125.227.210.55:14250/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="中华电信(需梯子)",非凡新闻台
+http://125.227.210.37:15078/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="中华电信(需梯子)",非凡新闻台
+http://125.227.210.55:15078/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="中华电信(需梯子)",三立新闻台
+http://125.227.210.37:15589/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="中华电信(需梯子)",三立新闻台
+http://125.227.210.55:15589/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="中华电信(需梯子)",三立台湾台
+http://125.227.210.55:15714/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="中华电信(需梯子)",三立台湾台
+http://125.227.210.37:15714/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="中华电信(需梯子)",中天娱乐台
+http://125.227.210.37:15796/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="中华电信(需梯子)",中天娱乐台
+http://125.227.210.55:15796/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="中华电信(需梯子)",HBOHD
+http://125.227.210.37:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="中华电信(需梯子)",HBOHD
+http://125.227.210.55:16027/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="中华电信(需梯子)",TVBS新闻台
+http://125.227.210.37:16329/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="中华电信(需梯子)",TVBS新闻台
+http://125.227.210.55:16329/VideoInput/play.ts
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="中华电信(需梯子)",国家地理频道
+http://125.227.210.37:16408/VideoInput/play.ts
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="中华电信(需梯子)",国家地理频道
+http://125.227.210.55:16408/VideoInput/play.ts
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="中华电信(需梯子)",CNBCHongKong
+http://125.227.210.37:16415/VideoInput/play.ts
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="中华电信(需梯子)",CNBCHongKong
+http://125.227.210.55:16415/VideoInput/play.ts
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="中华电信(需梯子)",CN卡通频道
+http://125.227.210.37:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="中华电信(需梯子)",CN卡通频道
+http://125.227.210.55:16671/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="中华电信(需梯子)",ChannelNewsAsia
+http://125.227.210.37:17524/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="中华电信(需梯子)",ChannelNewsAsia
+http://125.227.210.55:17524/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="中华电信(需梯子)",BloombergTV
+http://125.227.210.55:18184/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="中华电信(需梯子)",BloombergTV
+http://125.227.210.37:18184/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="中华电信(需梯子)",纬来体育台
+http://125.227.210.37:18358/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="中华电信(需梯子)",纬来体育台
+http://125.227.210.55:18358/VideoInput/play.ts
 
-备用频道（需梯子）,#genre#
-優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="备用频道(需梯子)",优视频道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="备用频道(需梯子)",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="备用频道(需梯子)",新唐人加东台
+https://live.ntdimg.com/mllive860/playlist.m3u8
 
-4gTV（需梯子）,#genre#
-民视,http://seb.sason.top/ptv/ftv.php?id=ms
-民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
-民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
-民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
-民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTM3U
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="4gTV(需梯子)",民视
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="4gTV(需梯子)",民视台湾台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="4gTV(需梯子)",民视第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4gTV(需梯子)",民视影剧台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4gTV(需梯子)",民视旅游台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="4gTV(需梯子)",民视综艺台
+http://seb.sason.top/ptv/ftv.php?id=zy
 
