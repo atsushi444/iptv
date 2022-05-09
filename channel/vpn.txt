@@ -153,6 +153,7 @@ BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 
 备用频道（需梯子）,#genre#
 優視頻道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 4gTV（需梯子）,#genre#
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
