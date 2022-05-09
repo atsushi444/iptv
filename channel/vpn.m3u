@@ -22,37 +22,35 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="网络直播(需梯子)",台视新闻台
-https://git.io/JgkxY
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TTVNews.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="网络直播(需梯子)",中视新闻
-https://git.io/Jgkxz
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="网络直播(需梯子)",三立新闻
-https://git.io/Jgkxp
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETLiveNews.m3u8
 #EXTINF:-1 tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="网络直播(需梯子)",三立inews新闻
-https://git.io/Jgkxj
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="网络直播(需梯子)",寰宇新闻
-https://git.io/JgkpO
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="网络直播(需梯子)",东森新闻台
-https://git.io/Jgkps
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="网络直播(需梯子)",东森财经新闻台
-https://git.io/Jgkpc
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCFNews.m3u8
 #EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="网络直播(需梯子)",东森幼幼台
-https://git.io/JgYON
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/ebcyoyo.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="网络直播(需梯子)",TVBS
-https://git.io/JgYl2
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",中天新闻
-https://git.io/Jgkpy
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8
 #EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="网络直播(需梯子)",幸福空间居家台
-https://git.io/JgYYF
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",The K-POP
-https://git.io/JgYAE
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",K-POP LIVE STREAMING
-https://git.io/JgP6P
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOPLive.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",网路流行音乐电台
-https://git.io/JgkA6
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",西洋流行音乐电台
-https://git.io/JgkAy
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/MusicCi24.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="网络直播(需梯子)",2021华语流行歌曲
-https://git.io/JgYR5
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="网络直播(需梯子)",台视新闻台
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="网络直播(需梯子)",三立inews新闻
