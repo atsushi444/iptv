@@ -9,10 +9,6 @@ http://183.110.27.87/mtnlive/720/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TJBdaejeonbangsongSBSDaTian.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg" group-title="韩国频道",TJB 대전방송 (SBS 大田)
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="MBCYeosu.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png" group-title="韩国频道",MBC Yeosu
-https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-#EXTINF:-1 group-title="韩国频道",대전MBC(MBC Daejeon)
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/chunklist_w718515631.m3u8
 #EXTINF:-1 tvg-id="hangugseongeobangsong.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" group-title="韩国频道",한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="KCTVgwangjuCH05.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png" group-title="韩国频道",KCTV 광주
