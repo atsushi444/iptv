@@ -21,11 +21,11 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="KCTVgwangjuCH05.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png" group-title="韩国",KCTV 광주
 http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png" group-title="",MBC
+#EXTINF:-1 tvg-id="MBC.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png" group-title="韩国",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png" group-title="",KBS World
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png" group-title="韩国",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png" group-title="",KBS World
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSgidoggyoTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.bbsi.co.kr/HOME/img/common/imgLogo.png" group-title="韩国",CTS기독교TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
