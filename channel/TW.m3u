@@ -5,7 +5,7 @@ http://59.125.98.83:8534/playlist.m3u8
 http://59.125.98.83:8535/playlist.m3u8
 #EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港澳台",龙华偶像
 http://59.125.98.83:8536/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华视新闻资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",华视新闻资讯
 http://59.125.98.83:8538/playlist.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="港澳台",三立台湾台
 http://59.125.101.187:8501/playlist.m3u8
