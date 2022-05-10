@@ -9,7 +9,7 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",TJB 대전방송(SBS 大田)
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="韩国频道",여수MBC(MBC Yeosu)
+#EXTINF:-1 tvg-id="MBCYeosu.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png" group-title="韩国频道",MBC Yeosu
 https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 #EXTINF:-1 group-title="韩国频道",대전MBC(MBC Daejeon)
 https://5c482867a8b63.streamlock.net/live/myStream.sdp/chunklist_w718515631.m3u8
