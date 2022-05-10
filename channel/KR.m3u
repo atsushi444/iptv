@@ -31,3 +31,5 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="韩国频道",KBS World
 https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSgidoggyoTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.bbsi.co.kr/HOME/img/common/imgLogo.png" group-title="韩国频道",CTS기독교TV
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
