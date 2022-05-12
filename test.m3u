@@ -10,7 +10,3 @@ http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1,Visit-X TV (720p)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,4
-https://raw.githubusercontent.com/atsushi444/iptv/main/Test.m3u8
-
