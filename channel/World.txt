@@ -1,0 +1,16 @@
+海外频道,#genre#
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+aljazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+aljazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+ChannelNewsAsia,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+ABCAustralia,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+france24,http://f24hls-i.akamaihd.net:80/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+BloombergTV,https://liveprodeuwest.akamaized.net:443/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
