@@ -1,5 +1,40 @@
-#EXTM3U
-#EXTINF:-1 group-title="影视频道",K K_女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 group-title="影视频道",K K_喜剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+影视频道,#genre#
+K K_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+K K_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+K K_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#__#
+斗鱼电影1,http://epg.112114.xyz/douyu/9249162
+斗鱼电影1,http://zzy789.xyz/douyu1.php?id=9249162
+斗鱼电影3,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+斗鱼电影4,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
+斗鱼电影5,http://dyscdnali1.douyucdn.cn/live/263824rY7r7Ykt7m.flv
+斗鱼电影7,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+斗鱼电影9,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv
+斗鱼电影17,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv
+斗鱼电影19,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv
+斗鱼电影25,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv
+斗鱼电影30,http://dyscdnali1.douyucdn.cn/live/4282654rZ6bgd7oa.flv
+斗鱼电影38,http://dyscdnali1.douyucdn.cn/live/3439096ry0WJOkug.flv
+斗鱼电影39,http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv
+斗鱼电影40,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv
+斗鱼电影41,http://dyscdnali1.douyucdn.cn/live/338759rDXMBm2Z4d.flv
+斗鱼电影43,http://dyscdnali1.douyucdn.cn/live/6027991rD7gZZeor.flv
+斗鱼电影44,http://dyscdnali1.douyucdn.cn/live/4105989r12e6ci7j.flv
+斗鱼电影45,http://dyscdnali1.douyucdn.cn/live/6369954rSKC8vpDe.flv
+斗鱼电影46,http://dyscdnali1.douyucdn.cn/live/1504768rsnZud2Gv.flv
+斗鱼电影48,http://dyscdnali1.douyucdn.cn/live/2793084rOv5omCuI.flv
+斗鱼电影50,http://dyscdnali1.douyucdn.cn/live/434971r3ZA8dMt4g.flv
+斗鱼电影52,http://dyscdnali1.douyucdn.cn/live/8986148ruX1Bn8o2.flv
+斗鱼电影53,http://dyscdnali1.douyucdn.cn/live/74374rxBWPJfW7Gd.flv
+斗鱼电视剧3,http://dyscdnali1.douyucdn.cn/live/7517784r5QPZOakg.flv
+斗鱼电视剧7,http://dyscdnali1.douyucdn.cn/live/6648727rNSAfeL8s.flv
+斗鱼电视剧9,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv
+斗鱼电视剧10,http://dyscdnali1.douyucdn.cn/live/4373285ropbXBxEq.flv
+斗鱼电视剧12,http://dyscdnali1.douyucdn.cn/live/5261342rvYiYVv6V.flv
+斗鱼电视剧13,http://dyscdnali1.douyucdn.cn/live/5522351rfdh4CG1L.flv
+斗鱼动漫1,http://dyscdnali1.douyucdn.cn/live/6610883rdSnhO6m2.flv
+斗鱼动漫4,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv
+斗鱼动漫7,http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv
+斗鱼韩国综艺1,http://dyscdnali1.douyucdn.cn/live/131977rb5GOrl6uS.flv
+斗鱼韩国女团1,http://dyscdnali1.douyucdn.cn/live/17732rtara.flv
+斗鱼韩国女团2,http://dyscdnali1.douyucdn.cn/live/231464rNBvAvw55m.flv
