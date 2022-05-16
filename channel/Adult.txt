@@ -1,2 +1,7 @@
 Русская ночь[1024x576],http://46.174.83.66/Russkaya_Noch/tracks-v1a1/mono.m3u8
 Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/tracks-v1a1/mono.m3u8
+Super One HD,
+Erox,
+Redlight HD,
+Vivid Red HD,
+Hustler TV,
