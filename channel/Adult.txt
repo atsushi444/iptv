@@ -126,13 +126,15 @@ X-MO,
 XY Max HD,
 XY Mix HD,
 XY Plus HD,
-Erotic,
-Erotic 2,
-Erotic 3,
-Erotic 4,
-Erotic 6,
-Erotic 7,
-Erotic 8,
+Erotic[720x576],http://54.36.123.36:8080/PinkErotic1/index.m3u8
+Erotic 2[720x576],http://54.36.123.36:8080/PinkErotic2/index.m3u8
+Erotic 3[720x576],http://195.154.185.179:80/xx_hot_tv/index.m3u8
+Erotic 3[720x576],http://54.36.123.36:8080/PinkErotic3/index.m3u8
+Erotic 4[720x576],http://54.36.123.36:8080/PinkErotic4/index.m3u8
+Erotic 5[720x576],http://54.36.123.36:8080/PinkErotic5/index.m3u8
+Erotic 6[720x576],http://54.36.123.36:8080/PinkErotic6/index.m3u8
+Erotic 7[720x576],http://54.36.123.36:8080/PinkErotic7/index.m3u8
+Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/index.m3u8
 MvH Hard,
 SuperOne HD,
 
