@@ -1,9 +1,9 @@
 音乐频道,#genre#
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+Sexy K-Pop[1280*720],https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+kroneHit[1920*1080],https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #__#
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Yo![1280*720],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+MTV Biggest Pop[1280*720],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV Block Party[1280*720],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+MTV Spankin' New[1280*720],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+MTV WMA[1280*720],http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
