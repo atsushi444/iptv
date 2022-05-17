@@ -1,4 +1,8 @@
 体育频道,#genre#
+Eurosport 1 HD,http://kisamelotoparioer.org:8080/Rabben02/oN9So5gveq/135070
+Rai 4 FHD,http://kisamelotoparioer.org:8080/Rabben02/oN9So5gveq/135107
+Rai 4 HD,http://kisamelotoparioer.org:8080/Rabben02/oN9So5gveq/135108
+#__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
