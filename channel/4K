@@ -1,13 +1,9 @@
 4K频道,#genre#
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-Love Nature 4K,http://177.20.208.58:8000/play/a03r/index.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-1MV4K,http://136.243.42.146:1499
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-
-
+纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4k[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+爱上4K[3840*2160],http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+VTC13 4K[3840*2160],http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+1MV4K[3840*2160],http://136.243.42.146:1499
+Clarity4K[3840*2160],https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
