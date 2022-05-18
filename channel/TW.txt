@@ -35,3 +35,4 @@ BloombergTV,http://59.125.98.83:8551/playlist.m3u8
 HBO,http://gg.gg/HaNoiIPTV-HBO_HD
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 原住民频道,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
