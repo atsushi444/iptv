@@ -1,6 +1,6 @@
 体育频道,#genre#
-EUROSPORT 1 FHD,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
-EUROSPORT 1,http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
+EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
+EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
 #__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
