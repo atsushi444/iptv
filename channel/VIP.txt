@@ -1,5 +1,5 @@
 数字频道,#genre#
-IHOT-Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 iHOT爱喜剧,http://ikuai9.com:4000/udp/239.93.42.9:5140
 iHOT爱科幻,http://ikuai9.com:4000/udp/239.93.42.10:5140
 iHOT爱院线,http://ikuai9.com:4000/udp/239.93.42.11:5140
