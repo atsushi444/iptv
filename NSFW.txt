@@ -1,7 +1,7 @@
 #__#
-进化的战斗,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6200/index.m3u8
+Evolved Fights,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6200/index.m3u8
 Extasy HD,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6201/index.m3u8
-Faketaxi,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6202/index.m3u8
+Fake Taxi HD,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6202/index.m3u8
 #__#
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
