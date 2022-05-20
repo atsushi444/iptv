@@ -1,5 +1,4 @@
 #__#
-Private,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/243/index.m3u8
 Blue Hustler,http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 Pinkotv,http://93.152.174.144:4000/play/pinkotv/index.m3u8
 Hustler TV,http://78.83.191.18:8000/play/a078
