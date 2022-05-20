@@ -1,6 +1,6 @@
-Русская ночь[1024x576],http://46.174.83.66/Russkaya_Noch/tracks-v1a1/mono.m3u8
+Русская ночь[1024x576],http://46.174.83.66/Russkaya_Noch/video.m3u8
 Extasy 4K,
-Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/tracks-v1a1/mono.m3u8
+Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/video.m3u8
 Erox,
 Erox HD,
 Eroxxx HD,
@@ -19,7 +19,8 @@ Hustler HD Europe,
 Hustler TV,
 Blue Hustler,
 Dorcel TV HD,
-Pink\'o TV,
+Pink\'o TV,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+Pink\'o TV,http://93.152.174.144:4000/play/pinkotv/index.m3u8
 Нюарт TV,
 FrenchLover,
 O-la-la,
@@ -126,15 +127,15 @@ X-MO,
 XY Max HD,
 XY Mix HD,
 XY Plus HD,
-Erotic[720x576],http://54.36.123.36:8080/PinkErotic1/index.m3u8
-Erotic 2[720x576],http://54.36.123.36:8080/PinkErotic2/index.m3u8
-Erotic 3[720x576],http://195.154.185.179:80/xx_hot_tv/index.m3u8
-Erotic 3[720x576],http://54.36.123.36:8080/PinkErotic3/index.m3u8
-Erotic 4[720x576],http://54.36.123.36:8080/PinkErotic4/index.m3u8
-Erotic 5[720x576],http://54.36.123.36:8080/PinkErotic5/index.m3u8
-Erotic 6[720x576],http://54.36.123.36:8080/PinkErotic6/index.m3u8
-Erotic 7[720x576],http://54.36.123.36:8080/PinkErotic7/index.m3u8
-Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/index.m3u8
+Erotic[720x576],http://54.36.123.36:8080/PinkErotic1/video.m3u8
+Erotic 2[720x576],http://54.36.123.36:8080/PinkErotic2/video.m3u8
+Erotic 3[720x576],http://195.154.185.179:80/xx_hot_tv/video.m3u8
+Erotic 3[720x576],http://54.36.123.36:8080/PinkErotic3/video.m3u8
+Erotic 4[720x576],http://54.36.123.36:8080/PinkErotic4/video.m3u8
+Erotic 5[720x576],http://54.36.123.36:8080/PinkErotic5/video.m3u8
+Erotic 6[720x576],http://54.36.123.36:8080/PinkErotic6/video.m3u8
+Erotic 7[720x576],http://54.36.123.36:8080/PinkErotic7/video.m3u8
+Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/video.m3u8
 MvH Hard,
 SuperOne HD,
 
