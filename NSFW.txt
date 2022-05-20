@@ -3,14 +3,9 @@
 Extasy HD,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6201/index.m3u8
 Faketaxi,http://ixjk6nfs.rostelekom.xyz/iptv/7MYHR2UM7FNAAS/6202/index.m3u8
 #__#
-Redlight HD,http://109.200.130.123:7032/play/353
-Vivid Red HD,http://109.200.130.123:7032/play/a00g
-#__#
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
 #__#
-Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
-Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
 Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 XYPLUS,http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
