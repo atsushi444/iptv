@@ -13,9 +13,10 @@ Sexto Senso,
 SCT,
 PRIVE,
 Passion XXX,
-Redlight HD,
+Redlight HD[1920x1080],http://109.200.130.123:7032/play/353
+Redlight HD[1920x1080],http://93.152.174.144:4000/play/privatetv1/index.m3u8
 Private TV,
-Hustler HD Europe,
+Hustler HD[1280x720],http://193.33.240.8:80/hustler_hd/index.m3u8
 Hustler TV[720x576],http://78.83.191.18:8000/play/a078
 Blue Hustler[1024x576],http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 Dorcel TV HD,
@@ -24,7 +25,7 @@ Pink\'o TV[720x576],http://93.152.174.144:4000/play/pinkotv/index.m3u8
 Нюарт TV,
 FrenchLover,
 O-la-la,
-Vivid Red HD,
+Vivid Red HD[1920x1080],http://109.200.130.123:7032/play/a00g
 Vivid Touch HD
 Exxxotica HD,
 XXL[720x576],http://85.14.32.15:8801/udp/224.100.1.151:56000
