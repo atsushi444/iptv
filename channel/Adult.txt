@@ -15,8 +15,9 @@ PRIVE,
 Passion XXX,
 Redlight HD[1920x1080],http://109.200.130.123:7032/play/353
 Redlight HD[1920x1080],http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight HD[1920x1080],http://93.152.174.144:4000/play/privatetv1/tracks-v1a1/index.m3u8
 Private TV,
-Hustler HD[1280x720],http://193.33.240.8:80/hustler_hd/index.m3u8
+Hustler HD[1280x720],http://193.33.240.8:80/hustler_hd/video.m3u8
 Hustler TV[720x576],http://78.83.191.18:8000/play/a078
 Blue Hustler[1024x576],http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 Dorcel TV HD,
