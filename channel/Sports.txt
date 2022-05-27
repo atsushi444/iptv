@@ -1,6 +1,7 @@
 体育频道,#genre#
 EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
 EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
+WWE,https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 #__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
