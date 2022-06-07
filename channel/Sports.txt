@@ -1,6 +1,8 @@
 体育频道,#genre#
 EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
+EUROSPORT 2[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9542
 EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
+EUROSPORT 2[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/260
 #__#
 Eurosport1 HD[1920*1080],http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
 #__#
