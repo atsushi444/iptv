@@ -18,6 +18,7 @@ FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_f
 FashionTV Paris-Mumbai,https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
 #__#
 FTV Magzine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 Kaloopy,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
