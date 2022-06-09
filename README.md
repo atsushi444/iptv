@@ -1,13 +1,16 @@
 ### 工具
 - [在线文本比较](http://wenbenbijiao.renrensousuo.com/) (通过比较来确定同一套源的频道增减)
 - [搜索直播源](https://www.foodieguide.com/iptvsearch/) (关键字搜索)
-- [在线播放](http://www.reloltv.com/)(直播源、视频)
-- [测试网络](https://m.17ce.com/site/http)(网络连通性测试)
-- [主机名](https://us.host-tools.com/)(检测IP地址)
-- [网址查询](https://urlscan.io/)(检测url地址)
-- [Streamtest](https://streamtest.in/) (免费且易于使用的基于Web的流测试器实用程序。)
-- [WebGrab + Plus](http://webgrabplus.com/epg-channels)(多站点增量XMLTV EPG采集器。)
-- [EPG for IPTV](https://epg.best/available-channels)(EPG服务提供商，为全球IPTV提供个性化的电子节目指南。)
+- [在线播放](http://www.reloltv.com/) (直播源、视频)
+- [测试网络](https://m.17ce.com/site/http) (网络连通性测试)
+- [主机名](https://us.host-tools.com/) (检测IP地址)
+- [网址查询](https://urlscan.io/) (检测url地址)
+- [Streamtest](https://streamtest.in/) (免费且易于使用的基于Web的流测试器实用程序)
+- [WebGrab + Plus](http://webgrabplus.com/epg-channels) (多站点增量XMLTV EPG采集器)
+- [EPG for IPTV](https://epg.best/available-channels) (EPG服务提供商，为全球IPTV提供个性化的电子节目指南)
+- [LyngSat](https://www.lyngsat.com/) (卫星电视频道的数据库，其中包含捕获信号所必需的信息)
+- [LyngSat Logo](https://www.lyngsat-logo.com/) (电视频道徽标的集合)
+- [TV Address](https://www.tv-address.com/) (电视频道信息)
 
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
