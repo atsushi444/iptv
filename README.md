@@ -5,6 +5,7 @@
 - [测试网络](https://m.17ce.com/site/http) (网络连通性测试)
 - [主机名](https://us.host-tools.com/) (检测IP地址)
 - [网址查询](https://urlscan.io/) (检测url地址)
+- [域名查询](https://ipchaxun.com/) (查询域名)
 - [Streamtest](https://streamtest.in/) (免费且易于使用的基于Web的流测试器实用程序)
 - [WebGrab + Plus](http://webgrabplus.com/epg-channels) (多站点增量XMLTV EPG采集器)
 - [EPG for IPTV](https://epg.best/available-channels) (EPG服务提供商，为全球IPTV提供个性化的电子节目指南)
