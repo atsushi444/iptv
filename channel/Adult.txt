@@ -4,7 +4,7 @@ Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/video.m3u8
 Erox[720x576],http://94.229.250.73:8008/play/a002
 Erox HD,
 Eroxxx HD,
-Playboy,
+Playboy,http://91.215.188.171:8001/play/69/index.m3u8
 Brazzers TV Europe,
 Шалун,
 Candy,
@@ -124,7 +124,7 @@ Playboy LA,
 Red XXX,
 Sexy Hot,
 Taboo,
-Venus,
+Venus,http://45.225.47.234:41/play/a0ao/index.m3u8
 X-MO,
 XY Max HD,
 XY Mix HD,
