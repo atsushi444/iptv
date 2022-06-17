@@ -1,9 +1,15 @@
 #__#
+Sextreme SD,http://loadbl2.online:8080/fatima4335/megatv1/39215
+Sexy Hot HD,http://loadbl2.online:8080/fatima4335/megatv1/39216
+Sexy Hot HD,http://loadbl2.online:8080/fatima4335/megatv1/39218
+Sexy Hot HD,http://loadbl2.online:8080/fatima4335/megatv1/39219
+Playboy TV HD,http://loadbl2.online:8080/fatima4335/megatv1/39223
+Venus HD,http://loadbl2.online:8080/fatima4335/megatv1/39225
+Sexy Hot HD,http://loadbl2.online:8080/fatima4335/megatv1/113218
+#__#
 Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
 Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
 #__#
-Extasy/LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-XYPLUS,http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/tracks-v1a1/mono.m3u8
 Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w998998627.m3u8
 IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/chunklist_w1756279781.m3u8
