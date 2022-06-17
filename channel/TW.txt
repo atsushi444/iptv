@@ -74,6 +74,16 @@ CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b
 龙华日韩[1920*1080],http://59.125.98.83:8535/playlist.m3u8
 龙华偶像[1920*1080],http://59.125.98.83:8536/playlist.m3u8
 #__#
+华视新闻,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
+#__#
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#__#
+台视,http://60.251.59.180:8501/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#__#
 HBO[1920*1080],http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 台湾番薯台[1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
