@@ -77,10 +77,6 @@ CINEMAX,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b
 华视新闻,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 寰宇新闻,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 #__#
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#__#
 台视,http://60.251.59.180:8501/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 中天新闻,http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 #__#
