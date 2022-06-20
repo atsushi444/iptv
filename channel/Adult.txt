@@ -31,8 +31,8 @@ Vivid Touch HD
 Exxxotica HD,
 XXL[720x576],http://85.14.32.15:8801/udp/224.100.1.151:56000
 Penthouse Passion HD,
-Penthouse Gold HD,
-Penthouse Quickies HD,
+Penthouse Gold HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242635
+Penthouse Quickies HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242608
 Adult Time,
 Analized HD,
 Babes HD,
@@ -105,7 +105,7 @@ True Amateurs,
 Tushy HD,
 TushyRAW,
 Vivid TV Europe,
-Vixen HD,
+Vixen HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3889
 We Live Together,
 White Boxxx,
 Wicked,
@@ -139,7 +139,7 @@ Erotic 6[720x576],http://54.36.123.36:8080/PinkErotic6/video.m3u8
 Erotic 7[720x576],http://54.36.123.36:8080/PinkErotic7/video.m3u8
 Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/video.m3u8
 MvH Hard,
-SuperOne HD,
+SuperOne HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224307
 SEX XTREME,http://187.171.246.131:9000/play/a04v/index.m3u8
 
 
