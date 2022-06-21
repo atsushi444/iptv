@@ -130,6 +130,7 @@ Taboo,
 Venus,http://45.225.47.234:41/play/a0ao/index.m3u8
 Venus,http://loadbl2.online:8080/fatima4335/megatv1/39225
 Venus,http://srv.mtvs.me:80/8599668886/1234567890/47066
+Venus,http://srv.mtvs.me:80/8599668886/1234567890/36495
 X-MO,
 XY Max HD,
 XY Mix HD,
