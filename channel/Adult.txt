@@ -5,6 +5,7 @@ Erox[720x576],http://94.229.250.73:8008/play/a002
 Erox HD,
 Eroxxx HD,
 Playboy,http://91.215.188.171:8001/play/69/index.m3u8
+Playboy,http://loadbl2.online:8080/fatima4335/megatv1/39223
 Brazzers TV Europe,
 Шалун,
 Candy,
@@ -122,9 +123,12 @@ Lesbian Affair,
 Oldtimer,
 Playboy LA,
 Red XXX,
-Sexy Hot,
+Sexy Hot,http://loadbl2.online:8080/fatima4335/megatv1/39218
+Sexy Hot,http://loadbl2.online:8080/fatima4335/megatv1/39219
+Sexy Hot,http://loadbl2.online:8080/fatima4335/megatv1/113218
 Taboo,
 Venus,http://45.225.47.234:41/play/a0ao/index.m3u8
+Venus,http://loadbl2.online:8080/fatima4335/megatv1/39225
 X-MO,
 XY Max HD,
 XY Mix HD,
@@ -141,6 +145,7 @@ Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/video.m3u8
 MvH Hard,
 SuperOne HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224307
 SEX XTREME,http://187.171.246.131:9000/play/a04v/index.m3u8
+SEX XTREME,http://loadbl2.online:8080/fatima4335/megatv1/39216
 
 
 
