@@ -12,6 +12,8 @@
 - [LyngSat](https://www.lyngsat.com/) (卫星电视频道的数据库，其中包含捕获信号所必需的信息)
 - [LyngSat Logo](https://www.lyngsat-logo.com/) (电视频道徽标的集合)
 - [TV Address](https://www.tv-address.com/) (电视频道信息)
+- [スカパー](https://www.skyperfectv.co.jp/)(日本频道信息)
+- [SATCH.TV](https://satch.tv/channel/)(日本付费频道信息)
 
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
