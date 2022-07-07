@@ -68,37 +68,21 @@ Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 
 #__#
-彩虹e台,mitv://51.81.90.178:9906/94c57d70e6a542e58226e0ab34f32082
-彩虹电影台,mitv://51.81.90.178:9906/652eaae198354a7eaee4de4e83241c22
-Look TV,mitv://51.81.90.178:9906/2a8c2699d7294d3ab670a9287bc20bc6
-K 頻道,mitv://51.81.90.178:9906/e0693c0fb4b5478b85b8fa720a683048
-香蕉台,mitv://51.81.90.178:9906/84e8a4a58f91482abe98cdd513dbe6a8
-驚豔成人電影台,mitv://51.81.90.178:9906/ad86969137014a8c81684ed690c41b08
-潘朵啦高畫質玩美台,mitv://51.81.90.178:9906/93a3328f3bfe4a82963d8c3584ede02a
-潘朵啦高畫質粉紅台,mitv://51.81.90.178:9906/5308670d6df54b1ebd9d0642f389e269
-JStar極限台電影頻道,mitv://51.81.90.178:9906/1ff75bd38f6241d6a39cc0272a4ae935
-松視1台,mitv://51.81.90.178:9906/6a1d4bb966874f598cc453df234ae44f
-松視2台,mitv://51.81.90.178:9906/cc116ed3044f4941aea23c942fef7406
-松視3台,mitv://51.81.90.178:9906/034caef8cf944c6e88398bde3576fecc
-Hot,mitv://51.81.90.178:9906/bc89924c45ce47c8a6f1f9e8ba460d11
-Happy,mitv://51.81.90.178:9906/4f208bff963b442cafe9a71efc892105
-PLAYBOY,mitv://51.81.90.178:9906/8318778f77a1460797911ecacc214b92
-#__#
-彩虹e台,P2p://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
-彩虹电影台,P2p://ns2.hellotvvod.com:9906/652eaae198354a7eaee4de4e83241c22
-Look TV,P2p://ns2.hellotvvod.com:9906/2a8c2699d7294d3ab670a9287bc20bc6
-K 頻道,P2p://ns2.hellotvvod.com:9906/e0693c0fb4b5478b85b8fa720a683048
-香蕉台,P2p://ns2.hellotvvod.com:9906/84e8a4a58f91482abe98cdd513dbe6a8
-驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/ad86969137014a8c81684ed690c41b08
-潘朵啦高畫質玩美台,P2p://ns2.hellotvvod.com:9906/93a3328f3bfe4a82963d8c3584ede02a
-潘朵啦高畫質粉紅台,P2p://ns2.hellotvvod.com:9906/5308670d6df54b1ebd9d0642f389e269
-JStar極限台電影頻道,P2p://ns2.hellotvvod.com:9906/1ff75bd38f6241d6a39cc0272a4ae935
-松視1台,P2p://ns2.hellotvvod.com:9906/6a1d4bb966874f598cc453df234ae44f
-松視2台,P2p://ns2.hellotvvod.com:9906/cc116ed3044f4941aea23c942fef7406
-松視3台,P2p://ns2.hellotvvod.com:9906/034caef8cf944c6e88398bde3576fecc
-Hot,P2p://ns2.hellotvvod.com:9906/bc89924c45ce47c8a6f1f9e8ba460d11
-Happy,P2p://ns2.hellotvvod.com:9906/4f208bff963b442cafe9a71efc892105
-PLAYBOY,P2p://ns2.hellotvvod.com:9906/8318778f77a1460797911ecacc214b92
+彩虹e台,P2p://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
+彩虹電影台,P2p://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
+Look TV,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
+K 頻道,P2p://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
+驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
+香蕉台,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
+潘朵啦高畫質玩美台,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
+潘朵啦高畫質粉紅台,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
+JStar极限台,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
+松視1台,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
+松視2台,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
+松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
+Hot,P2p://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
+Happy,P2p://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b
 
 #__#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
