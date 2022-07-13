@@ -14,6 +14,9 @@
 - [TV Address](https://www.tv-address.com/) (电视频道信息)
 - [スカパー](https://www.skyperfectv.co.jp/)(日本频道信息)
 - [SATCH.TV](https://satch.tv/channel/)(日本付费频道信息)
+- [J:com](https://tvguide.myjcom.jp/channels/catv/)(日本频道信息，含地波)
+
+
 
 ### 直播源网站
 - FashionTV:https://fashiontv.com/
