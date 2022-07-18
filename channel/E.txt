@@ -89,21 +89,21 @@ Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 
 #__#
-彩虹e台,P2p://ns2.hellotvvod.com:9906/849f7904eef84f918d6e98eff1f085f9
-彩虹電影台,P2p://ns2.hellotvvod.com:9906/3636300771234319bd67a74f923aa1e0
-Look TV,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
-K 頻道,P2p://ns2.hellotvvod.com:9906/2df4b20a23c043278330d70876dc412c
-驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/7f53d5fec4ca48608626898a95ef4f3b
-香蕉台,P2p://ns2.hellotvvod.com:9906/99608f8ed2934418b22ff73fc6d03f27
-潘朵啦高畫質玩美台,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
-潘朵啦高畫質粉紅台,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
-JStar极限台,P2p://ns2.hellotvvod.com:9906/ce605f5b4c2742799cce4bdc57802a5a
-松視1台,P2p://ns2.hellotvvod.com:9906/eb6f0056369e460298176a183733b52d
-松視2台,P2p://ns2.hellotvvod.com:9906/507adefa21b4405d96715daad7362987
-松視3台,P2p://ns2.hellotvvod.com:9906/35ffa38154c54f49b5640ae2f7e09658
-Hot,P2p://ns2.hellotvvod.com:9906/a98eef52cfb9491d98fd13dde8703ea4
-Happy,P2p://ns2.hellotvvod.com:9906/829c130bd6044049ba85416ca440ccf0
-PLAYBOY,P2p://ns2.hellotvvod.com:9906/9704f609548443659a963c57e399148b
+彩虹e台,P2p://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹電影台,P2p://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+Look TV,P2p://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+K 頻道,P2p://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+香蕉台,P2p://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+潘朵啦高畫質玩美台,P2p://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦高畫質粉紅台,P2p://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+JStar極限台電影頻道,P2p://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+松視1台,P2p://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
+松視2台,P2p://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松視3台,P2p://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+Hot,P2p://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+Happy,P2p://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
 
 #__#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
