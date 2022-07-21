@@ -14,6 +14,7 @@
 - [TV Address](https://www.tv-address.com/) (电视频道信息)
 - [スカパー](https://www.skyperfectv.co.jp/)(日本频道信息)
 - [SATCH.TV](https://satch.tv/channel/)(日本付费频道信息)
+- [テレビ王国](https://www.tvkingdom.jp/)(日本テレビ番組表)
 - [J:com](https://tvguide.myjcom.jp/channels/catv/)(日本频道信息，含地波)
 - [Kt](https://tv.kt.com/tv/channel/pChInfo.asp)(韩国频道信息)
 - [skylife](https://www.skylife.co.kr/product/tv/channelNo/chart)(韩国频道信息)
