@@ -101,21 +101,19 @@ Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 
 #__#
-彩虹e台,P2p://ns2.hellotvvod.com:9906/5e82f32843cf4b8e99f07a1c799b3851
-彩虹電影台,P2p://ns2.hellotvvod.com:9906/bcd55282f97e49fb8a55c3c8a4de48f3
-Look TV,P2p://ns2.hellotvvod.com:9906/a2dd077459d5400bb1b3158385de22d5
-K 頻道,P2p://ns2.hellotvvod.com:9906/5044e5e86476431f981c4b781aca6f9e
-香蕉台,P2p://ns2.hellotvvod.com:9906/edb18b7e92c74df083681bac7ec1ac5f
-驚豔成人電影台,P2p://ns2.hellotvvod.com:9906/cac666bec3a44169bff6b1d1f48f7d67
-潘朵啦高畫質玩美台,P2p://ns2.hellotvvod.com:9906/c8589ff8c36c4e72a9b604c61be35962
-潘朵啦高畫質粉紅台,P2p://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-JStar極限台電影頻道,P2p://ns2.hellotvvod.com:9906/e3ec78bbb85a472e8843d43e7205e87d
-松視1台,P2p://ns2.hellotvvod.com:9906/b38279cc17f94e488fa4cc1df2d25a63
-松視2台,P2p://ns2.hellotvvod.com:9906/91a9b279d5ca4629ac04157baaf095bf
-松視3台,P2p://ns2.hellotvvod.com:9906/2ed3e79538364ed68f8f909de4e13be8
-Hot,P2p://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-Happy,P2p://ns2.hellotvvod.com:9906/d08db5ea6c98424badd2101f44157021
-PLAYBOY,P2p://ns2.hellotvvod.com:9906/edad3da983474f7889730c8cfd5321e9
+彩虹e台,P2p://51.81.90.178:9906/eb7a0e51d5204093925f38e0fd298b1b
+彩虹電影台,P2p://51.81.90.178:9906/c151f129e31846f691cd2b3ae554d4d1
+Look TV,P2p://51.81.90.178:9906/696ef0eedc544326856362f2dfee01e0
+K 頻道,P2p://51.81.90.178:9906/0e5867d2753148c6ae0d8aecaec1f1c4
+香蕉台,P2p://51.81.90.178:9906/7f07683c361f4dbcb4aaf22ab48e513a
+惊艳成人电影台,P2p://51.81.90.178:9906/74d29e2d271948bfa7644c1af47e3b83
+潘朵啦玩美台,P2p://51.81.90.178:9906/eecd1c81c5cf469fbb58fda5f0569f07
+JStar极限台,P2p://51.81.90.178:9906/ecf8ee53a43545888c55f2c9d4f57f80
+松视1台,P2p://51.81.90.178:9906/1dd11855e43142d6aec1b7f824097388
+松视2台,P2p://51.81.90.178:9906/c76a909ae59d4e82ad59a3bc6cb09663
+松视3台,P2p://51.81.90.178:9906/deceaed6309f406a8670002cf2ce7b9d
+HAPPY,P2p://51.81.90.178:9906/421e2d4b03134e9080b3e0991224a718
+PLAYBOY,P2p://51.81.90.178:9906/827d787ee94447a7912d7d4e9c261792
 
 #__#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
