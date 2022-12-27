@@ -269,3 +269,4 @@ Kinoshka Adult HD,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/18060/index
 Кино 18+ HD,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/18075/index.m3u8
 Кино 18+ International,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/18076/index.m3u8
 BCU Charm HD,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/18053/index.m3u8
+PROKOPTV XXX HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/19401/index.m3u8
