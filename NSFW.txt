@@ -2,6 +2,7 @@
 Playboy HD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/643
 Playboy SD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/644
 Playboy FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/645
+Playboy HD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1649
 #__#
 Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w998998627.m3u8
