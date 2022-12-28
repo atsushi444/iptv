@@ -2,6 +2,24 @@
 Playboy HD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/643
 Playboy SD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/644
 Playboy FHD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/645
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
 Playboy HD,http://op.cdloop.eu:80/bu9jhfh63w/ba5obp8hdt/1649
 #__#
 Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
