@@ -1,4 +1,20 @@
 音乐频道,#genre#
+Stingray Classic Rock HD,https://stirr.ott-channels.stingray.com/101/master.m3u8
+Stingray Alternative HD,https://stirr.ott-channels.stingray.com/102/master.m3u8
+Stingray Pop Adult HD,https://stirr.ott-channels.stingray.com/104/master.m3u8
+Stingray Hit List HD,https://stirr.ott-channels.stingray.com/107/master.m3u8
+Stingray Hot Country HD,https://stirr.ott-channels.stingray.com/108/master.m3u8
+Stingray Flashback 70S HD,https://stirr.ott-channels.stingray.com/115/master.m3u8
+Stingray Remember The 80S HD,https://stirr.ott-channels.stingray.com/128/master.m3u8
+Stingray Hip-Hop/R&B HD,https://stirr.ott-channels.stingray.com/133/master.m3u8
+Stingray Soul Storm STORM HD,https://stirr.ott-channels.stingray.com/134/master.m3u8
+Stingray Greatest Hits HD,https://stirr.ott-channels.stingray.com/155/master.m3u8
+Stingray Exitos Del Momento HD,https://stirr.ott-channels.stingray.com/190/master.m3u8
+Stingray Classica HD,https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+Stingray Jazz HD,https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+Stingray Karaoke HD,https://stirr.ott-channels.stingray.com/karaoke/master.m3u8
+Stingray Qello TV HD,https://stirr.ott-channels.stingray.com/qello/master.m3u8
+#__#
 Sexy K-Pop[1280*720],https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 kroneHit[1920*1080],https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #__#
