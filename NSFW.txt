@@ -1,6 +1,4 @@
 #__#
-Venus,http://160.20.164.171:8001/play/a034
-#__#
 Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w998998627.m3u8
 IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/chunklist_w1756279781.m3u8
