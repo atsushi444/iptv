@@ -4,7 +4,7 @@ Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/video.m3u8
 Erox[720x576],http://94.229.250.73:8008/play/a002
 Erox HD,
 Eroxxx HD,
-Playboy,http://91.215.188.171:8001/play/69/index.m3u8
+Playboy TV,http://190.83.119.67:8000/play/a0ow/index.m3u8
 Brazzers TV Europe,
 Шалун,
 Candy,
@@ -139,12 +139,8 @@ Sexy Hot,http://srv.mtvs.me:80/8599668886/1234567890/55723
 Sexy Hot,http://ccdn.so:80/vsabG/499AKVptc/72310.ts
 Sexy Hot,http://ccdn.so:80/joao5394/Cc839598/72310.ts
 Taboo,
-Venus,http://45.225.47.234:41/play/a0ao/index.m3u8
-Venus,http://loadbl2.online:8080/fatima4335/megatv1/39225
-Venus,http://srv.mtvs.me:80/8599668886/1234567890/47066
-Venus,http://srv.mtvs.me:80/8599668886/1234567890/36495
-Venus,http://ccdn.so:80/joao5394/Cc839598/91429.ts
-Venus,http://ccdn.so:80/vsabG/499AKVptc/91429.ts
+Venus,http://160.20.164.171:8001/play/a034
+Playboy,http://160.20.164.171:8001/play/a074
 X-MO,
 XY Max HD,
 XY Mix HD,
