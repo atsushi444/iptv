@@ -1,27 +1,11 @@
 体育频道,#genre#
-EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
-EUROSPORT 2[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9542
-EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
-EUROSPORT 2[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/260
-#__#
-Eurosport1 HD[1920*1080],http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
-#__#
 Eurosport1[1024*576],http://cdn.iptv.monster/play/15/3BEFF8D2EECBBF5/mpegts
 Eurosport1 HD[1920*1080],http://cdn.iptv.monster/play/145/3BEFF8D2EECBBF5/mpegts
 #__#
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
 Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport2 HD[1920*1080],http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2 HD[1920*1080],http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
 Eurosport2 HD[1920*1080],https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
 Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
 Eurosport2[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
-#__#
-Eurosport1 HD[1920*1080],http://81.177.139.240:8000/play/a00b/index.m3u8
-Eurosport2 HD[1920*1080],http://81.177.139.240:8000/play/a00c/index.m3u8
 #__#
 Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru
 Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
@@ -31,9 +15,6 @@ Eurosport2 HD,http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 #__#
 Eurosport1 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
 Eurosport2 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
-#__#
-Eurosport1[1024*576],https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
-Eurosport1[1024*576],https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #__#
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
