@@ -115,7 +115,7 @@ Bangerz,
 Emanuelle HD,
 Extreme,
 Fast Boyz,
-HOT,
+HOT,http://62.28.71.186:45678/http/192.168.150.173:7777/hot
 HOT XXL HD,
 Hot Pleasure,
 Lesbian Affair,
@@ -156,12 +156,7 @@ Erotic 7[720x576],http://54.36.123.36:8080/PinkErotic7/video.m3u8
 Erotic 8[720x576],http://54.36.123.36:8080/PinkErotic8/video.m3u8
 MvH Hard,
 SuperOne HD,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224307
-SEX XTREME,http://187.171.246.131:9000/play/a04v/index.m3u8
-SEX XTREME,http://loadbl2.online:8080/fatima4335/megatv1/39216
-SEX XTREME,http://srv.mtvs.me:80/8599668886/1234567890/36494
-SEX XTREME,http://srv.mtvs.me:80/8599668886/1234567890/47063
-SEX XTREME,http://ccdn.so:80/vsabG/499AKVptc/91430.ts
-SEX XTREME,http://ccdn.so:80/joao5394/Cc839598/91430.ts
+SEX XTREME,http://160.20.164.171:8001/play/a028/index.m3u8
 Sexprive,http://srv.mtvs.me:80/8599668886/1234567890/60914
 Sexprive,http://srv.mtvs.me:80/8599668886/1234567890/60915
 Sexprive,http://srv.mtvs.me:80/8599668886/1234567890/60916
