@@ -36,7 +36,6 @@
 XML
 - https://epg.112114.xyz/pp.xml
 - http://epg.51zmt.top:8000/e.xml
-- https://files.3y1.xyz/static/sitemap/ott_xmltv.xml
 - https://epg.pw/xmltv/epg.xml
 - https://iptvx.one/EPG (国外)【推荐】
 - http://epg.it999.ru/epg.xml.gz (国外)
