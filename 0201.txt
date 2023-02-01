@@ -1,0 +1,72 @@
+KBS1,http://123.30.146.172:21585/200/mpegts
+KBS2,http://123.30.146.172:21585/201/mpegts
+SBS,http://123.30.146.172:21585/202/mpegts
+KBS drama,http://123.30.146.172:21585/204/mpegts
+MDC,http://123.30.146.172:21585/206/mpegts
+NHK BS1,http://123.30.146.172:21585/210/mpegts
+OCN movies,http://123.30.146.172:21585/212/mpegts
+W Shopping,http://123.30.146.172:21585/215/mpegts
+TVCHOSUN,http://123.30.146.172:21585/216/mpegts
+tvN,http://123.30.146.172:21585/218/mpegts
+BS朝日,http://123.30.146.172:21585/220/mpegts
+MBC sports+,http://123.30.146.172:21585/221/mpegts
+SBS golf,http://123.30.146.172:21585/225/mpegts
+JTBC,http://123.30.146.172:21585/231/mpegts
+SBS sports,http://123.30.146.172:21585/235/mpegts
+236,http://123.30.146.172:21585/236/mpegts
+skySports,http://123.30.146.172:21585/246/mpegts
+arirang korea,http://123.30.146.172:21585/255/mpegts
+Mnet,http://123.30.146.172:21585/258/mpegts
+SPOTV,http://123.30.146.172:21585/259/mpegts
+Toon!verse,http://123.30.146.172:21585/260/mpegts
+Channel A,http://123.30.146.172:21585/270/mpegts
+tvN STORY,http://123.30.146.172:21585/299/mpegts
+EBS1,http://123.30.146.172:21585/300/mpegts
+SPOTV2,http://123.30.146.172:21585/305/mpegts
+tvN SHOW,http://123.30.146.172:21585/306/mpegts
+National Geographic,http://123.30.146.172:21585/309/mpegts
+MTV,http://123.30.146.172:21585/501/mpegts
+kids station,http://123.30.146.172:21585/502/mpegts
+neco channel,http://123.30.146.172:21585/504/mpegts
+movie plus,http://123.30.146.172:21585/505/mpegts
+Green channel,http://123.30.146.172:21585/507/mpegts
+animax,http://123.30.146.172:21585/508/mpegts
+テレビ大阪,http://123.30.146.172:21585/512/mpegts
+Kansai TV,http://123.30.146.172:21585/518/mpegts
+日本映画専門チャンネル,http://123.30.146.172:21585/520/mpegts
+TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
+MBS,http://123.30.146.172:21585/522/mpegts
+ytv,http://123.30.146.172:21585/523/mpegts
+music japan,http://123.30.146.172:21585/525/mpegts
+529,http://123.30.146.172:21585/529/mpegts
+discovery,http://123.30.146.172:21585/531/mpegts
+ホームドラマ!,http://123.30.146.172:21585/532/mpegts
+時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
+G+,http://123.30.146.172:21585/534/mpegts
+BSJapanext,http://123.30.146.172:21585/535/mpegts
+朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
+BSfuji,http://123.30.146.172:21585/551/mpegts
+BS11,http://123.30.146.172:21585/600/mpegts
+BS12,http://123.30.146.172:21585/601/mpegts
+TBS1,http://123.30.146.172:21585/603/mpegts
+东映频道,http://123.30.146.172:21585/604/mpegts
+卫星剧场,http://123.30.146.172:21585/605/mpegts
+TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
+family剧场,http://123.30.146.172:21585/607/mpegts
+MONDO TV,http://123.30.146.172:21585/609/mpegts
+TBSチャンネル 2,http://123.30.146.172:21585/610/mpegts
+We NiziU! TV2,http://123.30.146.172:21585/611/mpegts
+银河剧场,http://123.30.146.172:21585/612/mpegts
+スーパー！ドラマTV,http://123.30.146.172:21585/613/mpegts
+FOX,http://123.30.146.172:21585/614/mpegts
+LaLaTV,http://123.30.146.172:21585/615/mpegts
+AT-X,http://123.30.146.172:21585/616/mpegts
+釣りビジョン,http://123.30.146.172:21585/617/mpegts
+写真ビデオ,http://123.30.146.172:21585/620/mpegts
+フジテレビＯＮＥ,http://123.30.146.172:21585/621/mpegts
+フジテレビＴＷＯ,http://123.30.146.172:21585/622/mpegts
+フジテレビＮＥＸＴ,http://123.30.146.172:21585/623/mpegts
+テレ朝チャンネル１,http://123.30.146.172:21585/624/mpegts
+テレ朝チャンネル２,http://123.30.146.172:21585/625/mpegts
+AXN,http://123.30.146.172:21585/626/mpegts
+スポーツライブ＋HD,http://123.30.146.172:21585/627/mpegts
