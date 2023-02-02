@@ -24,7 +24,7 @@ tvN STORY,http://123.30.146.172:21585/299/mpegts
 EBS1,http://123.30.146.172:21585/300/mpegts
 SPOTV2,http://123.30.146.172:21585/305/mpegts
 tvN SHOW,http://123.30.146.172:21585/306/mpegts
-National Geographic,http://123.30.146.172:21585/309/mpegts
+Ancient China From Above,http://123.30.146.172:21585/309/mpegts
 MTV,http://123.30.146.172:21585/501/mpegts
 kids station,http://123.30.146.172:21585/502/mpegts
 neco channel,http://123.30.146.172:21585/504/mpegts
@@ -38,7 +38,7 @@ TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
 MBS,http://123.30.146.172:21585/522/mpegts
 ytv,http://123.30.146.172:21585/523/mpegts
 music japan,http://123.30.146.172:21585/525/mpegts
-529,http://123.30.146.172:21585/529/mpegts
+National Geographic,http://123.30.146.172:21585/529/mpegts
 discovery,http://123.30.146.172:21585/531/mpegts
 ホームドラマ!,http://123.30.146.172:21585/532/mpegts
 時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
