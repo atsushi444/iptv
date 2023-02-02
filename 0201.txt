@@ -13,7 +13,7 @@ MBC sports+,http://123.30.146.172:21585/221/mpegts
 SBS golf,http://123.30.146.172:21585/225/mpegts
 JTBC,http://123.30.146.172:21585/231/mpegts
 SBS sports,http://123.30.146.172:21585/235/mpegts
-236,http://123.30.146.172:21585/236/mpegts
+KBSN sports,http://123.30.146.172:21585/236/mpegts
 skySports,http://123.30.146.172:21585/246/mpegts
 arirang korea,http://123.30.146.172:21585/255/mpegts
 Mnet,http://123.30.146.172:21585/258/mpegts
