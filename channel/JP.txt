@@ -14,6 +14,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
 
 🇯🇵日本,
 ANIMAX,http://123.30.146.172:21585/508/mpegts
@@ -61,8 +62,13 @@ YTV,http://123.30.146.172:21585/523/mpegts
 朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
 衛星劇場,http://123.30.146.172:21585/605/mpegts
 釣りビジョン,http://123.30.146.172:21585/617/mpegts
-Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
+Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+NHK Japan,http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 BS 12 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 BS 12,http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
@@ -75,7 +81,6 @@ Fuji TV (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
-Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 Kirin,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
 NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
@@ -84,10 +89,6 @@ NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
 NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
 NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-NHK Japan,http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 Star 1 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 Star 1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
