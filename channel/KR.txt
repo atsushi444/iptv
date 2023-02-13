@@ -57,3 +57,17 @@ EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
+
+
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1200px-EBS_1TV_Logo.svg.png",EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EBS_2_logo.svg/2560px-EBS_2_logo.svg.png",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/800px-EBS_KIDS.svg.png",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png",EBS Plus 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png",EBS Plus 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://obj-kr.thewiki.kr/data/4542535f456e676c6973682e706e67.png",EBS E
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
