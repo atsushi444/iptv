@@ -2,6 +2,7 @@
 NHK Japan,http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+AT-X，https://sub.neetball.net/live/neet.m3u8
 群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
