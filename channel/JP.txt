@@ -19,6 +19,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
 
 🇯🇵日本,
+日本テレビ,https://cdn-us-154.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
 Animax,https://cdn-us-186.cloudrsst.com/live/janimax_720/playlist.m3u8
 TV Tokyo,https://cdn-us-186.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 WOW WOW Cinema,https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
