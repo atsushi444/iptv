@@ -26,6 +26,7 @@ Wowow Live,https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
 Wowow Plus,https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 6ABC,https://cdn-hk-33.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
 J Sport 2,https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
+NHK G,https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 NTV News24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
