@@ -26,7 +26,8 @@ Wowow Live,https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
 Wowow Plus,https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 6ABC,https://cdn-hk-33.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
 J Sport 2,https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
-
+TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+NTV News24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
 Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
