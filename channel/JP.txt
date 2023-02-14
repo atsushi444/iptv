@@ -19,51 +19,13 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
 
 🇯🇵日本,
-ANIMAX,http://123.30.146.172:21585/508/mpegts
-AT-X,http://123.30.146.172:21585/616/mpegts
-AXN,http://123.30.146.172:21585/626/mpegts
-BS11,http://123.30.146.172:21585/600/mpegts
-BS12 トゥエルビ,http://123.30.146.172:21585/601/mpegts
-BSJapanext,http://123.30.146.172:21585/535/mpegts
-BSフジ,http://123.30.146.172:21585/551/mpegts
-Discovery,http://123.30.146.172:21585/531/mpegts
-FOX,http://123.30.146.172:21585/614/mpegts
-Green TV,http://123.30.146.172:21585/507/mpegts
-Kansai TV,http://123.30.146.172:21585/518/mpegts
-Kidstaton,http://123.30.146.172:21585/502/mpegts
-LaLaTV,http://123.30.146.172:21585/615/mpegts
-MBS,http://123.30.146.172:21585/522/mpegts
-MONDO TV,http://123.30.146.172:21585/609/mpegts
-MTV,http://123.30.146.172:21585/501/mpegts
-Movie Plus ムービープラス,http://123.30.146.172:21585/505/mpegts
-Music Japan,http://123.30.146.172:21585/525/mpegts
-National Geographic,http://123.30.146.172:21585/529/mpegts
-TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
-TBSチャンネル 2,http://123.30.146.172:21585/610/mpegts
-TBSチャンネル１,http://123.30.146.172:21585/603/mpegts
-TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
-TV OSAKA,http://123.30.146.172:21585/512/mpegts
-Toei Channel,http://123.30.146.172:21585/604/mpegts
-We NiziU! TV2,http://123.30.146.172:21585/611/mpegts
-YTV,http://123.30.146.172:21585/523/mpegts
-スポーツライブ＋HD,http://123.30.146.172:21585/627/mpegts
-スーパー！ドラマTV,http://123.30.146.172:21585/613/mpegts
-チャンネル銀河,http://123.30.146.172:21585/612/mpegts
-テレ朝チch1,http://123.30.146.172:21585/624/mpegts
-テレ朝チch2,http://123.30.146.172:21585/625/mpegts
-ファミリー劇場,http://123.30.146.172:21585/607/mpegts
-フジテレビNEXT,http://123.30.146.172:21585/623/mpegts
-フジテレビONE,http://123.30.146.172:21585/621/mpegts
-フジテレビTWO,http://123.30.146.172:21585/622/mpegts
-ホームドラマ!,http://123.30.146.172:21585/532/mpegts
-写真ビデオ,http://123.30.146.172:21585/620/mpegts
-日テレジータス,http://123.30.146.172:21585/534/mpegts
-日本映画専門チャンネル,http://123.30.146.172:21585/520/mpegts
-映画･チャンネルNECO,http://123.30.146.172:21585/504/mpegts
-時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
-朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
-衛星劇場,http://123.30.146.172:21585/605/mpegts
-釣りビジョン,http://123.30.146.172:21585/617/mpegts
+TV Tokyo,https://cdn-us-186.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
+WOW WOW Cinema,https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
+Wowow Live,https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
+Wowow Plus,https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
+6ABC,https://cdn-hk-33.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
+J Sport 2,https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
+
 ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
 Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
@@ -149,4 +111,49 @@ CNNj,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m
 ＢＳ釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
+失效,
+ANIMAX,http://123.30.146.172:21585/508/mpegts
+AT-X,http://123.30.146.172:21585/616/mpegts
+AXN,http://123.30.146.172:21585/626/mpegts
+BS11,http://123.30.146.172:21585/600/mpegts
+BS12 トゥエルビ,http://123.30.146.172:21585/601/mpegts
+BSJapanext,http://123.30.146.172:21585/535/mpegts
+BSフジ,http://123.30.146.172:21585/551/mpegts
+Discovery,http://123.30.146.172:21585/531/mpegts
+FOX,http://123.30.146.172:21585/614/mpegts
+Green TV,http://123.30.146.172:21585/507/mpegts
+Kansai TV,http://123.30.146.172:21585/518/mpegts
+Kidstaton,http://123.30.146.172:21585/502/mpegts
+LaLaTV,http://123.30.146.172:21585/615/mpegts
+MBS,http://123.30.146.172:21585/522/mpegts
+MONDO TV,http://123.30.146.172:21585/609/mpegts
+MTV,http://123.30.146.172:21585/501/mpegts
+Movie Plus ムービープラス,http://123.30.146.172:21585/505/mpegts
+Music Japan,http://123.30.146.172:21585/525/mpegts
+National Geographic,http://123.30.146.172:21585/529/mpegts
+TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
+TBSチャンネル 2,http://123.30.146.172:21585/610/mpegts
+TBSチャンネル１,http://123.30.146.172:21585/603/mpegts
+TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
+TV OSAKA,http://123.30.146.172:21585/512/mpegts
+Toei Channel,http://123.30.146.172:21585/604/mpegts
+We NiziU! TV2,http://123.30.146.172:21585/611/mpegts
+YTV,http://123.30.146.172:21585/523/mpegts
+スポーツライブ＋HD,http://123.30.146.172:21585/627/mpegts
+スーパー！ドラマTV,http://123.30.146.172:21585/613/mpegts
+チャンネル銀河,http://123.30.146.172:21585/612/mpegts
+テレ朝チch1,http://123.30.146.172:21585/624/mpegts
+テレ朝チch2,http://123.30.146.172:21585/625/mpegts
+ファミリー劇場,http://123.30.146.172:21585/607/mpegts
+フジテレビNEXT,http://123.30.146.172:21585/623/mpegts
+フジテレビONE,http://123.30.146.172:21585/621/mpegts
+フジテレビTWO,http://123.30.146.172:21585/622/mpegts
+ホームドラマ!,http://123.30.146.172:21585/532/mpegts
+写真ビデオ,http://123.30.146.172:21585/620/mpegts
+日テレジータス,http://123.30.146.172:21585/534/mpegts
+日本映画専門チャンネル,http://123.30.146.172:21585/520/mpegts
+映画･チャンネルNECO,http://123.30.146.172:21585/504/mpegts
+時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
+朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
+衛星劇場,http://123.30.146.172:21585/605/mpegts
+釣りビジョン,http://123.30.146.172:21585/617/mpegts
