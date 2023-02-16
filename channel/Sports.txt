@@ -1,5 +1,4 @@
 体育频道,#genre#
-Eurosport1[1024*576],http://cdn.iptv.monster/play/15/3BEFF8D2EECBBF5/mpegts
 Eurosport1 HD[1920*1080],http://cdn.iptv.monster/play/145/3BEFF8D2EECBBF5/mpegts
 #__#
 Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
