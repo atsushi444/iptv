@@ -70,19 +70,19 @@ Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 
 #__#
-彩虹e台,P2p://ns1.hellotvvod.com:9906/fa7914f003954bbea6fb197c9cd57824
-彩虹電影台,P2p://ns1.hellotvvod.com:9906/1e28628f429447fb8617c162d4ffdb19
-Look TV,P2p://ns1.hellotvvod.com:9906/88fa25183c9b47d6920987954fbfdcfb
-K 頻道,P2p://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
-香蕉台,P2p://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
-惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/a65bcc137a76418b9f2ef842e6b8ea44
-潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/84b7352bfe9c41a2b5f8bd6e13c31000
-JStar极限台,P2p://ns1.hellotvvod.com:9906/331c31537de3490cb0dfebcf5b58ac14
-松视1台,P2p://ns1.hellotvvod.com:9906/91faa433a9544c8785cd215a2ad6fcda
-松视2台,P2p://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
-松视3台,P2p://ns1.hellotvvod.com:9906/e67a4e22ee4c496282298f612f200fe5
-HAPPY,P2p://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
+彩虹e台,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹電影台,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+K,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+Look TV,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+潘朵啦玩美台,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+驚豔成人電影台,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+香蕉台,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+JStar极限台,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+松视1台,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松视2台,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+松视3台,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
 
 #__#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
