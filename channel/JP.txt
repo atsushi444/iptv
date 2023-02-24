@@ -63,35 +63,37 @@ New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net
 Nippon TV (540p) [Not 24/7],https://ntv3.mov3.co/hls/ntv.m3u8
 TBS (540p) [Not 24/7],https://tbs2.mov3.co/hls/tbs.m3u8
 
-Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-BS 12 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
-BS 12,http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
-BS Asahi,http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
-BS Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
-BS Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8
-BS TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-BS-TBS,http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
-Fuji TV (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
-Kirin,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
 NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
 NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
-NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
+BS Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8
+BS Asahi,http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
+BS-TBS,http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
+BS TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
+BS Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
+BS 12 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+BS 12,http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
 Star 1 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 Star 1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 Star 2,http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
+J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/playlist.m3u8
+Disney Channel,http://redlabmcdn.s.llnwi.net/nv02/bs13hd/playlist.m3u8
+Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
+J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
+NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
+Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
 TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
 TV Asahi (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 TV Asahi,https://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
 TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
+Fuji TV (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+Kirin,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 
 BS Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS Fuji,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
