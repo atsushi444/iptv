@@ -18,6 +18,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
 
+
 🇯🇵日本,
 BS Asahi (720p),http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
 BS Fuji TV (720p),http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_720/playlist.m3u8
@@ -59,6 +60,9 @@ NTV News24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
 Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+Nippon TV (540p) [Not 24/7],https://ntv3.mov3.co/hls/ntv.m3u8
+TBS (540p) [Not 24/7],https://tbs2.mov3.co/hls/tbs.m3u8
+
 Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 BS 12 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
