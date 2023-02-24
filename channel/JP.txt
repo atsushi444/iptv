@@ -19,6 +19,9 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
 
 🇯🇵日本,
+BS Asahi (720p),http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
+BS Fuji TV (720p),http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_720/playlist.m3u8
+BS TV Tokyo (720p) [Not 24/7],http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
 BS Nippon TV (720p),http://cdnv148.cloudrsst.com:1935/jptv/bsnihontv_720/playlist.m3u8
 NHK BSP (720p),http://cdnv148.cloudrsst.com:1935/jptv/bspremium_720/playlist.m3u8
 BS TBS (720p),http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
