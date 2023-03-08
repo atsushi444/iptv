@@ -149,7 +149,13 @@ Fuji TV (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 Kirin,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
 Tokyo MX1 (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+NitteleG+,http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8
+gold network,http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
+kids station,http://redlabmcdn.s.llnwi.net/nv02/cs04hd/index.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8
 Discovery Channel,http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8
+wowow cinema,http://redlabmcdn.s.llnwi.net/nv02/cs07hd/index.m3u8
 
 BS Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS Fuji,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
