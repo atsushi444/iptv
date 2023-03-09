@@ -66,7 +66,6 @@ ABC,https://cdnv148.cloudrsst.com/jptv/kansi_abc_asahi_480/index.m3u8
 Yomiuri TV,https://cdn-hk-33.cloudrsst.com/live/kansi_yomiuri_480/playlist.m3u8
 TV Osaka,https://cdn-us-154.cloudrsst.com/live/kansi_tv_osaka_480/playlist.m3u8
 SUN TV,https://cdnv148.cloudrsst.com/jptv/kansi_sun_tv_480/playlist.m3u8
-NHK BS1,https://cdnv148.cloudrsst.com/jptv/nhkbs1_540/master.m3u8
 NHK BS Premium,https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
 BS Nippon TV,https://cdn-us-186.cloudrsst.com/live/bsnihontv_540/playlist.m3u8
 BS Asahi,https://cdn-hk-33.cloudrsst.com/live/bsasahi_540/playlist.m3u8
@@ -81,18 +80,14 @@ Star Channel 2,https://cdn-us-154.cloudrsst.com/live/starch2_540/playlist.m3u8
 Star Channel 3,https://cdnv148.cloudrsst.com/jptv/starch3_540/master.m3u8
 Green Channel,https://cdn-hk-33.cloudrsst.com/live/green_540/playlist.m3u8
 BS Animax,https://cdnv148.cloudrsst.com/jptv/janimax_540/master.m3u8
-J SPORTS 1,https://cdnv148.cloudrsst.com/jptv/jsports1_720/index.m3u8
-J SPORTS 2,https://cdn-hk-33.cloudrsst.com/live/jsports2_540/playlist.m3u8
+J SPORTS 1,https://cdn-hk-33.cloudrsst.com/live/jsports1_720/playlist.m3u8
+J SPORTS 2,https://cdn-hk-33.cloudrsst.com/live/jsports2_720/playlist.m3u8
 J SPORTS 3,https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
 J SPORTS 4,https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
 BS Fishing Vision,https://cdnv148.cloudrsst.com/jptv/FishingBC_540/master.m3u8
 WOWOW Plus,https://cdnul194.cloudrsst.com/live/cinefil_wowow_540/playlist.m3u8
-BS Japan Movie Channel,https://cdnv148.cloudrsst.com/jptv/igasennmonn_720/playlist.m3u8
 Disney Channel,https://cdnv148.cloudrsst.com/jptv/j_disney_channel_540/master.m3u8
 ホームドラマチャンネル / Home Drama Channel,https://cdnul194.cloudrsst.com/live/Home_Drama_540/playlist.m3u8
-東映チャンネル / Toei Channel,https://cdnv148.cloudrsst.com/jptv/toa_540/index.m3u8
-衛星劇場 / Eisei Gekijo,https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
-映画・チャンネルNECO / Neco,https://cdnv148.cloudrsst.com/jptv/Neco/index.m3u8
 ムービープラス / Movie Plus,https://cdn-us-186.cloudrsst.com/live/movieplus_540/playlist.m3u8
 スカイ・A / Sky A,https://cdn-us-154.cloudrsst.com/live/Sky_A_540/playlist.m3u8
 GAORA SPORTS,https://cdnv148.cloudrsst.com/jptv/GaoRa_540/playlist.m3u8
@@ -101,7 +96,6 @@ GAORA SPORTS,https://cdnv148.cloudrsst.com/jptv/GaoRa_540/playlist.m3u8
 ファミリー劇場 / Family Gekijyo,https://cdn-us-154.cloudrsst.com/live/familytheater_540/playlist.m3u8
 FOX,https://cdn-hk-33.cloudrsst.com/live/jfox/playlist.m3u8
 MTV,https://cdn-us-186.cloudrsst.com/live/mtv_540/playlist.m3u8
-ディズニージュニア / Disney Junior,https://cdnv148.cloudrsst.com/jptv/disney_junior/master.m3u8
 ナショナル ジオグラフィック / National Geographic,https://cdnv148.cloudrsst.com/jptv/National_geographic/master.m3u8
 
 TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
