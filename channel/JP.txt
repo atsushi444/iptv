@@ -56,7 +56,8 @@ Jidaigeki Senmon Channel (720p),https://cdnul194.cloudrsst.com/live/jidaigeki_72
 ファミリー劇場 / Family Gekijyo,https://cdnul194.cloudrsst.com/live/familytheater_720/playlist.m3u8
 Kids Station (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jkids_720/playlist.m3u8
 Sky A (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/Sky_A_720/playlist.m3u8
-Nittele G+ Sports & News (540p),https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
+Nittele G+ Sports & News (720p),https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
+Discovery (720p),http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
 J Sports 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
 J Sports 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
 J Sports 3 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
@@ -72,6 +73,7 @@ Green Channel,https://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
 ゴルフネットワーク / Golf Network,https://cdnul194.cloudrsst.com/llive/golf_network_540/playlist.m3u8
 BS Fishing Vision,https://cdnul194.cloudrsst.com/live/FishingBC_540/playlist.m3u8
 ナショナル ジオグラフィック / National Geographic (540p),https://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
+アニマルプラネット(540p),http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
 MTV,https://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
 
 TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
