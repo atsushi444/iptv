@@ -26,6 +26,7 @@ Kansai TV,https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
 TV Osaka,https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
 SUN TV (720p),https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
 Yomiuri TV,https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
+TBS,https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
 TV Asahi(720p),https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
 TV Tokyo,https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 TOKYO MX1,https://cdnul194.cloudrsst.com/live/kanto_tokyo_mx1_1080/playlist.m3u8
