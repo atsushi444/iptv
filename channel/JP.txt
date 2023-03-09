@@ -21,7 +21,8 @@ GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.n
 
 🇯🇵日本,
 ABC,https://cdnul194.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
-MBS,https://cdnul194.cloudrsst.com/live//kansi_mbs_1080/playlist.m3u8
+MBS,https://cdnul194.cloudrsst.com/live/kansi_mbs_1080/playlist.m3u8
+Kansai TV,https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
 TV Osaka,https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
 SUN TV (720p),https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
 Yomiuri TV,https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
@@ -80,10 +81,6 @@ New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net
 Nippon TV (540p) [Not 24/7],https://ntv3.mov3.co/hls/ntv.m3u8
 TBS (540p) [Not 24/7],https://tbs2.mov3.co/hls/tbs.m3u8
 日テレNEWS24 / NTV News 24,https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
-NHK G (3),https://cdn.th11.jpnettv.live/live/kansi_nhk_g_720/playlist.m3u8
-TBS,https://cdn.th11.jpnettv.live/live/kanto_tbs_720/playlist.m3u8
-Kansai TV,https://cdn.th11.jpnettv.live/live/kansi_tv_720/playlist.m3u8
-キッズステーション / Kids Staton TV,https://cdn.th11.jpnettv.live/live/jkids_540/playlist.m3u8
 
 NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
