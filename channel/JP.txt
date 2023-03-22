@@ -178,43 +178,43 @@ CNNj,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m
 囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 vthanhtivi,
-NHK G (2),https://code.vthanhtivi.pw/getlink/jptv/321/playlist.m3u8
-NHK E (2),https://code.vthanhtivi.pw/getlink/jptv/322/playlist.m3u8
-KBS Kyoto,https://code.vthanhtivi.pw/getlink/jptv/116/playlist.m3u8
-BS11,https://code.vthanhtivi.pw/getlink/jptv/157/playlist.m3u8
-BS12,https://code.vthanhtivi.pw/getlink/jptv/114/playlist.m3u8
-BS Yoshimoto,https://code.vthanhtivi.pw/getlink/jptv/108/playlist.m3u8
-BS Shochiku Tokyu,https://code.vthanhtivi.pw/getlink/jptv/125/playlist.m3u8
-BS Japanext,https://code.vthanhtivi.pw/getlink/jptv/117/playlist.m3u8
-NHK BS4K,https://code.vthanhtivi.pw/getlink/jptv/163/playlist.m3u8
-旅チャンネルＨＤ / Tabi Channel,https://code.vthanhtivi.pw/getlink/jptv/138/playlist.m3u8
-鉄道チャンネル / Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv/158/playlist.m3u8
-FIGHTING TV サムライ,https://code.vthanhtivi.pw/getlink/jptv/139/playlist.m3u8
-エンタメ～テレ☆シネドラバラエティ / Entermei Tele,https://code.vthanhtivi.pw/getlink/jptv/308/playlist.m3u8
-ミュージック・エア / Music Air,https://code.vthanhtivi.pw/getlink/jptv/149/playlist.m3u8
-ミュージック・ジャパンTV / Music Japan,https://code.vthanhtivi.pw/getlink/jptv/156/playlist.m3u8
-100％ヒッツ！スペースシャワーTV プラス / Space Shower TV Plus,https://code.vthanhtivi.pw/getlink/jptv/155/playlist.m3u8
-アイドル専門チャンネルＰｉｇｏｏ / Pigoo,https://code.vthanhtivi.pw/getlink/jptv/234/playlist.m3u8
-ダンスチャンネル / Dance Channel,https://code.vthanhtivi.pw/getlink/jptv/140/playlist.m3u8
-ザ・シネマ / The Cinema,https://code.vthanhtivi.pw/getlink/jptv/141/playlist.m3u8
-宝塚歌劇専門チャンネル / Takarazuka Sky Stage,https://code.vthanhtivi.pw/getlink/jptv/142/playlist.m3u8
-MONDO TV,https://code.vthanhtivi.pw/getlink/jptv/143/playlist.m3u8
-ＴＢＳチャンネル１ / TBS Channel 1,https://code.vthanhtivi.pw/getlink/jptv/144/playlist.m3u8
-ＴＢＳチャンネル２ / TBS Channel 2,https://code.vthanhtivi.pw/getlink/jptv/145/playlist.m3u8
-テレ朝チャンネル１ / TV Asahi Channel 1,https://code.vthanhtivi.pw/getlink/jptv/160/playlist.m3u8
-テレ朝チャンネル２ / TV Asahi Channel 2,https://code.vthanhtivi.pw/getlink/jptv/161/playlist.m3u8
-日テレプラス / Nittele Plus,https://code.vthanhtivi.pw/getlink/jptv/237/playlist.m3u8
-フジテレビＯＮＥ / Fuji TV One,https://code.vthanhtivi.pw/getlink/jptv/146/playlist.m3u8
-フジテレビＴＷＯ / Fuji TV Two,https://code.vthanhtivi.pw/getlink/jptv/147/playlist.m3u8
-フジテレビＮＥＸＴ / Fuji TV Next,https://code.vthanhtivi.pw/getlink/jptv/148/playlist.m3u8
-スーパー！ドラマＴＶ / Super! Drama TV,https://code.vthanhtivi.pw/getlink/jptv/133/playlist.m3u8
-女性チャンネル♪LaLa TV / LaLa TV,https://code.vthanhtivi.pw/getlink/jptv/132/playlist.m3u8
-スペースシャワーTV / Space Shower TV,https://code.vthanhtivi.pw/getlink/jptv/236/playlist.m3u8
-MUSIC ON! TV（エムオン!）,https://code.vthanhtivi.pw/getlink/jptv/131/playlist.m3u8
-アニメシアターX（AT-X),https://code.vthanhtivi.pw/getlink/jptv/107/playlist.m3u8
-ヒストリーチャンネル / History,https://code.vthanhtivi.pw/getlink/jptv/309/playlist.m3u8
-ＴＢＳニュースバード / TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv/233/playlist.m3u8
-スポーツライブ＋ / Sport Live+,https://code.vthanhtivi.pw/getlink/jptv/150/playlist.m3u8
+NHK G (2),https://code.vthanhtivi.pw/getlink/jptv2/321/playlist.m3u8
+NHK E (2),https://code.vthanhtivi.pw/getlink/jptv2/322/playlist.m3u8
+KBS Kyoto,https://code.vthanhtivi.pw/getlink/jptv2/116/playlist.m3u8
+BS11,https://code.vthanhtivi.pw/getlink/jptv2/157/playlist.m3u8
+BS12,https://code.vthanhtivi.pw/getlink/jptv2/114/playlist.m3u8
+BS Yoshimoto,https://code.vthanhtivi.pw/getlink/jptv2/108/playlist.m3u8
+BS Shochiku Tokyu,https://code.vthanhtivi.pw/getlink/jptv2/125/playlist.m3u8
+BS Japanext,https://code.vthanhtivi.pw/getlink/jptv2/117/playlist.m3u8
+NHK BS4K,https://code.vthanhtivi.pw/getlink/jptv2/163/playlist.m3u8
+旅チャンネルＨＤ / Tabi Channel,https://code.vthanhtivi.pw/getlink/jptv2/138/playlist.m3u8
+鉄道チャンネル / Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv2/158/playlist.m3u8
+FIGHTING TV サムライ,https://code.vthanhtivi.pw/getlink/jptv2/139/playlist.m3u8
+エンタメ～テレ☆シネドラバラエティ / Entermei Tele,https://code.vthanhtivi.pw/getlink/jptv2/308/playlist.m3u8
+ミュージック・エア / Music Air,https://code.vthanhtivi.pw/getlink/jptv2/149/playlist.m3u8
+ミュージック・ジャパンTV / Music Japan,https://code.vthanhtivi.pw/getlink/jptv2/156/playlist.m3u8
+100％ヒッツ！スペースシャワーTV プラス / Space Shower TV Plus,https://code.vthanhtivi.pw/getlink/jptv2/155/playlist.m3u8
+アイドル専門チャンネルＰｉｇｏｏ / Pigoo,https://code.vthanhtivi.pw/getlink/jptv2/234/playlist.m3u8
+ダンスチャンネル / Dance Channel,https://code.vthanhtivi.pw/getlink/jptv2/140/playlist.m3u8
+ザ・シネマ / The Cinema,https://code.vthanhtivi.pw/getlink/jptv2/141/playlist.m3u8
+宝塚歌劇専門チャンネル / Takarazuka Sky Stage,https://code.vthanhtivi.pw/getlink/jptv2/142/playlist.m3u8
+MONDO TV,https://code.vthanhtivi.pw/getlink/jptv2/143/playlist.m3u8
+ＴＢＳチャンネル１ / TBS Channel 1,https://code.vthanhtivi.pw/getlink/jptv2/144/playlist.m3u8
+ＴＢＳチャンネル２ / TBS Channel 2,https://code.vthanhtivi.pw/getlink/jptv2/145/playlist.m3u8
+テレ朝チャンネル１ / TV Asahi Channel 1,https://code.vthanhtivi.pw/getlink/jptv2/160/playlist.m3u8
+テレ朝チャンネル２ / TV Asahi Channel 2,https://code.vthanhtivi.pw/getlink/jptv2/161/playlist.m3u8
+日テレプラス / Nittele Plus,https://code.vthanhtivi.pw/getlink/jptv2/237/playlist.m3u8
+フジテレビＯＮＥ / Fuji TV One,https://code.vthanhtivi.pw/getlink/jptv2/146/playlist.m3u8
+フジテレビＴＷＯ / Fuji TV Two,https://code.vthanhtivi.pw/getlink/jptv2/147/playlist.m3u8
+フジテレビＮＥＸＴ / Fuji TV Next,https://code.vthanhtivi.pw/getlink/jptv2/148/playlist.m3u8
+スーパー！ドラマＴＶ / Super! Drama TV,https://code.vthanhtivi.pw/getlink/jptv2/133/playlist.m3u8
+女性チャンネル♪LaLa TV / LaLa TV,https://code.vthanhtivi.pw/getlink/jptv2/132/playlist.m3u8
+スペースシャワーTV / Space Shower TV,https://code.vthanhtivi.pw/getlink/jptv2/236/playlist.m3u8
+MUSIC ON! TV（エムオン!）,https://code.vthanhtivi.pw/getlink/jptv2/131/playlist.m3u8
+アニメシアターX（AT-X),https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
+ヒストリーチャンネル / History,https://code.vthanhtivi.pw/getlink/jptv2/309/playlist.m3u8
+ＴＢＳニュースバード / TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv2/233/playlist.m3u8
+スポーツライブ＋ / Sport Live+,https://code.vthanhtivi.pw/getlink/jptv2/150/playlist.m3u8
 
 失效,
 ANIMAX,http://123.30.146.172:21585/508/mpegts
