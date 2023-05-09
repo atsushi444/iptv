@@ -70,19 +70,19 @@ Hot,P2p://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 
 #__#
-彩虹e台,mitv://generationnexxxt.com:19806/a4300561216446a19f5961ee3ef2a86b
-彩虹电影台,mitv://generationnexxxt.com:19806/dcca7a3ec8544bc99a653ed5e197166f
-LOOK TV,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/b00cc08302d742cf90f8934c6aff4922
-惊艳成人电影台,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
-松视1台,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
-松视2台,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
-PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
-香蕉台,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
-松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
-JStar极限台,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
-HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
-K,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
+彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+惊艳成人电影台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+松视3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
 
 #__#
 彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
