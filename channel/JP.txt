@@ -170,7 +170,7 @@ BS Japan Movie Channel,https://code.vthanhtivi.pw/getlink/jptv2/EZ01kN4IL0TFHR5h
 GAORA SPORTS,https://code.vthanhtivi.pw/getlink/jptv2/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
 日テレジータス,https://code.vthanhtivi.pw/getlink/jptv2/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
 ゴルフネットワーク,https://code.vthanhtivi.pw/getlink/jptv2/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
+歌謡ポップスチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
 時代劇専門チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
 ファミリー劇場,https://code.vthanhtivi.pw/getlink/jptv2/YZdcUvyN3G-Zw8OiuJVXxA==/playlist.m3u8
 ホームドラマチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/859y5OLm0n2u1DZrEsgeFQ==/playlist.m3u8
