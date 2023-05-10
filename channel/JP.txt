@@ -20,61 +20,195 @@ GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.n
 
 
 🇯🇵日本,
-ABC,https://cdnul194.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
-MBS,https://cdnul194.cloudrsst.com/live/kansi_mbs_1080/playlist.m3u8
-Kansai TV,https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
-TV Osaka,https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
-SUN TV (720p),https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
-Yomiuri TV,https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
-TBS,https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
-TV Asahi(720p),https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
-TV Tokyo,https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
-TOKYO MX1,https://cdnul194.cloudrsst.com/live/kanto_tokyo_mx1_1080/playlist.m3u8
-NTV(720p),https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
-Fuji TV,https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
-NHK G,https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
-NHK E,https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
-NHK BSP (720p),https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
-NHK BS1 (720p),https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
-BS Asahi (720p),https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
-BS Fuji TV (720p),https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
-BS TV Tokyo,https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
-BS Nippon TV (720p),https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
-BS TBS,https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
-BS Animax,https://cdnul194.cloudrsst.com/live/janimax_720/playlist.m3u8
-Star 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
-Star 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
-Star 3 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
-WOWOW Live (720p) ,https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
-WOWOW Plus,https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-WOWOW Prime(720p),https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
-WOWOW Cinema,https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
-Nihon Eiga Senmon (720p),https://cdnul194.cloudrsst.com/live/igasennmonn_720/playlist.m3u8
-Jidaigeki Senmon Channel (720p),https://cdnul194.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
-ムービープラス / Movie Plus,https://cdnul194.cloudrsst.com/live/movieplus_720/playlist.m3u8
-ホームドラマチャンネル / Home Drama Channel,https://cdnul194.cloudrsst.com/live/Home_Drama_720/playlist.m3u8
-ファミリー劇場 / Family Gekijyo,https://cdnul194.cloudrsst.com/live/familytheater_720/playlist.m3u8
-Kids Station (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jkids_720/playlist.m3u8
-Sky A (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/Sky_A_720/playlist.m3u8
-Nittele G+ Sports & News (720p),https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
-Discovery (720p),http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
-J Sports 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
-J Sports 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
-J Sports 3 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
-J Sports 4 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
-Toei Channel (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/toa_540/playlist.m3u8
-Eisei Gekijo (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
-Disney Channel,https://cdnul194.cloudrsst.com/live/j_disney_channel_540/playlist.m3u8
-Disney Junior Japan (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/disney_junior/playlist.m3u8
-Neco (540p),https://cdnul194.cloudrsst.com/live/Neco/playlist.m3u8
-FOX (540p),https://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
-GAORA SPORTS,https://cdnul194.cloudrsst.com/live/GaoRa_540/playlist.m3u8
-Green Channel,https://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
-ゴルフネットワーク / Golf Network,https://cdnul194.cloudrsst.com/llive/golf_network_540/playlist.m3u8
-BS Fishing Vision,https://cdnul194.cloudrsst.com/live/FishingBC_540/playlist.m3u8
-ナショナル ジオグラフィック / National Geographic (540p),https://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
-アニマルプラネット(540p),http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
-MTV,https://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
+NHK General,https://code.vthanhtivi.pw/getlink/jptv/Zt19NGeOuIq3EwLPZh_KvQ==/playlist.m3u8
+NHK Education TV,https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
+Nippon TV,https://code.vthanhtivi.pw/getlink/jptv/4SlJSS46Vw5igmOdvfKMww==/playlist.m3u8
+TBS TV,https://code.vthanhtivi.pw/getlink/jptv/p1cu_Z3QI6VV01VJmw8vJQ==/playlist.m3u8
+FUJI TV,https://code.vthanhtivi.pw/getlink/jptv/uAJJq7DD6hKyPLoaMOBSUA==/playlist.m3u8
+TV ASAHI,https://code.vthanhtivi.pw/getlink/jptv/aNwnFAidrAjzqK5Wo0KvWw==/playlist.m3u8
+TV TOKYO,https://code.vthanhtivi.pw/getlink/jptv/2eX5WUIdzetyhgy8L8plEQ==/playlist.m3u8
+TOKYO MX 1,https://code.vthanhtivi.pw/getlink/jptv/9-SZo2YQISIfL52o5p6Wtg==/playlist.m3u8
+TOKYO MX 2,https://code.vthanhtivi.pw/getlink/jptv/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
+NHK General・OSAKA,https://code.vthanhtivi.pw/getlink/jptv/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
+NHK Education・OSAKA,https://code.vthanhtivi.pw/getlink/jptv/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
+MBS,https://code.vthanhtivi.pw/getlink/jptv/ZOJu5avj3LIqoRXR9ogC0w==/playlist.m3u8
+KBS KYOTO,https://code.vthanhtivi.pw/getlink/jptv/-th1_a7-fXyMoWDACk-jjg==/playlist.m3u8
+ABC TV,https://code.vthanhtivi.pw/getlink/jptv/G2VFEt11D2hQyexpltLAFQ==/playlist.m3u8
+TV OSAKA,https://code.vthanhtivi.pw/getlink/jptv/Ep1PQsectdEoqb5giVMrdw==/playlist.m3u8
+Kansai TV,https://code.vthanhtivi.pw/getlink/jptv/M1nVWHnA3F2pv8mBmfM0PQ==/playlist.m3u8
+Yomiuri TV,https://code.vthanhtivi.pw/getlink/jptv/hYnuGNMX-sWlu6qDdQe5bg==/playlist.m3u8
+NHK BS1,https://code.vthanhtivi.pw/getlink/jptv/9sqPFIgIL9jPHSVgfZvocw==/playlist.m3u8
+NHK BS Premium,https://code.vthanhtivi.pw/getlink/jptv/4D-J_Jybe7vuwDFEEopxPA==/playlist.m3u8
+BS Nippon TV,https://code.vthanhtivi.pw/getlink/jptv/OW-ptn455y7PFTNGgwS2mg==/playlist.m3u8
+BS Asahi,https://code.vthanhtivi.pw/getlink/jptv/BIvrrhxU6N9OlSgVT-HPrQ==/playlist.m3u8
+BS TBS,https://code.vthanhtivi.pw/getlink/jptv/PsnqEBgAyeiCC2gXhv5ODQ==/playlist.m3u8
+BS Japan,https://code.vthanhtivi.pw/getlink/jptv/LmVq1wXCa4u6hpFsEFO79w==/playlist.m3u8
+BS FUJI,https://code.vthanhtivi.pw/getlink/jptv/GpcPKY0rAfMZ9_mQkcePpA==/playlist.m3u8
+WOWOW Prime,https://code.vthanhtivi.pw/getlink/jptv/CXrJaWUllYhR6k5e0_K46w==/playlist.m3u8
+WOWOW Live,https://code.vthanhtivi.pw/getlink/jptv/uvUJ5ldHHBqaZg9YQQxgxA==/playlist.m3u8
+WOWOW Cinema,https://code.vthanhtivi.pw/getlink/jptv/cGESSfZuFTTLxxX_J8lP-g==/playlist.m3u8
+Star Channel 1,https://code.vthanhtivi.pw/getlink/jptv/juX1wIFGTBstyURxb0adxA==/playlist.m3u8
+Star Channel 2,https://code.vthanhtivi.pw/getlink/jptv/i9U0n9TJ5odRHqWxtilBRA==/playlist.m3u8
+Star Channel 3,https://code.vthanhtivi.pw/getlink/jptv/beeePf9abTTxyUvqbD_WCg==/playlist.m3u8
+BS Eleven,https://code.vthanhtivi.pw/getlink/jptv/pGtcPp5upFDuPqvtBIBFlA==/playlist.m3u8
+TwellV,https://code.vthanhtivi.pw/getlink/jptv/VjsmFuZg2hW97hJFAhl5JA==/playlist.m3u8
+Green Channel,https://code.vthanhtivi.pw/getlink/jptv/CMfSibcxJVwYmogFl7mUww==/playlist.m3u8
+BS Animax,https://code.vthanhtivi.pw/getlink/jptv/iyXsMcSj-uHvpI6JnMMlTg==/playlist.m3u8
+J SPORTS 1,https://code.vthanhtivi.pw/getlink/jptv/EYDXkRRGT1GJnkUTfJvLHA==/playlist.m3u8
+J SPORTS 2,https://code.vthanhtivi.pw/getlink/jptv/JZgVUmwbYrMVRyY5Nd9SeQ==/playlist.m3u8
+J SPORTS 3,https://code.vthanhtivi.pw/getlink/jptv/358gZ5rWh4F-yvAp8Lo8oA==/playlist.m3u8
+J SPORTS 4,https://code.vthanhtivi.pw/getlink/jptv/tTq2foSxnDwUGgO8UzrEsw==/playlist.m3u8
+BS Fishing Vision,https://code.vthanhtivi.pw/getlink/jptv/XRk9DTFoUhLhrV1PTY1Y8g==/playlist.m3u8
+WOWOWプラス,https://code.vthanhtivi.pw/getlink/jptv/QEVz-1pR9Lo_m2bc2dqHfQ==/playlist.m3u8
+BS Japan Movie Channel,https://code.vthanhtivi.pw/getlink/jptv/3gRJVhGxoMfVJkN7NVEBRw==/playlist.m3u8
+Disney Channel,https://code.vthanhtivi.pw/getlink/jptv/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
+BS松竹東急,https://code.vthanhtivi.pw/getlink/jptv/l6kArOPkx3rCe-BY5PGk5Q==/playlist.m3u8
+BSJapanext,https://code.vthanhtivi.pw/getlink/jptv/Hj8HzlXSQnqBFMUva4MA4g==/playlist.m3u8
+BSよしもと,https://code.vthanhtivi.pw/getlink/jptv/7_NqQ8YhAIHChUndlSRpYQ==/playlist.m3u8
+Toei Channel,https://code.vthanhtivi.pw/getlink/jptv/ItLramN_-gvnHdVeTBK5rw==/playlist.m3u8
+Satellite Theater,https://code.vthanhtivi.pw/getlink/jptv/y9B2Ps-kiNKOHg8ajJvTZg==/playlist.m3u8
+Movie Channel NECO,https://code.vthanhtivi.pw/getlink/jptv/IV-rbOb904jfHM_7iXe9DA==/playlist.m3u8
+The Cinema,https://code.vthanhtivi.pw/getlink/jptv/QPelIt74En18qe57ctzA7g==/playlist.m3u8
+Movie Plus HD,https://code.vthanhtivi.pw/getlink/jptv/wQ48znPA79zr2-B4wl5oLA==/playlist.m3u8
+SKY A,https://code.vthanhtivi.pw/getlink/jptv/A4lYoKDkHOcgUrptRIlo7A==/playlist.m3u8
+GAORA SPORTS,https://code.vthanhtivi.pw/getlink/jptv/UT2nCjamOel4BnlTu1QDNA==/playlist.m3u8
+NTV G+,https://code.vthanhtivi.pw/getlink/jptv/4O3P2VsYGiDOYYHUKuF_1Q==/playlist.m3u8
+Golf Network HD,https://code.vthanhtivi.pw/getlink/jptv/9WvIBSpypx2Lr8C2qE5yag==/playlist.m3u8
+TAKARAZUKA SKY STAGE,https://code.vthanhtivi.pw/getlink/jptv/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
+ERA Drama HD,https://code.vthanhtivi.pw/getlink/jptv/gC-YspGyid2iV7lkCGKoIQ==/playlist.m3u8
+Family Theatre HD,https://code.vthanhtivi.pw/getlink/jptv/pC9SVqTKbtqAFHB3yptOvQ==/playlist.m3u8
+Home Drama Channel,https://code.vthanhtivi.pw/getlink/jptv/zD22iesg6Np63Z-FtiU0yQ==/playlist.m3u8
+MONDO TV,https://code.vthanhtivi.pw/getlink/jptv/9g6-swdY3TjA9l_YNNpyVw==/playlist.m3u8
+TBS Channel 1,https://code.vthanhtivi.pw/getlink/jptv/_bwLlWVan3L2aFbRgIwl5A==/playlist.m3u8
+TBS Channel 2,https://code.vthanhtivi.pw/getlink/jptv/yne-RIzKldOS0m8piD-MIQ==/playlist.m3u8
+TV ASAHI Channel 1,https://code.vthanhtivi.pw/getlink/jptv/RSLBSv8wc5UF7dw1kqw0mA==/playlist.m3u8
+TV ASAHI Channel 2,https://code.vthanhtivi.pw/getlink/jptv/i_CNGuFyQvXFw0HaxOrkwA==/playlist.m3u8
+NTV Plus,https://code.vthanhtivi.pw/getlink/jptv/2r3DLY7ry05LXxk6xwMclA==/playlist.m3u8
+Channel Ginga,https://code.vthanhtivi.pw/getlink/jptv/4l4-dnqo_QogE3f-K13UBw==/playlist.m3u8
+FUJI TV ONE,https://code.vthanhtivi.pw/getlink/jptv/Dx6WyGj7aJoy6QyTUbq2dg==/playlist.m3u8
+FUJI TV TWO,https://code.vthanhtivi.pw/getlink/jptv/xU1ix5hIdSVM9DfWLcR0Mg==/playlist.m3u8
+FUJI TV NEXT,https://code.vthanhtivi.pw/getlink/jptv/xPyiMHfxozuDu6vNznDdXA==/playlist.m3u8
+Super Drama TV HD,https://code.vthanhtivi.pw/getlink/jptv/wZWk8tf5_mxogAG-EV6zIA==/playlist.m3u8
+AXN,https://code.vthanhtivi.pw/getlink/jptv/7DAgtceRMrmqB0tdsO6edw==/playlist.m3u8
+FOX,https://code.vthanhtivi.pw/getlink/jptv/Wv2NQ8gIdBfUArnsKIsdIg==/playlist.m3u8
+Lala TV,https://code.vthanhtivi.pw/getlink/jptv/ILDkgXAatvb35zAsThvQtw==/playlist.m3u8
+AXN Mystery,https://code.vthanhtivi.pw/getlink/jptv/ajfvfjzToRaRPAD0O83-MQ==/playlist.m3u8
+100% Hits! Space Shower TV Plus,https://code.vthanhtivi.pw/getlink/jptv/QhdGbVgbJKI-AuLKLoBlhw==/playlist.m3u8
+Space Shower TV,https://code.vthanhtivi.pw/getlink/jptv/P86mGOvGtsJuOiIBozlSTA==/playlist.m3u8
+MTV HD,https://code.vthanhtivi.pw/getlink/jptv/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
+MUSIC ON! TV HD,https://code.vthanhtivi.pw/getlink/jptv/_RVyS6Uym1zs93N3KvDcsw==/playlist.m3u8
+Music Air,https://code.vthanhtivi.pw/getlink/jptv/Jl0-Wqlcv-_Y15-k2ocPIw==/playlist.m3u8
+Kayo Pops Channel,https://code.vthanhtivi.pw/getlink/jptv/1Tr6-XU6jnR9bECmjsJg8g==/playlist.m3u8
+Kids Station,https://code.vthanhtivi.pw/getlink/jptv/xuRJ2NXuC2ezP38iwgYdXQ==/playlist.m3u8
+Overseas Animation Cartoon Network,https://code.vthanhtivi.pw/getlink/jptv/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
+AT-X,https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
+Disney Junior,https://code.vthanhtivi.pw/getlink/jptv/chTowUHZLkQGzE_HtjvDXw==/playlist.m3u8
+Discovery Channel,https://code.vthanhtivi.pw/getlink/jptv/BCUcKhY7Q2Hc77kEleR6Xg==/playlist.m3u8
+Animal Planet,https://code.vthanhtivi.pw/getlink/jptv/yc9YiPXQOz6wYWMISJg0qA==/playlist.m3u8
+History Channel,https://code.vthanhtivi.pw/getlink/jptv/oWzrTCMQhvoY50i57r6nFg==/playlist.m3u8
+National Geographic Channel,https://code.vthanhtivi.pw/getlink/jptv/9h8RMkNuQcltIKv6FgX95Q==/playlist.m3u8
+Nippon TV News 24,https://code.vthanhtivi.pw/getlink/jptv/TV1iYA79TqPdozWbwpOSgg==/playlist.m3u8
+TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv/sav5tXuUrcoph5lTYKULrg==/playlist.m3u8
+BBC World News,https://code.vthanhtivi.pw/getlink/jptv/CD1WV8e72IOd2RjnuSPgxw==/playlist.m3u8
+CNNj,https://code.vthanhtivi.pw/getlink/jptv/hVlErRkxgtD7mpAR6ZXPmQ==/playlist.m3u8
+Igo Shogi Channel,https://code.vthanhtivi.pw/getlink/jptv/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv/4bxbDgOoPvVu1jn-JcPCIA==/playlist.m3u8
+Travel Channel HD,https://code.vthanhtivi.pw/getlink/jptv/c_IpqG7O23FD4yB8sKwPzg==/playlist.m3u8
+Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv/Ih6yFFU-BWZYUxzjKvFzwg==/playlist.m3u8
+Fighting TV Samurai,https://code.vthanhtivi.pw/getlink/jptv/Yg2MUia31VB-YVInrMhFMw==/playlist.m3u8
+Music Japan TV,https://code.vthanhtivi.pw/getlink/jptv/QMo2pn1hiih5XYKptbKfuA==/playlist.m3u8
+Pigoo HD,https://code.vthanhtivi.pw/getlink/jptv/ZPMe9i21mYzj4bNOlaYSyQ==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv/3aoWlvySJvrMYkUxn_QO-g==/playlist.m3u8
+NHK General,https://code.vthanhtivi.pw/getlink/jptv2/Hqm-m7jqkFlA1CloJoaJZQ==/playlist.m3u8
+NHK Education TV,https://code.vthanhtivi.pw/getlink/jptv2/j7SQYfwTF63S9FmRqrjNJw==/playlist.m3u8
+Nippon TV,https://code.vthanhtivi.pw/getlink/jptv2/gnpNcLEhwujjXOxTl7gaJg==/playlist.m3u8
+TBS TV,https://code.vthanhtivi.pw/getlink/jptv2/bRZUMcrX_kQ5R0XP-xJcZg==/playlist.m3u8
+FUJI TV,https://code.vthanhtivi.pw/getlink/jptv2/dfVr67j-Iy_J5tM4jYI7gQ==/playlist.m3u8
+TV ASAHI,https://code.vthanhtivi.pw/getlink/jptv2/iU_IC-e38CjfLhlvUxqWRg==/playlist.m3u8
+TV TOKYO,https://code.vthanhtivi.pw/getlink/jptv2/dRNhWs1DLdcWq_ufN6fElg==/playlist.m3u8
+TOKYO MX1,https://code.vthanhtivi.pw/getlink/jptv2/9FvJseD6_AtVYU1vxvgzFA==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
+NHK General・OSAKA,https://code.vthanhtivi.pw/getlink/jptv2/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
+NHK Education・OSAKA,https://code.vthanhtivi.pw/getlink/jptv2/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
+MBS,https://code.vthanhtivi.pw/getlink/jptv2/R3W0ABMki1QGwd3TxPxjhA==/playlist.m3u8
+ABC TV,https://code.vthanhtivi.pw/getlink/jptv2/oI8q04LSmuVJ76lxll2FWg==/playlist.m3u8
+TV OSAKA,https://code.vthanhtivi.pw/getlink/jptv2/czZDtneIVvfAZn-728ylZw==/playlist.m3u8
+KBS KYOTO,https://code.vthanhtivi.pw/getlink/jptv2/hFzosjtNqYtZGMMnkL0T7w==/playlist.m3u8
+Kansai TV,https://code.vthanhtivi.pw/getlink/jptv2/jXAkGPMC5sVcMvQ09HoU4g==/playlist.m3u8
+Yomiuri TV,https://code.vthanhtivi.pw/getlink/jptv2/LqzQ_qk7P8LNOaghAThx4g==/playlist.m3u8
+NHK BS1,https://code.vthanhtivi.pw/getlink/jptv2/f-uLAeVdSWp9bd1XFM3Pzw==/playlist.m3u8
+NHK BS Premium,https://code.vthanhtivi.pw/getlink/jptv2/z3QuIfTGLtMqsBfWF1H4Pg==/playlist.m3u8
+BS Nippon TV,https://code.vthanhtivi.pw/getlink/jptv2/9GYVLtOWedFVhurDZOtidw==/playlist.m3u8
+BS Asahi,https://code.vthanhtivi.pw/getlink/jptv2/CDf67JD0vmiC74DDaND-XA==/playlist.m3u8
+BS TBS,https://code.vthanhtivi.pw/getlink/jptv2/JKQRufMevFV7GDKYePYwBQ==/playlist.m3u8
+BS Japan,https://code.vthanhtivi.pw/getlink/jptv2/y288Dc5aSplzqGsFpCvm-g==/playlist.m3u8
+BS FUJI,https://code.vthanhtivi.pw/getlink/jptv2/1WFDcS4-Lv_4Qsnx8TQtgg==/playlist.m3u8
+WOWOW Prime,https://code.vthanhtivi.pw/getlink/jptv2/HloiOsNhiBm-DF9vVfFMTw==/playlist.m3u8
+WOWOW Live,https://code.vthanhtivi.pw/getlink/jptv2/g8s69Z5bxLZgAoqqFT8iDg==/playlist.m3u8
+WOWOW Cinema,https://code.vthanhtivi.pw/getlink/jptv2/iF6iKCiap5agDJYZhyVjwg==/playlist.m3u8
+Star Channel 1,https://code.vthanhtivi.pw/getlink/jptv2/yUuqXFK2vDyiwU66uQEQ1Q==/playlist.m3u8
+Star Channel 2,https://code.vthanhtivi.pw/getlink/jptv2/NGPH2Brrn3gqcgdTIhVmwg==/playlist.m3u8
+Star Channel 3,https://code.vthanhtivi.pw/getlink/jptv2/90LieNPzSaD1VOpEeT7f1w==/playlist.m3u8
+BS Eleven,https://code.vthanhtivi.pw/getlink/jptv2/tEg54Q7WKFA66LWT0fB0gw==/playlist.m3u8
+TwellV,https://code.vthanhtivi.pw/getlink/jptv2/WEtgDOVPkrw08bZvlQM6fA==/playlist.m3u8
+Green Channel,https://code.vthanhtivi.pw/getlink/jptv2/VJxE-FBlx64-LontMCBEVw==/playlist.m3u8
+BS Animax,https://code.vthanhtivi.pw/getlink/jptv2/M9b8YoeShhTsfaXXoNZJDw==/playlist.m3u8
+J SPORTS 1,https://code.vthanhtivi.pw/getlink/jptv2/I4-UBbWeNgikTsL_LV-s-g==/playlist.m3u8
+J SPORTS 2,https://code.vthanhtivi.pw/getlink/jptv2/__DfWcLmTP6pOiYyxsaMLQ==/playlist.m3u8
+J SPORTS 3,https://code.vthanhtivi.pw/getlink/jptv2/uwliL6IX2s7jD1yJwLogYA==/playlist.m3u8
+J SPORTS 4,https://code.vthanhtivi.pw/getlink/jptv2/iTJCVvFevlmYFWr2kDu6tg==/playlist.m3u8
+BS Fishing Vision,https://code.vthanhtivi.pw/getlink/jptv2/chSauCF_-xtI2nAKn1HIVw==/playlist.m3u8
+WOWOWプラス,https://code.vthanhtivi.pw/getlink/jptv2/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
+BS Japan Movie Channel,https://code.vthanhtivi.pw/getlink/jptv2/EZ01kN4IL0TFHR5h9Jq9BA==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
+東映チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/jfiMPwRAVsgTmcnf9Wu7HQ==/playlist.m3u8
+衛星劇場,https://code.vthanhtivi.pw/getlink/jptv2/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
+映画・チャンネルNECO,https://code.vthanhtivi.pw/getlink/jptv2/EqJ7OEIS3u-Jkyx3-DdtJA==/playlist.m3u8
+ザ・シネマ,https://code.vthanhtivi.pw/getlink/jptv2/gnFwEiPGB-QioCyMBfvEMA==/playlist.m3u8
+ムービープラス,https://code.vthanhtivi.pw/getlink/jptv2/84u-cm6u_Ms6JzWF4Dbtkg==/playlist.m3u8
+スカイ・A,https://code.vthanhtivi.pw/getlink/jptv2/oJyS_HypG6uzUEEJODMaWg==/playlist.m3u8
+GAORA SPORTS,https://code.vthanhtivi.pw/getlink/jptv2/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
+日テレジータス,https://code.vthanhtivi.pw/getlink/jptv2/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
+ゴルフネットワーク,https://code.vthanhtivi.pw/getlink/jptv2/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
+時代劇専門チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
+ファミリー劇場,https://code.vthanhtivi.pw/getlink/jptv2/YZdcUvyN3G-Zw8OiuJVXxA==/playlist.m3u8
+ホームドラマチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/859y5OLm0n2u1DZrEsgeFQ==/playlist.m3u8
+MONDO TV,https://code.vthanhtivi.pw/getlink/jptv2/6WNaVnjpGGYCdDmSAxSvFA==/playlist.m3u8
+ＴＢＳチャンネル１,https://code.vthanhtivi.pw/getlink/jptv2/XPdnc60q681yL5pyEmrslg==/playlist.m3u8
+ＴＢＳチャンネル２,https://code.vthanhtivi.pw/getlink/jptv2/lnkIr92VbBZwz09Cjs9UGg==/playlist.m3u8
+テレ朝チャンネル１,https://code.vthanhtivi.pw/getlink/jptv2/-KcK0oRN-MHmABr2tu77zg==/playlist.m3u8
+テレ朝チャンネル２,https://code.vthanhtivi.pw/getlink/jptv2/RLwfnqOjOHGRx6UW3qBXsg==/playlist.m3u8
+日テレプラス,https://code.vthanhtivi.pw/getlink/jptv2/1c9wCVY_quBwDk4RNxuPWw==/playlist.m3u8
+チャンネル銀河,https://code.vthanhtivi.pw/getlink/jptv2/gQmngIMvdnJvKcjGLAYJOw==/playlist.m3u8
+フジテレビＯＮＥ,https://code.vthanhtivi.pw/getlink/jptv2/VelQc1lmVJnTyEmr6oK1RA==/playlist.m3u8
+フジテレビＴＷＯ,https://code.vthanhtivi.pw/getlink/jptv2/3q1U1u-6q9QMDWuMuvpPUA==/playlist.m3u8
+フジテレビＮＥＸＴ,https://code.vthanhtivi.pw/getlink/jptv2/rhKOiZXma2k2EoIaL9RCmg==/playlist.m3u8
+スーパー！ドラマＴＶ,https://code.vthanhtivi.pw/getlink/jptv2/Dx-fj30YfMqlPP9MVx7qvQ==/playlist.m3u8
+FOX,https://code.vthanhtivi.pw/getlink/jptv2/3d_lKfbxi344MiAxcjIypQ==/playlist.m3u8
+女性チャンネル♪LaLa TV,https://code.vthanhtivi.pw/getlink/jptv2/tQU0QsuMA_251h8Mk4qrsw==/playlist.m3u8
+100％ヒッツ！スペースシャワーTV プラス,https://code.vthanhtivi.pw/getlink/jptv2/e0RBTvrOfe06oOkn-UXX5w==/playlist.m3u8
+スペースシャワーTV,https://code.vthanhtivi.pw/getlink/jptv2/lM09rEVGeA61wjdQwZTdzg==/playlist.m3u8
+MTV,https://code.vthanhtivi.pw/getlink/jptv2/r92x5aJGtFjpXj4FtPuvAw==/playlist.m3u8
+ミュージック・エア,https://code.vthanhtivi.pw/getlink/jptv2/IXnt-Gl6_yvCaN-Xpya22w==/playlist.m3u8
+MUSIC ON! TV（エムオン!）,https://code.vthanhtivi.pw/getlink/jptv2/6eHaPTJd0NoBEwN6E9jArw==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/1Tr6-XU6jnR9bECmjsJg8g==/playlist.m3u8
+キッズステーション,https://code.vthanhtivi.pw/getlink/jptv2/xh4GJxN8zJFL3SmJ1P6Xsg==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
+アニメシアターX（AT-X),https://code.vthanhtivi.pw/getlink/jptv2/X4_3qVMPUBpZMqO_hX4vBw==/playlist.m3u8
+ディズニージュニア お子さま向けディズニー番組,https://code.vthanhtivi.pw/getlink/jptv2/xPz9TWJwU7yL_fToz1k9sg==/playlist.m3u8
+ヒストリーチャンネル 日本・世界の歴史＆エンタメ,https://code.vthanhtivi.pw/getlink/jptv2/I9B-HWhc2NgCmw6X9ahDMg==/playlist.m3u8
+ナショナル ジオグラフィック,https://code.vthanhtivi.pw/getlink/jptv2/OZooDkZinq-FLyeL7jtOHw==/playlist.m3u8
+日テレNEWS24,https://code.vthanhtivi.pw/getlink/jptv2/TUUoaNpgwX_Bs7GXhkkw_g==/playlist.m3u8
+ＴＢＳニュースバード,https://code.vthanhtivi.pw/getlink/jptv2/D6eJg7aQZE3DKVZWNTTnYw==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv2/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
+スポーツライブ＋,https://code.vthanhtivi.pw/getlink/jptv2/-uV8jOhgHBRuuEMBdU0Yig==/playlist.m3u8
+旅チャンネルＨＤ,https://code.vthanhtivi.pw/getlink/jptv2/bMt3M9FLE1owVWp5Do1qnQ==/playlist.m3u8
+鉄道チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/X5WzyzsdPL1pNzWxOctwBA==/playlist.m3u8
+FIGHTING TV サムライ,https://code.vthanhtivi.pw/getlink/jptv2/roHA-uoOn8d5muaZM04Qxg==/playlist.m3u8
+ミュージック・ジャパンTV,https://code.vthanhtivi.pw/getlink/jptv2/N-L_Pke3yIkFUoSaEova3g==/playlist.m3u8
+アイドル専門チャンネルＰｉｇｏｏ,https://code.vthanhtivi.pw/getlink/jptv2/epy3fdtnc1oI4z5JrjZzAQ==/playlist.m3u8
+ダンスチャンネル by エンタメ～テレ,https://code.vthanhtivi.pw/getlink/jptv2/kKx57kaG4Tz9tOTiLx8exA==/playlist.m3u8
 
 TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 NTV News24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
@@ -178,43 +312,61 @@ CNNj,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m
 囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 失效,
-NHK G (2),https://code.vthanhtivi.pw/getlink/jptv2/321/playlist.m3u8
-NHK E (2),https://code.vthanhtivi.pw/getlink/jptv2/322/playlist.m3u8
-KBS Kyoto,https://code.vthanhtivi.pw/getlink/jptv2/116/playlist.m3u8
-BS11,https://code.vthanhtivi.pw/getlink/jptv2/157/playlist.m3u8
-BS12,https://code.vthanhtivi.pw/getlink/jptv2/114/playlist.m3u8
-BS Yoshimoto,https://code.vthanhtivi.pw/getlink/jptv2/108/playlist.m3u8
-BS Shochiku Tokyu,https://code.vthanhtivi.pw/getlink/jptv2/125/playlist.m3u8
-BS Japanext,https://code.vthanhtivi.pw/getlink/jptv2/117/playlist.m3u8
-NHK BS4K,https://code.vthanhtivi.pw/getlink/jptv2/163/playlist.m3u8
-旅チャンネルＨＤ / Tabi Channel,https://code.vthanhtivi.pw/getlink/jptv2/138/playlist.m3u8
-鉄道チャンネル / Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv2/158/playlist.m3u8
-FIGHTING TV サムライ,https://code.vthanhtivi.pw/getlink/jptv2/139/playlist.m3u8
-エンタメ～テレ☆シネドラバラエティ / Entermei Tele,https://code.vthanhtivi.pw/getlink/jptv2/308/playlist.m3u8
-ミュージック・エア / Music Air,https://code.vthanhtivi.pw/getlink/jptv2/149/playlist.m3u8
-ミュージック・ジャパンTV / Music Japan,https://code.vthanhtivi.pw/getlink/jptv2/156/playlist.m3u8
-100％ヒッツ！スペースシャワーTV プラス / Space Shower TV Plus,https://code.vthanhtivi.pw/getlink/jptv2/155/playlist.m3u8
-アイドル専門チャンネルＰｉｇｏｏ / Pigoo,https://code.vthanhtivi.pw/getlink/jptv2/234/playlist.m3u8
-ダンスチャンネル / Dance Channel,https://code.vthanhtivi.pw/getlink/jptv2/140/playlist.m3u8
-ザ・シネマ / The Cinema,https://code.vthanhtivi.pw/getlink/jptv2/141/playlist.m3u8
-宝塚歌劇専門チャンネル / Takarazuka Sky Stage,https://code.vthanhtivi.pw/getlink/jptv2/142/playlist.m3u8
-MONDO TV,https://code.vthanhtivi.pw/getlink/jptv2/143/playlist.m3u8
-ＴＢＳチャンネル１ / TBS Channel 1,https://code.vthanhtivi.pw/getlink/jptv2/144/playlist.m3u8
-ＴＢＳチャンネル２ / TBS Channel 2,https://code.vthanhtivi.pw/getlink/jptv2/145/playlist.m3u8
-テレ朝チャンネル１ / TV Asahi Channel 1,https://code.vthanhtivi.pw/getlink/jptv2/160/playlist.m3u8
-テレ朝チャンネル２ / TV Asahi Channel 2,https://code.vthanhtivi.pw/getlink/jptv2/161/playlist.m3u8
-日テレプラス / Nittele Plus,https://code.vthanhtivi.pw/getlink/jptv2/237/playlist.m3u8
-フジテレビＯＮＥ / Fuji TV One,https://code.vthanhtivi.pw/getlink/jptv2/146/playlist.m3u8
-フジテレビＴＷＯ / Fuji TV Two,https://code.vthanhtivi.pw/getlink/jptv2/147/playlist.m3u8
-フジテレビＮＥＸＴ / Fuji TV Next,https://code.vthanhtivi.pw/getlink/jptv2/148/playlist.m3u8
-スーパー！ドラマＴＶ / Super! Drama TV,https://code.vthanhtivi.pw/getlink/jptv2/133/playlist.m3u8
-女性チャンネル♪LaLa TV / LaLa TV,https://code.vthanhtivi.pw/getlink/jptv2/132/playlist.m3u8
-スペースシャワーTV / Space Shower TV,https://code.vthanhtivi.pw/getlink/jptv2/236/playlist.m3u8
-MUSIC ON! TV（エムオン!）,https://code.vthanhtivi.pw/getlink/jptv2/131/playlist.m3u8
-アニメシアターX（AT-X),https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
-ヒストリーチャンネル / History,https://code.vthanhtivi.pw/getlink/jptv2/309/playlist.m3u8
-ＴＢＳニュースバード / TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv2/233/playlist.m3u8
-スポーツライブ＋ / Sport Live+,https://code.vthanhtivi.pw/getlink/jptv2/150/playlist.m3u8
+ABC,https://cdnul194.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
+MBS,https://cdnul194.cloudrsst.com/live/kansi_mbs_1080/playlist.m3u8
+Kansai TV,https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
+TV Osaka,https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
+SUN TV (720p),https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
+Yomiuri TV,https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
+TBS,https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
+TV Asahi(720p),https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
+TV Tokyo,https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
+TOKYO MX1,https://cdnul194.cloudrsst.com/live/kanto_tokyo_mx1_1080/playlist.m3u8
+NTV(720p),https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
+Fuji TV,https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
+NHK G,https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
+NHK E,https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
+NHK BSP (720p),https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
+NHK BS1 (720p),https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
+BS Asahi (720p),https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
+BS Fuji TV (720p),https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
+BS TV Tokyo,https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
+BS Nippon TV (720p),https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
+BS TBS,https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
+BS Animax,https://cdnul194.cloudrsst.com/live/janimax_720/playlist.m3u8
+Star 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
+Star 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
+Star 3 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
+WOWOW Live (720p) ,https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
+WOWOW Plus,https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
+WOWOW Prime(720p),https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
+WOWOW Cinema,https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
+Nihon Eiga Senmon (720p),https://cdnul194.cloudrsst.com/live/igasennmonn_720/playlist.m3u8
+Jidaigeki Senmon Channel (720p),https://cdnul194.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
+ムービープラス / Movie Plus,https://cdnul194.cloudrsst.com/live/movieplus_720/playlist.m3u8
+ホームドラマチャンネル / Home Drama Channel,https://cdnul194.cloudrsst.com/live/Home_Drama_720/playlist.m3u8
+ファミリー劇場 / Family Gekijyo,https://cdnul194.cloudrsst.com/live/familytheater_720/playlist.m3u8
+Kids Station (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jkids_720/playlist.m3u8
+Sky A (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/Sky_A_720/playlist.m3u8
+Nittele G+ Sports & News (720p),https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
+Discovery (720p),http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
+J Sports 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
+J Sports 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
+J Sports 3 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
+J Sports 4 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
+Toei Channel (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/toa_540/playlist.m3u8
+Eisei Gekijo (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
+Disney Channel,https://cdnul194.cloudrsst.com/live/j_disney_channel_540/playlist.m3u8
+Disney Junior Japan (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/disney_junior/playlist.m3u8
+Neco (540p),https://cdnul194.cloudrsst.com/live/Neco/playlist.m3u8
+FOX (540p),https://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
+GAORA SPORTS,https://cdnul194.cloudrsst.com/live/GaoRa_540/playlist.m3u8
+Green Channel,https://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
+ゴルフネットワーク / Golf Network,https://cdnul194.cloudrsst.com/llive/golf_network_540/playlist.m3u8
+BS Fishing Vision,https://cdnul194.cloudrsst.com/live/FishingBC_540/playlist.m3u8
+ナショナル ジオグラフィック / National Geographic (540p),https://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
+アニマルプラネット(540p),http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
+MTV,https://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
 
 失效,
 ANIMAX,http://123.30.146.172:21585/508/mpegts
