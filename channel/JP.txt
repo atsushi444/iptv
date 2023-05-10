@@ -112,13 +112,13 @@ TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv/sav5tXuUrcoph5lTYKULrg==/p
 BBC World News,https://code.vthanhtivi.pw/getlink/jptv/CD1WV8e72IOd2RjnuSPgxw==/playlist.m3u8
 CNNj,https://code.vthanhtivi.pw/getlink/jptv/hVlErRkxgtD7mpAR6ZXPmQ==/playlist.m3u8
 Igo Shogi Channel,https://code.vthanhtivi.pw/getlink/jptv/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
-Dance Channel,https://code.vthanhtivi.pw/getlink/jptv/4bxbDgOoPvVu1jn-JcPCIA==/playlist.m3u8
+,https://code.vthanhtivi.pw/getlink/jptv/4bxbDgOoPvVu1jn-JcPCIA==/playlist.m3u8
 Travel Channel HD,https://code.vthanhtivi.pw/getlink/jptv/c_IpqG7O23FD4yB8sKwPzg==/playlist.m3u8
 Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv/Ih6yFFU-BWZYUxzjKvFzwg==/playlist.m3u8
 Fighting TV Samurai,https://code.vthanhtivi.pw/getlink/jptv/Yg2MUia31VB-YVInrMhFMw==/playlist.m3u8
 Music Japan TV,https://code.vthanhtivi.pw/getlink/jptv/QMo2pn1hiih5XYKptbKfuA==/playlist.m3u8
 Pigoo HD,https://code.vthanhtivi.pw/getlink/jptv/ZPMe9i21mYzj4bNOlaYSyQ==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv/3aoWlvySJvrMYkUxn_QO-g==/playlist.m3u8
+Dance Channel,https://code.vthanhtivi.pw/getlink/jptv/3aoWlvySJvrMYkUxn_QO-g==/playlist.m3u8
 NHK General,https://code.vthanhtivi.pw/getlink/jptv2/Hqm-m7jqkFlA1CloJoaJZQ==/playlist.m3u8
 NHK Education TV,https://code.vthanhtivi.pw/getlink/jptv2/j7SQYfwTF63S9FmRqrjNJw==/playlist.m3u8
 Nippon TV,https://code.vthanhtivi.pw/getlink/jptv2/gnpNcLEhwujjXOxTl7gaJg==/playlist.m3u8
@@ -127,7 +127,7 @@ FUJI TV,https://code.vthanhtivi.pw/getlink/jptv2/dfVr67j-Iy_J5tM4jYI7gQ==/playli
 TV ASAHI,https://code.vthanhtivi.pw/getlink/jptv2/iU_IC-e38CjfLhlvUxqWRg==/playlist.m3u8
 TV TOKYO,https://code.vthanhtivi.pw/getlink/jptv2/dRNhWs1DLdcWq_ufN6fElg==/playlist.m3u8
 TOKYO MX1,https://code.vthanhtivi.pw/getlink/jptv2/9FvJseD6_AtVYU1vxvgzFA==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
+TOKYO MX2,https://code.vthanhtivi.pw/getlink/jptv2/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
 NHK General・OSAKA,https://code.vthanhtivi.pw/getlink/jptv2/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
 NHK Education・OSAKA,https://code.vthanhtivi.pw/getlink/jptv2/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
 MBS,https://code.vthanhtivi.pw/getlink/jptv2/R3W0ABMki1QGwd3TxPxjhA==/playlist.m3u8
@@ -160,7 +160,7 @@ J SPORTS 4,https://code.vthanhtivi.pw/getlink/jptv2/iTJCVvFevlmYFWr2kDu6tg==/pla
 BS Fishing Vision,https://code.vthanhtivi.pw/getlink/jptv2/chSauCF_-xtI2nAKn1HIVw==/playlist.m3u8
 WOWOWプラス,https://code.vthanhtivi.pw/getlink/jptv2/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
 BS Japan Movie Channel,https://code.vthanhtivi.pw/getlink/jptv2/EZ01kN4IL0TFHR5h9Jq9BA==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
+ディズニー・チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
 東映チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/jfiMPwRAVsgTmcnf9Wu7HQ==/playlist.m3u8
 衛星劇場,https://code.vthanhtivi.pw/getlink/jptv2/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
 映画・チャンネルNECO,https://code.vthanhtivi.pw/getlink/jptv2/EqJ7OEIS3u-Jkyx3-DdtJA==/playlist.m3u8
@@ -170,7 +170,7 @@ BS Japan Movie Channel,https://code.vthanhtivi.pw/getlink/jptv2/EZ01kN4IL0TFHR5h
 GAORA SPORTS,https://code.vthanhtivi.pw/getlink/jptv2/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
 日テレジータス,https://code.vthanhtivi.pw/getlink/jptv2/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
 ゴルフネットワーク,https://code.vthanhtivi.pw/getlink/jptv2/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
-歌謡ポップスチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
+TAKARAZUKA SKY STAGE,https://code.vthanhtivi.pw/getlink/jptv2/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
 時代劇専門チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
 ファミリー劇場,https://code.vthanhtivi.pw/getlink/jptv2/YZdcUvyN3G-Zw8OiuJVXxA==/playlist.m3u8
 ホームドラマチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/859y5OLm0n2u1DZrEsgeFQ==/playlist.m3u8
@@ -192,16 +192,16 @@ FOX,https://code.vthanhtivi.pw/getlink/jptv2/3d_lKfbxi344MiAxcjIypQ==/playlist.m
 MTV,https://code.vthanhtivi.pw/getlink/jptv2/r92x5aJGtFjpXj4FtPuvAw==/playlist.m3u8
 ミュージック・エア,https://code.vthanhtivi.pw/getlink/jptv2/IXnt-Gl6_yvCaN-Xpya22w==/playlist.m3u8
 MUSIC ON! TV（エムオン!）,https://code.vthanhtivi.pw/getlink/jptv2/6eHaPTJd0NoBEwN6E9jArw==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/1Tr6-XU6jnR9bECmjsJg8g==/playlist.m3u8
+歌謡ポップスチャンネル,https://code.vthanhtivi.pw/getlink/jptv2/1Tr6-XU6jnR9bECmjsJg8g==/playlist.m3u8
 キッズステーション,https://code.vthanhtivi.pw/getlink/jptv2/xh4GJxN8zJFL3SmJ1P6Xsg==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
+カートゥーン ネットワーク,https://code.vthanhtivi.pw/getlink/jptv2/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
 アニメシアターX（AT-X),https://code.vthanhtivi.pw/getlink/jptv2/X4_3qVMPUBpZMqO_hX4vBw==/playlist.m3u8
 ディズニージュニア お子さま向けディズニー番組,https://code.vthanhtivi.pw/getlink/jptv2/xPz9TWJwU7yL_fToz1k9sg==/playlist.m3u8
 ヒストリーチャンネル 日本・世界の歴史＆エンタメ,https://code.vthanhtivi.pw/getlink/jptv2/I9B-HWhc2NgCmw6X9ahDMg==/playlist.m3u8
 ナショナル ジオグラフィック,https://code.vthanhtivi.pw/getlink/jptv2/OZooDkZinq-FLyeL7jtOHw==/playlist.m3u8
 日テレNEWS24,https://code.vthanhtivi.pw/getlink/jptv2/TUUoaNpgwX_Bs7GXhkkw_g==/playlist.m3u8
 ＴＢＳニュースバード,https://code.vthanhtivi.pw/getlink/jptv2/D6eJg7aQZE3DKVZWNTTnYw==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv2/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
+囲碁・将棋チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
 スポーツライブ＋,https://code.vthanhtivi.pw/getlink/jptv2/-uV8jOhgHBRuuEMBdU0Yig==/playlist.m3u8
 旅チャンネルＨＤ,https://code.vthanhtivi.pw/getlink/jptv2/bMt3M9FLE1owVWp5Do1qnQ==/playlist.m3u8
 鉄道チャンネル,https://code.vthanhtivi.pw/getlink/jptv2/X5WzyzsdPL1pNzWxOctwBA==/playlist.m3u8
