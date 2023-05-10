@@ -112,7 +112,7 @@ TBS News Bird,https://code.vthanhtivi.pw/getlink/jptv/sav5tXuUrcoph5lTYKULrg==/p
 BBC World News,https://code.vthanhtivi.pw/getlink/jptv/CD1WV8e72IOd2RjnuSPgxw==/playlist.m3u8
 CNNj,https://code.vthanhtivi.pw/getlink/jptv/hVlErRkxgtD7mpAR6ZXPmQ==/playlist.m3u8
 Igo Shogi Channel,https://code.vthanhtivi.pw/getlink/jptv/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
-,https://code.vthanhtivi.pw/getlink/jptv/4bxbDgOoPvVu1jn-JcPCIA==/playlist.m3u8
+Sportslive Plus,https://code.vthanhtivi.pw/getlink/jptv/4bxbDgOoPvVu1jn-JcPCIA==/playlist.m3u8
 Travel Channel HD,https://code.vthanhtivi.pw/getlink/jptv/c_IpqG7O23FD4yB8sKwPzg==/playlist.m3u8
 Tetsudo Channel,https://code.vthanhtivi.pw/getlink/jptv/Ih6yFFU-BWZYUxzjKvFzwg==/playlist.m3u8
 Fighting TV Samurai,https://code.vthanhtivi.pw/getlink/jptv/Yg2MUia31VB-YVInrMhFMw==/playlist.m3u8
