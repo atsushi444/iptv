@@ -1,5 +1,5 @@
 #__#
-Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
+Rouge TV,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w998998627.m3u8
 IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/chunklist_w1756279781.m3u8
 
@@ -10,3 +10,5 @@ Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+
