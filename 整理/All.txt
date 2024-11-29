@@ -34,7 +34,6 @@ CCTV-央视文化精品,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8#h
 凤台文化生活,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 传统文化,http://p4.weizan.cn/1934701221/772044685221806408/live.m3u8
 温州-瑞安文化,http://stream.rabtv.cn/jjwh/playlist.m3u8?_upt=89a1c5ae1602095261
-苏州文化生活,https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8
 陕西西安文化影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
 西安文化影院,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 CCTV-央视文化精品,http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
