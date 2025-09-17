@@ -1,0 +1,65 @@
+#日本#
+NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
+NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
+NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
+TBS,https://mt01.utako.moe/TBS/index.m3u8
+Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
+TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+MBS,https://mt01.utako.moe/mbs/index.m3u8
+ABC,https://mt01.utako.moe/abc/index.m3u8
+TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
+Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
+ytv,https://mt01.utako.moe/ytv/index.m3u8
+KBS,https://mt01.utako.moe/kbs/index.m3u8
+SUN,https://mt01.utako.moe/suntv/index.m3u8
+NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
+BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
+BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
+BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
+BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
+BS11,https://mt01.utako.moe/BS11/index.m3u8
+NHK BS4K,https://mt01.utako.moe/bsp4k/index.m3u8
+WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
+WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
+BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
+JSport 1,https://mt01.utako.moe/js1/index.m3u8
+JSport 2,https://mt01.utako.moe/js2/index.m3u8
+JSport 3,https://mt01.utako.moe/js3/index.m3u8
+JSport 4,https://mt01.utako.moe/js4/index.m3u8
+Green Channel,https://mt01.utako.moe/green/index.m3u8
+Animax,https://ca01.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://ca01.utako.moe/nihoneiga/index.m3u8
+Sky A,https://ca01.utako.moe/skya/index.m3u8
+Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
+AT-X,https://mt01.utako.moe/AT-X/index.m3u8
+Space Shower TV,https://ca01.utako.moe/spaceshower/index.m3u8
+MTV,https://ca01.utako.moe/mtv/index.m3u8
+Kayo Pops,https://ca01.utako.moe/kayopops/index.m3u8
+Disney Channel,https://ca01.utako.moe/disneychan/index.m3u8
+Cartoon Network Japan,https://ca01.utako.moe/cartoon_network/index.m3u8
+Nittele G+,https://ca01.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://ca01.utako.moe/familygeki/index.m3u8
+Mondo TV,https://ca01.utako.moe/mondo/index.m3u8
+TBS Channel 1,https://ca01.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://ca01.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://ca01.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://ca01.utako.moe/ex_ch2/index.m3u8
+Fuji TV ONE,https://ca01.utako.moe/fuji_one/index.m3u8
+Fuji TV TWO,https://ca01.utako.moe/fuji_two/index.m3u8
+Fuji TV NEXT,https://ca01.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://ca01.utako.moe/neco/index.m3u8
+Dlife,https://ca01.utako.moe/dlife/index.m3u8
+Toei Channel,https://ca01.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://ca01.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://ca01.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://ca01.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://ca01.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://ca01.utako.moe/gingach/index.m3u8
+Tabi Channel,https://ca01.utako.moe/tabi/index.m3u8
+Pigoo,https://ca01.utako.moe/pigoo/index.m3u8
+V Paradise,https://ca01.utako.moe/v_paradise/index.m3u8
