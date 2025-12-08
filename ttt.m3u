@@ -545,6 +545,15 @@ https://surrit.com/1797e12f-2825-49eb-b64e-c5211a31767e/1280x720/video.m3u8
 #EXTINF:-1 group-title="HEYZO系列",HEYZO-1503
 https://surrit.com/1797e12f-2825-49eb-b64e-c5211a31767e/playlist.m3u8
 
+#EXTINF:-1 group-title="三级电影" tvg-logo="https://vip.dytt-img.com/upload/vod/20250831-1/731b425bfc5bef018df242bfc72dcf4b.jpg",聊斋艳奇之玉女聊斋
+https://play.phimgood.com/20250831/25948_3824ab9a/index.m3u8
+#EXTINF:-1 group-title="三级电影" tvg-logo="https://img.picbf.com/upload/vod/20230424-33/7659ecd2f3a575c5e76e1425db18bcb2.jpg",水浒传之英雄好色
+https://play.phimgood.com/20250831/25955_eff247d0/index.m3u8
+#EXTINF:-1 group-title="三级电影" tvg-logo="https://pic.youkupic.com/upload/vod/20240409-1/d070ea92dfabc1fb5a975cc9ba530e9b.webp",风尘三女侠
+https://hn.bfvvs.com/play/Yer3VKaO/index.m3u8
+#EXTINF:-1 group-title="三级电影" tvg-logo="https://img.ukuapi88.com/upload/vod/20220721-1/4934713f4db46935ac8ef34b4b101412.jpg",蜜桃成熟时
+https://play.phimgood.com/20250829/25930_f21c444a/index.m3u8
+
 #EXTINF:-1 group-title="港台三级",〖1〗军阀趣史
 https://play.xluuss.com/play/DdwjD9wb/index.m3u8
 #EXTINF:-1 group-title="港台三级",〖2〗新七擒七纵七色狼
@@ -1200,10 +1209,10 @@ https://h9k2w.cc/api/app/vid/h5/m3u8/bktappupdata/sp/km/l5/ne/ze/1f5698cdd932441
 
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://ysimg.chineseoh.com/upload/vod/20230326-2/67eb424fd84d796fbf2d65d55e02e991.jpg",人猿泰山H中文字幕版
 https://djfdsu.hhphxz.com/20231204/TPYDJYS7/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/upload2/vod/20221009-1/e3d0d663dbcb2ad39d7a3fd44060711b.jpg",保镖1993
-https://dgkdhls.mcloud.139.com/v3/hls/1750780579378369280/480/index.m3u8?ecc=ckDEcGMMumZVGC5E3uZrniy5hVWMwSb6kAk_PUxO5h6jODHXsqv3OK6TWIhraOamHPsZLCWNE8_WSsaeoRwEdqKb&ci=FtqOX91nYz5vBgulJmFdHLqN5RPkd2Ngb&tvkey=m3u8
+#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20220922-1/6141c279602eb1ea91ca78619c99cebb.jpg",美丽的小蜜桃2（非代理）
+https://vip1.lz-cdn7.com/20230408/15221_1009a530/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/upload6/55edac98a8eacf1fe9a0e72c6f26345d.jpg",加勒比女海盗
-https://play.hhuus.com/play/lejj80Ye/index.m3u8#https://vodcnd10.ktprods.com/20250121/0qLXIQci/index.m3u8
+https://play.hhuus.com/play/lejj80Ye/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://pic.rmb.bdstatic.com/bjh/7fc3147ef3bc39109aca9b5d9762162a.jpeg",加勒比女海盗2
 https://hd.ijycnd.com/play/7e5kL7qb/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://ysimg.chineseoh.com/upload/vod/20230523-1/e4d7e77438dee63cb5592cd7c98213db.jpg",高压监狱
@@ -1220,8 +1229,6 @@ https://hn.bfvvs.com/play/vbm5oP3b/index.m3u8
 https://vv.jisuzyv.com/play/1aKDnv8b/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://vpic.fenhew.com/upload/vod/20240705-1/e746d5dae98d6ead398fccb87ae1d8d9.jpg",法国空姐2018
 https://vv.jisuzyv.com/play/Rb4OyR1a/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://ysimg.chineseoh.com/upload/vod/20231011-1/1d8fb17b096a834de6c6bc17a229ceb1.png",需要爸爸播种子HD中字
-https://cdn15.yzzy-play.com/20231011/25009_d041473d/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://ysimg.chineseoh.com/upload/vod/20230114-6/bc406a2d0ca91e38efeb49545b97d0b8.jpg",美丽世界
 https://play.hhuus.com/play/BeXq7J5a/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://www.sanjipian123.com/pic/uploads/2014-5/20145208152380158.jpg",埃及艳后成人版
@@ -1230,70 +1237,25 @@ https://p.3.cccdn.xyz/videos0/4770/47706913/v.m3u8?1612389330
 https://p.2.cccdn.xyz/videos0/4755/47556672/v.m3u8?1616253880
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://sycdn.pic-726-baidu.com/upload/vod/20201107-1/5a65c590b75069bcbb39bf2878e835cb.jpg",女超人精裝成人版
 https://sy4.3sybf.com/20201031/7ibru46O/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/16.jpg",麦丽丝梦游辣境
-https://m3u8.wawavod.com/static/mod/92fd0d64f0627e3dbc1eedb18feda056.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/upload6/48a2f09d7e8d8e4b449ae2b67d397fe4.jpg",壮志凌云2成人版
-https://m3u8.wawavod.com/static/mod2/1_92427c90f653e4d40a8c5b5b0ec649a1.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/140.jpg",巴黎后街
-https://m3u8.wawavod.com/static/mod/420c3b238179a6bcfcb9df789c5d2e11.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/240.jpg",肏逼贵宾之高潮https://m3u8.wawavod.com/static/mod/080a32ff4b9e91ef4eec037c35d03adf.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/260.jpg",高潮1
-https://m3u8.wawavod.com/static/mod/9985db014583b18f541866b49c7e8f08.m3u8#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/220.jpg",极棒的卡楚米
-https://m3u8.wawavod.com/static/mod/302cdbba38ee942ef109105a39c85164.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/44.jpg",风流女管家
-https://m3u8.wawavod.com/static/mod/0f2bc0c5034e946ef4c3a4ab07ca5dad.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/132.jpg",在戛纳享受性爱和阳光
-https://m3u8.wawavod.com/static/mod/f156452caeed16c91cd1ecc7fe503023.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/198.jpg",娄.拉瓦奇的故事
-https://m3u8.wawavod.com/static/mod/95c5b0f50bd145ab48b4152eb98df75b.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/212.jpg",我的恐怖莫维克斯之行
-https://m3u8.wawavod.com/static/mod/363518f838820ab8a5c7c67f0081c39d.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20220922-1/6141c279602eb1ea91ca78619c99cebb.jpg",美丽的小蜜桃2
-https://vip1.lz-cdn7.com/20230408/15221_1009a530/2000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20231009-1/c2213953137d11509be1334f311b40af.webp",禁忌2
 https://vip15.play-cdn15.com/20230905/24473_02004d0e/2000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20231009-1/ebc652d8904bedc4b23f46c9d6e72209.webp",禁忌3
+#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20231009-1/ebc652d8904bedc4b23f46c9d6e72209.webp",禁忌3（非代理）
 https://hd1.lz-cdn15.com/20220922/223_778caaa1/1200k/hls/mixed.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://uspicc12tche.hitv.app/350/upload/vod/20220923-1/172ea4ab9b5f4cfe4eb5c57c35dd744e.jpg",禁忌4
 https://hn.bfvvs.com/play/oeEk49Nb/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/kayparker/35.jpg",禁忌9 Taboo IX
-https://m3u8.wawavod.com/static/mod/499e18862db74d90c93fd946e060716e.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/71.jpg",啄木鸟女孩
-https://m3u8.wawavod.com/static/mod/4cea0f281fb95fefa7b1f77bcba0b774.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/63.jpg",狂欢2:性爱锦标赛
-https://m3u8.wawavod.com/static/mod/e5d8e47ab11dad25eeb67e69ae798c9e.m3u8?_t=1745876128760
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/40.jpg",球员的娇妻
-https://m3u8.wawavod.com/static/mod/e5d8e47ab11dad25eeb67e69ae798c9e.m3u8?_t=1745876128760
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/15.jpg",工作中的女孩们
-https://m3u8.wawavod.com/static/mod/e5d8e47ab11dad25eeb67e69ae798c9e.m3u8?_t=1745876128760
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/48.jpg",性迷宫
-https://m3u8.wawavod.com/static/mod/84bb7fb7f68849c44bc19cbbb18cc4c5.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/01.jpg",勒索多猛男
-https://m3u8.wawavod.com/static/mod/665eb4392c2eb3703884695e63ca9be1.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yikan.wawavod.com/dorcel/48.jpg",伦敦一夜
-https://m3u8.wawavod.com/static/mod/e5d8e47ab11dad25eeb67e69ae798c9e.m3u8?_t=1745876128760
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://img.lytuchuang.com/upload/vod/20220320-1/e2e7c1add53b5d10f8c8af6ebac45ac6.jpg",复仇者联盟成人版
-https://p.0.cccdn.xyz/videos0/4770/47709870/v.m3u8?1616350531
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://pics.enpld.cc/upload/vod/20240803-1/cbb048f423b5ae070c2492747e30b418.jpg",灭火宝贝
 https://vv.jisuzyv.com/play/BeXWlZVd/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://shasha.one/images/node/26/265083.webp?1718011006",塔蒂亚娜
-https://vod6.bdzybf11.com/20240121/hRxW6dq1/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://shasha.one/images/node/20/203606.webp?1718027096",禁忌2
 https://v6.fentvoss.com/sdv6/202311/11/1EsJj9Sj171/video/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://cube.elemecdn.com/E/E2/C4D596B2246C4AC9387B5A0F6F9BEjpeg.jpeg",孩子们的秘密
 https://hd.ijycnd.com/play/QdJZKwDd/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://pic.ddpic.info/upload/vod/20220712-1/2b6a11dc95b8e6b03d7a86c56bb180e5.jpg",这不是阿凡达
 https://lsbbf2.com/20231014/04MX1Wey/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://yypp.me/upload/vod/20241016-5/5caa9a848448ff709ec4fc7e35453f8d.jpg",古墓麗影H版
-https://player.cl9987.com:188/20230130/6bmfDd3s/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://img.bb.panxde.cn/mfilm_image/9d5edc0b21fc4e8c81bb44866bde439d_ss.jpg",星球大戰最後的原力誘惑成人修復版
 https://play.cdnmicrosoft.com/film_m3u8/2McBVM6Bte0%3D.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://img.lytuchuang.com/upload/vod/20220320-1/c777f3d80343ba55c483839b6ac9d5cb.jpg",敢死隊2H版
-https://play1.laoyacdn.com/20220318/LdHl9Zwq/index.m3u8
-#EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://img.lytuchuang.com/upload/vod/20220320-1/7298c1c0ca24d8b3eb58eecf7359f1dd.jpg",黑鷹墜落H版
-https://media1.99rego.com/remote_control.php?time=1745981614&cv=7e54e07a6b562c83199302353c28302b&lr=0&cv2=8c5fdb217ce71e253e77c8949bef3d69&file=%2Fvideos%2F76000%2F76747%2F76747.mp4&cv3=e834750ea554202b651369b910896b1e&cv4=f47bde759a3cd359f95a3d0d89f172b4
 #EXTINF:-1 group-title="欧美成人大片" tvg-logo="https://sycdn.pic-726-baidu.com/upload/vod/20210830-1/0812c3a9e83db64506db6e4d901316c1.jpg",佐羅的情色冒險
 https://vip6.3sybf.com/20210827/cRbCWoF1/index.m3u8
+
 #EXTINF:-1 group-title="欧美" tvg-logo="https://www.16404jp.cc/upload/vod/20240127-1/f3f7fdb5085bda0d5de9c76b237615dd.jpg",高潮合集
 https://vodvip888.com/20240124/aWcY4dJV/index.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="https://img1.128100.xyz/upload/2022/05/24/8nihxgf9ciuz4d8mft4qulvzt6e3mefp.jpg",LTV-00011.欲不可纵
@@ -1472,176 +1434,10 @@ https://vip1.fhbf9.com/20200816/u8sydkTW/index.m3u8
 https://vip1.fhbf9.com/20200816/TnJdIUbU/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://fmtu.netfhtu.com/upload/vod/2020/08/zpmzbsbejjh.jpg",欲望空姐 美乳稀毛嫩穴 小玩具抽插 妩媚呻吟浪叫
 https://vip1.fhbf9.com/20200814/M0Jn06qV/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第1集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/b9b4b9ff/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第2集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第3集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/13668b7b/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第4集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0a8c1bd4/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第5集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/7cb48abb/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第6集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/14d7c2c3/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第7集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/b4e06e47/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第8集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/523b6cc5/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="http://pic.thzpic.com/forum/202110/06/023336mrntan11y0l4ox11.jpg",精东影业JDMY002密友第9集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/dcdc678a/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/10/11/c81fcfbbce3b24744d7042ab03db1e82.jpg",精东影业JDMY002密友第10集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/d2475114/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://mrplay.xyz/upload/vod/20211013-1/be892a1cdf15840bd638ed86c26202fb.jpg",精东影业JDMY002密友第11集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/c1a8ebaf/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://mrplay.xyz/upload/vod/20211015-1/74b4cecb8e960381e6bc7bdd29d9829f.jpg",精东影业JDMY002密友第12集
-https://ak21727.com/20211015/GNoZd9P2/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://ak21727.com/20211017/Zj9nySli/1.jpg",精东影业JDMY002密友第13集
-https://ak21727.com/20211017/Zj9nySli/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/10/21/57f4917e643c79108c5311b2ac165ca9.jpg",精东影业JDMY002密友第14集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/a5aecce0/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://mrplay.xyz/upload/vod/20211022-1/18aeb3dbcfeb596a36fac3ad4f1efde5.jpg",精东影业JDMY002密友第15集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/184242a4/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://ak21727.com/20211024/2EWXIJoz/1.jpg",精东影业JDMY002密友第16集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/8c5226ab/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/10/30/55a2426dce2d7b5504ce70e7a4c0a295.jpg",精东影业JDMY002密友第17集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/42b526d0/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/10/30/cd9bf7461ac492d7fd554242f3956242.jpg",精东影业JDMY002密友第18集
-https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/8e1c167a/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://ak21727.com/20211031/BSJVWApz/1.jpg",精东影业JDMY002密友第19集
-https://ak21727.com/20211031/BSJVWApz/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/11/04/5f8cc74dab66a00c42edc44302491cea.jpg",精东影业JDMY002密友第20集
-https://t12.cdn2020.com:12337/video/m3u8/2021/11/04/94cd5f77/index.m3u8
-#EXTINF:-1 group-title="成人连续剧" tvg-logo="https://249999.xyz/images/2021/11/07/4dd824073241e315288e8f2f47d348e7.jpg",精东影业JDMY002密友第21集
-https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/92be4c75/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-23/160085765611.jpg",冰天雪地中与大白狗
-https://lbbf9.com/20200420/CcMtDUAB/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://img2.gayzyimage.com/image/uploads/91730d58c7a0a88d241d813ede7e3a18.png",双飞两只宠物狗
-https://play.gayzyv.com/play/6dBBAYNd/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-04-19/15873018797.jpg",不要错过
-https://lbbf9.com/20191101/bkA29Dll/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-25/160100977710.jpg",两女找了只叼大的狗搞的狗虚脱了
-https://lbbf9.com/20200420/K6n9lR20/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-18/160039676916.jpg",白嫩美泽小穴被操趴
-https://lbbf9.com/20200420/tQtjGthT/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-18/16003967669.jpg",让狗从后面狂操射了还不让狗下来抓着狗腿不放
-https://lbbf9.com/20200420/3BpgBWcd/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://pic.lbtp88.com/upload/vod/2020/04-22/00/0vqadqyixs300580vqadqyixs3158819.jpg",带着面具的女郎被狗干了骚穴
-https://lbbf9.com/20200420/n8egLWpR/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-16/160024846917.jpg",高清-超级好金毛狗
-https://lbbf9.com/20200420/kQj6z9JS/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-09-13/159999179217.jpg",人类和动物-好狗操资源多多
-https://lbbf9.com/20200327/1CC7Lhy5/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-05-11/15891693575.jpg",狗他妈的贝贝硬资源多多
-https://lbbf9.com/20200327/Pb7BKsmq/index.m3u8
-#EXTINF:-1 group-title="动物园" tvg-logo="https://cdn.101maoaa.com/upload/vod/2020-04-27/15879821530.jpg",等着你欣赏
-https://lbbf9.com/20200327/bmYAugwo/index.m3u8
-#EXTINF:-1 group-title="成人电视台",肛交 720
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="成人电视台",巨尻 720
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="成人电视台",大鸟 720
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="成人电视台",爆乳 720
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="成人电视台",金发 720
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="成人电视台",口交 720
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="成人电视台",褐发 720
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="成人电视台",合集 720
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="成人电视台",绿帽 720
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="成人电视台",恋物 720
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="成人电视台",群交 720
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="成人电视台",男同 720
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="成人电视台",硬核 720
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="成人电视台",异种 720
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="成人电视台",拉丁 720
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="成人电视台",女同 720
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="成人电视台",少妇 720
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="成人电视台",色星 720
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="成人电视台",第一视角 720
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="成人电视台",粗暴 720
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="成人电视台",俄罗斯 720
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="成人电视台",少女 720
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="成人电视台",三人 720
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="成人电视台",香蕉
-https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 group-title="成人电视台",松视
-https://18.svi-studio.com/live/908957700097/132663288386/06.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美2
-http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美3
-http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美4
-http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美5
-http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美6
-http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美7
-http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美8
-http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美9
-http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美10
-http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美11
-http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",欧美12
-http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",歐美高清10
-http://live.redtraffic.xyz/bigass.m3u8fluxuslust.m3u8
-#EXTINF:-1 group-title="成人电视台",直播·大乳房
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="成人电视台",直播·大乳房
-http://live.redtraffic.xyz:80/bigtits.m3u8
-#EXTINF:-1 group-title="成人电视台",直播·大屁股
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="成人电视台",直播·大鸡吧
-http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="成人电视台",直播·大鸡吧
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="成人电视台",二本道
-http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人电视台",一本道
-http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人电视台",惊艳台欧美版
-http://live.redtraffic.xyz:80/cuckold.m3u8
-#EXTINF:-1 group-title="成人电视台",松视1欧美版
-http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 group-title="成人电视台",HOT欧美版
-http://live.redtraffic.xyz:80/hardcore.m3u8
-#EXTINF:-1 group-title="成人电视台",松视2欧美版
-http://live.redtraffic.xyz:80/interracial.m3u8
-#EXTINF:-1 group-title="成人电视台",香蕉台欧美版
-http://live.redtraffic.xyz:80/milf.m3u8
-#EXTINF:-1 group-title="成人电视台",潘多拉欧美版
-http://live.redtraffic.xyz:80/pornstar.m3u8
-#EXTINF:-1 group-title="成人电视台",玩美台欧美版
-http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 group-title="成人电视台",粉红台欧美版
-http://live.redtraffic.xyz:80/teen.m3u8
-#EXTINF:-1 group-title="成人电视台",K频道欧美版
-http://live.redtraffic.xyz:80/threesome.m3u8
+
+
+
+
 #EXTINF:-1 group-title="成人电视台",Luxury World
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="成人电视台",VISIT-X TV
@@ -1652,74 +1448,7 @@ http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台",Asian Sex Queens File 8 Scene 1_6
 http://tube.asiansexqueens.com/japanese_erotica_file_8_scene1_6.flv
-#EXTINF:-1 group-title="成人电视台",Heyzo_hd_0252_full
-http://video1.rhsj520.com:8091/nyrm3/heyzo222/heyzo_hd_0252_full/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人电视台",heyzo_hd_0578_full
-http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0578_full/1500kb/hls/index.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Teen Girls
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV MILF
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Young Girls
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Mature
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Arab Girls
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Ebony Girls
-http://live.mycamtv.com/ebony.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Asian Girls
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Brunette Girls
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Latina Girls
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV White Girls
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Blonde Girls
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Anal
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Big Ass Girls
-http://live.mycamtv.com/bigass.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Girls Squirt
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Skinny Girls
-http://live.mycamtv.com/skinny.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Medium Girls
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="成人电视台",MyCamTV Blowjob
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="成人电视台",AdultIPTV.net Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Milf
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="成人电视台",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="成人电视台",blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="成人电视台",二本道欧美版
-http://live.redtraffic.xyz:80/blowjob.m3u8
+
 #EXTINF:-1 group-title="成人电视台",Miami TV-Colombia(18+)
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
 #EXTINF:-1 group-title="成人电视台",Miami TV-Jenny Live(18+)
@@ -1768,11 +1497,3 @@ http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台",D��D��D???D? HD (18+)
 http://9d8c5662.suklakakl.site/iptv/XPMTTGZETTGURA/922/index.m3u8
-#EXTINF:-1 group-title="三级电影" tvg-logo="https://vip.dytt-img.com/upload/vod/20250831-1/731b425bfc5bef018df242bfc72dcf4b.jpg",聊斋艳奇之玉女聊斋
-https://play.phimgood.com/20250831/25948_3824ab9a/index.m3u8
-#EXTINF:-1 group-title="三级电影" tvg-logo="https://img.picbf.com/upload/vod/20230424-33/7659ecd2f3a575c5e76e1425db18bcb2.jpg",水浒传之英雄好色
-https://play.phimgood.com/20250831/25955_eff247d0/index.m3u8
-#EXTINF:-1 group-title="三级电影" tvg-logo="https://pic.youkupic.com/upload/vod/20240409-1/d070ea92dfabc1fb5a975cc9ba530e9b.webp",风尘三女侠
-https://hn.bfvvs.com/play/Yer3VKaO/index.m3u8
-#EXTINF:-1 group-title="三级电影" tvg-logo="https://img.ukuapi88.com/upload/vod/20220721-1/4934713f4db46935ac8ef34b4b101412.jpg",蜜桃成熟时
-https://play.phimgood.com/20250829/25930_f21c444a/index.m3u8
