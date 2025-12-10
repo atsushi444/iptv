@@ -15,7 +15,7 @@ https://v.imgstream2.com/m/oqmopwjnlj/oqmopwjnlj.m3u8
 https://v.imgstream2.com/m/knvfiolkuq/knvfiolkuq.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37884.jpg" group-title="1pondo",071715_008
 https://v.imgstream2.com/d/pltgukhrqp/pltgukhrqp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/37/CH36097_1-6.jpg" group-title="1pondo",050617_523
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36097.jpg" group-title="1pondo",050617_523
 https://v.imgstream2.com/m/ofktrsbnkk/ofktrsbnkk.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37876.jpg" group-title="1pondo",040619-891
 https://v.imgstream2.com/b/isjjpqsmrm/isjjpqsmrm.m3u8
@@ -149,8 +149,6 @@ https://v.imgstream2.com/g/gfataosddo/gfataosddo.m3u8
 https://v.imgstream2.com/n/cciiffbcdb/cciiffbcdb.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18169.jpg" group-title="1pondo",113013_707
 https://v.imgstream2.com/f/eaooaeotee/eaooaeotee.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20737.jpg" group-title="1pondo",DSAM-57
-https://v.imgstream2.com/d/vpcfaqmzio/vpcfaqmzio.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35563.jpg" group-title="1pondo",122816_453
 https://v.imgstream2.com/c/ggioidnjzv/ggioidnjzv.m3u8
 #EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35561.jpg" group-title="1pondo",122416_451
@@ -209,9 +207,7 @@ https://v.imgstream2.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
 https://v.imgstream2.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
 #EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36132.jpg" group-title="1pondo",072917_559
 https://v.imgstream2.com/h/ibogkqnaah/ibogkqnaah.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/" group-title="1pondo",pondo-597
-https://v.imgstream2.com/n/iqphtushdl/iqphtushdl.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/" group-title="1pondo",pondo-613
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36050.jpg" group-title="1pondo",120217_613
 https://v.imgstream2.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
 #EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36189.jpg" group-title="1pondo",121617_618
 https://v.imgstream2.com/c/dyostrmwue/dyostrmwue.m3u8
@@ -461,6 +457,8 @@ https://v.imgstream2.com/a/curgohkzak/curgohkzak.m3u8
 https://v.imgstream2.com/b/mdfrdmclnn/mdfrdmclnn.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72308.jpg" group-title="Caribbeancom",010623-001
 https://v.imgstream2.com/c/gbkohlkxnt/gbkohlkxnt.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37262.jpg" group-title="Caribbeancom",020318-597
+https://v.imgstream2.com/n/iqphtushdl/iqphtushdl.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/" group-title="Caribbeancom",carib-002
 https://v.imgstream2.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 #EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/" group-title="Caribbeancom",carib-004
@@ -627,8 +625,11 @@ https://v.imgstream2.com/g/zlxifwbxug/zlxifwbxug.m3u8
 #EXTINF:-1 group-title="Caribbeancompr" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24689.jpg",PPV 010115_057
 https://v.imgstream2.com/f/xwfkqbklfe/xwfkqbklfe.m3u8
 
+
 #EXTINF:-1 group-title="SKY" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09448.jpg",CWP-75 CATWALK POISON 75
 https://v.imgstream2.com/m/wadfafoddi/wadfafoddi.m3u8
+#EXTINF:-1 group-title="SKY" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20737.jpg",DSAM-57
+https://v.imgstream2.com/d/vpcfaqmzio/vpcfaqmzio.m3u8
 #EXTINF:-1 group-title="SKY" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH04167.jpg",SKY-226 Sky Angel
 https://v.imgstream2.com/g/ndbebbdidl/ndbebbdidl.m3u8
 #EXTINF:-1 group-title="SKY" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH08180.jpg",SKY-246 Sky Angel Vol.32
