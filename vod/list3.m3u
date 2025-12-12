@@ -313,6 +313,8 @@ https://v.imgstream2.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
 https://v.imgstream2.com/h/jmtkoqplkg/jmtkoqplkg.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30854.jpg",091816-260
 https://v.imgstream2.com/b/ypvctxnsha/ypvctxnsha.m3u8
+#EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36441.jpg",091717-501
+https://v.imgstream2.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36436.jpg",090817-495
 https://v.imgstream2.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37382.jpg",090218-744
@@ -471,8 +473,6 @@ https://v.imgstream2.com/c/mpkipnonup/mpkipnonup.m3u8
 https://v.imgstream2.com/h/twfmmpobii/twfmmpobii.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg",020616-091
 https://v.imgstream2.com/f/uheuxmmxcj/uheuxmmxcj.m3u8
-#EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36441.jpg",020417-367
-https://v.imgstream2.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37262.jpg",020318-597
 https://v.imgstream2.com/n/iqphtushdl/iqphtushdl.m3u8
 #EXTINF:-1 group-title="Caribbeancom" tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25313.jpg",020216-087
