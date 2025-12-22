@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing%20tv.jpg",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora%20perfect.jpg",潘朵啦玩美
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora%20perfect.jpg",潘朵啦玩美台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.jpg",松視1
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.jpg",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.jpg",松視3
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.jpg",松視3台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:8159/VideoInput/play.ts
