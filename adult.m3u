@@ -13,6 +13,8 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing%20tv.jpg",驚豔台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="",Sex girl(125)
+http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
