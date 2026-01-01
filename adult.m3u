@@ -25,7 +25,7 @@ http://125.227.210.55:8203/VideoInput/play.ts
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC5（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC1（早9）
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC1（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC2
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
