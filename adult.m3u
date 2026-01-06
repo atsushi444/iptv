@@ -22,9 +22,6 @@ http://125.227.210.55:8159/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:8203/VideoInput/play.ts
 
-#https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png
-#https://static.teleboy.ch/shared/stations/402/icon320_light.png?v=2025-12-15_1
-
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://github.com/atsushi444/iptv/blob/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-name="CARAC 1 HD" tvg-logo="https://static.teleboy.ch/shared/stations/365/icon320_light.png",CARAC1（早7）
