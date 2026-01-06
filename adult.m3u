@@ -24,7 +24,7 @@ http://125.227.210.55:8203/VideoInput/play.ts
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-name="CARAC 1 HD" tvg-logo="https://static.teleboy.ch/shared/stations/365/icon320_light.png",CARAC1（早7）
+#EXTINF:-1 group-title="成人电视台" tvg-name="CARAC 1 HD" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png",CARAC1（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC2
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
