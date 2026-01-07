@@ -25,10 +25,8 @@
 - Parsa TV:https://www.parsatv.com/
 - COOLSTREAMING:https://www.coolstreaming.us/
 - OX-AX:http://oxax.tv (18+)
-- 看全球:http://tc.tvquanqiu.com/
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
-- [Mr.Tlyer’s Blog](https://ntnas.top:82/typecho/archives/799/) -daily update
 ### 在线播放
 - [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
 ### 节目表
