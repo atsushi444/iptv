@@ -6,71 +6,60 @@ CCTV-4 国际,http://1.180.38.246:809/hls/4/index.m3u8
 CCTV-5 体育,http://1.180.38.246:809/hls/5/index.m3u8
 CCTV-6 电影,http://1.180.38.246:809/hls/6/index.m3u8
 CCTV-7 国防军事,http://1.180.38.246:809/hls/7/index.m3u8
+CCTV-8 电视剧,http://1.180.38.246:809/hls/8/index.m3u8
+CCTV-9 纪录,http://1.180.38.246:809/hls/9/index.m3u8
+CCTV-10 科教,http://1.180.38.246:809/hls/10/index.m3u8
+ CCTV-11 戏曲,http://1.180.38.246:809/hls/11/index.m3u8
+CCTV-12 社会与法,http://1.180.38.246:809/hls/12/index.m3u8
+CCTV-13 新闻,http://1.180.38.246:809/hls/13/index.m3u8
+CCTV-14 少儿,http://1.180.38.246:809/hls/14/index.m3u8
+CCTV-15 音乐,http://1.180.38.246:809/hls/15/index.m3u8
+CGTN,http://1.180.38.246:809/hls/16/index.m3u8
+CCTV-5+ 体育赛事,http://1.180.38.246:809/hls/17/index.m3u8
+CGTN西语,http://1.180.38.246:809/hls/72/index.m3u8
+
 
 卫视频道,#genre#
+内蒙古卫视,http://1.180.38.246:809/hls/18/index.m3u8
+内蒙古卫视,http://1.180.38.246:809/hls/19/index.m3u8
+内蒙古经济生活,http://1.180.38.246:809/hls/20/index.m3u8
+内蒙古文体娱乐,http://1.180.38.246:809/hls/21/index.m3u8
+内蒙古农牧,http://1.180.38.246:809/hls/22/index.m3u8
+内蒙古新闻综合,http://1.180.38.246:809/hls/23/index.m3u8
+内蒙古少儿,http://1.180.38.246:809/hls/25/index.m3u8
+包头新闻综合,http://1.180.38.246:809/hls/26/index.m3u8
+包头生活服务,http://1.180.38.246:809/hls/27/index.m3u8
+包头经济,http://1.180.38.246:809/hls/28/index.m3u8
+浙江卫视,http://1.180.38.246:809/hls/29/index.m3u8
+江苏卫视,http://1.180.38.246:809/hls/30/index.m3u8
+湖北卫视,http://1.180.38.246:809/hls/31/index.m3u8
+广东卫视,http://1.180.38.246:809/hls/32/index.m3u8
+山西卫视,http://1.180.38.246:809/hls/33/index.m3u8
+贵州卫视,http://1.180.38.246:809/hls/34/index.m3u8
+东方卫视,http://1.180.38.246:809/hls/35/index.m3u8
+辽宁卫视,http://1.180.38.246:809/hls/36/index.m3u8
+山东卫视,http://1.180.38.246:809/hls/37/index.m3u8
+吉林卫视,http://1.180.38.246:809/hls/38/index.m3u8
+黑龙江卫视,http://1.180.38.246:809/hls/39/index.m3u8
+广西卫视,http://1.180.38.246:809/hls/40/index.m3u8
+兵团卫视,http://1.180.38.246:809/hls/41/index.m3u8
+安徽卫视,http://1.180.38.246:809/hls/42/index.m3u8
+北京卫视,http://1.180.38.246:809/hls/43/index.m3u8
+东南卫视,http://1.180.38.246:809/hls/44/index.m3u8
+河北卫视,http://1.180.38.246:809/hls/45/index.m3u8
+天津卫视,http://1.180.38.246:809/hls/46/index.m3u8
+湖南卫视,http://1.180.38.246:809/hls/47/index.m3u8
+四川卫视,http://1.180.38.246:809/hls/48/index.m3u8
+卡酷少儿,http://1.180.38.246:809/hls/49/index.m3u8
+深圳卫视,http://1.180.38.246:809/hls/50/index.m3u8
+宁夏卫视,http://1.180.38.246:809/hls/51/index.m3u8
+云南卫视,http://1.180.38.246:809/hls/53/index.m3u8
+重庆卫视,http://1.180.38.246:809/hls/54/index.m3u8
+河南卫视,http://1.180.38.246:809/hls/55/index.m3u8
+扎鲁特,http://1.180.38.246:809/hls/56/index.m3u8
+海南卫视,http://1.180.38.246:809/hls/61/index.m3u8
+青海卫视,http://1.180.38.246:809/hls/62/index.m3u8
+甘肃卫视,http://1.180.38.246:809/hls/63/index.m3u8
+陕西卫视,http://1.180.38.246:809/hls/64/index.m3u8
+金鹰卡通,http://1.180.38.246:809/hls/70/index.m3u8
 
-http://1.180.38.246:809/hls/8/index.m3u8
-http://1.180.38.246:809/hls/9/index.m3u8
-http://1.180.38.246:809/hls/10/index.m3u8
-http://1.180.38.246:809/hls/11/index.m3u8
-http://1.180.38.246:809/hls/12/index.m3u8
-http://1.180.38.246:809/hls/13/index.m3u8
-http://1.180.38.246:809/hls/14/index.m3u8
-http://1.180.38.246:809/hls/15/index.m3u8
-http://1.180.38.246:809/hls/16/index.m3u8
-http://1.180.38.246:809/hls/17/index.m3u8
-http://1.180.38.246:809/hls/18/index.m3u8
-http://1.180.38.246:809/hls/19/index.m3u8
-http://1.180.38.246:809/hls/20/index.m3u8
-http://1.180.38.246:809/hls/21/index.m3u8
-http://1.180.38.246:809/hls/22/index.m3u8
-http://1.180.38.246:809/hls/23/index.m3u8
-http://1.180.38.246:809/hls/24/index.m3u8
-http://1.180.38.246:809/hls/25/index.m3u8
-http://1.180.38.246:809/hls/26/index.m3u8
-http://1.180.38.246:809/hls/27/index.m3u8
-http://1.180.38.246:809/hls/28/index.m3u8
-http://1.180.38.246:809/hls/29/index.m3u8
-http://1.180.38.246:809/hls/30/index.m3u8
-http://1.180.38.246:809/hls/31/index.m3u8
-http://1.180.38.246:809/hls/32/index.m3u8
-http://1.180.38.246:809/hls/33/index.m3u8
-http://1.180.38.246:809/hls/34/index.m3u8
-http://1.180.38.246:809/hls/35/index.m3u8
-http://1.180.38.246:809/hls/36/index.m3u8
-http://1.180.38.246:809/hls/37/index.m3u8
-http://1.180.38.246:809/hls/38/index.m3u8
-http://1.180.38.246:809/hls/39/index.m3u8
-http://1.180.38.246:809/hls/40/index.m3u8
-http://1.180.38.246:809/hls/41/index.m3u8
-http://1.180.38.246:809/hls/42/index.m3u8
-http://1.180.38.246:809/hls/43/index.m3u8
-http://1.180.38.246:809/hls/44/index.m3u8
-http://1.180.38.246:809/hls/45/index.m3u8
-http://1.180.38.246:809/hls/46/index.m3u8
-http://1.180.38.246:809/hls/47/index.m3u8
-http://1.180.38.246:809/hls/48/index.m3u8
-http://1.180.38.246:809/hls/49/index.m3u8
-http://1.180.38.246:809/hls/50/index.m3u8
-http://1.180.38.246:809/hls/51/index.m3u8
-http://1.180.38.246:809/hls/52/index.m3u8
-http://1.180.38.246:809/hls/53/index.m3u8
-http://1.180.38.246:809/hls/54/index.m3u8
-http://1.180.38.246:809/hls/55/index.m3u8
-http://1.180.38.246:809/hls/56/index.m3u8
-http://1.180.38.246:809/hls/57/index.m3u8
-http://1.180.38.246:809/hls/58/index.m3u8
-http://1.180.38.246:809/hls/59/index.m3u8
-http://1.180.38.246:809/hls/60/index.m3u8
-http://1.180.38.246:809/hls/61/index.m3u8
-http://1.180.38.246:809/hls/62/index.m3u8
-http://1.180.38.246:809/hls/63/index.m3u8
-http://1.180.38.246:809/hls/64/index.m3u8
-http://1.180.38.246:809/hls/65/index.m3u8
-http://1.180.38.246:809/hls/66/index.m3u8
-http://1.180.38.246:809/hls/67/index.m3u8
-http://1.180.38.246:809/hls/68/index.m3u8
-http://1.180.38.246:809/hls/69/index.m3u8
-http://1.180.38.246:809/hls/70/index.m3u8
-http://1.180.38.246:809/hls/71/index.m3u8
-http://1.180.38.246:809/hls/72/index.m3u8
