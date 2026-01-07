@@ -3,6 +3,9 @@ CARAC1,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 CARAC5,https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 
 #__#
+DMF,https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+
+#__#
 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
