@@ -38,8 +38,8 @@ XML
 - https://epg.pw/xmltv/epg.xml
 - https://iptvx.one/EPG (国外)【推荐】
 - http://epg.it999.ru/epg.xml.gz (国外)
-- https://animenosekai.github.io/japanterebi-xmltv/guide.xml （日本）
-- https://xmltvfr.fr/xmltv/xmltv.xml.gz （法国）
+- https://animenosekai.github.io/japanterebi-xmltv/guide.xml (日本)
+- https://xmltvfr.fr/xmltv/xmltv.xml.gz (法国)
 
 DIYP
 - https://epg.112114.xyz
