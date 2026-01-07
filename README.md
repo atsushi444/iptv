@@ -28,7 +28,8 @@
 - [Jackal](http://jackal.surge.sh) - Watch live tv from your browser with the help of Next application.
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 ### 在线播放
-- [WhatsUp TV](https://whatsuptv.app/) - Player for IPTV (.m3u) playlists.
+- [VidGrid](https://vidgrid.tk.gg) - Player for IPTV (.m3u8) playlists.
+
 ### 节目表
 XML
 - https://epg.112114.xyz/pp.xml
