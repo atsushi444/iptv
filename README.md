@@ -36,7 +36,7 @@ XML
 - http://epg.51zmt.top:8000/e.xml
 - https://epg.pw/xmltv/epg.xml
 - https://iptvx.one/EPG (国外)【推荐】
-- http://epg.it999.ru/epg.xml.gz (国外)
+- http://epg.one/epg.xml.gz (国外)
 - https://animenosekai.github.io/japanterebi-xmltv/guide.xml (日本)
 - https://xmltvfr.fr/xmltv/xmltv.xml.gz (法国)
 
