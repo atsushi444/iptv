@@ -1164,10 +1164,14 @@ https://surrit.com/2d24641e-b404-43c7-aefe-343e8a9c2659/1280x720/video.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="",
 
-#EXTINF:-1 group-title="" tvg-logo="",
 
-#EXTINF:-1 group-title="" tvg-logo="",
+【欧美】
+#EXTINF:-1 group-title="欧美" tvg-logo="",
 
-#EXTINF:-1 group-title="" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="",
+
+
+##Dorcel
+#EXTINF:-1 group-title="欧美" tvg-logo="",
 
 #EXTINF:-1 group-title="" tvg-logo="",
