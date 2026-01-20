@@ -18,9 +18,9 @@ http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
-http://125.227.210.55:8159/VideoInput/play.ts
+http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
-http://125.227.210.55:8203/VideoInput/play.ts
+http://125.227.210.55:1022/VideoInput/play.ts
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
