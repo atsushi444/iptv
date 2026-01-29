@@ -1,16 +1,7 @@
 #EXTM3U url-tvg=""
-#region China 频道组
 
-#EXTINF:-1 group-title="China" tvg-id="" tvg-logo="",CCTV-1 综合
-http://1.180.38.246:809/hls/1/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="" tvg-logo="",CCTV-3 综艺
-http://1.180.38.246:809/hls/3/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="" tvg-logo="",CCTV-5 体育
-http://1.180.38.246:809/hls/5/index.m3u8
-#EXTINF:-1 group-title="China" tvg-id="" tvg-logo="",CCTV-6 电影
-http://1.180.38.246:809/hls/6/index.m3u8
-
-#endregion China 频道组
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
 #### China
 #EXTINF:-1 group-title="China" tvg-id="" tvg-logo="",CCTV-1 综合
