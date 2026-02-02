@@ -29,7 +29,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://pbs.twimg.com/profile_images/1737936623147401217/v-O7v4yo_400x400.jpg",Playboy TV LA
+#EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="https://pbs.twimg.com/profile_images/1737936623147401217/v-O7v4yo_400x400.jpg",Playboy TV LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
