@@ -66,9 +66,9 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3920263
 #EXTINF:-1 group-title="成人电视台" tvg-id="470393" tvg-logo="https://epg.iptvx.one/picons/dorcel.png",Dorcel TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="6930" tvg-logo="https://epg.iptvx.one/picons/erox-ua.png",Erox HD
-http://mytv-extra.com:80/V713SWTY/D8T8KGTL/1274554
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="7767" tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png",Eroxxx HD
-
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
