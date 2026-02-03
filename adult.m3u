@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
+#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
@@ -29,9 +29,37 @@ https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="https://pbs.twimg.com/profile_images/1737936623147401217/v-O7v4yo_400x400.jpg",Playboy TV LA
+#EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="https://pbs.twimg.com/profile_images/1737936623147401217/v-O7v4yo_400x400.jpg",Playboy LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-id="426158" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sexy-hot-br.svg",Sexy Hot
+
+#EXTINF:-1 group-title="成人电视台" tvg-id="426016" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
+
+#EXTINF:-1 group-title="成人电视台" tvg-id="6926" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe
+
+#EXTINF:-1 group-title="成人电视台" tvg-id="6814" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler
+
+#EXTINF:-1 group-title="成人电视台" tvg-id="7556" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png",Hustler HD
+
+#EXTINF:-1 group-title="成人电视台" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png",Vivid Red
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Bang U
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",EroLuxe Anal
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",EroLuxe Babysitter
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",EroLuxe Creampie
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",EroLuxe Shemale
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Babes TV
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Balkan Erotic
+
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Redlight HD
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
@@ -55,37 +83,33 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Sextreme
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-id="5956" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe Россия
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Hustler TV
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Hot
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Vivid TV Europe
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Adult 1
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 1
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 2
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 3
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 4
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 5
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 6
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 7
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Pink Erotic 8
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
