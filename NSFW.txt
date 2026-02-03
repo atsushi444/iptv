@@ -16,4 +16,7 @@ Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #__#
 Playboy La,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
+#__#
+Dorcel TV,https://cdnsk003.panaccess.com/local/Dorcel/tracks-v1a1/mono.m3u8
+
 
