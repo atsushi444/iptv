@@ -30,7 +30,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12135/index.m3u8
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="" tvg-logo="http://cdn.epg.one/img2/2014.png",Playboy
 http://bde.online24.pm/play/242/65F8DEA9B8759ED/video.m3u8 
 #EXTINF:-1 group-title="成人电视台" tvg-id="" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
