@@ -33,7 +33,7 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="" tvg-logo="http://cdn.epg.one/img2/2014.png",Playboy
 http://bde.online24.pm/play/242/65F8DEA9B8759ED/video.m3u8 
-#EXTINF:-1 group-title="成人电视台" tvg-id="" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
+#EXTINF:-1 group-title="成人电视台" tvg-id="3211" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="426158" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sexy-hot-br.svg",Sexy Hot
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6282/index.m3u8
@@ -109,17 +109,17 @@ http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18075/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6277/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="3250" tvg-logo="http://epg.one/img2/3250.png",Red XXX
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6281/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4788.png",OX-AX HD
+#EXTINF:-1 group-title="成人电视台" tvg-id="4788" tvg-logo="http://epg.one/img2/4788.png",OX-AX HD
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11068/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://cdn.epg.one/img2/3239.png",Balkan Erotic
+#EXTINF:-1 group-title="成人电视台" tvg-id="3239" tvg-logo="http://cdn.epg.one/img2/3239.png",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6270/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://cdn.epg.one/img2/4932.png",Meiden van Holland
+#EXTINF:-1 group-title="成人电视台" tvg-id="4932" tvg-logo="http://cdn.epg.one/img2/4932.png",Meiden van Holland
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12125/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/3257.png",XY Plus
+#EXTINF:-1 group-title="成人电视台" tvg-id="3257" tvg-logo="http://epg.one/img2/3257.png",XY Plus
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6288/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/3255.png",XY Max
+#EXTINF:-1 group-title="成人电视台" tvg-id="3255" tvg-logo="http://epg.one/img2/3255.png",XY Max
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/3256.png",XY Mix
+#EXTINF:-1 group-title="成人电视台" tvg-id="3256" tvg-logo="http://epg.one/img2/3256.png",XY Mix
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6287/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dusk-tv-nl.svg",Dusk
 http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/694
@@ -131,13 +131,13 @@ http://7inter2.cc:8080/15648640/1564564Kjs/18977
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hot-pt.png",Hot
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6275/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4913.png",Alba XXX HD1
+#EXTINF:-1 group-title="成人电视台" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png",Alba XXX HD1
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12106/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="7759" tvg-logo="http://epg.one/img2/7759.png",Alba XXX HD2
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12194/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4948.png",Veraporn Group Sex
+#EXTINF:-1 group-title="成人电视台" tvg-id="4948" tvg-logo="http://epg.one/img2/4948.png",Veraporn Group Sex
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12141/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4949.png",Veraporn Group Sex 2
+#EXTINF:-1 group-title="成人电视台" tvg-id="4949" tvg-logo="http://epg.one/img2/4949.png",Veraporn Group Sex 2
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12142/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
@@ -171,21 +171,21 @@ http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12147/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12148/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="446066" tvg-logo="http://epg.one/img2/4956.png",Pink Erotic 4
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12149/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4957.png",Pink Erotic 5
+#EXTINF:-1 group-title="成人电视台" tvg-id="4957" tvg-logo="http://epg.one/img2/4957.png",Pink Erotic 5
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12150/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4958.png",Pink Erotic 6
+#EXTINF:-1 group-title="成人电视台" tvg-id="4958" tvg-logo="http://epg.one/img2/4958.png",Pink Erotic 6
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12151/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4959.png",Pink Erotic 7
+#EXTINF:-1 group-title="成人电视台" tvg-id="4959" tvg-logo="http://epg.one/img2/4959.png",Pink Erotic 7
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12152/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4960.png",Pink Erotic 8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4960" tvg-logo="http://epg.one/img2/4960.png",Pink Erotic 8
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12153/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="2526" tvg-logo="http://epg.one/img2/2526.png",French Lover
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12124/index.m3u8
-#EXTINF:-1 group-title="成人电视台"  tvg-id="6322" tvg-logo="http://epg.one/img2/6322.png",Tviksel Кино 18+ International
+#EXTINF:-1 group-title="成人电视台" tvg-id="6322" tvg-logo="http://epg.one/img2/6322.png",Tviksel Кино 18+ International
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18076/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://cdn.epg.one/img2/4943.png",Passie XXX
+#EXTINF:-1 group-title="成人电视台" tvg-id="4943" tvg-logo="http://cdn.epg.one/img2/4943.png",Passie XXX
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12136/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="http://epg.one/img2/4787.png",KinoXXX
+#EXTINF:-1 group-title="成人电视台" tvg-id="4787" tvg-logo="http://epg.one/img2/4787.png",KinoXXX
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11052/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",Legal
 http://vipbxcass.top:8080/VIP017901757932185619/b0bf8b2b28bd/132496
