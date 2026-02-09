@@ -19,4 +19,5 @@ Playboy La,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #__#
 Dorcel TV,https://cdnsk003.panaccess.com/local/Dorcel/tracks-v1a1/mono.m3u8
 
-
+#__#
+Babes TV,https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
