@@ -195,6 +195,8 @@ http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12191/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12192/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="7758" tvg-logo="http://epg.one/img2/7758.png",Alex Legend
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12193/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Blue TV
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/10348
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",Olero
 http://tv.diablotv.net:8080/vsolis0285/cdd09c8d827c/164505
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",Desire
