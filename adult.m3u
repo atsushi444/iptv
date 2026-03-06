@@ -1,16 +1,338 @@
 &#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/978.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/979.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="",香蕉台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/981.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/982.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/983.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/984.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/985.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/986.ts
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/987.ts
+#EXTINF:-1 group-title="PRIVADO",LOOK
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/980.ts
+#EXTINF:-1 group-title="PRIVADO",彩虹K台
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/988.ts
+#EXTINF:-1 group-title="PRIVADO",奥视频道1Ours1HD
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/989.ts
+#EXTINF:-1 group-title="PRIVADO",奥视频道2Ours2HD
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/990.ts
+#EXTINF:-1 group-title="PRIVADO",VikiHD(KR)
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/991.ts
+#EXTINF:-1 group-title="PRIVADO",PlayboyHD(KR)
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/992.ts
+#EXTINF:-1 group-title="PRIVADO",Midnight??19+HD(KR)
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/993.ts
+#EXTINF:-1 group-title="PRIVADO",Midnight??19+540P(KR)
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/994.ts
+#EXTINF:-1 group-title="PRIVADO",Viki540P(KR)
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/995.ts
+#EXTINF:-1 group-title="PRIVADO",Playboy
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/996.ts
+#EXTINF:-1 group-title="PRIVADO",VividRed
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/997.ts
+#EXTINF:-1 group-title="PRIVADO",Private
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/998.ts
+#EXTINF:-1 group-title="PRIVADO",Dorcel
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/999.ts
+#EXTINF:-1 group-title="PRIVADO",DorcelXXX
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1000.ts
+#EXTINF:-1 group-title="PRIVADO",HustlerTV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1001.ts
+#EXTINF:-1 group-title="PRIVADO",PenthouseGold
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1002.ts
+#EXTINF:-1 group-title="PRIVADO",RedLight
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1003.ts
+#EXTINF:-1 group-title="PRIVADO",BrazzersTV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1004.ts
+#EXTINF:-1 group-title="PRIVADO",BlueHustler
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1005.ts
+#EXTINF:-1 group-title="PRIVADO",VividTouch
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1006.ts
+#EXTINF:-1 group-title="PRIVADO",Erox
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1007.ts
+#EXTINF:-1 group-title="PRIVADO",PenthouseQuickie
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1008.ts
+#EXTINF:-1 group-title="PRIVADO",VIXEN
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1009.ts
+#EXTINF:-1 group-title="PRIVADO",BabesXXX
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1010.ts
+#EXTINF:-1 group-title="PRIVADO",EXXOTICA
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1011.ts
+#EXTINF:-1 group-title="PRIVADO",HustlerXXXTV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1012.ts
+#EXTINF:-1 group-title="PRIVADO",XyPlus
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1013.ts
+#EXTINF:-1 group-title="PRIVADO",XyMix
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1014.ts
+#EXTINF:-1 group-title="PRIVADO",XyMax
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1015.ts
+#EXTINF:-1 group-title="PRIVADO",Ohah
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1016.ts
+#EXTINF:-1 group-title="PRIVADO",XXL
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1017.ts
+#EXTINF:-1 group-title="PRIVADO",FapTVanal
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1018.ts
+#EXTINF:-1 group-title="PRIVADO",BarleyLegal
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1019.ts
+#EXTINF:-1 group-title="PRIVADO",ShalunTV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1020.ts
+#EXTINF:-1 group-title="PRIVADO",Extasy
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1021.ts
+#EXTINF:-1 group-title="PRIVADO",BrazzersTVEurope
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1022.ts
+#EXTINF:-1 group-title="PRIVADO",REDLIPS
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1023.ts
+#EXTINF:-1 group-title="PRIVADO",Eroxxx
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1025.ts
+#EXTINF:-1 group-title="PRIVADO",Desire
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1026.ts
+#EXTINF:-1 group-title="PRIVADO",LEOHD
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1027.ts
+#EXTINF:-1 group-title="PRIVADO",RealityKingsHD
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1028.ts
+#EXTINF:-1 group-title="PRIVADO",JPC0930
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1029.ts
+#EXTINF:-1 group-title="PRIVADO",JPCatwalk
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1030.ts
+#EXTINF:-1 group-title="PRIVADO",JPH4610
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1031.ts
+#EXTINF:-1 group-title="PRIVADO",JPHeyzo
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1032.ts
+#EXTINF:-1 group-title="PRIVADO",JPPacopacomama
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1033.ts
+#EXTINF:-1 group-title="PRIVADO",JPXXX-AV
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1034.ts
+#EXTINF:-1 group-title="PRIVADO",JP加勒比Caribbean
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1035.ts
+#EXTINF:-1 group-title="PRIVADO",JP一本道1Pondo
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1036.ts
+#EXTINF:-1 group-title="PRIVADO",JP东京热TokyoHot
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1037.ts
+#EXTINF:-1 group-title="PRIVADO",JPJ-Girl
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1038.ts
+#EXTINF:-1 group-title="PRIVADO",JP日本素人无码10Musume
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1039.ts
+#EXTINF:-1 group-title="PRIVADO",JP日本FC2-PPV1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1040.ts
+#EXTINF:-1 group-title="PRIVADO",JP中字有码JPMOV1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1041.ts
+#EXTINF:-1 group-title="PRIVADO",JP中字有码JPMOV2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1042.ts
+#EXTINF:-1 group-title="PRIVADO",JP苍井空SolaAoi
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1043.ts
+#EXTINF:-1 group-title="PRIVADO",JP波多野结衣YuiHatano
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1044.ts
+#EXTINF:-1 group-title="PRIVADO",JP上原亜衣AiUehara
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1045.ts
+#EXTINF:-1 group-title="PRIVADO",JP古川伊織IoriKogawa
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1046.ts
+#EXTINF:-1 group-title="PRIVADO",JPVR1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1047.ts
+#EXTINF:-1 group-title="PRIVADO",JP奥运冠军金丝雀GoldBird
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1048.ts
+#EXTINF:-1 group-title="PRIVADO",JP天堂素人約啪
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1049.ts
+#EXTINF:-1 group-title="PRIVADO",邵氏三级
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1050.ts
+#EXTINF:-1 group-title="PRIVADO",猫先生MR.Cat
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1051.ts
+#EXTINF:-1 group-title="PRIVADO",韩国演艺圈潜规则ScandaKorea
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1052.ts
+#EXTINF:-1 group-title="PRIVADO",大神利哥探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1053.ts
+#EXTINF:-1 group-title="PRIVADO",CN天美传媒
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1054.ts
+#EXTINF:-1 group-title="PRIVADO",91短视频-果冻传媒
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1055.ts
+#EXTINF:-1 group-title="PRIVADO",台灣片商PsychopornTW
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1056.ts
+#EXTINF:-1 group-title="PRIVADO",日本强奸迷奸
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1057.ts
+#EXTINF:-1 group-title="PRIVADO",男爵全国探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1058.ts
+#EXTINF:-1 group-title="PRIVADO",大陆真实迷奸
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1059.ts
+#EXTINF:-1 group-title="PRIVADO",千人斩
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1060.ts
+#EXTINF:-1 group-title="PRIVADO",SM西贡女
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1061.ts
+#EXTINF:-1 group-title="PRIVADO",七天极品探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1062.ts
+#EXTINF:-1 group-title="PRIVADO",午夜探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1063.ts
+#EXTINF:-1 group-title="PRIVADO",小宝探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1064.ts
+#EXTINF:-1 group-title="PRIVADO",金三角猎艳
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1065.ts
+#EXTINF:-1 group-title="PRIVADO",黑人干翻一切
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1066.ts
+#EXTINF:-1 group-title="PRIVADO",麻豆大番
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1067.ts
+#EXTINF:-1 group-title="PRIVADO",91沈先生
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1068.ts
+#EXTINF:-1 group-title="PRIVADO",鸭总侦探
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1069.ts
+#EXTINF:-1 group-title="PRIVADO",JP中字有码3
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1070.ts
+#EXTINF:-1 group-title="PRIVADO",麻豆导演
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1071.ts
+#EXTINF:-1 group-title="PRIVADO",麻豆外番
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1072.ts
+#EXTINF:-1 group-title="PRIVADO",无码破解
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1073.ts
+#EXTINF:-1 group-title="PRIVADO",麻豆台湾日本篇
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1074.ts
+#EXTINF:-1 group-title="PRIVADO",日本情色动漫1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1075.ts
+#EXTINF:-1 group-title="PRIVADO",韩国三级1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1076.ts
+#EXTINF:-1 group-title="PRIVADO",韩国三级2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1077.ts
+#EXTINF:-1 group-title="PRIVADO",加勒比全球同步頻道
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1078.ts
+#EXTINF:-1 group-title="PRIVADO",Cumshots
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1096.ts
+#EXTINF:-1 group-title="PRIVADO",FootFactory
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1097.ts
+#EXTINF:-1 group-title="PRIVADO",21Members
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1098.ts
+#EXTINF:-1 group-title="PRIVADO",bluebillmen
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1099.ts
+#EXTINF:-1 group-title="PRIVADO",naughtyamerica1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1100.ts
+#EXTINF:-1 group-title="PRIVADO",1on1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1101.ts
+#EXTINF:-1 group-title="PRIVADO",21sextuary
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1102.ts
+#EXTINF:-1 group-title="PRIVADO",Blacked
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1103.ts
+#EXTINF:-1 group-title="PRIVADO",PornLowCost
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1104.ts
+#EXTINF:-1 group-title="PRIVADO",Office
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1105.ts
+#EXTINF:-1 group-title="PRIVADO",Blackgirl
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1106.ts
+#EXTINF:-1 group-title="PRIVADO",GayVNAwards
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1107.ts
+#EXTINF:-1 group-title="PRIVADO",LegalPorn
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1108.ts
+#EXTINF:-1 group-title="PRIVADO",SheWillCheat
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1109.ts
+#EXTINF:-1 group-title="PRIVADO",MarcDorcel
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1110.ts
+#EXTINF:-1 group-title="PRIVADO",Anikkas
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1111.ts
+#EXTINF:-1 group-title="PRIVADO",ArabsExposed
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1112.ts
+#EXTINF:-1 group-title="PRIVADO",X-art
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1113.ts
+#EXTINF:-1 group-title="PRIVADO",Dffnetwork
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1114.ts
+#EXTINF:-1 group-title="PRIVADO",Blackedraw
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1115.ts
+#EXTINF:-1 group-title="PRIVADO",Xconfession
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1116.ts
+#EXTINF:-1 group-title="PRIVADO",Kinpatu
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1117.ts
+#EXTINF:-1 group-title="PRIVADO",Mofos
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1118.ts
+#EXTINF:-1 group-title="PRIVADO",FuckedandBound
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1119.ts
+#EXTINF:-1 group-title="PRIVADO",美国家庭乱伦
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1120.ts
+#EXTINF:-1 group-title="PRIVADO",俄罗斯强奸
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1121.ts
+#EXTINF:-1 group-title="PRIVADO",GrandpaFuck
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/1122.ts
+#EXTINF:-1 group-title="PRIVADO",精东影业
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2481.ts
+#EXTINF:-1 group-title="PRIVADO",三级片精选1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2483.ts
+#EXTINF:-1 group-title="PRIVADO",三级片精选2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2484.ts
+#EXTINF:-1 group-title="PRIVADO",JPSkyangelBlue
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2494.ts
+#EXTINF:-1 group-title="PRIVADO",黑人探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2529.ts
+#EXTINF:-1 group-title="PRIVADO",韩国三级1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2530.ts
+#EXTINF:-1 group-title="PRIVADO",韩国三级2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2531.ts
+#EXTINF:-1 group-title="PRIVADO",JP有码破解1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2532.ts
+#EXTINF:-1 group-title="PRIVADO",RussiaRape
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2545.ts
+#EXTINF:-1 group-title="PRIVADO",AmericaFamily
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2546.ts
+#EXTINF:-1 group-title="PRIVADO",LittleCaprice
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2562.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧王安全探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2590.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧老王探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2591.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧老王探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2592.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧欧阳克探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2593.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧建材王哥探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2594.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧大熊探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2595.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧西门庆探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2596.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧洪七探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2597.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧鸠摩智探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2598.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧尹志平探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2599.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧李寻欢探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2600.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧李寻欢探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2601.ts
+#EXTINF:-1 group-title="PRIVADO",CN91猫先生HD
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2602.ts
+#EXTINF:-1 group-title="PRIVADO",CN我不是AV男优探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2603.ts
+#EXTINF:-1 group-title="PRIVADO",CN我的枪好长探花-1
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2604.ts
+#EXTINF:-1 group-title="PRIVADO",CN我的枪好长探花-2
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2605.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧小飞探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2606.ts
+#EXTINF:-1 group-title="PRIVADO",CN杏吧鱼知欢探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2607.ts
+#EXTINF:-1 group-title="PRIVADO",CN一杆钢枪探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/2608.ts
+#EXTINF:-1 group-title="PRIVADO",CN猴子探花
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26633.ts
+#EXTINF:-1 group-title="PRIVADO",AbuseMee
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26634.ts
+#EXTINF:-1 group-title="PRIVADO",AnnaDi
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26635.ts
+#EXTINF:-1 group-title="PRIVADO",CharlotteSartre
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26636.ts
+#EXTINF:-1 group-title="PRIVADO",CrazyWifeSlut
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26637.ts
+#EXTINF:-1 group-title="PRIVADO",KLCouple
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26638.ts
+#EXTINF:-1 group-title="PRIVADO",PublicAgent
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26639.ts
+#EXTINF:-1 group-title="PRIVADO",WiredPussy
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26640.ts
+#EXTINF:-1 group-title="PRIVADO",香港三级精选
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26641.ts
+#EXTINF:-1 group-title="PRIVADO",邵氏艳情精选
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/26642.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
@@ -21,12 +343,7 @@ http://125.227.210.55:3016/VideoInput/play.ts
 http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
-http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://z88.ubtvfans.com/live/rx3/2930/f1b639cdb783636b957ca60e67a2c6b3/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png",CARAC5（早7）
