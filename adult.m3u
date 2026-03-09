@@ -1,22 +1,22 @@
 &#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/978.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/979.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/981.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/982.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/983.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/984.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/985.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/986.ts
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
-http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A4995225115%E7%A6%8F%E5%88%A9/12359876/987.ts
+
 #EXTINF:-1 group-title="PRIVADO",jgirl
 https://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",91短视频
