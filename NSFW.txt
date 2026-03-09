@@ -33,3 +33,8 @@ Private HD XXX,http://78.130.250.2:8023/play/a03h/index.m3u8
 DORCEL TV HD,http://78.130.250.2:8023/play/a069/index.m3u8
 Redlight HD,http://78.130.250.2:8023/play/a05q/index.m3u8
 Blue Hustler XXX,http://78.130.250.2:8023/play/a03g/index.m3u8
+
+
+#__#
+PENTHOUSE REALITY,http://77.76.145.201:4040/udp/239.39.33.196:1234
+PENTHOUSE PASSION,http://77.76.145.201:4040/udp/239.39.33.197:1234
