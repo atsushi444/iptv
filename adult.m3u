@@ -1,4 +1,4 @@
-&#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
+#EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
