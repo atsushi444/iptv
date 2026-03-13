@@ -3,18 +3,20 @@
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
 
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
-
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
-
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+#EXTINF:-1 group-title="PRIVADO",香蕉台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
-
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2台
-
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3台
-
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
@@ -118,6 +120,8 @@ http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/242/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="390425" tvg-logo="https://epg.iptvx.one/picons/reality-kings.png",Reality Kings TV
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/19480
+#EXTINF:-1 group-title="ADULTO" tvg-id="6472" tvg-logo="https://epg.iptvx.one/picons/redlips.png",Red Lips
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6271/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6957" tvg-logo="https://epg.iptvx.one/picons/super-one.png",Super One HD
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6298/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7519" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png",Vivid Red
@@ -470,8 +474,6 @@ http://xplatinproject.com:8080/Dedicadonet/mBG5Z0Ld9bvAADw2JvCzhaDaogziWN/74378
 http://xvpn.eu01.live:8080/Matthias/Big222/695095
 #EXTINF:-1 group-title="ADULTO" tvg-id="7011" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png",Barely Legal TV
 http://bntvs.com:2052/dejanm/302841048/9581
-#EXTINF:-1 group-title="ADULTO" tvg-id="6472" tvg-logo="https://epg.iptvx.one/picons/redlips.png",Red Lips
-http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6271/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="451197" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png",XXL
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5009/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://cdn.mitvstatic.com/channels/br_sexprive-brasileirinhas_m.png",Sex Prive
