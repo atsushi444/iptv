@@ -1,5 +1,6 @@
 - [兔子先生](https://moso.monster/)
 - [桃太郎映像出版](https://www.indies-av.co.jp/)
+- [放克娱乐](https://www.furuke.com/iFunkystyle)
 - [AccidentalGangbang]()
 - [AdultTime]()
 - [BangBros]()
