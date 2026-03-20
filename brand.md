@@ -1,6 +1,8 @@
 - [兔子先生](https://moso.monster/)
 - [桃太郎映像出版](https://www.indies-av.co.jp/)
 - [放克娱乐](https://www.furuke.com/iFunkystyle)
+- [大象传媒](https://www.furuke.com/daxiangtw)
+- [Ed Mosaic](https://www.furuke.com/ed_mosaic)
 - [AccidentalGangbang](https://www.accidentalgangbang.com/)
 - [AdultTime]()
 - [BangBros](https://bangbros.com/)
