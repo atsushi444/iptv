@@ -9,6 +9,7 @@
 - [宇宙列车](https://myfans.asia/@spacetrain7654)
 - [美缝有约](https://fansone.co/meiphone420)
 - [猫仔间](https://fansone.co/MaozaiStudio)
+- [YoShiE](https://fansone.co/justdoyeeeee)
 - [AccidentalGangbang](https://www.accidentalgangbang.com/)
 - [AdultTime]()
 - [BangBros](https://bangbros.com/)
