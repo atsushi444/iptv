@@ -4,6 +4,7 @@
 - [大象传媒](https://www.furuke.com/daxiangtw)
 - [Ed Mosaic](https://www.furuke.com/ed_mosaic)
 - [公鸡俱乐部](https://www.furuke.com/roosters_clubtw)
+- [小姐爱吸蒂](https://www.furuke.com/Dennis0708)
 - [宇宙列车](https://myfans.asia/@spacetrain7654)
 - [美缝有约](https://fansone.co/meiphone420)
 - [AccidentalGangbang](https://www.accidentalgangbang.com/)
