@@ -113,7 +113,7 @@ http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5011/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="418030" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png",Penthouse Reality TV
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5013/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7265" tvg-logo="https://epg.iptvx.one/picons/penthouse-hd.png",Penthouse Passion
-http://dplatino.net:80/Copla/HH28wHfJ5hSV/316927
+https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
 http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546
 #EXTINF:-1 group-title="ADULTO" tvg-id="6597" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png",Redlight HD
@@ -182,8 +182,8 @@ http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12142/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/20089/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="7252" tvg-logo="http://epg.one/img2/7252.png",CineMan ExExEx TWO
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/20090/index.m3u8
-#EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",
-
+#EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",OLERO Babes
+https://streams.alwaysdata.net/x?ch=centoxcento.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-id="" tvg-logo="",
