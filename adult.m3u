@@ -55,7 +55,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
-http://91.218.50.136:8080/Rose35torres/iB7101/1877
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6280/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="2014" tvg-logo="http://cdn.epg.one/img2/2014.png",Playboy
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12135/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="3211" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
