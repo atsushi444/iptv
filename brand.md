@@ -12,6 +12,7 @@
 - [狠台北](https://fansone.co/Asdfff2213)
 - [YoShiE](https://fansone.co/justdoyeeeee)
 - [汉生](https://fansone.co/HansonTaiwan)
+- [烈](https://myfans.jp/Retsu_dao)
 - [AccidentalGangbang](https://www.accidentalgangbang.com/)
 - [AdultTime]()
 - [BangBros](https://bangbros.com/)
