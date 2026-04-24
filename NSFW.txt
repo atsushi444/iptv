@@ -34,4 +34,15 @@ DORCEL TV HD,http://78.130.250.2:8023/play/a069/index.m3u8
 Redlight HD,http://78.130.250.2:8023/play/a05q/index.m3u8
 Blue Hustler XXX,http://78.130.250.2:8023/play/a03g/index.m3u8
 
+#__#
+PINK EROTIC 3,http://143.244.63.87/pinkerotic3/playlist.m3u8
+PINK EROTIC 2,http://143.244.63.87/pinkerotic2/playlist.m3u8
+EROXXX,http://143.244.63.87/eroxxx/playlist.m3u8
+
+#__#
+PENTHOUSE GOLD,http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+PENTHOUSE REALITY,http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+
+#__#
+PLAYBOY TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 
