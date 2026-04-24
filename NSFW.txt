@@ -49,3 +49,7 @@ PLAYBOY TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 #__#
 Playboy TV HD,http://5.57.74.130:8000/play/a0c8/index.m3u8
 
+#__#
+PLAYBOY,http://148.230.149.45:1021/play/a01t/index.m3u8
+VENUS,http://148.230.149.45:1021/play/a01u/index.m3u8
+SEXTREM,http://148.230.149.45:1021/play/a01v/index.m3u8
