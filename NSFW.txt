@@ -46,3 +46,6 @@ PENTHOUSE REALITY,http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #__#
 PLAYBOY TV,http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 
+#__#
+Playboy TV HD,http://5.57.74.130:8000/play/a0c8/index.m3u8
+
