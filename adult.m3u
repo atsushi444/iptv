@@ -8274,6 +8274,8 @@ https://s3.aaaaa.io/f37ed466d6e5ca73c9fead8cfc8ed906/f37ed466d6e5ca73c9fead8cfc8
 https://s3.aaaaa.io/068dc300c0eea40fc53a4f2ef4fde87b/068dc300c0eea40fc53a4f2ef4fde87b.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h4610.com/moviepages/ori1580/images/movie.jpg",H4610-ori1580 村瀬 レイ
 
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h4610.com/moviepages/ori1583/images/movie.jpg",H4610-ori1583 村瀬 レイ
+https://s3.aaaaa.io/afc8e26f86054bb8258cc8e9ad61a4a8/afc8e26f86054bb8258cc8e9ad61a4a8.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h4610.com/moviepages/ori1615/images/movie.jpg",H4610-ori1615 三原 雅
 https://s3.aaaaa.io/62a11a53d8917990940ad3eec824bf5f/62a11a53d8917990940ad3eec824bf5f.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://media.missav.run/images/av/fdfceba90dc277620ca3182790277767.jpg",H4610-ki231112 神戸 まどか
@@ -8342,8 +8344,6 @@ https://s3.aaaaa.io/21122c2ca050c62d96e83377c489bccf/21122c2ca050c62d96e83377c48
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",H4610-
 
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",H4610-
-
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h4610.com/moviepages/ori1650/images/movie.jpg",H4610-ori1650 曽根本 あかり
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h0930.com/moviepages/ori1066/images/movie.jpg",H0930-ori1066 井上 美佳
@@ -8362,6 +8362,8 @@ https://s3.aaaaa.io/b48c09fcf64940a8f7c1b455a4f587ab/b48c09fcf64940a8f7c1b455a4f
 https://s3.aaaaa.io/d45979037cfcdf7e286453e2bb569e0f/d45979037cfcdf7e286453e2bb569e0f.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h0930.com/moviepages/pla0009/images/movie.jpg",H0930-pla0009 片桐 舞
 https://s3.aaaaa.io/06bcc563f115f3e44ad7c11b65ce12db/06bcc563f115f3e44ad7c11b65ce12db.m3u8
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h0930.com/moviepages/gol083/images/movie.jpg",H0930-gol083 片桐 舞
+
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h0930.com/moviepages/ori1468/images/movie.jpg",H0930-ori1468 夢野 春加
 https://s3.aaaaa.io/cd73a3ee466df7fddf6259f9619f77a3/cd73a3ee466df7fddf6259f9619f77a3.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.h0930.com/moviepages/orimrs431/images/movie.jpg",H0930-orimrs431 長畑 瑠美子
@@ -8552,12 +8554,12 @@ https://s3.aaaaa.io/c39a04777f255fd56f2c6f5516969431/c39a04777f255fd56f2c6f55169
 https://s3.aaaaa.io/c3daddeace0325eaf5d42bd8bc30d361/c3daddeace0325eaf5d42bd8bc30d361.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.c0930.com/moviepages/hitozuma1159/images/movie.jpg",C0930-hitozuma1159 小川原 紫鶴
 https://s3.aaaaa.io/bae5eeec8f17202e7acfc08d262f8a5e/bae5eeec8f17202e7acfc08d262f8a5e.m3u8
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",C0930-
-
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",C0930-
-
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",C0930-
-
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.c0930.com/moviepages/hitozuma0987/images/movie.jpg",C0930-hitozuma0987 多田 絵里砂
+https://s3.aaaaa.io/b14fd26dca7b7010a271c00e69cf7c04/b14fd26dca7b7010a271c00e69cf7c04.m3u8
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.c0930.com/moviepages/chijyo0061/images/movie.jpg",C0930-chijyo0061 徳永 瞳
+https://s3.aaaaa.io/3b6e86452dd98a1b9c2ab5c7e3b3611d/3b6e86452dd98a1b9c2ab5c7e3b3611d.m3u8
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://www.c0930.com/moviepages/hitozuma0813/images/movie.jpg",C0930-hitozuma0813 瀬野 光
+https://s3.aaaaa.io/bdf80d70886e4ac0e8cc9562b2157fdf/bdf80d70886e4ac0e8cc9562b2157fdf.m3u8
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",C0930-
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",C0930-
