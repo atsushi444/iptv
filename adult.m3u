@@ -1,6 +1,4 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
-
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
@@ -19,17 +17,15 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
 
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
-
 #EXTINF:-1 group-title="PRIVADO",松視3
 https://z3.ubtvfans.com/live/rx3/404/480fe5db5808b25f8ea2d51ccea17233/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",極限電影
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456840" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar%20tv.jpg",極限電影台
 https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",彩虹E
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456830" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/rainbow.png",彩虹頻道
 https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",潘朵拉完美
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456839" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_pink.png",潘朵啦粉红台
 https://z3.ubtvfans.com/live/rx3/410/4bed718a67aa82a3c0c30be5919498f7/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",彩虹K
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456831" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20E.png",彩虹e台
 https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",JStar
 https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
