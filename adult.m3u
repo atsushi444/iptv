@@ -1,5 +1,10 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
+http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
+#EXTINF:-1 group-title="PRIVADO",香蕉台
+http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
@@ -15,7 +20,7 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+
 
 #EXTINF:-1 group-title="PRIVADO",松視3
 https://z3.ubtvfans.com/live/rx3/404/480fe5db5808b25f8ea2d51ccea17233/index.m3u8
@@ -115,6 +120,7 @@ https://z3.ubtvfans.com/live/rx4/3190/da53f5b1bd04b58068c25a0b201c6c6f/index.m3u
 https://z3.ubtvfans.com/live/rx5/3193/4ca82b148c5599e6a5407bd3bebfa97c/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",韩国三级 2
 https://z3.ubtvfans.com/live/rx1/3194/649809263cb13995d002d300ff7d9901/index.m3u8
+
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
