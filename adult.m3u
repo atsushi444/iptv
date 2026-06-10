@@ -5,6 +5,10 @@ http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
 http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
 http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
+#EXTINF:-1 group-title="PRIVADO",彩虹e台
+http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
+#EXTINF:-1 group-title="PRIVADO",JStar極限台電影頻道
+http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
 #EXTINF:-1 group-title="PRIVADO",香蕉台
 http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
 #EXTINF:-1 group-title="PRIVADO",惊艳台
@@ -17,10 +21,6 @@ http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
 http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
 #EXTINF:-1 group-title="PRIVADO",松视3
 http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
-#EXTINF:-1 group-title="PRIVADO",彩虹e
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
-#EXTINF:-1 group-title="PRIVADO",JStar
-http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
 
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
