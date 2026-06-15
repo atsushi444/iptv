@@ -281,11 +281,11 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6272/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/16069/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6777" tvg-logo="https://epg.iptvx.one/picons/russkaya-noch.png",Русская Ночь
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/2057/index.m3u8
-#EXTINF:-1 group-title="ADULTO" tvg-id="539440" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png",Penthouse Gold
+#EXTINF:-1 group-title="ADULTO" tvg-id="539440" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png",Penthouse Gold HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5011/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="418030" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png",Penthouse Reality TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5013/index.m3u8
-#EXTINF:-1 group-title="ADULTO" tvg-id="7265" tvg-logo="https://epg.iptvx.one/picons/penthouse-hd.png",Penthouse Passion
+#EXTINF:-1 group-title="ADULTO" tvg-id="7265" tvg-logo="https://epg.iptvx.one/picons/penthouse-hd.png",Penthouse Passion HD
 http://ns2.138754.xyz:80/ege0343/mstfa12.v/402570
 #EXTINF:-1 group-title="ADULTO" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
 http://ns2.138754.xyz:80/ege0343/mstfa12.v/402558
@@ -1829,6 +1829,24 @@ http://ns2.138754.xyz:80/ege0343/mstfa12.v/402662
 http://ns2.138754.xyz:80/ege0343/mstfa12.v/402663
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",Naughty
 http://ns2.138754.xyz:80/ege0343/mstfa12.v/402664
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Oldtimer
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402665
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Bangerz
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402666
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse TV
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402667
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse After Midnight
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402668
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse Naughty Nights
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402669
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouae Passion
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402670
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse Gold
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402671
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse Quickies
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402672
+#EXTINF:-1 group-title="ADULTO" tvg-logo="",Penthouse Black
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402673
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",
 
 #EXTINF:-1 group-title="ADULTO" tvg-logo="",
