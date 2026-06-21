@@ -1,8 +1,4 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",CCTV-5 体育
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="",CCTV-5 体育
-http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
 http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
@@ -172,7 +168,7 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6282/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="426016" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6284/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="76642" tvg-logo="http://cdn.epg.one/img2/7743.png",Beate Uhse TV
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12163/index.m3u8
+http://ns2.138754.xyz:80/ege0343/mstfa12.v/402616
 #EXTINF:-1 group-title="ADULTO" tvg-id="491017" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png",BCU Charm HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/18053/index.m3u8
 #EXTINF:-1 group-title="ADULTO" tvg-id="6926" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe
