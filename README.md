@@ -48,3 +48,5 @@ DIYP
 - https://epg.112114.xyz
 - http://epg.51zmt.top:8000/api/diyp/
 
+香蕉视频
+- https://h5.xxoo444.org/pc.html
