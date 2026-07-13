@@ -31,8 +31,6 @@
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 ### 在线播放
 - [VidGrid](https://vidgrid.tk.gg) - Player for IPTV (.m3u8) playlists.
-- [M3U Magic](https://tools.cieloweb.com/tools/m3u-magic) - Privacy focused web player that allows you to open and stream M3U and M3U8 playlists directly in your browser, built for speed, simplicity, and full client side playback.
-
 
 
 ### 节目表
