@@ -31,7 +31,7 @@
 - [IPTV Player](https://iptv.maheshwarravuri.com) - Open-soure Flutter app that allows you to watch publicly accessible streams from within your browser.
 ### 在线播放
 - [VidGrid](https://vidgrid.tk.gg) - Player for IPTV (.m3u8) playlists.
-- [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+
 
 
 ### 节目表
