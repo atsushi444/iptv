@@ -50,7 +50,7 @@ DIYP
 
 ### 官方网站
 香蕉视频
-- https://h5.xxoo444.org/pc.html
+- https://www.xj5.me/pc.html
 
 兔子先生
 - https://moso.monster/
