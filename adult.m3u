@@ -1,27 +1,9 @@
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz"
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456832" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow%20Movie.png",彩虹電影台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
-#EXTINF:-1 group-title="PRIVADO",彩虹e台
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
-#EXTINF:-1 group-title="PRIVADO",JStar極限台電影頻道
-http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
-#EXTINF:-1 group-title="PRIVADO",香蕉台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-#EXTINF:-1 group-title="PRIVADO",惊艳台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
-#EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
-http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
-#EXTINF:-1 group-title="PRIVADO",松视1
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
-#EXTINF:-1 group-title="PRIVADO",松视2
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
-#EXTINF:-1 group-title="PRIVADO",松视3
-http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
 
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456845" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
+
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456833" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",K 頻道
 #EXTINF:-1 group-title="PRIVADO",惊艳台
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
 
@@ -746,12 +728,6 @@ https://je40u1.cdnedge.live/file/avple-asserts/hls/65ea473b4065277a0974dc83/play
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
 
 ##兔子先生/Pussy Hunter/映秀传媒
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
@@ -766,8 +742,6 @@ https://je40u1.cdnedge.live/file/avple-asserts/hls/65ea473b4065277a0974dc83/play
 https://10j991.cdnedge.live/file/avple-asserts/hls/6832414f8a769839589b03bd/playlist.m3u8
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/2e3bc645057e47e71dd790ca9c1f1795a0f2a5d3b2651e2f2068f5a5afbecdf7/thumbnails/video.jpg",MOSO-027.香月怜.BG Lin BKK
 https://ja34l1.cdnedge.live/file/avple-asserts/hls/6772c271bb40e4538599bd0c/playlist.m3u8
-#EXTINF:-1 group-title="ASIATICO" tvg-logo="",
-
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="",
 
 #EXTINF:-1 group-title="ASIATICO" tvg-logo="https://cdn-na.skiv.com/u/MV4LsiH/c921694a46b3ba04adc6b549111ff7e2c8feebde94a4eeaa2c2584fdac93eec0/thumbnails/video.jpg",MOSO-012.香月怜.女窃贼的惩罚
