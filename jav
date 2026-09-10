@@ -9,3 +9,4 @@
 【BonキュンBon】BKYNB
 【カミパイ】PAIOH
 【即席シロウト】INSF
+【ダスッ！】NAIAD（终止）
