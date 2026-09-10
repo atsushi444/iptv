@@ -7,6 +7,6 @@
 【MAGNOLIA】MGNL
 【ノースキンズ】NOSKN
 【BonキュンBon】BKYNB
-【カミパイ】PAIOH
-【即席シロウト】INSF
+【カミパイ】PAIOH（终止）
+【即席シロウト】INSF（终止）
 【ダスッ！】NAIAD（终止）
