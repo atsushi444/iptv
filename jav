@@ -8,4 +8,4 @@
 【BonキュンBon】BKYNB（终止）
 【カミパイ】PAIOH（终止）
 【即席シロウト】INSF（终止）
-【ダスッ！】DSOD PFES OFES NTRH（终止） NAIAD（终止）PLA（终止）
+【ダスッ！】DASS DSOD PFES OFES NTRH（终止） NAIAD（终止）PLA（终止）
