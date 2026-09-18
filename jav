@@ -8,4 +8,4 @@
 【BonキュンBon】BKYNB（终止）
 【カミパイ】PAIOH（终止）
 【即席シロウト】INSF（终止）
-【ダスッ！】NAIAD（终止）
+【ダスッ！】NAIAD（终止）PLA（终止）
