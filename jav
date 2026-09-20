@@ -9,3 +9,6 @@
 【カミパイ】PAIOH（终止）
 【即席シロウト】INSF（终止）
 【ダスッ！】DASS DASD（终止） DSOD PFES OFES NTRH（终止） NAIAD（终止）PLA（终止） CKCK（终止） AVOP（终止） AVGL（终止）
+【マドンナ】JUR JUL（终止）JUQ（终止）JUY（终止）JUX（终止） ROE OBA（终止）
+【溜池ゴロー】MFYD MEYD（终止） MDYD（终止）
+
