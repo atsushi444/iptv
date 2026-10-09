@@ -1,4 +1,4 @@
-【BOTAN】TLDC TLDSP（终止） VAIAV AIAV VOTAN（终止） IKUNA（终止） SEVEN
+【BOTAN】TLDC TLDSP（终止）VAIAV AIAV VOTAN（终止）IKUNA（终止）SEVEN
 【DAHLIA】DLDSS
 【FALENO】FNS FSDSS FADSS MGOLD JIMMY MFO MFT FTHT FTHTD FTK FTKD FTDSS FTBL FSFST LAX PFT ONFT
 【素人CLOVER】STCV STCVS
@@ -8,7 +8,13 @@
 【BonキュンBon】BKYNB（终止）
 【カミパイ】PAIOH（终止）
 【即席シロウト】INSF（终止）
-【ダスッ！】DASS DASD（终止） DSOD PFES OFES NTRH（终止） NAIAD（终止）PLA（终止） CKCK（终止） AVOP（终止） AVGL（终止）
-【マドンナ】JUR JUL（终止）JUQ（终止）JUY（终止）JUX（终止） ROE OBA（终止）
-【溜池ゴロー】MFYD MEYD（终止） MDYD（终止）
-
+【ダスッ！】DASS DASD（终止）DSOD NAIAD（终止）PLA（终止）
+【マドンナ】JUR JUL（终止）JUQ（终止）JUY（终止）JUX（终止）ROE OBA（终止）
+【溜池ゴロー】MFYD MEYD（终止）MDYD（终止）
+【Hunter】HUNTC HUNTB（终止）HUNTA（终止）HUNT（终止）HUBLK HUNBL（终止） HNTRZ HNTRS（终止）HHKL 
+【ROYAL】ROYD TYSF（终止）
+【Hsoda】HSODA
+【ノンフィクション】NSODN
+【青春リクリエイター】SODAH
+【お夜食カンパニー】OYC（终止）
+【ゴールデンタイム】GTAL（终止）
