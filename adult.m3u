@@ -15,12 +15,16 @@
 
 #EXTINF:-1 group-title="PRIVADO",惊艳台
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视1
+http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
+http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
 
-#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
+#EXTINF:-1 group-title="PRIVADO",惊艳台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",潘朵啦玩美台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 group-title="PRIVADO",惊艳台
+#EXTINF:-1 group-title="PRIVADO" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1台
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
@@ -33,11 +37,11 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 
 #EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視1台(125)
 http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1023/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",驚豔台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",惊艳台(125)
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
