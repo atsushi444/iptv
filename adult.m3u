@@ -17,6 +17,8 @@
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
 #EXTINF:-1 group-title="PRIVADO",松视1
 http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
+#EXTINF:-1 group-title="PRIVADO",松视2
+http://ctrl.yunshipin.bbroot.com:8080/streams/5kiecachjvk/gc/playlist.m3u8
 #EXTINF:-1 group-title="PRIVADO",潘朵啦玩美台
 http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
 
