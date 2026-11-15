@@ -22,4 +22,4 @@
 【ATOM】ATOM（终止）
 【ATLANTIS-H】ATHH（终止）
 【アパッチ】AP（终止）
-【S1】SSNI
+【S1】SNOS SONE（终止）SSIS（终止）SSNI（终止）SNIS（终止）SOE（终止）ONED（终止）ONE（终止）
