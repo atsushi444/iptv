@@ -47,6 +47,7 @@ DIYP
 - https://epg.112114.xyz
 - http://epg.51zmt.top:8000/api/diyp/
 
+https://wuso.me
 
 ### 官方网站
 香蕉视频
