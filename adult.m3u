@@ -12923,22 +12923,6 @@ https://avbox.mov/stream.php?v=ec19fc04-5053-4a51-9d87-ae143281c998&p=1280x720%2
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 
-##DVD
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://imgs02.aventertainments.com/archive/bigcover/dvd1dt-007.webp",DT-007 禁じられた関係 : 橘美沙
-https://v.hersav.me/5938ac27a9ab2db16fa25a81c55fe18f/5938ac27a9ab2db16fa25a81c55fe18f.m3u8
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
-
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
-
-
-##Sky
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
-
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
-
-#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
-
-
 ##CATCHEYE
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
@@ -12973,6 +12957,22 @@ https://v.hersav.me/5938ac27a9ab2db16fa25a81c55fe18f/5938ac27a9ab2db16fa25a81c55
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",KIN8TENGOKU-
 
 #EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",KIN8TENGOKU-
+
+
+##DVD
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="https://imgs02.aventertainments.com/archive/bigcover/dvd1dt-007.webp",DT-007 禁じられた関係 : 橘美沙
+https://v.hersav.me/5938ac27a9ab2db16fa25a81c55fe18f/5938ac27a9ab2db16fa25a81c55fe18f.m3u8
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
+
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
+
+
+##Sky
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
+
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
+
+#EXTINF:-1 group-title="SIN CENSURA" tvg-logo="",
 
 
 ##Mesubuta
