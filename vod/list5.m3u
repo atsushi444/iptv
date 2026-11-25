@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
 #EXTINF:-1 group-title="SUB" tvg-logo="https://pics.dmm.co.jp/digital/video/pppe00449/pppe00449pl.jpg",PPPE-449
 https://avbox.mov/stream.php?v=3917c598-61c9-460c-a7ac-14eab2d6f8bf&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SUB" tvg-logo="https://pics.dmm.co.jp/digital/video/snos00378/snos00378pl.jpg",SNOS-378
@@ -263,42 +261,162 @@ https://avbox.mov/stream.php?v=e322e51a-843d-43c1-84ce-21fab9f2a512&p=720p%2Fvid
 
 #EXTINF:-1 group-title="SUB" tvg-logo="",
 
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
-#EXTINF:-1 group-title="SUB" tvg-logo="",
-
+#EXTINF:-1 group-title="SUB" tvg-logo="",JUQ-544
+https://avbox.mov/stream.php?v=2d456beb-edac-4de7-9e30-b86288bb247c&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DASS-306
+https://avbox.mov/stream.php?v=1586cff0-b280-47e2-b9f7-f8122107017b&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",JUQ-518
+https://avbox.mov/stream.php?v=7dc90760-9774-4eb7-811e-1000d0d0853c&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",VENX-247
+https://avbox.mov/stream.php?v=6280a52c-7f39-419a-bfa2-23dc5cd14271&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SONE-008
+https://avbox.mov/stream.php?v=ee4eed3c-a884-41ec-862f-2d1b1b699232&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SONE-013
+https://avbox.mov/stream.php?v=9691dac0-559f-46f9-887f-a640979c2723&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",JUQ-539
+https://avbox.mov/stream.php?v=ed4b81ea-3734-4382-881b-2b8de58fcbee&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",IPZZ-184
+https://avbox.mov/stream.php?v=524e6f25-f02b-492f-ba9f-d150066a74fe&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SONE-018
+https://avbox.mov/stream.php?v=7c8a43dc-0286-48f9-a607-67a6f80f3864&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",IPZZ-182
+https://avbox.mov/stream.php?v=e61488d5-d03c-4e4b-b848-76fb7a6c1452&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",IPZZ-177
+https://avbox.mov/stream.php?v=33ded20b-9d33-4e27-987f-4b44e5e1cfa3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",HSODA-002
+https://avbox.mov/stream.php?v=b7191db4-83c9-4764-ac05-aa44299e1803&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DASS-317
+https://avbox.mov/stream.php?v=603ceb61-cb06-414f-b322-e7ffc5845205&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",IPZZ-176
+https://avbox.mov/stream.php?v=30be7ead-c33c-424f-87f5-ec68142a2f29&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DASS-304
+https://avbox.mov/stream.php?v=13d42e08-40c7-411d-8cce-5204c8236189&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DASS-303
+https://avbox.mov/stream.php?v=9a1fee88-cb8c-42aa-b362-11a0c2117e3c&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MTALL-100
+https://avbox.mov/stream.php?v=5112c1d5-6ee2-46fb-a3df-bf18b1ad66f3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MTALL-098
+https://avbox.mov/stream.php?v=b4d73c01-9d4f-42f6-8c6b-337500183da2&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DLDSS-255
+https://avbox.mov/stream.php?v=4a159ffa-481e-48a8-a4ed-523846310ab7&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",XVSR-738
+https://avbox.mov/stream.php?v=f6b85be5-91a7-4daa-bcb8-a773e59776eb&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",XVSR-739
+https://avbox.mov/stream.php?v=d0423248-74f3-4849-8548-d71e489bc31c&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",YMDS-148
+https://avbox.mov/stream.php?v=60211d23-4213-415d-8045-4eb2be60f7b2&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIMK-142
+https://avbox.mov/stream.php?v=aaa14ffe-d20c-4fd5-aa89-0e34a9fcfa61&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-518
+https://avbox.mov/stream.php?v=2431c0ac-58b1-4ed4-8646-ff5abd8cfc5c&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-525
+https://avbox.mov/stream.php?v=f24237e3-5e11-4668-8677-89f76bce21bd&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DLDSS-248
+https://avbox.mov/stream.php?v=7ecbf63b-7436-4e51-9eb0-562c15e2f81a&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DLDSS-244
+https://avbox.mov/stream.php?v=8540d63d-a597-42b6-ba2f-99757855e1d2&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-574
+https://avbox.mov/stream.php?v=7231e8e2-e8a5-4c9c-a05d-8233121faa60&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-554
+https://avbox.mov/stream.php?v=7294b1c1-4436-48b6-95ab-5a1bd734252b&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-556
+https://avbox.mov/stream.php?v=e6f547ab-e37e-49c7-a0d1-396e08cb2ac8&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-580
+https://avbox.mov/stream.php?v=1a2f8737-db18-4e6a-a9be-650f89bee5b5&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-602
+https://avbox.mov/stream.php?v=df7acf2c-7a1d-4ade-8cd2-a82437706b4d&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SAME-088
+https://avbox.mov/stream.php?v=7093a290-af4a-4d99-88e3-267493659d6f&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SAME-090
+https://avbox.mov/stream.php?v=b8922fb8-f754-4011-8c07-fb984d48bed3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-585
+https://avbox.mov/stream.php?v=0a70fac8-3c88-4d5a-9938-bcf3d59a5947&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-586
+https://avbox.mov/stream.php?v=871d892d-6abd-4507-9534-2847cc5b3c71&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-582
+https://avbox.mov/stream.php?v=5c013558-0379-43b9-b8ae-389932e80c67&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-581
+https://avbox.mov/stream.php?v=eb54390c-87d0-42be-8c78-a2a9f44e651d&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-578
+https://avbox.mov/stream.php?v=dea5e8e3-36b7-45f7-b21e-5042335130bf&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-604
+https://avbox.mov/stream.php?v=d919bbc5-8184-46ef-9501-de1156fa0083&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIDV-590
+https://avbox.mov/stream.php?v=6a0d46a3-c15e-401c-bc16-85e6ad4402c6&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-513
+https://avbox.mov/stream.php?v=e4df284d-99ff-41b9-bd4e-0dc7537d12fa&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",WAAA-347
+https://avbox.mov/stream.php?v=bc282306-0e16-44e3-b6ac-daf93575250e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIMK-141
+https://avbox.mov/stream.php?v=3a728177-a015-4566-85ae-ca68ec1f3308&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-519
+https://avbox.mov/stream.php?v=6ea003b3-2d85-487b-baff-6f01b4568025&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-622
+https://avbox.mov/stream.php?v=4ead3509-bf75-48d3-ac82-77930cef2d83&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIAB-072
+https://avbox.mov/stream.php?v=dce28678-692f-4af3-a0f1-ecb069e731b0&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-521
+https://avbox.mov/stream.php?v=823d2b13-4304-48fb-a658-4fbf6b2cb246&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-624
+https://avbox.mov/stream.php?v=4098a622-d7b8-4dd2-9feb-a4e6c59c3ed6&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",YUJ-011 
+https://avbox.mov/stream.php?v=1ebba6ce-c190-4bf3-92b3-90a3f1db2cd4&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIFD-463
+https://avbox.mov/stream.php?v=e61f9489-e3e3-425b-b44d-84857b695df3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-606
+https://avbox.mov/stream.php?v=08477e37-06c8-46fb-9b8f-e5d76fdfda15&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",WAAA-322
+https://avbox.mov/stream.php?v=7acf31c0-ffe6-43c9-8f92-e8b7e40cd383&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-523
+https://avbox.mov/stream.php?v=0d06c439-934f-47d7-8f14-65d1dca7530e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-522
+https://avbox.mov/stream.php?v=812fccdc-b9ee-47e7-934d-0bd142fcbfb9&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIAB-073
+https://avbox.mov/stream.php?v=087805b1-9696-449b-934c-ba2173252640&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",JUFE-539
+https://avbox.mov/stream.php?v=a36b97a9-f770-48ff-99be-80c788646c8b&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",DVEH-020
+https://avbox.mov/stream.php?v=6e40a48e-1635-417a-bc3e-9a2da1161c9e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-524
+https://avbox.mov/stream.php?v=385f6077-c919-4d89-b497-4cbdd5e746c4&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ATID-587
+https://avbox.mov/stream.php?v=ad75649b-18fe-453d-9d3e-4362d01a4286&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-627
+https://avbox.mov/stream.php?v=71801032-7b52-4edd-9e29-809d468585c2&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",CAWD-610
+https://avbox.mov/stream.php?v=da44803b-ece0-4135-b94c-9271894f336e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ATID-585 
+https://avbox.mov/stream.php?v=119f76fe-87ce-4652-bc3f-e013a2b34c67&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",BF-700
+https://avbox.mov/stream.php?v=332556c1-48f1-4c75-87c2-6f7b58704f0e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",BF-701 
+https://avbox.mov/stream.php?v=5e048ffd-8d3d-4a98-8657-fe781ab04597&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-491
+https://avbox.mov/stream.php?v=9867f562-f1e5-4618-b8cc-ebb6f5b763a3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",ADN-520 
+https://avbox.mov/stream.php?v=497c3a26-c00c-41b5-b672-6629bf1af7d3&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIAB-071
+https://avbox.mov/stream.php?v=9c2c8a2d-624e-4dc0-826f-fbd311101e52&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",FPRE-004
+https://avbox.mov/stream.php?v=df823869-3d9b-47a9-8b66-4d349f6b1c09&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MIAB-068
+https://avbox.mov/stream.php?v=e5841821-5814-4e73-b696-3e614b4b9530&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",NPJS-002
+https://avbox.mov/stream.php?v=5a58b746-3a7a-446a-83f9-93b24f221977&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",STARS-966
+https://avbox.mov/stream.php?v=1b7c769b-21f5-496b-8a39-f8c5ec42fe39&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",STARS-967
+https://avbox.mov/stream.php?v=f902d475-7017-4d64-b083-59045ae3d12d&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",STARS-981
+https://avbox.mov/stream.php?v=1695b534-f411-4b79-b987-461cebd9e845&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",MKMP-538
+https://avbox.mov/stream.php?v=ef30e445-54e8-4d1b-892e-90571cb4948a&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SSIS-995
+https://avbox.mov/stream.php?v=b881567d-b43f-4d3c-953e-4810782b42bc&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SSIS-990
+https://avbox.mov/stream.php?v=2dc2187f-ff24-4a3f-ba95-e20801af015e&p=720p%2Fvideo.m3u8
+#EXTINF:-1 group-title="SUB" tvg-logo="",SSIS-996
+https://avbox.mov/stream.php?v=0f741e26-9759-470b-b1ad-3ceb1f6e2333&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SUB" tvg-logo="",SSIS-992
 https://avbox.mov/stream.php?v=33e9a8c8-a261-4d6b-99c5-4989114e1a20&p=720p%2Fvideo.m3u8
 #EXTINF:-1 group-title="SUB" tvg-logo="",SSIS-982
