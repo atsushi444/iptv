@@ -43,7 +43,7 @@ http://125.227.210.55:1009/VideoInput/play.ts
 http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
 http://125.227.210.55:1023/VideoInput/play.ts
-#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+#EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ibizamedia.co/application/include/images1/logo.svg", IBiZaTV(125)
 http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="",Sex girl(125)
 http://125.227.210.55:3031/VideoInput/play.ts
